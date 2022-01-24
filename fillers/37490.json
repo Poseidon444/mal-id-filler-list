@@ -1,0 +1,156 @@
+{
+    "mal-id": 37490,
+    "anilist-id": 101313,
+    "anilist-name_en": "Ace Attorney Season 2",
+    "anilist-name_jp": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari! Season 2",
+    "total-episodes": 23,
+    "afl-name": "Ace Attorney",
+    "afl-link": "https://www.animefillerlist.com/shows/ace-attorney",
+    "fillers_episodes": [
+        "6",
+        "10",
+        "11",
+        "12",
+        "14"
+    ],
+    "episodes": [
+        {
+            "title": "The Lost Turnabout",
+            "number": "1",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Stolen Turnabout \u2013 1st Trial",
+            "number": "2",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Stolen Turnabout \u2013 2nd Trial",
+            "number": "3",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Stolen Turnabout \u2013 3rd Trial",
+            "number": "4",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Stolen Turnabout \u2013 Last Trial",
+            "number": "5",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sound the Turnabout Melody",
+            "number": "6",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Recipe for Turnabout \u2013 1st Trial",
+            "number": "7",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Recipe for Turnabout \u2013 2nd Trial",
+            "number": "8",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Recipe for Turnabout \u2013 Last Trial",
+            "number": "9",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Northward, Turnabout Express \u2013 1st Trial",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Northward, Turnabout Express \u2013 2nd Trial",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Northward, Turnabout Express \u2013 Last Trial",
+            "number": "12",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Turnabout Memories",
+            "number": "13",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hear the Waves of Turnabout",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Turnabout Beginnings \u2013 1st Trial",
+            "number": "15",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turnabout Beginnings \u2013 Last Trial",
+            "number": "16",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bridge to the Turnabout \u2013 1st Trial",
+            "number": "17",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bridge to the Turnabout \u2013 2nd Trial",
+            "number": "18",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bridge to the Turnabout \u2013 3rd Trial",
+            "number": "19",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bridge to the Turnabout \u2013 4th Trial",
+            "number": "20",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bridge to the Turnabout \u2013 5th Trial",
+            "number": "21",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bridge to the Turnabout \u2013 6th Trial",
+            "number": "22",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bridge to the Turnabout \u2013 Last Trial",
+            "number": "23",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ]
+}

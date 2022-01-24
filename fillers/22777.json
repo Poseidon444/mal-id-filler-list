@@ -1,0 +1,429 @@
+{
+    "mal-id": 22777,
+    "anilist-id": 20635,
+    "anilist-name_en": "Dragon Ball Z Kai: The Final Chapters",
+    "anilist-name_jp": "Dragon Ball Kai (2014)",
+    "total-episodes": 69,
+    "afl-name": "Dragon Ball Z Kai",
+    "afl-link": "https://www.animefillerlist.com/shows/dragon-ball-z-kai",
+    "fillers_episodes": [
+        "3",
+        "67"
+    ],
+    "episodes": [
+        {
+            "title": "Seven Years Later! Starting Today, Gohan Is a High School Student",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A New Hero, Great Saiyaman, Is Born!",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Videl's Crisis? Gohan's Urgent Call-out!",
+            "number": "3",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Monster is Taken Away! The Culprit is Great Saiyaman?",
+            "number": "4",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Entering the World Martial Arts Tournament! Goten Shows Off His Explosive Power During Training!",
+            "number": "5",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Gohan the Teacher! Videl's Flying Technique Tutorial",
+            "number": "6",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dragon Team Fully Assembled! Goku Has Come Back!",
+            "number": "7",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Who Is the World's Greatest? The Tournament Preliminaries Begin!",
+            "number": "8",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Everyone is Surprised! Goten and Trunks' Super Battle!",
+            "number": "9",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Junior Champ Is Finally Decided! Who Will Fight Against Mr. Satan?",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Restless Foreboding; A Mysterious Warrior Appears!",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What Happened, Piccolo? An Unexpected Outcome in the First Round",
+            "number": "12",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "An Eerie Entity; Who Exactly Is Spopovich?",
+            "number": "13",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Videl Battered! Gohan's Fury Reaches Its Limit!",
+            "number": "14",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Creeping Conspiracy! The Target is Gohan",
+            "number": "15",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Terrifying Secret of the Majin; The Mastermind Revealed!",
+            "number": "16",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Nefarious Wizard Babidi And Demon King Dabura's Trap",
+            "number": "17",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Sell Super Saiyans Short! Vegeta and Goku's Full-Bore Power!",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Whither Victory? A Battle Royal Championship Match!",
+            "number": "19",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Stunning Youngsters! No. 18's Uphill Battle",
+            "number": "20",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter the Headliner! The Looming Demon King!",
+            "number": "21",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Heart of Evil Awakened; Vegeta, Prince of Destruction",
+            "number": "22",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "I am the Strongest! The Clash of Goku vs. Vegeta",
+            "number": "23",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Countdown to Revival: Crush Babidi\u2019s Ambitions!",
+            "number": "24",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Seal is Released? Gohan's Kamehame-Ha of Resistance",
+            "number": "25",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Straightaway Into Despair? The Terror of Majin Buu",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn Into Candy! A Hungry Majin's Bizarre Power!",
+            "number": "27",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "I Will Deal With the Majin! Vegeta's Final Mortal Combat!",
+            "number": "28",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "For His Beloved Ones... The End of the Proud Warrior!",
+            "number": "29",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Nightmare Revisited: The Immortal Monster Majin Buu!",
+            "number": "30",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Who Will Defeat Majin Buu? The Mightiest of Men Moves Out!",
+            "number": "30",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Secret Plan to Defeat Buu! Its Name is Fusion",
+            "number": "31",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Found! A Faint Ray of Hope - Awaken, Warriors!",
+            "number": "32",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Find the Nuisances: Babidi's Retaliation Begins!",
+            "number": "33",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Time of Trials! Lay Hold of Legendary Powers!",
+            "number": "34",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Hold Majin Buu in Check! Limit \u2014 Super Saiyan 3!",
+            "number": "35",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "True Worth Beginning to Show - The Treacherous Buu!",
+            "number": "36",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Silly Looking? Drilling the Fusion Pose!",
+            "number": "37",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Bye-bye, Everyone! Goku Returns to the Next World",
+            "number": "38",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Gohan Located! Intensive Training in the World of the Kais!",
+            "number": "39",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Birth of a Merged Superwarrior His Name is Gotenks!",
+            "number": "40",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Powering Up Continues? Super Gotenks is Achieved!",
+            "number": "42",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "What Anger Gives Rise To Another Majin!",
+            "number": "43",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Buu Gobbles Up Buu! Onslaught of a New Majin!",
+            "number": "44",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Headlong Rush Into Catastrophe! A One-Hour Time Limit!",
+            "number": "45",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Training Complete! You're Finished Now, Majin Buu!",
+            "number": "46",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Eliminating Buu with Ghosts: A Knockout Kamikaze Attack!",
+            "number": "47",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Gotenks' Ace in the Hole! Transformation! Super Gotenks 3!",
+            "number": "48",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "On a Roll! Buu-Buu-Volleyball!",
+            "number": "49",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Thanks for Waiting, Everyone! A Reborn Gohan Heads for Earth!",
+            "number": "50",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Buu Overwhelmed! Ultimate Gohan's Super Power!",
+            "number": "51",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Buu's Sinister Scheme: Gotenks is Absorbed",
+            "number": "52",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Elder Kai's Brainstorm! Return to Life, Goku!",
+            "number": "53",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Miracles Happen Once... Will Goku and He Make the Ultimate Combination?",
+            "number": "54",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Invincible! The Ultimate Warrior Vegito!",
+            "number": "55",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Buu's Ace in the Hole! The Warriors Are Absorbed!",
+            "number": "56",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Rescue Gohan and the Others! Goku and Vegeta's Infiltration Mission!",
+            "number": "57",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Emergency Escape from the Body! Buu's Retrogression Into Evil!",
+            "number": "58",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Earth Destroyed! The Initial Buu's Nefarious Strike",
+            "number": "59",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Final Showdown at the Summit! Face-Off in the World of the Kais!",
+            "number": "60",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Hang In There, Kakarot! You Are No. 1!",
+            "number": "61",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A One-Minute Match-Up! Vegeta's Life-Threatening Stall for Time!",
+            "number": "62",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "An Inspired Strategy - Make Two Wishes Come True!",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Share Your Spirit Energy with Me! I'm Making a Huge Spirit Bomb!",
+            "number": "64",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "You Are the Savior of the World! Everybody's Spirit Bomb Completed!",
+            "number": "65",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "You Really Are the Greatest, Goku!! The Demise of Majin Buu",
+            "number": "66",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Peace Returns! A Time of Rest for the Warriors!",
+            "number": "67",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "And So, Ten Years Later... A Long-Awaited World Martial Arts Tournament!",
+            "number": "68",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Even Stronger! Goku's Dream is Never-Ending!",
+            "number": "69",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        }
+    ]
+}

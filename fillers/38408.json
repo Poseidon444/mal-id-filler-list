@@ -1,0 +1,32 @@
+{
+    "mal-id": 38408,
+    "anilist-id": 104276,
+    "anilist-name_en": "My Hero Academia Season 4",
+    "anilist-name_jp": "Boku no Hero Academia 4",
+    "total-episodes": 25,
+    "afl-name": "My Hero Academia",
+    "afl-link": "https://www.animefillerlist.com/shows/my-hero-academia",
+    "fillers_episodes": [
+        "1"
+    ],
+    "episodes": [
+        {
+            "title": "The Scoop on U.A. Class 1-A",
+            "number": "1",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Overhaul",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "His Start",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

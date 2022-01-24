@@ -1,0 +1,97 @@
+{
+    "mal-id": 6707,
+    "anilist-id": 6707,
+    "anilist-name_en": "Black Butler II",
+    "anilist-name_jp": "Kuroshitsuji II",
+    "total-episodes": 12,
+    "afl-name": "Black Butler",
+    "afl-link": "https://www.animefillerlist.com/shows/black-butler",
+    "fillers_episodes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+    ],
+    "episodes": [
+        {
+            "title": "Clawed Butler",
+            "number": "1",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Solo Butler",
+            "number": "2",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Wench Butler",
+            "number": "3",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Terrorist Butler",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Beacon Butler",
+            "number": "5",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bedewed Butler",
+            "number": "6",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Deathly Butler",
+            "number": "7",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Divulging Butler",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hollow Butler",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Zero Butler",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Crossroads Butler",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Black Butler",
+            "number": "12",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

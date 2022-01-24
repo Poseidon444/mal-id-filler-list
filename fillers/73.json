@@ -1,0 +1,90 @@
+{
+    "mal-id": 73,
+    "anilist-id": 73,
+    "anilist-name_en": "Full Metal Panic! The Second Raid",
+    "anilist-name_jp": "Full Metal Panic! The Second Raid",
+    "total-episodes": 13,
+    "afl-name": "Full Metal Panic!",
+    "afl-link": "https://www.animefillerlist.com/shows/full-metal-panic",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The End of Day by Day",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Scene Below the Water",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Labyrinth and Dragon",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Daylight",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beautiful Sicily",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Edge of Heaven",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Left Behind",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jungle Groove",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Her Problem",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hong Kong in Two",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "His Problem",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Burning Hong Kong",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Continuing Day By Day",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "mal-id": 72,
+    "anilist-id": 72,
+    "anilist-name_en": "Full Metal Panic? Fumoffu",
+    "anilist-name_jp": "Full Metal Panic? Fumoffu",
+    "total-episodes": 13,
+    "afl-name": "Full Metal Panic!",
+    "afl-link": "https://www.animefillerlist.com/shows/full-metal-panic",
+    "fillers_episodes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+    ],
+    "episodes": [
+        {
+            "title": "The Man From the South / A Hostage With No Compromises",
+            "number": "1",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hostility Passing-By / A Fruitless Lunchtime",
+            "number": "2",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Summer Illusion of Steel",
+            "number": "3",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Hamburger Hill of Art / Single-Minded Stakeout",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Pure Yet Impure Grappler / Trespassing on Good Faith",
+            "number": "5",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Hard Sell Fetish / The Patient of Darkness",
+            "number": "6",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Warcry of Excessiveness",
+            "number": "7",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Goddess Comes to Japan (Part 1: The Suffering)",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Goddess Comes to Japan (Part 2: The Hot Spring)",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Fancy Without Honor or Humanity",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Uncontrollable Bluebird",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "5th Period Hot Spot",
+            "number": "12",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The End of Day by Day",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

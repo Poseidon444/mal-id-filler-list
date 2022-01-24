@@ -1,88 +1,85 @@
 {
-    "mal-id": 38555,
-    "anilist-id": 104647,
-    "anilist-name_en": "My Next Life as a Villainess: All Routes Lead to Doom!",
-    "anilist-name_jp": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta\u2026",
+    "mal-id": 42282,
+    "anilist-id": 120209,
+    "anilist-name_en": "My Next Life as a Villainess: All Routes Lead to Doom! X",
+    "anilist-name_jp": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X",
     "total-episodes": 12,
     "afl-name": "My Next Life as a Villainess: All Routes Lead to Doom!",
     "afl-link": "https://www.animefillerlist.com/shows/my-next-life-villainess-all-routes-lead-doom",
     "fillers_episodes": [
+        "6",
         "7",
-        "8",
-        "9",
-        "18",
-        "19",
-        "20"
+        "8"
     ],
     "episodes": [
         {
-            "title": "I Recalled the Memories of My Past Life\u2026",
+            "title": "I Avoided My Doom Flags, so I Got Carried Away at the Cultural Festival...",
             "number": "1",
             "filler": "Manga Canon",
             "filler-bool": false
         },
         {
-            "title": "A Prince Challenged Me to a Fight...",
+            "title": "I Turned Into a Villain...",
             "number": "2",
-            "filler": "Manga Canon",
+            "filler": "Mixed Canon/Filler",
             "filler-bool": false
         },
         {
-            "title": "I Met a Beautiful Brother and Sister...",
+            "title": "I Was Captured...",
             "number": "3",
             "filler": "Manga Canon",
             "filler-bool": false
         },
         {
-            "title": "I Enrolled in the Magic Academy...",
+            "title": "I Had a Friendly Tea Time With an Attractive Butler...",
             "number": "4",
             "filler": "Manga Canon",
             "filler-bool": false
         },
         {
-            "title": "I Visited the Heroine's Parents' House...",
+            "title": "Love for the Younger Brothers Poured Forth...",
             "number": "5",
-            "filler": "Manga Canon",
+            "filler": "Mixed Canon/Filler",
             "filler-bool": false
         },
         {
-            "title": "I Had Fun Over Summer Vacation...",
+            "title": "I Had a Summer Adventure...",
             "number": "6",
-            "filler": "Manga Canon",
-            "filler-bool": false
+            "filler": "Filler",
+            "filler-bool": true
         },
         {
-            "title": "I Entered a Dangerous Dungeon...",
+            "title": "My Wish Was Granted...",
             "number": "7",
             "filler": "Filler",
             "filler-bool": true
         },
         {
-            "title": "I Became Engulfed by Desire...",
+            "title": "I Had an Arranged Marriage Meeting...",
             "number": "8",
             "filler": "Filler",
             "filler-bool": true
         },
         {
-            "title": "Things Got Crazy at a Slumber Party...",
+            "title": "Keith Disappeared... Part 1",
             "number": "9",
-            "filler": "Filler",
-            "filler-bool": true
+            "filler": "Manga Canon",
+            "filler-bool": false
         },
         {
-            "title": "The Moment of My Doom Arrived... Part 1",
+            "title": "Keith Disappeared... Part 2",
             "number": "10",
             "filler": "Manga Canon",
             "filler-bool": false
         },
         {
-            "title": "The Moment of My Doom Arrived... Part 2",
+            "title": "Keith Disappeared... Part 3",
             "number": "11",
             "filler": "Manga Canon",
             "filler-bool": false
         },
         {
-            "title": "The Final Event Has Begun...",
+            "title": "My Graduation Ceremony Happened...",
             "number": "12",
             "filler": "Manga Canon",
             "filler-bool": false

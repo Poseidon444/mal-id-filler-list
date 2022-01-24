@@ -1,0 +1,226 @@
+{
+    "mal-id": 996,
+    "anilist-id": 996,
+    "anilist-name_en": "Sailor Moon Sailor Stars",
+    "anilist-name_jp": "Bishoujo Senshi Sailor Moon Sailor Stars",
+    "total-episodes": 34,
+    "afl-name": "Sailor Moon",
+    "afl-link": "https://www.animefillerlist.com/shows/sailor-moon",
+    "fillers_episodes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "17",
+        "18",
+        "19",
+        "20",
+        "26"
+    ],
+    "episodes": [
+        {
+            "title": "Resurrection of the Queen of Darkness: When Scattered Flowers Create Nightmares",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Saturn Awakens! The 10 Guardians Gather",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mirror's Magic Curse: Mamoru Caught in a Nightmare",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hardships of a Warrior: Sailor Guardians' Night of Destiny",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hell Demon Battle: Love Will Prevail",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love and Moon Power: The End of the Nightmare",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Meetings and Farewells: The Stars of Destiny Turnover",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Transfer Students: Storm's Begin",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Aim to be an Idol: Minako's Ambition",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fighter's True Form: A Super Shocking Transformation",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Entrusting Dreams and Romance to the Stars: Taiki's Transformation",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Luna Saw It?! Idol Yaten's True Face",
+            "number": "12",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Enemies? Allies? Starlights and the Sailor Guardians",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Brightness of the Calling Stars: Haruka and Company into the War",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Seiya and Usagi's Heart-Pounding Date",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Invasion from Space: Seiren Comes Flying In",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Scream of Dead Souls: The Mystery of Terror Camp",
+            "number": "17",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Night Just for Us: Usagi's Pinch",
+            "number": "18",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Taiki Sings with Excellence: A Believing Heart Carried by a Song",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Mystery of Chibi Chibi? The Big Noisy Chase",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Power of a Shining Star: Chibi Chibi's Transformation",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Invitation to Terror: Usagi's Night Flight",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Torn Between Duty and Friendship: Confrontation Among the Sailor Guardians",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Truth Revealed: Seiya and Company's Past",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When a Light Butterfly Dances in the Air: Premonition of a New Wave",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Straight to Your Dream: Idol Minako is Born?",
+            "number": "26",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Silver Crystal is Stolen! The Fireball Princess Appears",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Holy War in the Galaxy: Sailor Wars Legend",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fireball Princess Dies Out! Galaxia Descends",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When the Galaxy Perishes: The Sailor Guardians' Final Battle",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ruler of the Galaxy! Galaxia's Threat",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Disappearing Stars! The End of Uranus and Neptune",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Light of Hope! Final Battle for the Galaxy",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Usagi's Love! Moonlight Lights Up the Galaxy",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

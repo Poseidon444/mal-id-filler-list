@@ -1,0 +1,188 @@
+{
+    "mal-id": 7082,
+    "anilist-id": 7082,
+    "anilist-name_en": "Shugo Chara! Party!",
+    "anilist-name_jp": "Shugo Chara! Party!",
+    "total-episodes": 25,
+    "afl-name": "Shugo Chara!",
+    "afl-link": "https://www.animefillerlist.com/shows/shugo-chara",
+    "fillers_episodes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+    ],
+    "episodes": [
+        {
+            "title": "The Super-Peppy Transfer Student!",
+            "number": "1",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Enter the Guardian Apprentice!?",
+            "number": "2",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sparkle my Heart! The Power of Song!",
+            "number": "3",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hikaru vs. Bunny?",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Place Eggs Return To",
+            "number": "5",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Yaya's Enthusiastic Gardening!",
+            "number": "6",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Welcome Back, Nadeshiko!",
+            "number": "7",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Miraculous Character Change!",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "But Why!? Rima-senpai!",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Eh! Tadase-kun has a crush on someone!?",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sparkling Treasure!",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Exhausted~ Amu-chan, Becomes a Mommy?",
+            "number": "12",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "My Would-Be Self!",
+            "number": "13",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "First Time Meeting this X Character!?",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Stop Fighting!",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Go, Rikka! Follow the Way of the Guardians",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Turn, Turn! A Spinning World!",
+            "number": "17",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "An Exciting Picnic!",
+            "number": "18",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Utau's Wavering Heart",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shock! My Egg got an X on it?",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Nice to Meet You, My Name Is Hotaru",
+            "number": "21",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hikaru and Fun Amusement Park!",
+            "number": "22",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Oh No! Rikka and X Eggs?",
+            "number": "23",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Believe! In my Pure Heart!",
+            "number": "24",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Heart Racing Doki-Doki!",
+            "number": "25",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "mal-id": 395,
+    "anilist-id": 395,
+    "anilist-name_en": "Gantz: Second Stage",
+    "anilist-name_jp": "Gantz 2nd Stage",
+    "total-episodes": 13,
+    "afl-name": "GANTZ",
+    "afl-link": "https://www.animefillerlist.com/shows/gantz",
+    "fillers_episodes": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+    ],
+    "episodes": [
+        {
+            "title": "Goodbye...",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Go Fast!",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's Me!",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Is It OK to Shoot Them?",
+            "number": "4",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Welcome Back",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What the Hell is This?",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shoot Me!",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Brother?",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Ever Say That Again!",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kurono Alien",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "There's No Labyrinth I Can't Get Out Of!!",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Let's Go Back Alive",
+            "number": "12",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Please Live!",
+            "number": "13",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

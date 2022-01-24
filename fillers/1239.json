@@ -1,0 +1,508 @@
+{
+    "mal-id": 1239,
+    "anilist-id": 1239,
+    "anilist-name_en": "Sailor Moon SuperS",
+    "anilist-name_jp": "Bishoujo Senshi Sailor Moon SuperS",
+    "total-episodes": 39,
+    "afl-name": "Sailor Moon",
+    "afl-link": "https://www.animefillerlist.com/shows/sailor-moon",
+    "fillers_episodes": [
+        "4",
+        "6",
+        "8",
+        "9",
+        "11",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "21",
+        "22",
+        "23",
+        "24",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "52",
+        "53",
+        "54",
+        "55",
+        "60",
+        "61",
+        "62",
+        "63",
+        "69"
+    ],
+    "episodes": [
+        {
+            "title": "The Horror of the Approaching Shadow: Eight Guardians in a Tough Battle",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Bright Shooting Star: Saturn, and the Messiah",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A New Life! Time for Separation of the Destined Stars",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Self-Awareness as a Guardian: Strength Lies in the Pure Heart",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Meeting of Fate: The Night Where a Pegasus Flies",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Super Transformations Again! Pegasus's Power",
+            "number": "6",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Protect a Mother's Dream! The New Attack for Double Moon",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Capture the Pegasus: The Amazons' Trap",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Couple Made for Each Other: Usagi and Mamoru's Love",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Artemis's Affair?! A Mysterious Kitten Appears",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Makoto's Friendship: A Girl Who Adores a Pegasus",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hearts that Communicate: Chibiusa and Pegasus",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Protect Mamoru: Jealousy of Usagi the Ninja",
+            "number": "13",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Forest of Illusion: Invitation of a Beautiful Fairy",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Drive to Heaven: Love Riding on the Car of Dreams",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Try for the Best of Japan: The Worries of a Beautiful Girl Swordsman",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Love Those Minis: The Fashionable Guardians",
+            "number": "17",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Storm of Love: Minako's Grand Two-Timing Plan",
+            "number": "18",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mansion of Secrets: The Menu of Love to You",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Time to Believe in Pegasus: The Super Transformations of the Four Guardians",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sparkling Summer Days: Ami, the Girl in the Ocean Breeze",
+            "number": "21",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Aim for the Prima: Usagi's Ballet",
+            "number": "22",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Holiday in Juban City: A Carefree Princess",
+            "number": "23",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Fated Partner? Makoto's Innocence",
+            "number": "24",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shadows of the Great Evil: The Trio is Cornered",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mirror of Dreams: Amazons' Final Stage",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Amazoness! Nightmare from Behind the Mirror",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "True Power Explodes: Ami's Song of the Heart",
+            "number": "28",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Burning Passion: Mars's Furious Deadly Attack",
+            "number": "29",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Dentist of Terror? PallaPalla's House",
+            "number": "30",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Confrontation in Dreams: Minako and Makoto's Broken Friendship",
+            "number": "31",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Over the Fear: Jump to Freedom",
+            "number": "32",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Don't Lose Your Dreams: The Truth-Reflecting Mirror",
+            "number": "33",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Pegasus is Gone?! Swinging Friendships",
+            "number": "34",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Secret of Pegasus: The Handsome Guardian of the Dream World",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Chibiusa's Little Rhapsody of Love",
+            "number": "36",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dream to be an Adult: The Amazoness' Bewilderment",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Coming Terror: The Dark Queen's Evil Approach",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Center of the Darkness: Dead Moon Circus",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Labyrinth of Mirrors: Chibi Moon Captured",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Golden Crystal Appears: Nehellenia's Spell",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Time for the Crystal to Shine: Beautiful Power of Dreams",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dreams Forever: Light Throughout the Sky",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Resurrection of the Queen of Darkness: When Scattered Flowers Create Nightmares",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Saturn Awakens! The 10 Guardians Gather",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mirror's Magic Curse: Mamoru Caught in a Nightmare",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hardships of a Warrior: Sailor Guardians' Night of Destiny",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hell Demon Battle: Love Will Prevail",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love and Moon Power: The End of the Nightmare",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Meetings and Farewells: The Stars of Destiny Turnover",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Transfer Students: Storm's Begin",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Aim to be an Idol: Minako's Ambition",
+            "number": "52",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fighter's True Form: A Super Shocking Transformation",
+            "number": "53",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Entrusting Dreams and Romance to the Stars: Taiki's Transformation",
+            "number": "54",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Luna Saw It?! Idol Yaten's True Face",
+            "number": "55",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Enemies? Allies? Starlights and the Sailor Guardians",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Brightness of the Calling Stars: Haruka and Company into the War",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Seiya and Usagi's Heart-Pounding Date",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Invasion from Space: Seiren Comes Flying In",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Scream of Dead Souls: The Mystery of Terror Camp",
+            "number": "60",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Night Just for Us: Usagi's Pinch",
+            "number": "61",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Taiki Sings with Excellence: A Believing Heart Carried by a Song",
+            "number": "62",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Mystery of Chibi Chibi? The Big Noisy Chase",
+            "number": "63",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Power of a Shining Star: Chibi Chibi's Transformation",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Invitation to Terror: Usagi's Night Flight",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Torn Between Duty and Friendship: Confrontation Among the Sailor Guardians",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Truth Revealed: Seiya and Company's Past",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When a Light Butterfly Dances in the Air: Premonition of a New Wave",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Straight to Your Dream: Idol Minako is Born?",
+            "number": "69",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Silver Crystal is Stolen! The Fireball Princess Appears",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Holy War in the Galaxy: Sailor Wars Legend",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fireball Princess Dies Out! Galaxia Descends",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When the Galaxy Perishes: The Sailor Guardians' Final Battle",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ruler of the Galaxy! Galaxia's Threat",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Disappearing Stars! The End of Uranus and Neptune",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Light of Hope! Final Battle for the Galaxy",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Usagi's Love! Moonlight Lights Up the Galaxy",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}
