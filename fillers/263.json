@@ -1,0 +1,465 @@
+{
+    "mal-id": 263,
+    "anilist-id": 263,
+    "anilist-name_en": "Fighting Spirit",
+    "anilist-name_jp": "Hajime no Ippo: THE FIGHTING!",
+    "total-episodes": 75,
+    "afl-name": "Fighting Spirit ",
+    "afl-link": "https://www.animefillerlist.com/shows/fighting-spirit",
+    "fillers_episodes": [
+        "31",
+        "52"
+    ],
+    "episodes": [
+        {
+            "title": "The first step",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fruits of labor",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tears of joy",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shadow boxing",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "3 months to counter",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The opening bell of the rematch",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The destructive force of 1 cm",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Promise to meet again",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C Class License",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Debut match",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Obsession for victory",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Becoming a bully's buddy",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Eastern Japan Rookie Championship Tournament Begins",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Powerful Arms! Hook vs. Uppercut!",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Test of Endurance",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Anticipating a Fierce Fight",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ippo on the Beach",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clinch",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "K.O. Dream",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Threat of Shotgun",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Way to Capture a Prodigy",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Forward! Forward!!",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Other Semi-Final",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To the Promised Place...",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Grudges, Sorrows & Dreams",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle for Distance",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Death Match",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Victory or Defeat",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rocky of Naniwa",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To Enemy Ground",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Traces of Intense Battles",
+            "number": "31",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Throw Your Right!",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Smash Force",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Rookie King",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Continuing Journey",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Champ and I",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Thing to Strive For",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two Rookies of the Year",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Challenge in a Foreign Land",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Counter to Surpass All Counters",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Barf-michi's Big Fight",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sharing a Dream",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Speed Star",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blind Spot in the Ring",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The White Fangs of the Wolf",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Be the Gazelle",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fighting Spirit Within",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Red Wolf",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Courage to Believe",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Something to Convey",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Group Date",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Challenger",
+            "number": "52",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "So That I Can Be Myself",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fists of the Champ",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Japan Featherweight Title Match",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Power that Stands in the Way",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Conclusion",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Heartbroken",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Look of Determination",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rival",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Comeback Anxiety",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Revival",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Youth of Fire",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hot Rod Era",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Summer of the Kamogawa Corps",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mr. Takamura's Tears",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Kamogawa Gym Swings Into Action",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Chief's Peril",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Trap of the Southpaw",
+            "number": "69",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Young Punk",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Time for the Showdown",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lollapalooza",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Surpass That Moment",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mixup",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "One Step Further",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

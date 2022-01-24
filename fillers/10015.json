@@ -1,0 +1,762 @@
+{
+    "mal-id": 10015,
+    "anilist-id": 10015,
+    "anilist-name_en": "Yu-Gi-Oh! Zexal",
+    "anilist-name_jp": "Yu\u2606Gi\u2606Oh! ZEXAL",
+    "total-episodes": 73,
+    "afl-name": "Yu-Gi-Oh! Zexal",
+    "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh-zexal",
+    "fillers_episodes": [
+        "15",
+        "16",
+        "21",
+        "44",
+        "45"
+    ],
+    "episodes": [
+        {
+            "title": "Go With the Flow, Part 1",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Go With the Flow, Part 2",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the End, Part 1",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the End, Part 2",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Flipping Out, Part 1",
+            "number": "5",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Flipping Out, Part 2",
+            "number": "6",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sparrow, Part 1",
+            "number": "7",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sparrow, Part 2",
+            "number": "8",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Feline Frenzy",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shark Attack",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Pack, Part 1",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Pack, Part 2",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Number Hunter, Part 1",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Number Hunter, Part 2",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Training Days, Part 1",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Training Days, Part 2",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "It's in the Cards, Part 1",
+            "number": "17",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "It's in the Cards, Part 2",
+            "number": "18",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Edge of the World",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Roots of the Problem",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle with the Bot",
+            "number": "21",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Shark Hunter",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hunting Down The Hunter, Part 1",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hunting Down The Hunter, Part 2",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Frozen in Time",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let the Duels Begin",
+            "number": "26",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Team Performance",
+            "number": "27",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Heavy Metal",
+            "number": "28",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Love Hurts",
+            "number": "29",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "No Tomato",
+            "number": "30",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Life Is a Carnival, Part 1",
+            "number": "31",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Life Is a Carnival, Part 2",
+            "number": "32",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Foolish Fans",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shark Bait",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bad Developments, Part 1",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bad Developments, Part 2",
+            "number": "36",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Double Jeopardy, Part 1",
+            "number": "37",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Double Jeopardy, Part 2",
+            "number": "38",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Pets Peeved",
+            "number": "39",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "About Hart",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Losing Hart",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Dubious Duo",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dragon Awakens",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rock and a Hard Place",
+            "number": "44",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Ruffled Feathers",
+            "number": "45",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Family Leave",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sky's the Limit",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Exit: Astral",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crestfallen",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Party Panic",
+            "number": "50",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Roller Duel",
+            "number": "51",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Roller Coaster Rampage!",
+            "number": "52",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Test Your Luck!",
+            "number": "53",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Welcome to the Jungle",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Portal of Doom",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cosmic Chaos",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Depths of Darkness",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Swimming With Sharks",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rockin' and Rollin'",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Doctor Visit",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Duel of Destiny, Part 1",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Duel of Destiny, Part 2",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hart of the Matter",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Change of Hart",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sphere of Fear, Part 1",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sphere of Fear, Part 2",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sphere of Fear, Part 3",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Countdown Begins",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Trio's Challenge, Part 1",
+            "number": "69",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Trio's Challenge, Part 2",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Trio's Challenge, Part 3",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kite's Plight, Part 1",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kite's Plight, Part 2",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Attack of the Barians: Part 1",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Attack of the Barians: Part 2",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hard Knox",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rule Duel",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Adventures of Artimus Stanleyus",
+            "number": "78",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Doom in Bloom",
+            "number": "79",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rivals in the Ring",
+            "number": "80",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Friendship Games",
+            "number": "81",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sphere Cube Calamity, Part 1",
+            "number": "82",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sphere Cube Calamity, Part 2",
+            "number": "83",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Playing Defense",
+            "number": "84",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Counter Offensive, Part 1",
+            "number": "85",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Counter Offensive, Part 2",
+            "number": "86",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dual Duel, Part 1",
+            "number": "87",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dual Duel, Part 2",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Darkness Dawns",
+            "number": "89",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Give Love a Bot Name",
+            "number": "90",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Take a Chance",
+            "number": "91",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Imperfect Couple, Part 1",
+            "number": "92",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Imperfect Couple, Part 2",
+            "number": "93",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter Vector",
+            "number": "94",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Search for Shadows",
+            "number": "95",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shadows of Deception",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sinister Shadows",
+            "number": "97",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shadows End",
+            "number": "98",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Duel in Ruins, Part 1",
+            "number": "99",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Duel in Ruins, Part 2",
+            "number": "100",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dark Mist Rises, Part 1",
+            "number": "101",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dark Mist Rises, Part 2",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Barian Vengeance, Part 1",
+            "number": "103",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Barian Vengeance, Part 2",
+            "number": "104",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Put to the Test, Part 1",
+            "number": "105",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Put to the Test: Part 2",
+            "number": "106",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Furry Fury",
+            "number": "107",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Sea of Troubles, Part 1",
+            "number": "108",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Sea of Troubles, Part 2",
+            "number": "109",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A World of Chaos, Part 2",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A World of Chaos, Part 1",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A World of Chaos, Part 2",
+            "number": "111",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memory Thief, Part 1",
+            "number": "112",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memory Thief, Part 2",
+            "number": "113",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tentacles of Terror, Part 1",
+            "number": "114",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tentacles of Terror, Part 2",
+            "number": "115",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Now or Never, Part 1",
+            "number": "116",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Now or Never, Part 2",
+            "number": "117",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mission: Astral World, Part 1",
+            "number": "118",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mission: Astral World, Part 2",
+            "number": "119",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mission: Astral World, Part 3",
+            "number": "120",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mission: Astral World, Part 4",
+            "number": "121",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Assimilation, Part 1",
+            "number": "122",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Assimilation, Part 2",
+            "number": "123",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

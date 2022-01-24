@@ -1,0 +1,44 @@
+{
+    "mal-id": 1250,
+    "anilist-id": 1250,
+    "anilist-name_en": "Elemental Gelade",
+    "anilist-name_jp": "Erementar Gerad",
+    "total-episodes": 26,
+    "afl-name": "Elemental Gelade",
+    "afl-link": "https://www.animefillerlist.com/shows/elemental-gelade",
+    "fillers_episodes": [
+        "5"
+    ],
+    "episodes": [
+        {
+            "title": "The Songs of the Sky and Wind",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fateful React",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Betrayal and Confusion",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Elemental Gelade of Light and Darkness",
+            "number": "4",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Teardrop from the Sky",
+            "number": "5",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

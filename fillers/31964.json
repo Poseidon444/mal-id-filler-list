@@ -1,0 +1,695 @@
+{
+    "mal-id": 31964,
+    "anilist-id": 21459,
+    "anilist-name_en": "My Hero Academia",
+    "anilist-name_jp": "Boku no Hero Academia",
+    "total-episodes": 13,
+    "afl-name": "My Hero Academia",
+    "afl-link": "https://www.animefillerlist.com/shows/my-hero-academia",
+    "fillers_episodes": [
+        "39",
+        "58",
+        "64",
+        "104"
+    ],
+    "episodes": [
+        {
+            "title": "Izuku Midoriya: Origin",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What It Takes To Be a Hero",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Roaring Muscles",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Start Line",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What I Can Do for Now",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rage, You Damn Nerd",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Deku vs. Kacchan",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bakugo's Start Line",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yeah, Just Do Your Best, Iida!",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Encounter With the Unknown",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Game Over",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Might",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In Each of Our Hearts",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That's the Idea, Ochaco",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Roaring Sports Festival",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In Their Own Quirky Ways",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Strategy, Strategy, Strategy",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cavalry Battle Finale",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Boy Born With Everything",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Victory or Defeat",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle on, Challengers!",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bakugo vs. Uraraka",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shoto Todoroki: Origin",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fight on, Iida",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Todoroki vs. Bakugo",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Time To Pick Some Names",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bizarre! Gran Torino Appears",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Midoriya and Shigaraki",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hero Killer: Stain vs. U.A. Students",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Climax",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Aftermath of Hero Killer: Stain",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Everyone's Internships",
+            "number": "32",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Listen Up!! A Tale From the Past",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gear up for Final Exams",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yaoyorozu: Rising",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stripping the Varnish",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Katsuki Bakugo: Origin",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Encounter",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Game Start",
+            "number": "39",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Wild, Wild Pussycats",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kota",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "My Hero",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Drive It Home, Iron Fist!!!",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Roaring Upheaval",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What a Twist!",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "From Iida to Midoriya",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All For One",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Symbol of Peace",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "One For All",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "End of the Beginning, Beginning of the End",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Moving Into Dorms",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Create Those Ultimate Moves",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Test",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shiketsu High Lurking",
+            "number": "54",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Class 1-A",
+            "number": "55",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "RUSH!",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rescue Exercises",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Special Episode: Save the World With Love!",
+            "number": "58",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "What's the Big Idea?",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Talk About Your Quirk",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Deku vs. Kacchan, Part 2",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Season for Encounters",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unrivaled",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Scoop on U.A. Class 1-A",
+            "number": "64",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Overhaul",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Boy Meets...",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fighting Fate",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let's Go, Gutsy Red Riot",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Unpleasant Talk",
+            "number": "69",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "GO!!",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Suneater of the Big Three",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Red Riot",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Temp Squad",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lemillion",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unforeseen Hope",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Infinite 100%",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bright Future",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Smoldering Flames",
+            "number": "78",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Win Those Kids' Hearts",
+            "number": "79",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Relief for License Trainees",
+            "number": "80",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "School Festival",
+            "number": "81",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Prepping for the School Festival Is the Most Fun Part",
+            "number": "82",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gold Tips Imperial",
+            "number": "83",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Deku vs. Gentle Criminal",
+            "number": "84",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "School Festival Start!!",
+            "number": "85",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let It Flow! School Festival!",
+            "number": "86",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Japanese Hero Billboard Chart",
+            "number": "87",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "His Start",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Hands on Deck! Class 1-A",
+            "number": "89",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Vestiges",
+            "number": "90",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash! Class A vs. Class B!",
+            "number": "91",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Make It Happen, Shinso!",
+            "number": "92",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Operation New Improv Moves",
+            "number": "93",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Foresight",
+            "number": "94",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Match 3",
+            "number": "95",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Match 3 Conclusion",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Early Bird!",
+            "number": "97",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That Which Is Inherited",
+            "number": "98",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Our Brawl",
+            "number": "99",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The New Power and All For One",
+            "number": "100",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Have a Merry Christmas!",
+            "number": "101",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Off to Endeavor's Agency!",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "One Thing at a Time",
+            "number": "103",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Long Time No See, Selkie",
+            "number": "104",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Hellish Todoroki Family",
+            "number": "105",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Unforgiven",
+            "number": "106",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "More of a Hero Than Anyone",
+            "number": "107",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "My Villain Academia",
+            "number": "108",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Revival Party ",
+            "number": "109",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sad Man's Parade",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tenko Shimura: Origin ",
+            "number": "111",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tomura Shigaraki: Origin",
+            "number": "112",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The High, Deep Blue Sky",
+            "number": "113",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

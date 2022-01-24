@@ -1,0 +1,320 @@
+{
+    "mal-id": 246,
+    "anilist-id": 246,
+    "anilist-name_en": "Rave Master",
+    "anilist-name_jp": "GROOVE ADVENTURE RAVE",
+    "total-episodes": 51,
+    "afl-name": "Rave Master",
+    "afl-link": "https://www.animefillerlist.com/shows/rave-master",
+    "fillers_episodes": [
+        "41"
+    ],
+    "episodes": [
+        {
+            "title": "The Rave Master, Part 1",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Rave Master, Part 2",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Release the Beasts, Part 1",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Release the Beasts, Part 2",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Release the Beasts, Part 3",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Release the Beasts, Part 4",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Release the Beasts, Part 5",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Breaking Out",
+            "number": "8",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Bite to Eat",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sound of Thunder, Part 1",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sound of Thunder, Part 2",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sound of Thunder, Part 3",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Under Tremolo Mountain, Part 1",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Under Tremolo Mountain, Part 2",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Under Tremolo Mountain, Part 3",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fortress in Flight, Part 1",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fortress in Flight, Part 2",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fortress in Flight, Part 3",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Out of Time, Part 1",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Out of Time, Part 2",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Out of Time, Part 3",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Out of Time, Part 4",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Out of Time, Part 5",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Out of Time, Part 6",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Singing the Blues",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bandits Behind",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Under Desert Sands, Part 1",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Under Desert Sands, Part 2",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Under Desert Sands, Part 3",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the Tower of Din, Part 1",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the Tower of Din, Part 2",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the Tower of Din, Part 3",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the Tower of Din, Part 4",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Enclaim, Part 1",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Enclaim, Part 2",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Enclaim, Part 3",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Enclaim, Part 4",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Enclaim, Part 5",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Origins: Shiba",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Origins: Sir Plue",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sideshow",
+            "number": "41",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "All Aboard, Part 1",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Aboard, Part 2",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Aboard, Part 3",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Shadow Master",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Return of the Oracion Six, Part 1",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Return of the Oracion Six, Part 2",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Return of the Oracion Six, Part 3",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Return of the Oracion Six, Part 4",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Further Mysteries, Part 1",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Further Mysteries, Part 2",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

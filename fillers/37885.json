@@ -1,0 +1,254 @@
+{
+    "mal-id": 37885,
+    "anilist-id": 102352,
+    "anilist-name_en": null,
+    "anilist-name_jp": "Super Dragon Ball Heroes",
+    "total-episodes": null,
+    "afl-name": "Super Dragon Ball Heroes",
+    "afl-link": "https://www.animefillerlist.com/shows/dragon-ball-heroes",
+    "fillers_episodes": [
+        "29"
+    ],
+    "episodes": [
+        {
+            "title": "Goku vs. Goku! A Transcendent Battle Begins on the Prison Planet!",
+            "number": "1",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku Goes Berserk! The Evil Saiyan's Rampage!!",
+            "number": "2",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mightiest Radiance! Vegito Blue Kaio-Ken Explodes!",
+            "number": "3",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rage! Super Fu Appears!",
+            "number": "4",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mightiest Warrior! Super Saiyan 4 Vegito!!",
+            "number": "5",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'll Settle This!! Activation! Ultra Instinct!",
+            "number": "6",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Zamasu Revived?! The Curtain Rises on the Universal Conflict Arc!",
+            "number": "7",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Worst Warriors Invade! Universe 6 Demolished!",
+            "number": "8",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku Revived!! Strongest vs. Strongest Collide!",
+            "number": "9",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Counterattack! Fierce Attack! Goku and Vegeta!",
+            "number": "10",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fierce Fight! Universe 11's Climactic Battle!",
+            "number": "11",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Super Warriors Gather! Universe 7's Decisive Battle!",
+            "number": "12",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Super Hearts Joins the Fight! An All-Out Earth-Shaking Battle!",
+            "number": "13",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Menacing Universe Seed! Kamioren's Rampage!!",
+            "number": "14",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Send Kamioren Flying! Overwhelming! Ultra Instinct!",
+            "number": "15",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Zamasu vs. Universe 7! Ambition's End!",
+            "number": "16",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Godslayer! Hearts Is Born!",
+            "number": "17",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Super Decisive Battle! Gogeta vs. Hearts!",
+            "number": "18",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ultimate Conclusion! The Universal Conflict Ends!",
+            "number": "19",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Decisive Battle! Time Patrol vs. the Dark King",
+            "number": "20",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gods of Destruction Invade! The Beginning of a New Battle!",
+            "number": "21",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fu's Plan! The Threat of the Dreadful Universal Tree!",
+            "number": "22",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rematch With Formidable Foes! Turles and Bojack!",
+            "number": "23",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Creeping Shadow! The Mysterious Man Dr. W!",
+            "number": "24",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Big Decisive Battle in Hell! A New Janemba!",
+            "number": "25",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dragon Fist Explosion! Super Full Power Saiyan 4: Limit Break!",
+            "number": "26",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rampaging Terror! The Return of Evil Aura!",
+            "number": "27",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fierce Battle in the Space of Time! Vegito vs. Super Fu",
+            "number": "28",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Push Forward to the Battlefield! Dragon Ball Heroes",
+            "number": "29",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Reborn Evil! Birth of Dark King Fu!",
+            "number": "30",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Worst Limit Break! Broly Revived!",
+            "number": "31",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Universe Creation Ends! The Birth of a New World!",
+            "number": "32",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Space-Time War! The Ultimate Fierce Battle Begins!",
+            "number": "33",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Warrior in Black Appears! A New Adventure Starts!",
+            "number": "34",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Pride of the Warrior Race! Vegeta, Awakening!!",
+            "number": "35",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Super Saiyan Ros\u00e9 vs. Ultra Instinct! A Great Planet-Shaking Duel!",
+            "number": "36",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Warrior in Black vs. Goku Black! The Dark Plot Becomes Clear!",
+            "number": "37",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Battle in Fake Universe! Clash of Blue and Scarlet",
+            "number": "38",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Obstructing Threat of Fu! Birth of the Miraculous Strongest Combination!",
+            "number": "39",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Last Full Power! Fierce Battle for the Future, Finally Settled!",
+            "number": "40",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ]
+}

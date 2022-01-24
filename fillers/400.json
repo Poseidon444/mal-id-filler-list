@@ -1,0 +1,175 @@
+{
+    "mal-id": 400,
+    "anilist-id": 400,
+    "anilist-name_en": "Outlaw Star",
+    "anilist-name_jp": "Seihou Bukyou Outlaw Star",
+    "total-episodes": 24,
+    "afl-name": "Outlaw Star",
+    "afl-link": "https://www.animefillerlist.com/shows/outlaw-star",
+    "fillers_episodes": [
+        "13",
+        "14",
+        "16",
+        "18",
+        "19",
+        "20"
+    ],
+    "episodes": [
+        {
+            "title": "Outlaw World",
+            "number": "1",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "World of Desires",
+            "number": "2",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Into Burning Space",
+            "number": "3",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When the Hot Ice Melts",
+            "number": "4",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Beast Girl, Ready to Pounce!",
+            "number": "5",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Beautiful Assassin",
+            "number": "6",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Creeping Evil",
+            "number": "7",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Forced Departure",
+            "number": "8",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Journey of Adventure! Huh?",
+            "number": "9",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Gathering for the Space Race",
+            "number": "10",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Adrift in Subspace",
+            "number": "11",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mortal Combat with the El Dorado",
+            "number": "12",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Advance Guard from Another World",
+            "number": "13",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Final Countdown",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Seven Emerge",
+            "number": "15",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Demon of the Water Planet",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Between Life and Machine",
+            "number": "17",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Strongest Woman in the Universe",
+            "number": "18",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Law and Lawlessness",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Cats and Girls and Spaceships",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Grave of the Dragon",
+            "number": "21",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Gravity Jailbreak",
+            "number": "22",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Hot Springs Planet Tenrei",
+            "number": "23",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Cutting the Galactic Leyline",
+            "number": "24",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Maze of Despair",
+            "number": "25",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Return to Space",
+            "number": "26",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        }
+    ]
+}

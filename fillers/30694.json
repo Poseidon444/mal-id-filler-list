@@ -1,0 +1,813 @@
+{
+    "mal-id": 30694,
+    "anilist-id": 21175,
+    "anilist-name_en": "Dragon Ball Super",
+    "anilist-name_jp": "Dragon Ball Super",
+    "total-episodes": 131,
+    "afl-name": "Dragon Ball Super",
+    "afl-link": "https://www.animefillerlist.com/shows/dragon-ball-super",
+    "fillers_episodes": [
+        "4",
+        "15",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "68",
+        "69",
+        "70",
+        "73",
+        "74",
+        "75",
+        "76"
+    ],
+    "episodes": [
+        {
+            "title": "The Peace Reward - Who Will Get the 100 Million Zeni?",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "To the Promised Resort! Vegeta Goes on a Family Trip!?",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Where's the Rest of the Dream?! In Search of the Super Saiyan God!",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Aim for the Dragon Balls! Pilaf Gang in Action!",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Ultimate Fight on King Kai's Planet! Goku Vs the God of Destruction Beerus",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Anger the God of Destruction! Excitement at the Birthday Party",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "How Dare You Hurt My Bulma! Vegeta's Sudden, Angry Shift?!",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku Arrives! A Last Chance from Beerus Sama?!",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sorry for the Wait, Beerus Sama. The Super Saiyan God is Finally Born!",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unleash It, Goku! The Power of the Super Saiyan God!!",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let's Keep Going, Beerus Sama! Our Battle of Gods!",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Universe Crumbles?! Clash! God of Destruction Vs. Super Saiyan God",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku, Surpass the Super Saiyan God!",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "This Is Every Ounce of Power I Have! The Battle of Gods' Conclusion!",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Make a Miracle, Satan the Hero! A Challenge from Outer Space",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Vegeta Becomes an Apprentice?! Winning Whis Over!",
+            "number": "16",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pan is Born! And Goku Goes on a Training Trip?!",
+            "number": "17",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'm Here, Too! Training Begins On Beerus' Planet!",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Despair Rises! The Emperor of Evil, Frieza, Resurrected!",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jaco's Warning! Frieza and His 1000 Troops Approach",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Start of Revenge! the Malice of Frieza Army Strikes Gohan!",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Change! an Unexpected Return! His Name Is Ginyu!!",
+            "number": "22",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Earth! Gohan! Absolute Peril! Hurry and Get Here, Son Goku!!",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash! Frieza Vs Son Goku - This Is The Result of My Training!",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An All-Out Battle! The Revenge of Golden Frieza",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Glint of Hope Shines Through in a Crisis! Time to Fight Back, Son Goku!",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Earth Explodes?! The Deciding Kamehameha",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The God of Destruction from Universe 6 - His Name Is Champa",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Martial Arts Match Has Been Decided! The Team Captain Is Stronger Than Goku",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Review Before the 'Martial Arts Match' - Who Are the Last Two Members?!",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Off to Zuno Sama's! Find Out Where Super Dragon Balls Are!",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Match Begins! Let's All Go to the Nameless Planet!",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Behold, Universe 6! This Is the Super Saiyan? Son Goku!",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Piccolo Vs. Frost - Put It All on the Special Beam Cannon!",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn Rage into Strength! Vegeta's Full-On Battle",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Unexpected Desperate Battle! Vegeta's Furious Explosion!",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Forget Your Saiyan Pride! Vegeta Vs the Saiyan of Universe 6",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Warrior of Universe 6! Assassin Hit Appears!!",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Advanced 'Time-Skip' Fights Back?! Will it Come Forth? Goku's New Technique!",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "At Last, It Comes to an End! Is the Winner Beerus? Or is it Champa?",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Come, God of Dragons - And Pretty Please Grant My Wish!",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Trouble at the Victory Celebration! Showdown at Last?! Monaka vs. Son Goku",
+            "number": "42",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Goku's 'Ki' is Out of Control?! Looking After Pan is A Lot of Trouble",
+            "number": "43",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Seal of Planet Potofu - Secret of the Superhuman Water is Unleashed",
+            "number": "44",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Vegeta Disappears?! The Threat Of Duplicated Vegeta!",
+            "number": "45",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Goku vs. Duplicated Vegeta! Who's Gonna Win?!",
+            "number": "46",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "An SOS from the Future! A Dark New Enemy Emerges!!",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hope!! Once More Awaken in the Present, Trunks",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Message from the Future - Goku Black Strikes!",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku Vs Black! The Closed Path to the Future",
+            "number": "50",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Feelings That Travel Beyond Time - Trunks and Mai",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Teacher and Student Reunited - Son Gohan and \"Future\" Trunks",
+            "number": "52",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Uncover Black's Identity! To the Sacred World of the Kais!",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The One Who Inherits the Saiyan Blood - Trunk's Resolve",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Want to See Son Goku - Zen-Oh Sama's Summoning!",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rematch With Goku Black! Super Saiyan Ros\u00e9 Appears",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The God With the Immortal Body - Zamasu Descends",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Zamasu and Black - The Mystery of the Two Deepens",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Protect Supreme Kai Gowasu \u2014 Destroy Zamasu!",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Back to the Future - Goku Black's Identity is Revealed!!",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Zamasu's Ambition \u2014 The Awful \"Zero Mortal Plan\" Is Revealed",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'll Protect the World! Trunks\u2019 Furious Super Power Explodes!!",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don\u2019t Disrespect Saiyan Cells! Vegeta\u2019s Heroic Battle Begins!!",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Revere Him! Praise Him! Fusion Zamasu's Explosive Birth!!",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Is This the Final Judgement?! The Ultimate Power of the Absolute God ",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Climactic Battle! The Miraculous Power of a Relentless Warrior!",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "With New Hope!! In Our Hearts - Farewell, Trunks",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Come Forth, Shenron! Whose Wish Will Be Granted?!",
+            "number": "68",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Goku vs Arale! A Ridiculous Battle Will End The Earth?!",
+            "number": "69",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Champa's Challenge! This Time We Fight With Baseball!",
+            "number": "70",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Death of Goku! The Guaranteed Assassination Mission",
+            "number": "71",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Will There Be A Counterattack?! The Invisible Killing Strike!!",
+            "number": "72",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gohan's Misfortune! An Unexpected Great Saiyaman Movie?!",
+            "number": "73",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "For the Ones He Loves! The Unbeatable Great Saiyaman!!",
+            "number": "74",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Goku and Krillin Back to the Old Training Grounds",
+            "number": "75",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Defeat These Terrifying Enemies! Krillin's Fighting Spirit Returns!",
+            "number": "76",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": " Let's Do it, Zen-Oh Sama! The All-Universe Martial Arts Tournament!!",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gods of Every Universe In Shock?! Losers Erased In The Tournament Of Power",
+            "number": "78",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Universe 9\u2019s Basil The Kicker VS Universe 7\u2019s Majin Buu!!",
+            "number": "79",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Awaken Your Sleeping Battle Spirit! Son Gohan's Fight!!",
+            "number": "80",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bergamo The Crusher VS Son Goku! Which One Wields The Limitless Power!?",
+            "number": "81",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Never Forgive Son Goku! Toppo The Warrior Of Justice Intrudes!!",
+            "number": "82",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Form the Universe 7 Representing Team! Who are the Strongest Ten?!",
+            "number": "83",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Son Goku The Recruiter Invites Krillin And No. 18",
+            "number": "84",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Universes Begin To Make Their Moves Their Individual Motives",
+            "number": "85",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fists Cross For The First Time! Android #17 Vs Son Goku!!",
+            "number": "86",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hunt the Poachers! Goku and No. 17's United Front!!",
+            "number": "87",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gohan And Piccolo Teacher And Pupil Clash In Max Training!",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Unknown Beauty Appears! The Tenshin-style Dojo's Mystery?!",
+            "number": "89",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "See The Wall That Must Be Passed! Goku Vs Gohan",
+            "number": "90",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Which Universe Will Survive?! The Strongest Warriors Are Gathering!!",
+            "number": "91",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Emergency Development! The Incomplete Ten Members!!",
+            "number": "92",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You're The Tenth Warrior! Goku Goes To See Frieza!!",
+            "number": "93",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Emperor of Evil Returns! A Reception of Mysterious Assassins?!",
+            "number": "94",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Worst! The Most Evil! Frieza's Rampage!!",
+            "number": "95",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Time Is Here! To The World Of Void For The Fate Of The Universe!!",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Survive! The Tournament Of Power Begins At Last!!",
+            "number": "97",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Oh, Uncertainty! A Universe  Despairs!!",
+            "number": "98",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Show Them! Krillin's True Power!!",
+            "number": "99",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Out Of Control! The Savage Berserker Awakens!!",
+            "number": "100",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Impending Warriors of Justice! The Pride Troopers!!",
+            "number": "101",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Power of Love Explodes?! Universe 2's Little Witch Warriors!!",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gohan, Show No Mercy! Showdown With Universe 10!!",
+            "number": "103",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate High Speed Battle Begins! Goku and Hit Join Forces!!",
+            "number": "104",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Desperate Battle! Master Roshi's Sacrifice!!",
+            "number": "105",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Find Him! Death Match With An Invisible Attacker!!",
+            "number": "106",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Revenge \"F\"! The Cunning Trap?!",
+            "number": "107",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Frieza and Frost! Conjoined Malice?!",
+            "number": "108",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Enemy Approaches Goku! Now, Let Loose! The Killer Spirit Bomb!!",
+            "number": "109",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Son Goku Wakes! New Level of The Awakened!!",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Surreal Supreme Battle! Hit vs Jiren!!",
+            "number": "111",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Saiyan's Vow! Vegeta's Resoution!!",
+            "number": "112",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "With Great Joy! The Repeat Battle-Crazy Saiyan Fight!!",
+            "number": "113",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Intimidating Passion! The Birth of a New Super Warrior!!",
+            "number": "114",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku vs Kefla! Super Saiyan Blue Defeated?!",
+            "number": "115",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sign of a Comeback! Ultra Instinct's Huge Explosion!!",
+            "number": "116",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showdown of Love! Androids vs Universe 2!!",
+            "number": "117",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Accelerated Tragedy - Vanishing Universes...",
+            "number": "118",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unavoidable?! The Fierce Stealth Attack!!",
+            "number": "119",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Perfect Survival Tactic! Universe 3's Menacing Assassin!!",
+            "number": "120",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All-Out War! The Ultimate Quadruple Merge vs Universe 7's Full-Scale Attack!!",
+            "number": "121",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For One's Own Pride! Vegeta's Challenge to be the Strongest!!",
+            "number": "122",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Body and Soul, Full Power Release! Goku and Vegeta!!",
+            "number": "123",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fiercely Overwhelming Assault! Gohan's Last Stand!!",
+            "number": "124",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "With Imposing Presence! God of Destruction Toppo Descends!!",
+            "number": "125",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Surpass Even a God! Vegeta's Desperate Blow!!",
+            "number": "126",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Approaching Wall! The Final Barrier of Hope!!",
+            "number": "127",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Noble Pride to the End! Vegeta Falls!!",
+            "number": "128",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Limit Super Surpassed! Ultra Instinct Mastered!!",
+            "number": "129",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Greatest Showdown of All Time! The Ultimate Survival Battle!!",
+            "number": "130",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Miraculous Conclusion! Farewell, Goku! Until We Meet Again!!",
+            "number": "131",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

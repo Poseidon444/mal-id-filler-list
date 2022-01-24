@@ -1,0 +1,915 @@
+{
+    "mal-id": 10033,
+    "anilist-id": 10033,
+    "anilist-name_en": null,
+    "anilist-name_jp": "Toriko",
+    "total-episodes": 147,
+    "afl-name": "Toriko",
+    "afl-link": "https://www.animefillerlist.com/shows/toriko",
+    "fillers_episodes": [
+        "1",
+        "42",
+        "43",
+        "51",
+        "69",
+        "70",
+        "80",
+        "81",
+        "82",
+        "86",
+        "99",
+        "112",
+        "113",
+        "124",
+        "125",
+        "130",
+        "131",
+        "136",
+        "146",
+        "147"
+    ],
+    "episodes": [
+        {
+            "title": "Arrival on Gourmet Island! The Gourmet Hunter Toriko Appears!",
+            "number": "1",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Undiscovered Giant Beast! Toriko, Capture a Gararagator!",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Well Mellowed 7-Colored Fruit Juice! Pick the Rainbow Fruit!",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Prepare It! The Poisonous Puffer Whale! The Heavenly King Coco Appears!!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Deadly Cave Battle! Fire, Five-Fold Spiked Punch!",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Knocking Master! Time to Taste the Puffer Whale!",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Strongest Wolf That Ever Lived! The Battle Wolf is Reborn!",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Threat Appears! Rumble at the Gourmet Colosseum!",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That Which Is Passed Down! Activate, Gourmet Cells!",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Man Who Has an Invincible Domain! His Name Is Sunny!",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Regal Isle Dash! Search for the Jewel Meat!",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Devil's Game! Clear the Devil's Playground!",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Backup! Clash, Coco Vs. GT Robot!",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Threat Of Deadly Poison! Coco's Formula For Victory!",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Unyielding aesthetic! Sunny's Manly Battle!",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rin's Final Wish! Awaken, Super Toriko!",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Super Toriko, the Fist of Anger! This is the Strongest Spike Punch!",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Taste Written In His DNA! Toriko, Search For The Blue Blood Corn!",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Talent of Battle! Show Me, Terry, King in the Making!",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For Terry's Sake! Burst By Broiling Heat, BB Corn!",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gourmet Corps' Assassin! Toriko's Attack Instantaneously Evolves!",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pressure of Madness! Grinpatch vs. Toriko!",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Amusement Park of Eating! The Bellyfull City, Gourmet Town!",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Moment of Truth! Setsuno's Century Soup!",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Meeting at the Saloon! The Powerful and Numerous Gourmet Hunters!",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gourtmet Hunter Troops' Challenge! Arrival in the Frigid Hell!",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hurry While It's Hot! A Survival Race on Ice!",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fiery Explosion Shakes the Iceberg!! The Masked Man's True Form!!",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Glorious Bug Tamer! Tommyrod vs. Toriko",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gratitude and Pride! Takimaru's Full-Out Corkscrew Shot!",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Settled! Match and Takimaru's Desperate Attacks!",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gourmet Reviver and the Legendary Soup's Location!",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Head-on Fight! Fierce Battle! Toriko vs. Tommyrod!",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ultimate Desperation! Tommyrod's Full-Power Mode Explodes!",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wondrous Power! Gourmet Reviver Teppei Joins the Battle!",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Last Drop! Who Will Get the Century Soup?!",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell, Ice Hell! Granny Setsu's Hidden Power!",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Splendid Healing! Here Comes the Gourmet Reviver, Yosaku!",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Race to Finish! Will It Be Toriko's Recovery, or Komatsu's Soup?!",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To the World of Ultimate Bliss! Taste the Century Soup!",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Housewarming Party! Everyone Gather at the Sweets House!",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gourmet King Championship! Search for the Ultimate Sweets!",
+            "number": "42",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bonding Dish! Partners Are Forever!",
+            "number": "43",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "White Hot! Toriko vs. the IGO President!",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Vegetable Garden in the Heavens! Vegetable Sky!",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Discovery! The King of Vegetables, Ozone Grass!",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Confession in the Heavens! The Formation of the Invincible Duo!",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shocking Encounter! A Mysterious Life Form Appears!",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Toriko Rushes in! The Truth of the Gourmet World!",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter the Astounding Ringer! The True Meaning of a Partner!",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Toriko and Luffy Meet Again! Find the Seafood Fruit!",
+            "number": "51",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shock! The Broken Kitchen Knife and Cutler Melk!",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tension! Toriko's Knife vs. Melk's Kitchen Knife!",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Supergravity! Conquer Heavy Hole!",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hidden Truth! The First Melk Appears!",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Debut! The Second Generation's Succession and Melk Stardust!",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Work Made with All Her Might! The Completed Melk Knife!",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Super Celeb! Once in a Lifetime Gourmet Carriage Journey!",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Finally, He Appears! The Last of the Four Kings, Zebra!",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unleash the Roar! The Release of the Condemned Criminal, Zebra!",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Warning Issued! Zebra Lands on Sand Garden!",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Komatsu's Disappearance! The Desert Labyrinth of Evil!",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sealed Voice! The Other-Dimensional Gourmet Pyramid!",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Astounding! The Mysterious Ancient Manuscript and the Creature Inside the Coffin!",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shocking Showdown! Salamander Sphinx!",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cooperative Cooking! Komatsu Steers Toriko and Zebra!",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Explosion of Combination Techniques! Taking the World's Best Cola!",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Truth Revealed! Komatsu\u00e2\u0080\u0099s Will and the Identity of the Mysterious Creature!",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Surpass Dad! Midsummer Gobbling Katsu Curry!",
+            "number": "69",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Connecting Bonds! The Superb Gatsugatsu Curry!",
+            "number": "70",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A New Stage! Toriko's Determination and the Return of",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Flowing Food Luck! The Pilgrimage Gourmet Shrine!",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Uwaaa! The Astonishing Surprise Apple!",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Chicken Beast's Egg! The Memories of Old Man Yocchi and His Wife!",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Glittering Crystal! Shining Gourami!",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shocking Rapids! Giant Waterfall, Death Falls!",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sunny`s New Attack! The Result of Gorgeous Training!",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Thirty Times Combo! Thirty-Six-Fold Twin Spiked Punch!",
+            "number": "78",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cooking by Intuition! Komatsu and the Shining Gourami!",
+            "number": "79",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Flashy Presentation! Supreme Service With a Meal!",
+            "number": "80",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Supreme Chitose Ame! Komatsu and Yun's Tale!",
+            "number": "81",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Assemble on Autumn Mountain! Terry, Yun, Kiss, Queen!",
+            "number": "82",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Reunion! Take-chan of Fairytale Castle!",
+            "number": "83",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crossroads! A Chef's Destination!",
+            "number": "84",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dramatic Transformation! Hair Salon Barber Gourmet!",
+            "number": "85",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gathering of the Four Kings! A Midwinter Night's Miracle!",
+            "number": "86",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Merry Feastmas! Gourmet Santa's Present!",
+            "number": "87",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Heaven or Hell!? Storming Into the Gourmet Casino!",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Appearance! The Boss of the Underground Cooking World, Livebearer!",
+            "number": "89",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Card Game With Your Life on the Line! Gourmet Tasting!",
+            "number": "90",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dead Heat! Coco vs. Livebearer",
+            "number": "91",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Coco's Strategy! The Big-Miss Cards That Determine the Outcome!",
+            "number": "92",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eat or be Eaten! Toriko vs. the Hannya Panda!",
+            "number": "93",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Climax! The Remaining Worst Ingredients!",
+            "number": "94",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Decisive Moment! Coco's Grand Scenario!",
+            "number": "95",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Taste that's Out of this World! The Actual Eating of the Meteor Garlic!",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pinnacle Showdown! Ichiryuu vs. the Bishokukai's Midora!",
+            "number": "97",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hidden Training Ingredient! Emergency Instructions from Ichiryuu!",
+            "number": "98",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Run, Strongest Army! Toriko, Luffy, Goku!",
+            "number": "99",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Commemorating the Hundredth Episode, All Four Heavenly Kings Assemble!",
+            "number": "100",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Toriko Fainting in Agony?! Capture the World's Smelliest Ingredient!",
+            "number": "101",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Too Huge! With Pro Wrestling Moves, the Completion of the Ehou Maki",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hands Together and Bow! Gourmet Human National Treasure Chin Chinchin Appears!",
+            "number": "103",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Those Without Gratitude Should Not Enter! The Fearsome Shokurin Temple!",
+            "number": "104",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Toriko, Completely Defeated?! The Delicate and Uninhibited Power of Food Honor!",
+            "number": "105",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's All About Appreciation! The Essentials of Food Honor!",
+            "number": "106",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Approaching Threat! Hurry, Toriko! The Road to the Bubble Fruits!",
+            "number": "107",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tradgedy! The Demise of Shokurin Temple... Farewell Komatsu!",
+            "number": "108",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mighty and Unrivaled! One Who Has Mastered Food Honor!",
+            "number": "109",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "National Treasure Class One-Swing 100 Million Yen Techniques! Toriko VS Granny Chiyo",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Phantom Ingredient",
+            "number": "111",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Legendary Bee",
+            "number": "112",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Showing his True Strength! Komatsu's Food Honor The Actual Food! The Phantasmal Noodles,",
+            "number": "113",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Four Heavenly Kings Gather! The Gourmet World Beasts the",
+            "number": "114",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle to Determine the Fate of Mankind! The Four Beasts VS The Four Heavenly Kings!",
+            "number": "115",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Toriko, Coco, Sunny, Zebra The Four Heavenly Kings' Storm of Attacks!!",
+            "number": "116",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Toriko's New Crisis The Creeping Four Beast's Main Body!!",
+            "number": "117",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Four Beast's Shockng Union and the Green Rain!!",
+            "number": "118",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Four Heavenly Kings' Worst Dilemma! Komatsu's Determination!",
+            "number": "119",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Save Mankind With Your Miraculous Food Luck!!",
+            "number": "120",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Explode! Curiosity for Taste! The Four Heavenly Kings' Combination Technique!!",
+            "number": "121",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ultimate Technique",
+            "number": "122",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Forthcoming Festival The Wriggling",
+            "number": "123",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Toriko VS Gurume-kai no Kaibutsu \"Monpuran",
+            "number": "124",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Toriko's New Technique",
+            "number": "125",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Great Imminent Troubles!? Cooking Fest Opens!!",
+            "number": "126",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Komatsu in Trouble!? Triathlon Cooking!",
+            "number": "127",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cooking Legend, Meet Tengu Buranchi!!",
+            "number": "128",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sneaky! Stormy! Buranchi, Pulling Ahead!!",
+            "number": "129",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Life or Death, Scale Death Cooking!!",
+            "number": "130",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Who is the Strongest Combo? Entire Island Cooking!!",
+            "number": "131",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Outbreak of War! Bishokukai's Furious All-out Attack!!",
+            "number": "132",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Protect Komatsu! Toriko vs. Starjun!!",
+            "number": "133",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wild Battle! Toriko's Strongest Attack!!",
+            "number": "134",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Top Showdown! IGO vs. Bishokukai",
+            "number": "135",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Catastrophic Joker Card! Gourmet World Monster Nitro",
+            "number": "136",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Struggle to the Death! Coco vs. Grinpatch",
+            "number": "137",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Duel! Sunny vs. Tommyrod",
+            "number": "138",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Moment of Truth! Sunny's Final Ability!!",
+            "number": "139",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Counterattack! Zebra Gets Moving!!",
+            "number": "140",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Toriko, Counterattack! Ultimate Routine!!",
+            "number": "141",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "History's Greatest Enemy!",
+            "number": "142",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Secret of the Mastermind",
+            "number": "143",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Beginning of the End! Toriko vs. Joa!!",
+            "number": "144",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Attack to Come Back from Hopelessness! The Four Heavenly Kings, the Ultimate Technique!!",
+            "number": "145",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reach him, Komatsu's Yells! Toriko Awakens!!",
+            "number": "146",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Toriko and Komatsu, Setting Out on a New Journey!!",
+            "number": "147",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "mal-id": 35120,
+    "anilist-id": 98460,
+    "anilist-name_en": "Devilman Crybaby",
+    "anilist-name_jp": "DEVILMAN crybaby",
+    "total-episodes": 10,
+    "afl-name": "Devilman Crybaby",
+    "afl-link": "https://www.animefillerlist.com/shows/devilman-crybaby",
+    "fillers_episodes": [
+        "3",
+        "4",
+        "5",
+        "6"
+    ],
+    "episodes": [
+        {
+            "title": "I Need You",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "One Hand Is Enough",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Believe Me!",
+            "number": "3",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Come, Akira",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Beautiful Silene",
+            "number": "5",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Neither Demon Nor Human",
+            "number": "6",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Weak Humans, Wise Demons",
+            "number": "7",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "I Must Know Myself",
+            "number": "8",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Go to Hell, You Mortals",
+            "number": "9",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Crybaby",
+            "number": "10",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "mal-id": 9513,
+    "anilist-id": 9513,
+    "anilist-name_en": "Beelzebub",
+    "anilist-name_jp": "Beelzebub",
+    "total-episodes": 60,
+    "afl-name": "Beelzebub",
+    "afl-link": "https://www.animefillerlist.com/shows/beelzebub",
+    "fillers_episodes": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "17",
+        "27",
+        "28",
+        "34",
+        "39",
+        "49",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57"
+    ],
+    "episodes": [
+        {
+            "title": "I Picked Up the Demon King",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Became a Gang Leader with a Child",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Are There Any Strong, Ruthless Men Around?",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There Is One Second Before the Demon Lord's Floods Burst Forth",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Money can buy anything",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We Played Doctor",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Demon Lord makes his Park Debut",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We Meet Again",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love is a Hurricane",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Disciple was Gained",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There was Something Money Could not Buy",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "I Won't Let You Sleep Tonight",
+            "number": "12",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Baby Beel's Assessment Test",
+            "number": "13",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Is there a Special Move?",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Delinquents have Changed into Swimsuits",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "You're Not a Bad Specimen of a Man",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "How About Some Demon World Homework?",
+            "number": "17",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "I Quit being the Baby on Back Brawler",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Doctor has Arrived",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Everyone Assemble",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Who Do You Think Is Ishiyama's Strongest?",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Secluded Mountain Training",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Kidding Me?",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Welcome Back, Demon World!",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Semester Started",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "May I Call You Brother",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Called the Magical Girl",
+            "number": "27",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Let's All Get Physicals",
+            "number": "28",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "What Are the 6 Holy Knights?",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Who Could the 6 Holy Knights Be?",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "No Conclusion Was Reached",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What has the Transfer Girl Done?",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There Are Wounds in the Past",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Maids Run Amok",
+            "number": "34",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Time for the Game to Begin",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Victory has Finally Arrived",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "This Man is a Teacher",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sibling Rivalry Has Begun",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "His Brother was a Crybaby",
+            "number": "39",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "No Shirt, No Shoes, No Assassins",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "On the Brink! What'll We Do?",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's Time to Train",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Where Did the Older Brother Disappear To?",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Have to Get Stronger",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There's One Day and 1 Hour Left Until the Game",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Burn, Super Combination!",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sorry to Have Kept You Waiting",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'm His Parent",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beelzebub's New Year's Special! Beelbeel Journey to the West!",
+            "number": "49",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Today I'm Different On The Inside",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Komainu-sama is Watching You",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "And Then There Were No Delinquents",
+            "number": "52",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Furuichi Falls In Love",
+            "number": "53",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Black Baby Beel Grows Up",
+            "number": "54",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Great Demon Lord Has Come",
+            "number": "55",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Is This A Job For Men?",
+            "number": "56",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Won't You Eat a Manju?",
+            "number": "57",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Akumano Academy is Open",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We're the Strongest",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Won`t Say Goodbye",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

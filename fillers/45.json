@@ -1,0 +1,653 @@
+{
+    "mal-id": 45,
+    "anilist-id": 45,
+    "anilist-name_en": "Rurouni Kenshin",
+    "anilist-name_jp": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "total-episodes": 94,
+    "afl-name": "Rurouni Kenshin",
+    "afl-link": "https://www.animefillerlist.com/shows/rurouni-kenshin",
+    "fillers_episodes": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "22",
+        "25",
+        "26",
+        "27",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69",
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78",
+        "83",
+        "84",
+        "85",
+        "86",
+        "87",
+        "88",
+        "89",
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "99",
+        "100"
+    ],
+    "episodes": [
+        {
+            "title": "The Handsome Swordsman of Legend: A Man who Fights for Love",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Kid Samurai: A Big Ordeal and a New Student",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Swordsman of Sorrow: The Man Who Slays His Past",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bad! Introducing Sanosuke, Fighter-for-hire",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Reverse-blade Sword vs. the Zanbatou: Beyond the Battle",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Appearance of Kurogasa: Visitor from the Shadows",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Deathmatch under the Moon! Protect the One You Love",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A New Battle! The Mysterious Beauty From Nowhere",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Strongest Group of Ninjas: The Horrible Oniwaban Group",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Aoshi: Someone so Beautiful it's Frightening",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell, the Strongest Men: The Clash of Light and Shadow",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Birth of a Boy Swordsman: The Battle of First Apprentice Yahiko",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Strive for the Grand Championship: Toramaru's Sumo Battle Log!",
+            "number": "13",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "To Save a Small Life Lady Doctor Megumi to the Rescue",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Two Legendary Manslayers\nTwo Legendary Slashers",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Promise From the Heart\nThe Secret Sword Technique of Shiden",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fly to Your Dreams\nMarimo, The Human Cannon",
+            "number": "17",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Run, Yahiko!\nRun Yahiko! Get the Reverse-Edged Sword Back",
+            "number": "18",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Raijuta's Ambition\nThe Fantasy of the Forbidden Kingdom",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Revival of the Shinko Style\nRevival of the Killer Sword \u2013 Shinko Style",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dissolution of a Nightmare\nDestruction of a Nightmare",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Danger on a Runaway Locomotive\nSurprise Incident on a Runaway Locomotive",
+            "number": "22",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sanosuke's Betrayal\nThe Fateful Reunion",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Midnight Battle:Kenshin versus Sanosuke Revisited",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Crimson Pirate\nThe Red Pirate \u2013 Kenshin and Kaoru Separated",
+            "number": "25",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Lightning Incarnate\nShura, The Mysterious Female Pirate",
+            "number": "26",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Burn, Island of Terror!\nThe Red Pirate - Conclusion",
+            "number": "27",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Prelude to the Impending Fight: The Shadow of the Wolf Draws Near",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Strongest Opponent From the Past: Merciless Fangs Strike!",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Devil of Vengeance: Makoto Shishio's Plot",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Wish Unrequited: Kenshin Departs",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Change Tears to Courage: Kaoru Kamiya's Choice",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For the Title of Strongest: Aoshi's New Conflict",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Girl Bandit: Misao Makimachi's Hidden Side",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Conquered Village: The Grasp of Shishio's Hands",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Across the Boundary Between Edo and Meiji: Kenshin and Shishio Face to Face!",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shock! The Reverse-Blade is Broken: Sojiro's Tenken verses Kenshin",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sanosuke's Secret Training: The Challenge of Anji the Destroyer",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Creator of the Reverse-Blade Sword: Shakku Arai's Final Swing",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Killer Without Mercy: Fight to the Death Against the Cho of the Juppongatana",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Technique of the Hiten-Mitsurugi Style: Reunion with a Mentor, Seijuro Hiko",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Formation of an Alliance: The Day When Aoshi Joins with Shishio",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Between Life and Death: Master the Ultimate Technique, Amakakeru Ryu no Hikameki!",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Decisive Battle Like Violent Waters: The Strongest Troop Juppongatana",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "As if to Fly: Stop the Launch of the Battleship Purgatory!",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Purgatory Bursts into Flames: The Destiny of Makoto Shishio",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crash! The Lethal Punch, Futae no Kiwami: The Fist of Sonosuke Screams!",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reborn to Salvation: The Beginning of Anji\u2019s New Life",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Wolf Destroys the Eye of the Heart: The Fierce Attack of the Zero Stance Gatotsu",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Promised Time Has Come: Aoshi and Kenshin Fight Again",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wake Up Now! Ignore Your Wounds and Fight to the Finish",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To Make a Miracle: The Battle at the Aoiya",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Giant Versus Superman: Like an Arrow Shot at a Time of Despair",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hiten versus Shukuchi",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Tragedy of a Stormy Night",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Duel With an Extreme Moment",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two Men at the End of an Era",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Age Chooses Shishio?",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Not Out of Luck!",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Man Who is Chosen for Victory",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Juppongatana Who Remain (aka The Choice for Life)",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kyoto, the Engraved Memory",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Legend of the Fireflies",
+            "number": "63",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Birth of Prince Yahiko",
+            "number": "64",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Find the Lost Treasure!",
+            "number": "65",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kaoru, Ecstatic",
+            "number": "66",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Gleaming Blade of Legends",
+            "number": "67",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Medallion of Destiny",
+            "number": "68",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "To the Battlefield of Shimabara",
+            "number": "69",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shock of the Rai Ryu Sen",
+            "number": "70",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kaiou's Conspiracy",
+            "number": "71",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Days of Remorse",
+            "number": "72",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Sneering Demon",
+            "number": "73",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sanosuke's Tears",
+            "number": "74",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Last Crusade",
+            "number": "75",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bon Voyage",
+            "number": "76",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Himura Dojo in Shimonoseki?",
+            "number": "77",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Crush!",
+            "number": "78",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kaishu-Katsu and Kenshin",
+            "number": "79",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Unending Revolution",
+            "number": "80",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Conspiracy of the Beniaoi",
+            "number": "81",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Kaishu-Katsu's Determination",
+            "number": "82",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Yutaro Returns",
+            "number": "83",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Sanada Ninja Squad",
+            "number": "84",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Straying Journey",
+            "number": "85",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Heatwave from Beneath the Earth",
+            "number": "86",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Schneider's Bet",
+            "number": "87",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Two Guides",
+            "number": "88",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "To My Angel Misao",
+            "number": "89",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Feng Shui Surprise Attack!",
+            "number": "90",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Magic of Feng Shui",
+            "number": "91",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tokyo Under Martial Law",
+            "number": "92",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Enemy Awaits in Senjogahara",
+            "number": "93",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Elegy of Wind and Water",
+            "number": "94",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Man of the Slashing Sword",
+            "number": "95",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Lost Cat",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Previous Night at the Mountain Home",
+            "number": "97",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cross-Shaped Wound",
+            "number": "98",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "After So Many Years Have Lapsed, Part 1",
+            "number": "99",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "After So Many Years Have Lapsed, Part 2",
+            "number": "100",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

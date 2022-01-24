@@ -1,0 +1,86 @@
+{
+    "mal-id": 32648,
+    "anilist-id": 21626,
+    "anilist-name_en": "Handa-kun",
+    "anilist-name_jp": "Handa-kun",
+    "total-episodes": 12,
+    "afl-name": "Handa-kun",
+    "afl-link": "https://www.animefillerlist.com/shows/handa-kun",
+    "fillers_episodes": [
+        "9"
+    ],
+    "episodes": [
+        {
+            "title": "Handa-kun and a Girl's Friendship",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Handa-kun and the Continuation of Episode 1 / Handa-kun and the Chairperson / Handa-kun and the Model",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": " Handa-kun and the Truant / Handa-kun and Cooking Class / Handa-kun and his friend",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Handa-kun and Handa-kun? / Handa-kun and a Girl's Jealousy / Handa-kun and Sociability",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Handa-kun and Student Council / Handa-kun and Memory Loss",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Handa-kun and Friend of a Friend / Handa-kun and Dash Higashino / Handa-kun and Palm Reading",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Handa-kun and the Supplementary Exam / Handa-kun and the Library",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Handa-kun and the School Trip",
+            "number": "8",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Handa-kun and the Frog / Handa-kun and the Stalker",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Handa-kun and the Average Guy / Handa-kun and the Bishoujo\"",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Handa-kun and the Cultural Festival Preparations",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Handa-kun and the Cultural Festival",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

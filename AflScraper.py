@@ -12,7 +12,7 @@ results = soup.select("#ShowList > .Group > ul > li > a")
 links = {}
 
 for i in results:
-    links[re.search(".+(?=\()|.+",i.text)[0]] = url+i.attrs["href"]
+    links[re.search(".+(?=\()|.+",i.text)[0].removesuffix(" ")] = url+i.attrs["href"]
 
-with open("links.json", "w") as fp:
+with open("fillers/links.json", "w") as fp:
     json.dump(links , fp, indent = 4) 

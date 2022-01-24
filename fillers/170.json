@@ -1,0 +1,629 @@
+{
+    "mal-id": 170,
+    "anilist-id": 170,
+    "anilist-name_en": "Slam Dunk",
+    "anilist-name_jp": "Slam Dunk",
+    "total-episodes": 101,
+    "afl-name": "Slam Dunk",
+    "afl-link": "https://www.animefillerlist.com/shows/slam-dunk-0",
+    "fillers_episodes": [
+        "47",
+        "85",
+        "86",
+        "92",
+        "95",
+        "97",
+        "98",
+        "99",
+        "100",
+        "101"
+    ],
+    "episodes": [
+        {
+            "title": "The Genius Basketball Player Is Born?!",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Go to Hell, Basketball! Hanamichi vs. Rukawa",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gorilla vs. Hanamichi! Big Showdown!!",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Basketball Player Hanamichi Joins the Team!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Spiritless Afternoon",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rukawa vs. Akagi: The Real Showdown",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hanamichi Debut! Dunk Explosion",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hanamichi's Crisis! The Judo-man's Trap",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'm Going to Play Basketball",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Commoner's Shoot is Difficult",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Our Love's Special Secret Training",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Defeat Ryonan! The Fierce Training the Night Before the Match",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shohoku vs Ryonan. Burning Captain!",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Super Basketball Match With Ryonan",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hanamichi Nervously Steps Into the Spotlight",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Who is This Guy? Taoka's Miscalculation",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Rebound King Sakuragi Hanamichi's Distress",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Last 2 Minutes! I'll Be the One to Defeat Sendoh",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Time's Up! The Decisive Battle with Ryonan",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Basketball Shoes",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enormous Trouble Makers! Hanamichi vs Miyagi",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "History's Biggest Idiot Combination is Born",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shohoku Basketball Club's Last Day",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle for Justice! Sakuragi's Goon Squad Joins!",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Man Who Aimed at National Championship",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mitsui, the Problems of the Past",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Want To Play Basketball!",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Beginning of Interhigh Preliminaries",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hanamichi! Debut at an Official Game",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Introspective Army's Big Counterattack",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Formidable Enemy Miuradai's Secret Weapon",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Genius Hanamichi! Certain Death Dunk",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Walkout King!? Hanamichi Sakuragi",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gorilla's Secret, Kill with Your Eyes!",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hot Blooded Guys",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Well Seeded School, Enter Shoyo",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hanamichi: First-time As Starter!",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rukawa's Counterattack!",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lightning Flash Ryota!",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rebound King Hanamichi Sakuragi!",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shoyo's Ace Fujima Enters the Court",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shoyo Ace Fujima's Real Ability",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Has Mitsui Reached His Limit!?",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mitsui! Stormy 3 Points",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Imminent Walkout!? Hanamichi's Pinch",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hanamichi, Hot Dunk",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Challenge From a Rival",
+            "number": "47",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Guy Who Pledged to Defeat Kainan",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "\"Takezono, Last Fight",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Challenge to the King",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Outside Calculation!? Hanamichi at His Best!",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Secret Weapon Against Sakuragi!",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gorilla's Injury! Desperate Situation!?",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "King Kong's Younger Brother",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Guy Who Dominates the Game",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ace Maki, Full Throttle",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Anzai, Bet on Victory!",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stubborn Guys!",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Last 10 Seconds! A Perfect Conclusion",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shohoku on the Edge",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Baldy Strikes Back!",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Three-Day Super Training",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle of the Aces! Kainan vs Ryonan",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "King Kainan Shows its Abilities!",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Strongest Match! Sendoh vs Maki",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sendoh's Bet",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Battle! Shohoku vs Ryonan",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Savior!? Hanamichi Sakuragi",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gorilla Goes Astray",
+            "number": "69",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gorilla Dunk II",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gorilla, Shout of Revival!",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Greatest Shame of One's Life",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rukawa Kaede, Gambling on the 2nd Half",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Most Dangerous Challenger!",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fine Play",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Feeling of Victory",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Guys Are Strong!",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Uozumi Jun Revives",
+            "number": "78",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blue Waves - Ryonan Fights Back!",
+            "number": "79",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shohoku's Problems",
+            "number": "80",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sendoh On Fire! Shohoku Loses",
+            "number": "81",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Amateur Sakuragi Hanamichi the Man",
+            "number": "82",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Vice-Captain Kogure's Determination",
+            "number": "83",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Win or Lose",
+            "number": "84",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Challenge: The National Championship!",
+            "number": "85",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Rukawa's Ambition",
+            "number": "86",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Japan's Number One High School Player",
+            "number": "87",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Basketball Kingdom - America",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unstoppable Intensity! Rukawa",
+            "number": "89",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shohoku's True Star!",
+            "number": "90",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Nationals at Risk",
+            "number": "91",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Male Friendship!? Sakuragi's Gang",
+            "number": "92",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Going Toward 20000 Shoots",
+            "number": "93",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shizuoka's Fierce Fight! Shohoku vs. Jousei",
+            "number": "94",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hanamichi's Hottest Day",
+            "number": "95",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Basketball Shoes Part II",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mixed Feelings, Uozumi Returns",
+            "number": "97",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fierce Battle Begins! Shohoku vs. Shoyo/Ryonan",
+            "number": "98",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Facing the Strongest Team, Shohoku in Danger!",
+            "number": "99",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Man of Miracles, Hanamichi Sakuragi!",
+            "number": "100",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Glorious Slam Dunk!",
+            "number": "101",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

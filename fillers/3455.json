@@ -1,0 +1,262 @@
+{
+    "mal-id": 3455,
+    "anilist-id": 3455,
+    "anilist-name_en": "To Love Ru",
+    "anilist-name_jp": "To LOVE-Ru",
+    "total-episodes": 26,
+    "afl-name": "To Love Ru",
+    "afl-link": "https://www.animefillerlist.com/shows/love-ru",
+    "fillers_episodes": [
+        "2",
+        "4",
+        "5",
+        "7",
+        "8",
+        "9",
+        "10",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+    ],
+    "episodes": [
+        {
+            "title": "The Girl Who Fell From the Sky",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Broken Engagement!?",
+            "number": "2",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Love Triangle",
+            "number": "3",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Love Apron From Outer Space",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Queen's Challenge",
+            "number": "5",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Alien Assassin",
+            "number": "6",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "All Men Should Be Like This!",
+            "number": "7",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Prefect of Spotless Integrity",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Space Entertainer",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "From a Shining Star, With Love",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Golden Darkness",
+            "number": "11",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Frightening Field Day!",
+            "number": "12",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Greatest Man in the Universe",
+            "number": "13",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Secret Between the Two of Us",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Princess of the Jungle",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Run's Surprise Confession",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Ghost in the Old School Building",
+            "number": "17",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Saruyama, the Gift",
+            "number": "18",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hell's Hot Springs: Alien Girls and Colorful Exposed Bodies",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Explosive Heat Magical Girl Kyouko Flame",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Chronicle of Bloodshed at the Yuuki Inn",
+            "number": "21",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Frightening School Festival!",
+            "number": "22",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Saruyama\u2019s Tales of the Inner Chambers",
+            "number": "23",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "With Shyness",
+            "number": "24",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Earth's Final Night",
+            "number": "25",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Lala",
+            "number": "26",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tick Tock Tick Tock, the Sound of Love\u2661",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Welcome to the Yuuki Household!",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What I See Through the Lens is...",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yami-Yami Fashion",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sweet Feelings are a Taste of Chocolate",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Master of Love",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hostile Feelings",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Grow Bigger \u266a",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For Whom the Bell Tolls",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Heart Throbbing Mail",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Quiet on the \"Sister\" Front",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Love You\u2661 ",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

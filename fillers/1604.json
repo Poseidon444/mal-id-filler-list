@@ -1,0 +1,1254 @@
+{
+    "mal-id": 1604,
+    "anilist-id": 1604,
+    "anilist-name_en": "REBORN!",
+    "anilist-name_jp": "Katekyou Hitman REBORN!",
+    "total-episodes": 203,
+    "afl-name": "Reborn!",
+    "afl-link": "https://www.animefillerlist.com/shows/katekyo-hitman-reborn",
+    "fillers_episodes": [
+        "56",
+        "97",
+        "119",
+        "142",
+        "143",
+        "144",
+        "145",
+        "146",
+        "147",
+        "148",
+        "149",
+        "150",
+        "151",
+        "152",
+        "153",
+        "154",
+        "177",
+        "178",
+        "179",
+        "180",
+        "181",
+        "182",
+        "183",
+        "184",
+        "185",
+        "186",
+        "187",
+        "188",
+        "189"
+    ],
+    "episodes": [
+        {
+            "title": "What!? I'm a Tenth-Generation Mafia Boss!?",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The End of the School?!",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shocking! Cooking With Love and Horror!",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eek! A Maiden's Heart Can Destroy!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Leader of the Disciplinary Committee Kills Time.",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ni-Hao Gyoza Fist!",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To the Limit! Passionate Brother!",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Senior Boss Cares About the Family.",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Life-shortening Skullitis",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gahaha! The Exploding Lunch Box!",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gyoza Buns of Love and Death!?",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Master's Training! Strengthening Program",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Spring! The Hundred Million Yen Contest",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "First Date!? Hell's Zoo",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash! Survival Snow Battle",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Escape From Death Mountain!",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Make a Noise When You're Hospitalized",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Poisoned Love Chocolates",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "100% Accuracy? Ranking Anything",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sudden Attack",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wounded Friends",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unforeseen Evil Influence",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Deathperation Shot",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fighting Back in Different Ways",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Want to Win! Moment of Awakening",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The End and From Then On",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eat Sushi to Celebrate Moving Up a Grade",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "No Way! I Killed Him?",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Her Lover is Broccoli?",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hide and Seek on a Luxury Cruise",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Welcome to Mafia Land",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Shark Showed Up in the Public Pool",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Summer Filled With Debt?",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Varia Arrive",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Seven Vongola Rings",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tutors on the Move",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Teacher and Student Together",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Selfish Baby Cow Vanishes",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Unseen Enemies' Goal",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle of the Rings Begins!",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Guardian of the Sun Ring's Feelings",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Power to Overcome Adversity",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Thunder Strike from Twenty Years Later",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Stolen Sky Ring",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Raging Storm Battle",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reason to Fight",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Strongest, Invincible Style",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Flow of Battle",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Requiem Rain",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Guardian of the Mist Ring Arrives!?",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Illusion vs. Illusion",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Truth About the Mist",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Hint of Uneasiness",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cloud Guardian's Rampage",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Determination",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gokudera's Story",
+            "number": "56",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Sky Ring Battle Begins!",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Flame of Fury",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Supporters",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Deathperate Zero Point Breakthrough",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Zero Point Breakthrough Revised",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tactics",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Freezing Flame",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Truth Behind The Rage",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Conclusion!",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shivering Ghost",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Vongola-style Open House",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Happy? Wedding",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crazy Criminal Brother Trio",
+            "number": "69",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Misfortune of Shoichi Irie",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fighting Spirit! Absolute Evil Fist",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Expulsion Crisis",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mother's Day Vongola-style",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The World 10 Years Later",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Secret Base",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Search for the Guardians",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Flame of Resolve",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clues to The Past",
+            "number": "78",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The First Trial",
+            "number": "79",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Discord",
+            "number": "80",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Combination",
+            "number": "81",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Strongest Guardian",
+            "number": "82",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Information Divulged",
+            "number": "83",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Long Road Home",
+            "number": "84",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Where's the Base?",
+            "number": "85",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Most Terrifying Tutor",
+            "number": "86",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Succession",
+            "number": "87",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "7\u00b3 Policy",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Piano of Sorrow",
+            "number": "89",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gufo di Pioggia",
+            "number": "90",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What You Believe In",
+            "number": "91",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Your Choice",
+            "number": "92",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Level D Security Alert",
+            "number": "93",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Identity Revealed",
+            "number": "94",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Determination",
+            "number": "95",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "X BURNER",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Great Chase",
+            "number": "97",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Declaration of War",
+            "number": "98",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Trial",
+            "number": "99",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Night Before the Raid",
+            "number": "100",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Night Attack",
+            "number": "101",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mission Start",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The First Barrier",
+            "number": "103",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Magician of Fate",
+            "number": "104",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Regret",
+            "number": "105",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Student's Maturation",
+            "number": "106",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Absolute Desperation",
+            "number": "107",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Man's Box Weapon",
+            "number": "108",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Captive",
+            "number": "109",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Secret of Merone Base",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Enemy is Octopus Head",
+            "number": "111",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Boomerang Trap",
+            "number": "112",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lightning Strikes Again",
+            "number": "113",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Storm Guardian, Stands",
+            "number": "114",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SISTEMA C.A.I.",
+            "number": "115",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Difference in Resolve",
+            "number": "116",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Storm Fights Back",
+            "number": "117",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Princess's Conviction",
+            "number": "118",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Interval Between Battles",
+            "number": "119",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Virtual Space",
+            "number": "120",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two Battles",
+            "number": "121",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Swordsman",
+            "number": "122",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Teachings of the Sword Emperor",
+            "number": "123",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Obstructing Mist",
+            "number": "124",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "More Intruders",
+            "number": "125",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Strongest versus The Strongest",
+            "number": "126",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Bewitching Flower",
+            "number": "127",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Head Prefect Comes",
+            "number": "128",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Operation X",
+            "number": "129",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Resolve and Irritation",
+            "number": "130",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rampage",
+            "number": "131",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Final Block Of Defense",
+            "number": "132",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Game-Changing Move",
+            "number": "133",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hell Knight",
+            "number": "134",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Arrival",
+            "number": "135",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Revealed Truth",
+            "number": "136",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Main Battle in Italy",
+            "number": "137",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Twin Princes",
+            "number": "138",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Furious Roar",
+            "number": "139",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Another Sky",
+            "number": "140",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reunion",
+            "number": "141",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Strongest Seven",
+            "number": "142",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Trial #1",
+            "number": "143",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Arcobaleno Seals",
+            "number": "144",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Guardian Showdown! Cloud and Mist",
+            "number": "145",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Box Weapon Prototype",
+            "number": "146",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Catch the Wind",
+            "number": "147",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Two Successors of the Sky",
+            "number": "148",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Reborn's Trial",
+            "number": "149",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Path is Closed Off",
+            "number": "150",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Once the Rainbow is Complete",
+            "number": "151",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Boss' Resolve",
+            "number": "152",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Final Seal",
+            "number": "153",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "To the Next Battle",
+            "number": "154",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Real Six Funeral Wreaths",
+            "number": "155",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Inspiring Allies",
+            "number": "156",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Namimori Holiday",
+            "number": "157",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Warm Place",
+            "number": "158",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For My Friends",
+            "number": "159",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gaining Mobility",
+            "number": "160",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Airbike",
+            "number": "161",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sky Vongola Box",
+            "number": "162",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Terror! Turmoil on Base",
+            "number": "163",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Vongola Box, Training Begins",
+            "number": "164",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Boycott Declared",
+            "number": "165",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "With the Same Heart",
+            "number": "166",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Day of the Battle",
+            "number": "167",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Choice Begins",
+            "number": "168",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sky Lion: Leone di Cielo ver. Vongola",
+            "number": "169",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fateful Showdown",
+            "number": "170",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Revenge",
+            "number": "171",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kikyo's Assault",
+            "number": "172",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Choice Ends",
+            "number": "173",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Truth about the Future",
+            "number": "174",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yuni Comes",
+            "number": "175",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Escape",
+            "number": "176",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "After the Battle",
+            "number": "177",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Primo Family Arrives!",
+            "number": "178",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Inheritance Begins",
+            "number": "179",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Duty of the Rain Guardian",
+            "number": "180",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Furious Bolt of Lightning",
+            "number": "181",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Silent Storm",
+            "number": "182",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Aloof Cloud",
+            "number": "183",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sunny then Cloudy",
+            "number": "184",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Trap is Set",
+            "number": "185",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bewitching Mist",
+            "number": "186",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Memories of Betrayal",
+            "number": "187",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Primo's Will",
+            "number": "188",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Family's Resolve",
+            "number": "189",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Real Six Funeral Wreaths Attack!",
+            "number": "190",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Open Carnage Box",
+            "number": "191",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Alaude's Handcuffs",
+            "number": "192",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Daemon Spade's Devil Lens",
+            "number": "193",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Battle Begins",
+            "number": "194",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "G's Archery",
+            "number": "195",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lambo's Shield",
+            "number": "196",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Knuckle's Maximum Break",
+            "number": "197",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Last Real Funeral Wreath",
+            "number": "198",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghost Awakens",
+            "number": "199",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sky Full of Desire",
+            "number": "200",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sea. Clam. Rainbow.",
+            "number": "202",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To a New Future",
+            "number": "203",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

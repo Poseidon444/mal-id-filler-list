@@ -1,0 +1,161 @@
+{
+    "mal-id": 68,
+    "anilist-id": 68,
+    "anilist-name_en": "Black Cat",
+    "anilist-name_jp": "Black Cat",
+    "total-episodes": 23,
+    "afl-name": "Black Cat",
+    "afl-link": "https://www.animefillerlist.com/shows/black-cat",
+    "fillers_episodes": [
+        "21",
+        "22",
+        "23",
+        "24"
+    ],
+    "episodes": [
+        {
+            "title": "The Solitary Cat",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hesitant Cat",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cat in the Dark",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Grinning Cat",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Departing Cat",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cat Under Fire",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Wounded Cat",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sweeping Cat",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Charming Cat",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cat Unleashed",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The False Cat",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fighting Cat",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Love Cat",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Kitty Cat",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Distant Cat",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cat and the Lizard",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Napping Cat",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cat Deploys",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sprinting Cat",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cat's Showdown",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Drowning Cat",
+            "number": "21",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Cat Bares Claws",
+            "number": "22",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Cat's Paradise",
+            "number": "23",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Carefree Cat",
+            "number": "24",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

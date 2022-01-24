@@ -1,0 +1,2042 @@
+{
+    "mal-id": 6702,
+    "anilist-id": 6702,
+    "anilist-name_en": "Fairy Tail",
+    "anilist-name_jp": "FAIRY TAIL",
+    "total-episodes": 175,
+    "afl-name": "Fairy Tail",
+    "afl-link": "https://www.animefillerlist.com/shows/fairy-tail",
+    "fillers_episodes": [
+        "9",
+        "19",
+        "50",
+        "70",
+        "71",
+        "72",
+        "73",
+        "74",
+        "75",
+        "125",
+        "126",
+        "127",
+        "128",
+        "129",
+        "130",
+        "131",
+        "132",
+        "133",
+        "134",
+        "135",
+        "136",
+        "137",
+        "138",
+        "139",
+        "140",
+        "141",
+        "142",
+        "143",
+        "144",
+        "145",
+        "146",
+        "147",
+        "148",
+        "149",
+        "150",
+        "202",
+        "203",
+        "204",
+        "205",
+        "206",
+        "207",
+        "208",
+        "209",
+        "210",
+        "211",
+        "212",
+        "213",
+        "214",
+        "215",
+        "216",
+        "217",
+        "218",
+        "219",
+        "220",
+        "221",
+        "222",
+        "223",
+        "224",
+        "225",
+        "226",
+        "268"
+    ],
+    "episodes": [
+        {
+            "title": "The Fairy Tail",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fire Dragon, Monkey and Bull",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Infiltrate the Everlue Mansion",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dear Kaby",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Wizard in Armor",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairies in the Wind",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Flame and Wind",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Strongest Team",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsu Devours a Village",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsu vs. Erza",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cursed Island",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Moon Drip",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsu vs. Yuka the Wave User",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Just Do Whatever!!",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eternal Magic",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Showdown on Galuna Island",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Burst",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reach the Sky Above",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Changeling",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsu and the Dragon Egg",
+            "number": "20",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Phantom Lord",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lucy Heartfilia",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "15 Minutes",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To Keep From Seeing Those Tears",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Flower Blooms in the Rain",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wings of Flame",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Two Dragon Slayers",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Law",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "My Resolve",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Next Generation",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Star Removed From the Sky",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Celestial Spirit King",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Tower of Heaven",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jellal",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Voice of Darkness",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Heaven's Game",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Armor of the Heart",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Destiny",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Give Our Prayers to the Sacred Light",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Titania Falls",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Home",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle of Fairy Tail",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Defeat Your Friends To Save Your Friends",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Thunder Palace",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Advent of Satan",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash at Kardia Cathedral!",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Triple Dragons",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fantasia",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Day of the Fateful Encounter",
+            "number": "49",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Special Request: Watch Out for the Guy You Like!",
+            "number": "50",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Love & Lucky",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Allied Forces, Assemble!",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter the Oraci\u00f3n Seis!",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Maiden of the Sky",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Girl and the Ghost",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dead Grand Prix",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Darkness",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Celestial Skirmish",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jellal of Days Gone By",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "March of Destruction",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Super Aerial Battle: Natsu vs. Cobra!",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wizard Saint Jura",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Your Words",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Zero",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "From Pegasus to Fairies",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Power of Feelings",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'm With You",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Guild for One",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Call of the Dragon",
+            "number": "69",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsu vs. Gray!!",
+            "number": "70",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Friendship Overcomes the Dead",
+            "number": "71",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Fairy Tail Wizard",
+            "number": "72",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Rainbow Cherry Blossoms",
+            "number": "73",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Wendy's First Big Job!?",
+            "number": "74",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "24-Hour Endurance Road Race",
+            "number": "75",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Gildarts",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Earth Land",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Edolas",
+            "number": "78",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Hunter",
+            "number": "79",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Key of Hope",
+            "number": "80",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fireball",
+            "number": "81",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Welcome Home",
+            "number": "82",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Extalia",
+            "number": "83",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fly, to Our Friends!",
+            "number": "84",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Code ETD",
+            "number": "85",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Erza vs. Erza",
+            "number": "86",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We're Talking About Lives Here!!!!",
+            "number": "87",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For Pride's Sake, the River of Stars",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Apocalyptic Dragon Chain Cannon",
+            "number": "89",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Boy Back Then",
+            "number": "90",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dragon Sense",
+            "number": "91",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "O Living Ones",
+            "number": "92",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'm Standing Right Here",
+            "number": "93",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bye-Bye, Edolas",
+            "number": "94",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lisanna",
+            "number": "95",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "He Who Extinguishes Life",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Best Partners",
+            "number": "97",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Who's the Lucky One?",
+            "number": "98",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsu vs. Gildarts",
+            "number": "99",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mest",
+            "number": "100",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Black Wizard",
+            "number": "101",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Iron Soul",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Makarov Charges",
+            "number": "103",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lost Magic",
+            "number": "104",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fire Dragon vs. Flame God",
+            "number": "105",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Grand Magic World",
+            "number": "106",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Arc of Embodiment",
+            "number": "107",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Human Gate",
+            "number": "108",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lucy Fire",
+            "number": "109",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dead-End of Despair",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tears of Love and Vitality",
+            "number": "111",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The One Thing I Couldn't Say",
+            "number": "112",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tenrou Tree",
+            "number": "113",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Erza vs. Azuma",
+            "number": "114",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Freezing Fighting Spirit",
+            "number": "115",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Power of Life",
+            "number": "116",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rolling Thunder",
+            "number": "117",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Man Without an Emblem",
+            "number": "118",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Realm of the Abyss",
+            "number": "119",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Daybreak on Tenrou Island",
+            "number": "120",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Right To Love",
+            "number": "121",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let's Hold Hands",
+            "number": "122",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tail, Year X791",
+            "number": "123",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Seven Year Gap",
+            "number": "124",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Magic Ball",
+            "number": "125",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "True Scoundrels - The Butt Jiggle Gang",
+            "number": "126",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Terror of Invisible Lucy!",
+            "number": "127",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Father's Memento",
+            "number": "128",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Turbulent Showdown! Natsu vs. Laxus",
+            "number": "129",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Target: Lucy",
+            "number": "130",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Fury of Legion",
+            "number": "131",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Key of the Starry Heavens",
+            "number": "132",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Travel Companions",
+            "number": "133",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Labyrinth Capriccio",
+            "number": "134",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Footprints of the Myth",
+            "number": "135",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "True Scoundrels, Once Again",
+            "number": "136",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Defying Calculation",
+            "number": "137",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Course of the Holy War",
+            "number": "138",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Time Begins To Tick",
+            "number": "139",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Enter the Neo-Oraci\u00f3n Seis!",
+            "number": "140",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Get the Infinity Clock!",
+            "number": "141",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dissonance of Battle",
+            "number": "142",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Anti-Link",
+            "number": "143",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Despair Unleashed",
+            "number": "144",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Real Nightmare",
+            "number": "145",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Time Spiral",
+            "number": "146",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "To the Infinity Castle!",
+            "number": "147",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Angel Tears",
+            "number": "148",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "I Hear the Voice of My Friend",
+            "number": "149",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Lucy and Michelle",
+            "number": "150",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sabertooth",
+            "number": "151",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "And So We Aim for the Top",
+            "number": "152",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Song of the Stars",
+            "number": "153",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For All the Time We Missed Each Other",
+            "number": "154",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crocus, the Flower-Blooming Capital",
+            "number": "155",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sky Labyrinth",
+            "number": "156",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Guild",
+            "number": "157",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Night of Shooting Stars",
+            "number": "158",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lucy vs. Flare",
+            "number": "159",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Portent",
+            "number": "160",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Chariots",
+            "number": "161",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Elfman vs. Bacchus",
+            "number": "162",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mirajane vs. Jenny",
+            "number": "163",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kagura vs. Yukino",
+            "number": "164",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hatred at Nightfall",
+            "number": "165",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pandemonium",
+            "number": "166",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "100 Against 1",
+            "number": "167",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Laxus vs. Alexei",
+            "number": "168",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wendy vs. Shelia",
+            "number": "169",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Small Fists",
+            "number": "170",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Naval Battle",
+            "number": "171",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Parfum for You",
+            "number": "172",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle of Dragon Slayers!",
+            "number": "173",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Four Dragons",
+            "number": "174",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsu vs. the Twin Dragons",
+            "number": "175",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "King of the Dragons",
+            "number": "176",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Eclipse Project",
+            "number": "177",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tactician",
+            "number": "178",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gray vs. Rufus",
+            "number": "179",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hungry Wolf Knights",
+            "number": "180",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tail vs. Executioners",
+            "number": "181",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Scorching Earth",
+            "number": "182",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Our Place",
+            "number": "183",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Kingdom 'til Tomorrow",
+            "number": "184",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Erza vs. Kagura",
+            "number": "185",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Future Racing Toward Despair",
+            "number": "186",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Frog",
+            "number": "187",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Roaring Thunder!",
+            "number": "188",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gloria",
+            "number": "189",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The One Who Closes the Gate",
+            "number": "190",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsu vs. Rogue",
+            "number": "191",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For Me, Too",
+            "number": "192",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Seven Dragons",
+            "number": "193",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Zirconis' Magic",
+            "number": "194",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "People and People, Dragons and Dragons, People and Dragons",
+            "number": "195",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sin and Sacrifice ",
+            "number": "196",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Time of Life",
+            "number": "197",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fields of Gold",
+            "number": "198",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Grand Banquet",
+            "number": "199",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Droplets of Time",
+            "number": "200",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Gift",
+            "number": "201",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Welcome Back, Frosch",
+            "number": "202",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Moulin Rouge",
+            "number": "203",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Full Effort Hospitality!",
+            "number": "204",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Signal of Rebellion",
+            "number": "205",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Library Panic",
+            "number": "206",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hisui Rises!",
+            "number": "207",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Astral Spiritus",
+            "number": "208",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Wendy vs. Aquarius - Let's Have Fun in the Amusement Park!",
+            "number": "209",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Guild Deck vs. Celestial Deck",
+            "number": "210",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Gray vs. Cancer! Dance Battle!",
+            "number": "211",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Juvia vs. Aries! Desert Death Match!",
+            "number": "212",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Erza vs. Sagittarius! Horseback Showdown!",
+            "number": "213",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsu vs. Leo",
+            "number": "214",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Ophiuchus, the Snake Charmer",
+            "number": "215",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "When the Stars Fall",
+            "number": "216",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Celestial Spirit Beast",
+            "number": "217",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Believe",
+            "number": "218",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "What a Pure Heart Weaves",
+            "number": "219",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "413 Days",
+            "number": "220",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Labyrinth of White",
+            "number": "221",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Transform!",
+            "number": "222",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "It's Kemo-Kemo!",
+            "number": "223",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Place You Came To",
+            "number": "224",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Lightning Man",
+            "number": "225",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fairy Tail of the Dead Meeeeeeeeen",
+            "number": "226",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Morning of a New Adventure",
+            "number": "227",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wizards vs. Hunters",
+            "number": "228",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Art of Regression",
+            "number": "229",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Demon Returns",
+            "number": "230",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gray vs. Doriate",
+            "number": "231",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Voice of the Flame",
+            "number": "232",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Song of the Fairies",
+            "number": "233",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter, Prologue - The Nine Demon Gates",
+            "number": "234",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter, Prologue - Fairies vs. Netherworld",
+            "number": "235",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter, Prologue - The White Legacy",
+            "number": "236",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter, Prologue - Natsu vs. Jackal",
+            "number": "237",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Immorality and Sinners",
+            "number": "238",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Jellal vs. Oraci\u00f3n Seis",
+            "number": "239",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - A Place Reached by Prayer",
+            "number": "240",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - The Demon's Rebirth",
+            "number": "241",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - To Let Live or Die",
+            "number": "242",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Wendy vs. Ezel",
+            "number": "243",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Friends Forever",
+            "number": "244",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Hell's Core",
+            "number": "245",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Underworld King",
+            "number": "246",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Alegria",
+            "number": "247",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - A Strike from the Stars",
+            "number": "248",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Celestial Spirit King vs. Underworld King",
+            "number": "249",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Erza vs. Minerva",
+            "number": "250",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - The Boy's Tale",
+            "number": "251",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Gray vs. Silver",
+            "number": "252",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - A Silver Wish",
+            "number": "253",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Air",
+            "number": "254",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Steel",
+            "number": "255",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Final Duels",
+            "number": "256",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Wings of Despair",
+            "number": "257",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Fire Dragon Iron Fist",
+            "number": "258",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - 00:00",
+            "number": "259",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - The Girl in the Crystal",
+            "number": "260",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Absolute Demon",
+            "number": "261",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Memento Mori",
+            "number": "262",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Soaring Above Ishgar",
+            "number": "263",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter - Drops of Fire",
+            "number": "264",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tartaros Chapter, Finale - Where the Power of Life Lies",
+            "number": "265",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tail Zer\u00f8: The Fairy In Your Heart",
+            "number": "266",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tail Zer\u00f8: The Adventure Begins",
+            "number": "267",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tail Zer\u00f8: Treasure Hunt",
+            "number": "268",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fairy Tail Zer\u00f8: Dancing with Blades",
+            "number": "269",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tail Zer\u00f8: Moonlit Lake",
+            "number": "270",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tail Zer\u00f8: Blue Skull",
+            "number": "271",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tail Zer\u00f8: Conveyer of Magic",
+            "number": "272",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tail Zer\u00f8: Treasure",
+            "number": "273",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tail Zer\u00f8: Law",
+            "number": "274",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tail Zer\u00f8: Eternal Adventure",
+            "number": "275",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Challenger",
+            "number": "276",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Message of Flame",
+            "number": "277",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Lamia Scale Thanksgiving Festival",
+            "number": "278",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Because of Love",
+            "number": "279",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Avatar",
+            "number": "280",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Underground Clash",
+            "number": "281",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Purification Plan",
+            "number": "282",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ikusatsunagi",
+            "number": "283",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memoirs",
+            "number": "284",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The 7th Guild Master",
+            "number": "285",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Law of Space",
+            "number": "286",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Emperor Spriggan",
+            "number": "287",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To the God-Forsaken Land",
+            "number": "288",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mavis and Zeref",
+            "number": "289",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Heart",
+            "number": "290",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Magnolia Defensive War",
+            "number": "291",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Morning Star",
+            "number": "292",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For Whom the Parfum Flows",
+            "number": "293",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsu vs. Zeref",
+            "number": "294",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Across 400 Years",
+            "number": "295",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What I Want to Do",
+            "number": "296",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Not Until the Battle is Over",
+            "number": "297",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In a Silent Time",
+            "number": "298",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsu, Revived!!",
+            "number": "299",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Historia of Corpses",
+            "number": "300",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mettle",
+            "number": "301",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Third Seal",
+            "number": "302",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Together, Always",
+            "number": "303",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy Tail Zero",
+            "number": "304",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "White Dragneel",
+            "number": "305",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Winter Wizard",
+            "number": "306",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gray and Juvia",
+            "number": "307",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mightiest Demon of the Book of Zeref",
+            "number": "308",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Broken Bonds",
+            "number": "309",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pleasure and Pain",
+            "number": "310",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsu's Heart",
+            "number": "311",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sting, the White Shadow Dragon",
+            "number": "312",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Dragon Seed",
+            "number": "313",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Master Enchant",
+            "number": "314",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dragon or Demon",
+            "number": "315",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gray's Trump Card",
+            "number": "316",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": " Dark Future",
+            "number": "317",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "My Name Is...",
+            "number": "318",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Feelings",
+            "number": "319",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Neo Eclipse",
+            "number": "320",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blind to Love",
+            "number": "321",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gate of Vows",
+            "number": "322",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Raging Fire of the Dragon",
+            "number": "323",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When the Fire Dies",
+            "number": "324",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "World Destruction",
+            "number": "325",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Magic of Hope",
+            "number": "326",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hearts Connected",
+            "number": "327",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dearest Friends",
+            "number": "328",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

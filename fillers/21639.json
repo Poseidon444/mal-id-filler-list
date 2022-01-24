@@ -1,0 +1,135 @@
+{
+    "mal-id": 21639,
+    "anilist-id": 20552,
+    "anilist-name_en": "Yu-Gi-Oh! ARC-V",
+    "anilist-name_jp": "Yu\u2606Gi\u2606Oh! ARC-V",
+    "total-episodes": 148,
+    "afl-name": "Yu-Gi-Oh! ARC-V",
+    "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh-arc-v",
+    "fillers_episodes": [
+        "19",
+        "20"
+    ],
+    "episodes": [
+        {
+            "title": "Swing Into Action, Part 1",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Swing Into Action, Part 2",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Trade Bait, Part 1",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Trade Bait, Part 2",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Toying Around, Part 1",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Toying Around, Part 2",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mr. Mystery",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bad Business",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dueling with the Stars",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Show Em",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "\"Going, Going, Gong\"",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle Under the Big Top",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Circus Surprise!",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Show Must Go On",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In It to Win It",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Menu Venue, Part 1",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Menu Venue, Part 2",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Trapped in a Card",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Quiz Quagmire, Part 1",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Quiz Quagmire, Part 2",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

@@ -1,0 +1,322 @@
+{
+    "mal-id": 121,
+    "anilist-id": 121,
+    "anilist-name_en": "Fullmetal Alchemist",
+    "anilist-name_jp": "Hagane no Renkinjutsushi",
+    "total-episodes": 51,
+    "afl-name": "Fullmetal Alchemist",
+    "afl-link": "https://www.animefillerlist.com/shows/fullmetal-alchemist",
+    "fillers_episodes": [
+        "4",
+        "10",
+        "37"
+    ],
+    "episodes": [
+        {
+            "title": "Those Who Challenge the Sun",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Body of the Sanctioned",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mother",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Forger's Love",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Man with the Mechanical Arm",
+            "number": "5",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Alchemy Exam",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Night of the Chimera's Cry",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Philosopher's Stone",
+            "number": "8",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Be Thou for the People",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Phantom Thief",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Other Brothers Elric: Part 1",
+            "number": "11",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Other Brothers Elric: Part 2",
+            "number": "12",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fullmetal VS Flame",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Destruction's Right Hand",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ishbal Massacre",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That Which Is Lost",
+            "number": "16",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "House of the Waiting Family",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Marcoh's Notes",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Truth Behind Truths",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Soul of the Guardian",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Red Glow",
+            "number": "21",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Created Human",
+            "number": "22",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fullmetal Heart",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bonding Memories",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Words of Farewell",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Her Reason",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Teacher",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All is One, One is All",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Untainted Child",
+            "number": "29",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Assault on South Headquarters",
+            "number": "30",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sin",
+            "number": "31",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dante of the Deep Forest",
+            "number": "32",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Al, Captured",
+            "number": "33",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Theory of Avarice",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reunion of the Fallen",
+            "number": "35",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sinner Within",
+            "number": "36",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Flame Alchemist, The Bachelor Lieutenant & The Mystery of Warehouse 13",
+            "number": "37",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "With the River's Flow",
+            "number": "38",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Secret of Ishbal",
+            "number": "39",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Scar",
+            "number": "40",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Holy Mother",
+            "number": "41",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "His Name is Unknown",
+            "number": "42",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Stray Dog",
+            "number": "43",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hohenheim of Light",
+            "number": "44",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Rotted Heart",
+            "number": "45",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Human Transmutation",
+            "number": "46",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sealing the Homunculus",
+            "number": "47",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goodbye",
+            "number": "48",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Other Side of the Gate",
+            "number": "49",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Death",
+            "number": "50",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Laws and Promises",
+            "number": "51",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ]
+}

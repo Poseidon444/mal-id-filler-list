@@ -1,0 +1,327 @@
+{
+    "mal-id": 435,
+    "anilist-id": 435,
+    "anilist-name_en": "Magic Knight Rayearth",
+    "anilist-name_jp": "Magic Knight Rayearth",
+    "total-episodes": 20,
+    "afl-name": "Magic Knight Rayearth",
+    "afl-link": "https://www.animefillerlist.com/shows/magic-knight-rayearth",
+    "fillers_episodes": [
+        "7",
+        "8",
+        "9",
+        "11",
+        "14",
+        "17",
+        "24",
+        "25",
+        "28",
+        "29",
+        "30",
+        "31",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "41",
+        "46",
+        "48"
+    ],
+    "episodes": [
+        {
+            "title": "The Birth of the Legendary Magic Knights!",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Presea, the Master Smith in the Forest of Silence",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Ferio, the Handsome, Mysterious Swordsman",
+            "number": "3",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Alcyone, the Vengeful Sorceress",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Escudo, the Legendary Ore",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lives at Stake, Presea's Weapons",
+            "number": "6",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Ferio in Desperation - A Romance in the Desert",
+            "number": "7",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Horrible Trap of Summoner Ascot",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Magic Knights' Greatest Crisis",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Revival of Selece, the Legendary Rune-God",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Legend of the Rune-Gods - In Cephiro, Another World",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Fearsome Illusionist Caldina",
+            "number": "12",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Most Valuable Thing in this World",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hikaru, Umi, and Fuu's Unyielding Wish",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Second Rune-God: Windam, the Lord of the Skies",
+            "number": "15",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Powerful Foe! Lafarga the Swordmaster",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Truth About Inouva, and the Return of Memories",
+            "number": "17",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Last Rune-God: Rayearth, the Lord of Fire",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showdown! The Magic Knights Versus Zagato",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Unbelievable Truth About the Legendary Magic Knights",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Departure and New Ties",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cephiro and the Three Countries",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Autozam's Invasion and Lantis",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Magic Knights and the Battleship NSX",
+            "number": "24",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hikaru and Nova in the Dream",
+            "number": "25",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Magic Knights and Aska of Fahren",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Secret of the Pillar of Cephiro",
+            "number": "27",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Hikaru and Lantis's Dangerous Journey",
+            "number": "28",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Eagle and a Captive Hikaru",
+            "number": "29",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Nova and Regalia, Rune-God of the Devil",
+            "number": "30",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Chizeta's Mobile Fortress and a Powerless Hikaru",
+            "number": "31",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Umi and Fuu and Fahren and Chizeta",
+            "number": "32",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Hikaru's Wish and Presea's Secret",
+            "number": "33",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hikaru and Friendships Torn Apart",
+            "number": "34",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Umi and the Ambition of Tetra and Tatra",
+            "number": "35",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuu Versus Aska! The Life and Death Archery Match",
+            "number": "36",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Revive! Hikaru's Sword",
+            "number": "37",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Eagle's All-Out Attack on Cephiro Castle",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Chaotic War at Cephiro Castle!",
+            "number": "39",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Magic Knights and the Calm After the Storm",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nova's Battle and the Monster's Identity",
+            "number": "41",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giant Sang Yung Versus the NSX!",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Crown Room and the Pillar's Memory",
+            "number": "43",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Serious Match - Umi vs. Tarta and Tatra",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Desperate Situation: Crisis Upon Lantis",
+            "number": "45",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Hikaru in Shock: The Truth About Nova",
+            "number": "46",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The True Pillar is: Hikaru or Eagle!?",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Endless Battle!",
+            "number": "48",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Road to Victory: The Tomorrow that the Believing Heart Opens!",
+            "number": "49",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        }
+    ]
+}

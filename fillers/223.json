@@ -1,0 +1,952 @@
+{
+    "mal-id": 223,
+    "anilist-id": 223,
+    "anilist-name_en": "Dragon Ball",
+    "anilist-name_jp": "Dragon Ball",
+    "total-episodes": 153,
+    "afl-name": "Dragon Ball",
+    "afl-link": "https://www.animefillerlist.com/shows/dragon-ball",
+    "fillers_episodes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "45",
+        "79",
+        "80",
+        "81",
+        "82",
+        "83",
+        "127",
+        "128",
+        "129",
+        "130",
+        "131",
+        "132",
+        "149",
+        "150",
+        "151",
+        "152",
+        "153"
+    ],
+    "episodes": [
+        {
+            "title": "The Secret of the Dragon Balls",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Emperor's Quest",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Nimbus Cloud of Roshi",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Oolong the Terrible",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yamcha the Desert Bandit",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keep an Eye on the Dragon Balls",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ox King on Fire Mountain",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Kamehameha Wave",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Boss Rabbit\u2019s Magic Touch",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dragon Balls are Stolen!",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Penalty is Pinball",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Wish to the Eternal Dragon",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Legend of Goku",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku's Rival",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Look Out for Launch",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Find That Stone!",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Milk Delivery",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Turtle Hermit Way",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Tournament Begins",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Elimination Round",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Smells Like Trouble",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Quarterfinals Begin",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Monster Beast Giran",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Krillin's Frantic Attack!",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Danger From Above",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Grand Finals",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Number One Under the Moon?",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Blow",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Roaming Lake",
+            "number": "29",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Pilaf and the Mystery Force",
+            "number": "30",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Wedding Plans?",
+            "number": "31",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Flying Fortress - Vanished!",
+            "number": "32",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Legend of a Dragon",
+            "number": "33",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Cruel General Red",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cold Reception",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Major Metallitron",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ninja Murasaki is Coming!",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Five Murasakis",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mysterious Android No. 8",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Horrifying Buyon",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fall of Muscle Tower",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Secret of Dr. Flappe",
+            "number": "42",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Trip to the City",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Master Thief, Hasky",
+            "number": "44",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Danger in the Air",
+            "number": "45",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bulma's Bad Day",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kame House - Found!",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Deep Blue Sea",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Roshi Surprise",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Trap is Sprung!",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beware of Robot",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Pirate Treasure",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blue, Black and Blue",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Escape From Pirate Cave",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Penguin Village",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Strange Visitor",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Arale vs. Blue",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Land of Korin",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Notorious Mercenary",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tao Attacks!",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Korin Tower",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sacred Water",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Return of Goku",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Last of Mercenary Tao",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Confront the Red Ribbon Army",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Real Bind",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The End of Commander Red",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Last Dragon Ball",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Who is Fortuneteller Baba?",
+            "number": "69",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We Are the Five Warriors",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Deadly Battle",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku's Turn",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Devilmite Beam",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mysterious Fifth Man",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Strong Ones",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "True Colors of the Masked Man",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pilaf's Tactics",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Eternal Dragon Rises",
+            "number": "78",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Terror and Plague",
+            "number": "79",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Goku vs. Sky Dragon",
+            "number": "80",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Goku Goes to Demon Land",
+            "number": "81",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Rampage of InoShikaCho",
+            "number": "82",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Which Way To Papaya Island?",
+            "number": "83",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Rivals and Arrivals",
+            "number": "84",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Preliminary Peril",
+            "number": "85",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Then There Were Eight",
+            "number": "86",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yamcha vs. Tien",
+            "number": "87",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yamcha's Big Break",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Full-Moon Vengeance",
+            "number": "89",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dodon Wave",
+            "number": "90",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Counting Controversy!!",
+            "number": "91",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku Enters the Ring",
+            "number": "92",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tien Shinhan vs. Jackie Chun",
+            "number": "93",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stepping Down",
+            "number": "94",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku vs. Krillin",
+            "number": "95",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tail's Tale",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Final Match: Goku vs. Tien",
+            "number": "97",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Victory's Edge",
+            "number": "98",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tien's Insurrection",
+            "number": "99",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Spirit Cannon",
+            "number": "100",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fallen",
+            "number": "101",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter King Piccolo",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tambourine Attacks!",
+            "number": "103",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mark of the Demon",
+            "number": "104",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Here Comes Yajirobe",
+            "number": "105",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Terrible Tambourine",
+            "number": "106",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tien's Atonement",
+            "number": "107",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku's Revenge",
+            "number": "108",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku vs. King Piccolo",
+            "number": "109",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Piccolo Closes In",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Roshi's Gambit",
+            "number": "111",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "King Piccolo's Wish",
+            "number": "112",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Siege on Chow Castle",
+            "number": "113",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Conquest and Power",
+            "number": "114",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Awaken Darkness",
+            "number": "115",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Taste of Destiny",
+            "number": "116",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Sacrifice",
+            "number": "117",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Prelude to Vengeance",
+            "number": "118",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle Cry",
+            "number": "119",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku Strikes Back",
+            "number": "120",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Biggest Crisis",
+            "number": "121",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Final Showdown",
+            "number": "122",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lost and Found",
+            "number": "123",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Temple Above the Clouds",
+            "number": "124",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Earth's Guardian Emerges",
+            "number": "125",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eternal Dragon Resurrected",
+            "number": "126",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Quicker than Lightning",
+            "number": "127",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Secret of the Woods",
+            "number": "128",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Time Room",
+            "number": "129",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Goku's Doll",
+            "number": "130",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Walking Their Own Ways",
+            "number": "131",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hotter than Lava",
+            "number": "132",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Changes",
+            "number": "133",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Preliminary Peril",
+            "number": "134",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle of the Eight",
+            "number": "135",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tien Shinhan vs. Mercenary Tao",
+            "number": "136",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Anonymous Proposal",
+            "number": "137",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mysterious Hero",
+            "number": "138",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rematch",
+            "number": "139",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku Gains Speed",
+            "number": "140",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Four Faces of Tien",
+            "number": "141",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kami vs. Piccolo",
+            "number": "142",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle for the Future",
+            "number": "143",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Super Kamehameha",
+            "number": "144",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Junior No More",
+            "number": "145",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku's Trap",
+            "number": "146",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goku Hangs On",
+            "number": "147",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Victor",
+            "number": "148",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dress in Flames",
+            "number": "149",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Fire-Eater",
+            "number": "150",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Outrageous Octagon",
+            "number": "151",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mystery of the Dark World",
+            "number": "152",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The End, The Beginning",
+            "number": "153",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

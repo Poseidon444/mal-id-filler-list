@@ -1,0 +1,323 @@
+{
+    "mal-id": 71,
+    "anilist-id": 71,
+    "anilist-name_en": "Full Metal Panic!",
+    "anilist-name_jp": "Full Metal Panic!",
+    "total-episodes": 24,
+    "afl-name": "Full Metal Panic!",
+    "afl-link": "https://www.animefillerlist.com/shows/full-metal-panic",
+    "fillers_episodes": [
+        "13",
+        "14",
+        "15",
+        "19",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36"
+    ],
+    "episodes": [
+        {
+            "title": "The Guy I Kinda Like is a Sergeant",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "I Want to Protect You",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Lingerie Panic",
+            "number": "3",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Kidnap",
+            "number": "4",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Whispered",
+            "number": "5",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Still Alive",
+            "number": "6",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Boy Meets Girl",
+            "number": "7",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Part Time Steady",
+            "number": "8",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Dangerous Safe House",
+            "number": "9",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Run, Running, Ran",
+            "number": "10",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Behemoth Awakening",
+            "number": "11",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "One Night Stand",
+            "number": "12",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Cat and a Kitten's Rock & Roll",
+            "number": "13",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Is Narashino Burning?",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Wind Blows at Home, Part 1",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Wind Blows at Home, Part 2",
+            "number": "16",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Wind Blows at Home, Part 3",
+            "number": "17",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Deep Sea Party",
+            "number": "18",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Engaging Six and Seven",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Venom's Flame",
+            "number": "20",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Deep Trap",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jack in the Box",
+            "number": "22",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Field of Giants",
+            "number": "23",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Into the Blue",
+            "number": "24",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Man From the South / A Hostage With No Compromises",
+            "number": "25",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hostility Passing-By / A Fruitless Lunchtime",
+            "number": "26",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Summer Illusion of Steel",
+            "number": "27",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Hamburger Hill of Art / Single-Minded Stakeout",
+            "number": "28",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Pure Yet Impure Grappler / Trespassing on Good Faith",
+            "number": "29",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Hard Sell Fetish / The Patient of Darkness",
+            "number": "30",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Warcry of Excessiveness",
+            "number": "31",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Goddess Comes to Japan (Part 1: The Suffering)",
+            "number": "32",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Goddess Comes to Japan (Part 2: The Hot Spring)",
+            "number": "33",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Fancy Without Honor or Humanity",
+            "number": "34",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Uncontrollable Bluebird",
+            "number": "35",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "5th Period Hot Spot",
+            "number": "36",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The End of Day by Day",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Scene Below the Water",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Labyrinth and Dragon",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Daylight",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beautiful Sicily",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Edge of Heaven",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Left Behind",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jungle Groove",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Her Problem",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hong Kong in Two",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "His Problem",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Burning Hong Kong",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Continuing Day By Day",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

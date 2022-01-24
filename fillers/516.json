@@ -1,0 +1,2416 @@
+{
+    "mal-id": 516,
+    "anilist-id": 516,
+    "anilist-name_en": "Sgt. Frog",
+    "anilist-name_jp": "Keroro Gunsou",
+    "total-episodes": 358,
+    "afl-name": "Sgt. Frog",
+    "afl-link": "https://www.animefillerlist.com/shows/keroro-gunsou-sgtfrog",
+    "fillers_episodes": [
+        "23",
+        "33",
+        "37",
+        "38",
+        "44",
+        "47",
+        "52",
+        "53",
+        "54",
+        "57",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67",
+        "68",
+        "69",
+        "70",
+        "72",
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78",
+        "79",
+        "83",
+        "84",
+        "86",
+        "87",
+        "88",
+        "89",
+        "90",
+        "91",
+        "92",
+        "93",
+        "95",
+        "96",
+        "99",
+        "100",
+        "104",
+        "105",
+        "106",
+        "107",
+        "108",
+        "111",
+        "114",
+        "115",
+        "117",
+        "118",
+        "119",
+        "120",
+        "121",
+        "123",
+        "124",
+        "125",
+        "126",
+        "128",
+        "129",
+        "130",
+        "131",
+        "134",
+        "135",
+        "137",
+        "138",
+        "139",
+        "140",
+        "143",
+        "144",
+        "145",
+        "146",
+        "147",
+        "148",
+        "150",
+        "152",
+        "153",
+        "154",
+        "155",
+        "157",
+        "158",
+        "159",
+        "161",
+        "162",
+        "163",
+        "164",
+        "165",
+        "166",
+        "167",
+        "168",
+        "169",
+        "170",
+        "171",
+        "172",
+        "174",
+        "176",
+        "177",
+        "179",
+        "181",
+        "182",
+        "184",
+        "185",
+        "186",
+        "187",
+        "188",
+        "189",
+        "190",
+        "192",
+        "193",
+        "194",
+        "196",
+        "197",
+        "198",
+        "199",
+        "200",
+        "201",
+        "202",
+        "203",
+        "204",
+        "205",
+        "206",
+        "207",
+        "208",
+        "209",
+        "210",
+        "211",
+        "212",
+        "213",
+        "214",
+        "215",
+        "216",
+        "217",
+        "218",
+        "219",
+        "220",
+        "221",
+        "222",
+        "223",
+        "224",
+        "225",
+        "226",
+        "227",
+        "229",
+        "230",
+        "231",
+        "232",
+        "233",
+        "234",
+        "235",
+        "237",
+        "238",
+        "239",
+        "241",
+        "242",
+        "244",
+        "245",
+        "246",
+        "247",
+        "248",
+        "249",
+        "250",
+        "251",
+        "252",
+        "253",
+        "254",
+        "255",
+        "258",
+        "259",
+        "260",
+        "261",
+        "262",
+        "263",
+        "264",
+        "265",
+        "266",
+        "267",
+        "268",
+        "269",
+        "270",
+        "271",
+        "272",
+        "273",
+        "275",
+        "276",
+        "277",
+        "278",
+        "279",
+        "280",
+        "281",
+        "283",
+        "284",
+        "285",
+        "286",
+        "287",
+        "288",
+        "289",
+        "290",
+        "291",
+        "292",
+        "293",
+        "294",
+        "295",
+        "296",
+        "297",
+        "298",
+        "299",
+        "300",
+        "301",
+        "302",
+        "303",
+        "304",
+        "305",
+        "306",
+        "307",
+        "308",
+        "309",
+        "310",
+        "311",
+        "312",
+        "313",
+        "314",
+        "315",
+        "316",
+        "317",
+        "318",
+        "319",
+        "320",
+        "321",
+        "322",
+        "324",
+        "325",
+        "326",
+        "327",
+        "328",
+        "329",
+        "330",
+        "331",
+        "332",
+        "333",
+        "343",
+        "344",
+        "346",
+        "347",
+        "348",
+        "349",
+        "350",
+        "351",
+        "352",
+        "353",
+        "354",
+        "355",
+        "356"
+    ],
+    "episodes": [
+        {
+            "title": "Meet the Sergeant!",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Bag of Secrets!",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Amphibian on the Verge of a Nervous Breakdown!",
+            "number": "3",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Blood Violence Death Kill!",
+            "number": "4",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Song of Men Who Love Toys ",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghost Kiss-perer!",
+            "number": "6",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Apocalypse Later!",
+            "number": "7",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Base: The Final Frontier!",
+            "number": "8",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Desperately Seeking Brains!",
+            "number": "9",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Sgt. Frog Versus the Cavitians of Cavity 9!",
+            "number": "10",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Fake It 'Til You Make It!",
+            "number": "11",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Pop $tartled!",
+            "number": "12",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Viper? I Hardly Knew Her!",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Silence of the Plans!",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dark Momoka Saga!",
+            "number": "15",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Twin at All Costs!",
+            "number": "16",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro vs Natsumi, Great Underwater Battle!/ Fuyuki, welcome to the Horror World",
+            "number": "17",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsumi is Hilarious! Adult Coast Story",
+            "number": "18",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro vs Natsumi, Final Battle in the Festival!/Keroro, your ears have been invaded by radio!",
+            "number": "19",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Fuyuki meets a girl/Fuyuki, Messenger of the Nontolma",
+            "number": "20",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, saving energy also is invasion/Keroro attacks the countryside!",
+            "number": "21",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Tamama, from now on, I'm the leader!",
+            "number": "22",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Panic! The most noisy day in the Hinata Residence!",
+            "number": "23",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, the Space Detective of Justice and Poverty/556, tokusatsu job on the frontlines",
+            "number": "24",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Momoka, fugitive of love, youth and trouble",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, united! Invading the Sports Festival ",
+            "number": "26",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, father is coming, father is going! Keroro Hotspring, GO! GO! GO!",
+            "number": "27",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, snowball battle survival/ Kululu, Ku of Kukuku",
+            "number": "28",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsumi and Koyuki, youth on stage!/ Keroro Scoop NG!",
+            "number": "29",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Tamama, the boy that came from Planet Keron/ Momoka aims for a Nice Body!",
+            "number": "30",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro wants to but can't return",
+            "number": "31",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Animal Platoon Assemble!/ Giroro, what the cat wishes to say...",
+            "number": "32",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro Platoon invades Pekopon through anime!",
+            "number": "33",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka vs Koyuki, hotspring battle/ Keroro and Fuyuki relax together",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Top Secret! Operation Natsumi's Birthday Party!",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro duel! Sergeant vs General Winter/ Fuyuki, that's how it is, Nishizawa ",
+            "number": "36",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Dororo, to the ninja classroom/ Keroro's dinosaur",
+            "number": "37",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, mobile infantry of love/Giroro vs Natsumi's re-encounter",
+            "number": "38",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, the Great Christmas Operation/ Keroro, housecleaning in a day's work",
+            "number": "39",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Mois, you could say, happy new year?/ Keroro, new year's food and work are going well",
+            "number": "40",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, board game guided battle!/ Dororo, burning up with passion ",
+            "number": "41",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, red blooded Keroro Platoon/ Tamama, the jealously shoot of friendship",
+            "number": "42",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Giroro, the red oni who can't cry/ Giroro, flying into setsubun",
+            "number": "43",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro vs Fuyuki, Sports Duel/ Kululu vs Aki, Explosive Invasion Robots",
+            "number": "44",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, sudden love for Dango/Natsumi and Momoka, Valentine Operation Initiated!",
+            "number": "45",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, have you forgotten me?",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsumi, protect the girl's festival/ Keroro with Afro",
+            "number": "47",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro platoon's dazzingly spring operation/ Fuyuki, Useless Hazard Rescue Operation",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kululu, How to Suceed in Space/Momoka, White Day Operation",
+            "number": "49",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsumi, high fever of the Earth warrior/ Giroro, If I can't do it, who will?!",
+            "number": "50",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro Platoon Retreats! Goodbye, Pekopon!",
+            "number": "51",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, standing on Earth once again!/ Tamama, Black Tamama",
+            "number": "52",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Great Treasure Invasion Operation/ Angol Mois, more more flower viewing",
+            "number": "53",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki, I'm a famous detective?/ Dororo, the revived warrior",
+            "number": "54",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, the ressurected soldier/Fuyuki, swimming carp flags!",
+            "number": "55",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsumi and Koyuki, Princesses of Tennis/Keroro, sunny summer day for invasion",
+            "number": "56",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Dororo, revenge is mine/ Huge Frog vs Giant Monsters of the Southern Sea",
+            "number": "57",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, invading with a vending machine/Tamama Awakens! New Final Attack!",
+            "number": "58",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, raising a castle/Keroro, moving castle",
+            "number": "59",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, KeroKero Machines Extreme Racing/Mois, you could say, Sleeping Beauty wishes for a quiet sleep?",
+            "number": "60",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki, Whatever happened to the Mysterious Transfer Student?/ Natsumi and Saburo, the two who can't return",
+            "number": "61",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka & Natsumi & Mois, Phantom Thieves More Peach Summer/ Keroro Triumphant! Great Water Battle  ",
+            "number": "62",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Teacher Keroro, Gerogero Story/ Keroro, father re-encounter",
+            "number": "63",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, if you want to suck, suck! Just kidding, stop/ Dororo, escape from trauma",
+            "number": "64",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro roar at Pekopon!/Tamama, a visitor from Planet Keron",
+            "number": "65",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, Love Rescue Operation/ Natsumi & Koyuki, heart-beating first date",
+            "number": "66",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki & Momoka, secret mystery date/ Keroro, let's make a game",
+            "number": "67",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro reform! Great reconstruction!/ Dororo, now come! Destined Showdown",
+            "number": "68",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsumi and Fuyuki, Spirited Away/ Keroro yearly! Midsummer Comedy Battle!",
+            "number": "69",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keronians vs Pekoponians, finally, all out battle?! / Koyuki, thrilling first riceball",
+            "number": "70",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Villainous! Annoying! Legend of the king who forgot his Space Homework",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Ironman Chief Challenge/ Tamama, Strongest Warrior Challenge",
+            "number": "72",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki 198X: Our Summer Vacation",
+            "number": "73",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Suprising Special - GeroGero 30 minutes",
+            "number": "74",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka Awakens! The third Momoka!",
+            "number": "75",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro Platoon, take me to the moon",
+            "number": "76",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tamama, am I really getting married?/ Tamama, sealed Tamama Impact",
+            "number": "77",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, treasure hunting should be on a treasure island",
+            "number": "78",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki, don't give up on the Sports Festival/ Giroro, I know the cat",
+            "number": "79",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, lonely runaway",
+            "number": "80",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Giroro, red-faced days full of willpower/ Fight Koyuki! Protect your loved ones!",
+            "number": "81",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Mutsumi, do you want to be on My Radio? Keroro vs Natsumi, 1/6 model battle",
+            "number": "82",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Mixed Hot Springs Murder Case, etc./ Kururu, completely unpleasant guy",
+            "number": "83",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, Lunching in space/ Keroro, harvesting mushrooms",
+            "number": "84",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, turn it once and switch bodies/ Natsumi becomes a magical girl",
+            "number": "85",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Fuyuki & Natsumi, devilish Hinata residence/ Keroro become Super Heroes!",
+            "number": "86",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro congratulates! Happy Birthday!/ Mois, Mois in Wonderland",
+            "number": "87",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dasonu Maso conquers Pekopon! Actually, he didn't even want it.",
+            "number": "88",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, the man with seven faces/ Fuyuki go! Occult Tournament",
+            "number": "89",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, I can't say Merry Christmas",
+            "number": "90",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, the New Year: Birth of the New Keroro/ Koyuki, grandma is coming",
+            "number": "91",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro Platoon, love from the sky/ Momoka vs Mois: Hanetsuki Battle",
+            "number": "92",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsumi enters into the secret base/ AkiHinata, probably the strongest woman in the universe",
+            "number": "93",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Karara & Taruru take Pekopon!",
+            "number": "94",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsumi and Giroro separated? Desperate Rescue Mission!",
+            "number": "95",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "More Peach Summer Snow, Final Battle in Valentine's/ Keroro, an extremely sorrowful tale",
+            "number": "96",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, written as \"enemy\", but read as \"friend\"/ Keroro & Fuyuki, just the two of us...",
+            "number": "97",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Momoka, the grand running away plan/ Dororo & Koyuki, a memorable encounter",
+            "number": "98",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsumi, Nacchi, the good dog/ Keroro, a naughty Keroppa",
+            "number": "99",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro e? Who... am I? Who is... Everyone?",
+            "number": "100",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro Platoon, the Day Pekopon Stood Still",
+            "number": "101",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro Platoon, Pekopon! Impending destruction of a beloved planet!",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro Platoon, the sincerity that you showed me",
+            "number": "103",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, farewell, lovable Keroro/ Keroro, Countdown to Ruin",
+            "number": "104",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Great Opening of the Smile Sales/ Momoka, cherry blossom viewing love love operation",
+            "number": "105",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki & Natsumi, suddenly invaders/ Giroro, time for hobbies",
+            "number": "106",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsumi, a fearful health inspection/ Fuyuki & Natsumi, the Great Sibling War",
+            "number": "107",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tamama exclusive! Adult time/ Fuyuki and Momoka, The Island of Doctor Kululu",
+            "number": "108",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Master Mama's Grand Soothing Operation/Dororo, Runaway Silent Galaxy Express",
+            "number": "109",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, a little of a mysterious medicine/ Keroro, all paths lead to starfruits",
+            "number": "110",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Koyuki, a shinobi pajama party/ Natsumi, the surprising teacher visit",
+            "number": "111",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kululu & Saburo, meeting in a drawing duel",
+            "number": "112",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, fight, our WettleKing!/ Natsumi, the Return of WettleKing",
+            "number": "113",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Giroro, vengeance is ours/Keroro, Dasonu Maso again, again and again?",
+            "number": "114",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Nyororo vs Mecha-Nyororo/ Keroro, Gone with the Nyobo",
+            "number": "115",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, aiming for a shinning bath/ Mois, a diary about Uncle.",
+            "number": "116",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro wishes on Tanaba/ Keroro Revival! The Extraordinary Dopamine!",
+            "number": "117",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Ghost Girl, let's go to school/ Kululu, the Sergeant Major of Curry",
+            "number": "118",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro Glorious! Summer Training Camp/ Keroro, catch the midsummer day!",
+            "number": "119",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Doinaka Coast Returns/ Momoka, a summer experience",
+            "number": "120",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dororo, the Kunoichi Karara appears!",
+            "number": "121",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kululu, the cursed DVD/ Natsumi, everything is forbidden!",
+            "number": "122",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Visiting Grandma Hinata/ Tamama and the Turtle",
+            "number": "123",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Summer's Treasure",
+            "number": "124",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, conveyor belt sushi with no morals/ Keroro, The Mosquito of Terror",
+            "number": "125",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro & Natsumi, where are the heroes?!",
+            "number": "126",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, secret Moon vacation/ Giroro, Typhoon Invasion Start!",
+            "number": "127",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro in the end prays to god?!",
+            "number": "128",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kiruru, the Messenger of Destruction",
+            "number": "129",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro Platoon, all members reboot!/ Garuru Platoon, everyone fight!",
+            "number": "130",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, a secret day off/ Baio conquers the Sports Festival",
+            "number": "131",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dororo, the moment is important!/ Natsumi, my blue bird",
+            "number": "132",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Arisa, Hunter of Darkness, Halloween Mayhem",
+            "number": "133",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, if you have a cold, why don't you get a dub voice?/ Fuyuki & Kululu go to Akihabara",
+            "number": "134",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Karara & Chiroro, The Shichi-Go-San of Nagomi/ Keroro, it's only one grain left",
+            "number": "135",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Aki, war at hot springs/ Keroro, Go! Keroropan",
+            "number": "136",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, it's an Excursion until you say \"I'm home!\"/ Keroro, sukiyaki of love and sorrow",
+            "number": "137",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Keroro Show/ Fuyuki & Chiruyo, KGS Returns",
+            "number": "138",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "556, Okutokyo is a man's battlefield",
+            "number": "139",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro Platoon, Super Tax Returns Operation/ Keroro, a certain man's fight",
+            "number": "140",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Okutokyo's Ice Age, Arisa appears",
+            "number": "141",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, give me back my new year!/ Giroro, let's start working on the Pekopon Invasion!",
+            "number": "142",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro miracle!? Keroro's father/ Hinata House submerged?!",
+            "number": "143",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, the Legend of the Iron Mask, the Mystery of the Big Ears",
+            "number": "144",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Urere, the salesman invader/ Keroro, And Then Nonetheless There Were None",
+            "number": "145",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Pluto, Do you Remember it?",
+            "number": "146",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Paul, a Butler's Honor/ Giroro, who gave me this?",
+            "number": "147",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Koyuki, Jidaigeki Wonderland/ Keroro jumps to Chubei",
+            "number": "148",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Arisa, Alien versus Monster",
+            "number": "149",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Giroro, time to depart",
+            "number": "150",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Chiruyo, Marking White Day/Fuyuki, plan your usage",
+            "number": "151",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Always! Planet Ad's Heaven",
+            "number": "152",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kerokero, Military Operation Number 100",
+            "number": "153",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Farewell, Sergeant Keroro!",
+            "number": "154",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro Platoon, Perfect Rhythm/ Keroro Platoon, Great Resonance",
+            "number": "155",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro Combination! Keroro Robo/ Keroro Invasion! Cherry Blossoms Frontline!",
+            "number": "156",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Pururu, count with the Chief Nurse/ Natsumi, today's fortune",
+            "number": "157",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, past victories/ Giroro, forbidden memories",
+            "number": "158",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro Climax! Card Battle/ Keroro, the targeted Platoon",
+            "number": "159",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, the Strongest Mother's Day",
+            "number": "160",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Putata and Mekeke, professional killers",
+            "number": "161",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Chibi Kero, Joriri from those times...",
+            "number": "162",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsumi, Goodbye Saburo/ Fuyuki & Arisa, Rain Monster",
+            "number": "163",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Nyororo Extinction?/ Lavie, becoming a bride",
+            "number": "164",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kululu, temporary leader/ Koyuki, extreme normalcy training",
+            "number": "165",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Crush! WettleRobo/ Keroro, Assault! Wettle Human",
+            "number": "166",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "556, how to make cup ramen/ Keroro, capture! Crosswords",
+            "number": "167",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Invading with Limited Items/ Momoka, Limited Tanabata",
+            "number": "168",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Urere, King of Trains/ Giroro, the beautiful girl and the liquid Keronian",
+            "number": "169",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki & Keroro, expose! Seven Mysteries!/ Pururu & Chiruyo, Secret Friends",
+            "number": "170",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tamama, Rebel Without a Cause/ Kururu housesitting?",
+            "number": "171",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Arisa & Fuyuki, UMA versus Dungal",
+            "number": "172",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Yamato and Kapuu",
+            "number": "173",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, messy hair, Afro Wave/ Dororo, Mysterious Mountain",
+            "number": "174",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Dive! Vinyl Pool/ Fuyuki & Natsumi, a new morning",
+            "number": "175",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Chibi Kero, Goodbye, Summer Vacation",
+            "number": "176",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dokuku, Gas Keronian Number 1/ Keroro, Pekopon's Number 1 Gunpla Man",
+            "number": "177",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka and the ghost, Hinata Family's Phantom",
+            "number": "178",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Running for Election!/ Natsumi & Giroro, the two who can't return ",
+            "number": "179",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, the Great Competition",
+            "number": "180",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mushishi, search for the insects!/ Momoka, Three-legged race!",
+            "number": "181",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Buried Treasure Special/ Tamama versus Tamama",
+            "number": "182",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Garuru, a bothersome vacation",
+            "number": "183",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fuyuki, Burning Occult Cultural Festival!/ Natsumi, Rome and Juliet?",
+            "number": "184",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Robobo, Big Mechanized Operation/ Tamama, This Note",
+            "number": "185",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Arisa vs Yokai of the Invasion won't advance",
+            "number": "186",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, thank you for your work/ Keroro, fight! Wakiranger",
+            "number": "187",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Nuii, don't throw me away!",
+            "number": "188",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dororo, Assassin from the past",
+            "number": "189",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, target, present! / Keroro, the big birthday party!",
+            "number": "190",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro and that certain one, a Legendary Lullaby/ Keroro, Plastic Model King, Great Clash",
+            "number": "191",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Stop Christmas!/ Keroro Platoon, Cake is a Man's Battlefield",
+            "number": "192",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, New Years with no manners/ Keroro, Sechira versus Zonira",
+            "number": "193",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Toilets, now it's time to rise!/ Kululu and a puppy",
+            "number": "194",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsumi, I want to ski too!/ Keroro, Hotsprings mean Table Tennis!",
+            "number": "195",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "It Returned! GeroGero 30 Minutes Special",
+            "number": "196",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Zeroro, are there too many?! / Keroro, I want to dig holes!",
+            "number": "197",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Chibi Kero, Cute, Little, Big Adventure/ Natsumi & Momoka, Chocolate without love is forbidden!",
+            "number": "198",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kululu, Legend of Idol Kululun/ Keroro, going back to basics!",
+            "number": "199",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Leap has come!",
+            "number": "200",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, the 3rd or March is Ear's Day?!/ Not Keroro, it's the women's fight!",
+            "number": "201",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, attack! The Last Specialist",
+            "number": "202",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Shurara, the Final Battle ",
+            "number": "203",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Robo 556/ Keroro & Natsumi, shelter from rain",
+            "number": "204",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro & Fuyuki, Another World",
+            "number": "205",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro Platoon, Start Operation Colors!/ Dororo, do you like natto? ",
+            "number": "206",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, open a company! / Ouka arrives with the Cherry Blossom",
+            "number": "207",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, a Man's Backup/ Keroro, Operation Mobile Bargain",
+            "number": "208",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Koyuki, I'm retiring as a ninja",
+            "number": "209",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsumi, perplexity after school / Aki, Children's Day",
+            "number": "210",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Musha Kero, Volume 1: The Legendary Heroes",
+            "number": "211",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, don't look at it! / 556 vs Space Superintendent",
+            "number": "212",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, Reclaim Tomorrow!",
+            "number": "213",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kululu, I quit / Pururu, nurse in love",
+            "number": "214",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, the Eight Wettle Kings / Keroro, Gamma 3's Great Wet Operation",
+            "number": "215",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Compression Invasion / Fuyuki, Hinata Family's Legendary Treasure",
+            "number": "216",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Chibi Kero, Forbidden Game/ Keroro, Invaders of Terror",
+            "number": "217",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Whisper of the Heart / Keroro, Caries War 2",
+            "number": "218",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Musha Kero, Volume 2: Laughters! Sengoku Comedy Battle",
+            "number": "219",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, What is Global Warming? / Sababa, Demon King of the Desert",
+            "number": "220",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, the final battle on Sunday / Giroro, the final battle on Sunday",
+            "number": "221",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Fishing cookies in Rainy Days / Keroro, memories and fireworks",
+            "number": "222",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, Desert Island Full of Women / Keroro, Operation Frightening Red Shoes",
+            "number": "223",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Celebrity Resort Dragnet",
+            "number": "224",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tamama, Beautiful Dive / Keroro, the Ultimate Pekoponian Suit",
+            "number": "225",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki, From A Distant Ocean Came A Turtle",
+            "number": "226",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro and Natsumi, One Room",
+            "number": "227",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Meruru, Postal Ser-vice! / Fuyuki, a break in the parking area",
+            "number": "228",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Killer Fist of Words / Saburo & Kululu, Silent Fight",
+            "number": "229",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, Operation Savings of Love / Dororo, Kikaka appears",
+            "number": "230",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Musha Kero, Volume 3: Explosion! Princess Momo's Close Call",
+            "number": "231",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Board Thief / Keroro, He-Ro-Es",
+            "number": "232",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Aki, Editors are Strong!",
+            "number": "233",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Operation TV Projector / Keroro, Invading with a How-to Book.",
+            "number": "234",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki and the Plesiosaur",
+            "number": "235",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Chewing Gun? / Tamama, Tamamatango",
+            "number": "236",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Musha Kero, Volume 4: Go West, Musha Kero Platoon",
+            "number": "237",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro Attack! Hint Age Difference Ultra Hammer/Dororo, Great Transformation!",
+            "number": "238",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsumi, is it a Love Triangle? / Pururu, Operation Marriage Interview",
+            "number": "239",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kururu, Sergeant Major's Special Mission / Keroro, Legendary Morning",
+            "number": "240",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "556, I can't tell you right now / Keroro, Vacuum Cleaner Forever!",
+            "number": "241",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Atic Walker / Keroro, Self-Consciously by Invasion ",
+            "number": "242",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Merry Christmas on the Battlefield",
+            "number": "243",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Graffiti Dwellers/ Keroro, New Year's Eve Mayhem",
+            "number": "244",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, New Year's Invasion Operation!/ 556, Scratched Helmet",
+            "number": "245",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, Extra-Hard Gargling Training / Keroro, Kero-Eraser!",
+            "number": "246",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mois, Lipstick Slapstick/Keroro, Break out! Keron Barfield",
+            "number": "247",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, don't call me Mommy / Masayoshi Yoshiokadaira, the Delusion is Mine",
+            "number": "248",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Musha Kero, Volume 5: The Keronian of the Secret Fort",
+            "number": "249",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Musha Kero, Volume 6: The Revived Hero",
+            "number": "250",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "556 and 5884!",
+            "number": "251",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Let's Go to the Movies",
+            "number": "252",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, The Incredible Keroro/ Keroro, Black-Phone Investigator 66",
+            "number": "253",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki, Trunks versus Briefs/ Garuru, Secret Feelings!?",
+            "number": "254",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Frightening Darkness Operation!/Keroro, Frightening Whiteness Operation!/Keroro, Frightening Time-Stop Operation!",
+            "number": "255",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki and Natsumi, Keroro Attacks!/Keroro, That's a Lie!",
+            "number": "256",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, First Episode Revised",
+            "number": "257",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Negative Thinking of Terror/ Keroro, Honorless Grilled Meat",
+            "number": "258",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Koyuki, Cherry Blossom Mayhem",
+            "number": "259",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kero Zero: Keroro Platoon's Last Night before Departure/ Kero Zero: Keroro Platoon's First Mission",
+            "number": "260",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, Seat Change Operation/556, My Feelings!",
+            "number": "261",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bariri in love with the Chief Nurse/ Keroro, gaze at space thinking of mother",
+            "number": "262",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, the Weevil that grants dreams/Keroro, Go, Trash Bag!",
+            "number": "263",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Space Digital Monsters Strikes!/ Keroro, transform",
+            "number": "264",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, Remote-Controlled Date/Keroro, Pooh in a Cave",
+            "number": "265",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tamama, The Wake-Up Kiss is Mine/Pururu, Secret Revealed?!",
+            "number": "266",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Air Anything Operation/ Keroro, Motel",
+            "number": "267",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kero Zero: Pekoponian Mecha Designer Kiko Katoyama appears",
+            "number": "268",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, Head over Heels Operation/Giroro, Escape From Natsumi!",
+            "number": "269",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Chibi Kero vs. Chibi Fuyuki",
+            "number": "270",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tamama, it's hard being an veteran/Natsumi, We're all boys!",
+            "number": "271",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "WettleKing versus 556!/ Three Monsters, the smallest showdown on Pekopon",
+            "number": "272",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, training is Ok!/ Koyuki, shodown! Midsummer Shore ",
+            "number": "273",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro Platoon, Keroro of Silence",
+            "number": "274",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Keron-Style Golf/ Keroro, Run Keroro",
+            "number": "275",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, the Admiral attacks!/Giroro, it's the zipper",
+            "number": "276",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kero Zero: Space Delivery/ Keroro Zero: Eating Formula",
+            "number": "277",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Ghost Girl, Before, After/ Giroro, the Red Fairy",
+            "number": "278",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Alisa's first time with Mama!?",
+            "number": "279",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro & Natsumi, Ruthless Stamp Card/Keroro, Kerobot of Sadness",
+            "number": "280",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Cicada Platoon/Keroro, Kero Day",
+            "number": "281",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, Sudden Dance of Flames/Kero Zero: All Quiet on the Fig Front",
+            "number": "282",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Five Shocked Keronians/ Fuyuki, Planet of the Humans",
+            "number": "283",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dororo, Farewell Platoon",
+            "number": "284",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Aki, Earth Defense Front/ Natsumi tension! Parent's Classroom Visit",
+            "number": "285",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Carelessly Wet Operation/ Keroro, Invasion! Softglon of Terror",
+            "number": "286",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsumi, stop those hiccups/Kero Zero: THe one waiting on the Training Planet",
+            "number": "287",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Kappa Legend/ Keroro, Welcome Back",
+            "number": "288",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, Red Devil of the Battlefield/ Keroro, is that really a lie?",
+            "number": "289",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Poyon, Miraculous Paul Operation!/Kero Zero: Snow is a Merciless Queen of the Night",
+            "number": "290",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Arisa & Nevula, First Hot Spring/Keroro Platoon, Struggle! Bird Day Fair",
+            "number": "291",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsumi, Secret of the Dresser/Keroro, you were in my dreams",
+            "number": "292",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Once again, Gero Gero 30 minutes",
+            "number": "293",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Yoshiokadaira, Bodyguard Elegy/ Natsumi, Christmas Party Operation",
+            "number": "294",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, The Two of Us Are One Kerorom/Keroro, Mysterious Ultimate Weapon",
+            "number": "295",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, New Year's Early Luck/ Keroro, this year is Keron Year!",
+            "number": "296",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, There's only one chance/Dungal lands",
+            "number": "297",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mois, Goodbye Pekopon/Saburo, The Mysterious Boy",
+            "number": "298",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, Take Down G!/ Giroro, G's Counterattack",
+            "number": "299",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Onono, the Phantom Keron Soldier",
+            "number": "300",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tamama, Kicked Out Of The Nishizawa Family?/ Momoka, Chocolate Cake of Love and Sadness",
+            "number": "301",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, I'm a director!/ Keroro & Fuyuki, Small Adventure In a Big City",
+            "number": "302",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kero Zero: my home is Pekopon",
+            "number": "303",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Please Return That!",
+            "number": "304",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Nobibi is Here!",
+            "number": "305",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shugo Kero, Dokki Doki Party!/Dororo, Doro is coming\"",
+            "number": "306",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro & Fuyuki, Night of the Time Capsule",
+            "number": "307",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Nightmare on the Third Planet/ Nocturnal Sergeant Keroro",
+            "number": "308",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, the Pekopon invasion starts/ Giroro & Natsumi, operation cell phone mail",
+            "number": "309",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tamama, Kingdom of Sweets/ Momoka, I appreciate your kindness",
+            "number": "310",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kululu, the invasion has started/ Keroro, a good kero story!",
+            "number": "311",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dororo, invasion is my mission!/ Koyuki's Secret...",
+            "number": "312",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, invasion achievement in the next day/ Aki, becoming an invader",
+            "number": "313",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, naked invasion/ Natsumi & Saburo, lunch break of the skies",
+            "number": "314",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, enjoyable horticulture/ Fuyuki, shadow stepping like the old days",
+            "number": "315",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, I'm the sergeant?/ Keroro, invasion operation from space",
+            "number": "316",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Search for Viper!/ Giroro, soldier in the closet",
+            "number": "317",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dororo, the man of the mask/ Mois, black visitor",
+            "number": "318",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mois, a genius hacker?/ Kululu, small old clock",
+            "number": "319",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsumi, charming invaders/ Pururu, June's bride?",
+            "number": "320",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, learning with the old ways/ Natsumi, gentleness is a sin...",
+            "number": "321",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giroro, impossible escape!/ Keroro, impossible rescue?",
+            "number": "322",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, advent of the space chief of house-sitting/ Natsumi, Front-line Cameraman Training!",
+            "number": "323",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsumi, presses it!/ Keroro, invader level check\"",
+            "number": "324",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, Version Up Model/ Keroro, the make up used is the self",
+            "number": "325",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Chibi Kero, fireworks from that summer/ Keroro, Swimsuit Beauties Contest!",
+            "number": "326",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, super hero!/ Keroro, invasion in a blink!",
+            "number": "327",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, becoming normal!/ Paul's day off",
+            "number": "328",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki, becoming worried!/ Natsumi, the ocean isn't large or big",
+            "number": "329",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "556, unluckiest partner/ Koyuki, first curry",
+            "number": "330",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Natsumi, one week without anger/ Keroro, invasion is a second stomach?",
+            "number": "331",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki, butterfly person appears?/ Giroro, uninvited guest",
+            "number": "332",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Momoka, mood of the starry sky/ Keroro, hairstrand of luck",
+            "number": "333",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, clash, Star Circular Violent Tool Tournament/ Keroro, My Super Decisive Plan!?",
+            "number": "334",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, leader representative robot launches!/Keroro, the moon is luxurious!",
+            "number": "335",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dororo, ninja approaching the shadow/ Natsumi, exploring the construction of the Hinata residence",
+            "number": "336",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Flowers for Algernainon/ Giroro, oh! Ferocious Ox",
+            "number": "337",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Koyuki, Halloween Day/ Koyuki vs Arisa, duel of the ocean depths",
+            "number": "338",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, red light of fear/ Keroro, Invasion Plus Minus",
+            "number": "339",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Aki, real ramen/ Joriri, false ramen",
+            "number": "340",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, restroom survival!/ Keroro vs Giroro vs Tamama vs Dororo",
+            "number": "341",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Birth! New Final Technique!/ Natsumi going through",
+            "number": "342",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "556, the Space Sheriff!/ Lavie, leave it to me",
+            "number": "343",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Pururu, Pekopon love tour/ Arisa & Momoka, women's battle",
+            "number": "344",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro vs Giroro, duel in the cold rain!/ Keroro platoon, big year-end party",
+            "number": "345",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, Bouquet of Rejected Operations/ Keroro, dear Natsumi",
+            "number": "346",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, invader's aura/ Dororon? Tamama-kun",
+            "number": "347",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fuyuki, Birth! Jerseyman Fuyuki/ Keroro, the great throat candies",
+            "number": "348",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, invading daily life/ Keroro, hooray for reset",
+            "number": "349",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mois, chronicle of uncle's hard battles/ Aki VS Cat, Anything Goes match",
+            "number": "350",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "This time it's Gero Gero 15 minutes/ Giroro, show me!",
+            "number": "351",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Nabebe, Yaminabe magistrate!/ Natsumi, 623's identity",
+            "number": "352",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Ghost girl, I'll rest in peace/ Giroro, even after dreaming time",
+            "number": "353",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro, visitor from the future/ 623, tragedy of the radio star",
+            "number": "354",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Ouka resigns!/ Keroro must survive",
+            "number": "355",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keroro platoon, Real Dragon Warriors/ Mois, the Other's Spring",
+            "number": "356",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hinata family, Haru returns",
+            "number": "357",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keroro, The world's Sgt. Keroros/ Keroro, Keron Army Style excursion great opening!",
+            "number": "358",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

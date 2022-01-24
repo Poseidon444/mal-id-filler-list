@@ -1,0 +1,180 @@
+{
+    "mal-id": 2993,
+    "anilist-id": 2993,
+    "anilist-name_en": "Rosario + Vampire",
+    "anilist-name_jp": "Rosario to Vampire",
+    "total-episodes": 13,
+    "afl-name": "Rosario + Vampire",
+    "afl-link": "https://www.animefillerlist.com/shows/rosario-vampire",
+    "fillers_episodes": [
+        "4",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "21",
+        "22",
+        "23",
+        "25",
+        "26"
+    ],
+    "episodes": [
+        {
+            "title": "New Life and a Vampire",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Succubus and a Vampire",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Witchling and Vampire",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell and a Vampire",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "School Swimsuits and a Vampire",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Newspaper Club and a Vampire",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Snow Girl and a Vampire",
+            "number": "7",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Math and a Vampire",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Summer Break and a Vampire",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sunflowers and a Vampire",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Term and a Vampire",
+            "number": "11",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Security Committee and a Vampire",
+            "number": "12",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Tsukune and a Vampire",
+            "number": "13",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Reunion and a Vampire",
+            "number": "14",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Little Sister and a Vampire",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mother and a Child and a Vampire",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Body Measurements and a Vampire",
+            "number": "17",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Curry and a Vampire",
+            "number": "18",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "School Trip and a Vampire",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bathroom and a Vampire",
+            "number": "20",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Youth and a Vampire",
+            "number": "21",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Skiing and a Vampire",
+            "number": "22",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Pretty Boy and a Vampire",
+            "number": "23",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Lilith's Mirror and a Vampire",
+            "number": "24",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Holy Seal and a Vampire",
+            "number": "25",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Cross and Family and a Vampire",
+            "number": "26",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

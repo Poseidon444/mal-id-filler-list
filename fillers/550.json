@@ -1,0 +1,183 @@
+{
+    "mal-id": 550,
+    "anilist-id": 550,
+    "anilist-name_en": null,
+    "anilist-name_jp": "Yu\u2606Gi\u2606Oh!",
+    "total-episodes": 27,
+    "afl-name": "Yu-Gi-Oh!",
+    "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh",
+    "fillers_episodes": [
+        "4",
+        "8",
+        "12",
+        "15",
+        "16",
+        "17",
+        "19",
+        "20"
+    ],
+    "episodes": [
+        {
+            "title": "The Violent Battle - A Game of Darkness",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Evil Gamer - The Trap of Hell",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash! The Strongest Monster",
+            "number": "3",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Theft! Rare Watch Battle",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Now Revealed!! Yugi's Secret",
+            "number": "5",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Desperate Situation!! Burning Friendship Battle",
+            "number": "6",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Underhanded Digital Pet Rebellion",
+            "number": "7",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Four Game Masters Finally Stir",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Explosion - Ultimate Yo-Yo Technique",
+            "number": "9",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Pressing Beautiful Teacher - A Secret Mask",
+            "number": "10",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Rumored Capmon's New Appearance",
+            "number": "11",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Lucky Foe Calls Out - The Invincible Legend",
+            "number": "12",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Targeting a Schoolgirl - The Fang of a Great Prediction",
+            "number": "13",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "In a Bomb Game - The Worst Date",
+            "number": "14",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Eerie Woman!! Unable to Transform",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Breadth's Change - Crisis of the White Robe",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Last Minute Match - The Invited Model",
+            "number": "17",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "In a Forbidden Game - Show Your Hand",
+            "number": "18",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Grand Melee!! Popularity Contest",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Come Out!! The Strongest and Final Trump Card",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Completed!! The Ultimate Game Land",
+            "number": "21",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Tearing - Boarderline Shooting",
+            "number": "22",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Capmon King! The Decisive Battle",
+            "number": "23",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Now! The Time of Decision - The Miracle of Friendship",
+            "number": "24",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A New Development - Attack of the Handsome Boy",
+            "number": "25",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Rival Clash - The Greatest Crisis",
+            "number": "26",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Friendship - From Legend to Myth",
+            "number": "27",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        }
+    ]
+}

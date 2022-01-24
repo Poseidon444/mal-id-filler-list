@@ -1,0 +1,245 @@
+{
+    "mal-id": 9919,
+    "anilist-id": 9919,
+    "anilist-name_en": "Blue Exorcist",
+    "anilist-name_jp": "Ao no Exorcist",
+    "total-episodes": 25,
+    "afl-name": "Blue Exorcist",
+    "afl-link": "https://www.animefillerlist.com/shows/blue-exorcist",
+    "fillers_episodes": [
+        "6",
+        "11",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25"
+    ],
+    "episodes": [
+        {
+            "title": "The Devil Resides in Human Souls",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Gehenna Gate",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Brothers",
+            "number": "3",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Garden of Amahara",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Boy from the Cursed Temple",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Phantom Chef",
+            "number": "6",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Flock of Plovers",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Now a Certain Man Was Sick...",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memories",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Black Cat",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Demon of the Deep Seas",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Game of Tag",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Proof",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Fun Camping Trip",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Act of Kindness",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Wager",
+            "number": "16",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Temptation",
+            "number": "17",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Gufu",
+            "number": "18",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "An Ordinary Day",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mask",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Secret Garden",
+            "number": "21",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Demon-hunting",
+            "number": "22",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Truth",
+            "number": "23",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Satan's Spawn",
+            "number": "24",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Stop, Time",
+            "number": "25",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Small Beginnings",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Strange Bedfellows",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Suspicion Will Raise Bogies",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Act of Treachery",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mysterious Connections",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Wolf in Sheep's Clothing",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Like a Fire Burning Bright",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "From Father to Son",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Through Thick and Thin",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unbowed and Unbroken",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shine Bright as the Sun",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Candid and Open",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

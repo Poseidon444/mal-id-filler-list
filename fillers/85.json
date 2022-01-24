@@ -1,0 +1,30 @@
+{
+    "mal-id": 85,
+    "anilist-id": 85,
+    "anilist-name_en": "Mobile Suit Zeta Gundam",
+    "anilist-name_jp": "Kidou Senshi Zeta Gundam",
+    "total-episodes": 50,
+    "afl-name": "Mobile Suit Zeta Gundam",
+    "afl-link": "https://www.animefillerlist.com/shows/mobile-suit-zeta-gundam",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Black Gundam",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Departure",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Inside the Capsule",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

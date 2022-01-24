@@ -1,0 +1,26 @@
+{
+    "mal-id": 86,
+    "anilist-id": 86,
+    "anilist-name_en": "Mobile Suit Gundam ZZ",
+    "anilist-name_jp": "Kidou Senshi Gundam ZZ",
+    "total-episodes": 47,
+    "afl-name": "Mobile Suit Gundam ZZ",
+    "afl-link": "https://www.animefillerlist.com/shows/mobile-suit-gundam-zz",
+    "fillers_episodes": [
+        "1"
+    ],
+    "episodes": [
+        {
+            "title": "Prelude of ZZ",
+            "number": "1",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Boy from Shangri-La",
+            "number": "2",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ]
+}

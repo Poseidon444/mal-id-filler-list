@@ -1,0 +1,253 @@
+{
+    "mal-id": 1251,
+    "anilist-id": 1251,
+    "anilist-name_en": "Nadia: The Secret of Blue Water",
+    "anilist-name_jp": "Fushigi no Umi no Nadia",
+    "total-episodes": 39,
+    "afl-name": "Nadia: The Secret of Blue Water",
+    "afl-link": "https://www.animefillerlist.com/shows/nadia-secret-blue-water",
+    "fillers_episodes": [
+        "24",
+        "26",
+        "29",
+        "32",
+        "33",
+        "34"
+    ],
+    "episodes": [
+        {
+            "title": "The Girl at the Eiffel Tower",
+            "number": "1",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Little Fugitives",
+            "number": "2",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Riddle of the Giant Sea Monsters",
+            "number": "3",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nautilus, The Fantastic Submarine",
+            "number": "4",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Marie's Island",
+            "number": "5",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Infiltration of the Secret Base",
+            "number": "6",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Tower of Babel",
+            "number": "7",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mission to Rescue Nadia",
+            "number": "8",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nemo's Secret",
+            "number": "9",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Crowning Performance by the Gratan",
+            "number": "10",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Recruits for the Nautilus",
+            "number": "11",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Grandis and Her First Love",
+            "number": "12",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Run, Marie, Run!",
+            "number": "13",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Valley of Dinicthys",
+            "number": "14",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Nautilus Faces Its Biggest Crisis",
+            "number": "15",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mystery of the Lost Continent",
+            "number": "16",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jean's New Invention",
+            "number": "17",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nautilus vs. Nautilus",
+            "number": "18",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nemo's Best Friend",
+            "number": "19",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jean Makes a Mistake",
+            "number": "20",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell... Nautilus",
+            "number": "21",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Electra the Traitor",
+            "number": "22",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Young Drifters",
+            "number": "23",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lincoln Island",
+            "number": "24",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The First Kiss",
+            "number": "25",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Lonely King",
+            "number": "26",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Island of the Witch",
+            "number": "27",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Floating Island",
+            "number": "28",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "King vs. King",
+            "number": "29",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Labyrinth in the Earth",
+            "number": "30",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell, Red Noah",
+            "number": "31",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nadia's First Love...?",
+            "number": "32",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "King's Rescue",
+            "number": "33",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "My Darling Nadia \u2665 (Series Recap)",
+            "number": "34",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Secret of Blue Water",
+            "number": "35",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The New Nautilus",
+            "number": "36",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Emperor Neo",
+            "number": "37",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To the Sky...",
+            "number": "38",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Successor to the Stars...",
+            "number": "39",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ]
+}

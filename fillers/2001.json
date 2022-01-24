@@ -1,0 +1,176 @@
+{
+    "mal-id": 2001,
+    "anilist-id": 2001,
+    "anilist-name_en": "Gurren Lagann",
+    "anilist-name_jp": "Tengen Toppa Gurren Lagann",
+    "total-episodes": 27,
+    "afl-name": "GURREN LAGANN",
+    "afl-link": "https://www.animefillerlist.com/shows/gurren-lagann",
+    "fillers_episodes": [
+        "16"
+    ],
+    "episodes": [
+        {
+            "title": "Bust Through The Heavens With Your Drill!",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Said I'm Gonna Pilot That Thing!",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Who Do You Think You Are, Having Two Faces!?",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Having Lots of Faces Doesn't Make You Great!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Don't Get It, Not One Damn Bit!",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sit in the Hot Tub 'Till You're Sick!!",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You're Gonna Do It!!",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Later Buddy",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What Exactly, is a Human?",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Who Is This Bro?",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Simon, Hands Off",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yoko, Will You Do Me a Favor?",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eat Up, Everyone!",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Well Met, Everyone",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Will Head Towards Tomorrow",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Compilation Episode",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "You Don't Know Anything!",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tell Me the Secrets of This World",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We Will Survive By Any Means Necessary",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "How Far Will God Test Us?",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Are Someone Who Ought To Survive",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That Is My Last Duty",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let's Go, This Is The Final Battle",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'll Never Forget This Minute, This Second",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Accept Your Last Wish!",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let's Go, Buddy",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Lights In The Sky Are Stars",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

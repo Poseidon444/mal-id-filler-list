@@ -1,0 +1,86 @@
+{
+    "mal-id": 38480,
+    "anilist-id": 104463,
+    "anilist-name_en": "A Certain Scientific Accelerator",
+    "anilist-name_jp": "Toaru Kagaku no Accelerator",
+    "total-episodes": 12,
+    "afl-name": "A Certain Scientific Accelerator",
+    "afl-link": "https://www.animefillerlist.com/shows/sh%C5%8Dnan-pure-love-gang",
+    "fillers_episodes": [
+        "1"
+    ],
+    "episodes": [
+        {
+            "title": "Accelerator (Academy City's Mightiest Esper)",
+            "number": "1",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Necromancer (Raiser of the Dead)",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Numbers (Charms of the Four Perils)",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Third Number (The Pseudo-Soul, Huotou)",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DA (Security Officer Darkness)",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Scavenger (Corpse-Eating Squad)",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Download (Time Limit)",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Friend (Hirumi)",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memory of Death (10031 Deaths)",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Catastrophe (Awakening)",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Perfect Golem (Perfect Body)",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Something to Protect",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

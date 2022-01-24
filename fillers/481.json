@@ -1,0 +1,1454 @@
+{
+    "mal-id": 481,
+    "anilist-id": 481,
+    "anilist-name_en": "Yu-Gi-Oh!",
+    "anilist-name_jp": "Yu\u2606Gi\u2606Oh! Duel Monsters",
+    "total-episodes": 224,
+    "afl-name": "Yu-Gi-Oh! Duel Monsters",
+    "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh-duel-monsters",
+    "fillers_episodes": [
+        "13",
+        "25",
+        "33",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "74",
+        "80",
+        "98",
+        "99",
+        "100",
+        "101",
+        "102",
+        "103",
+        "104",
+        "105",
+        "106",
+        "107",
+        "108",
+        "109",
+        "110",
+        "111",
+        "112",
+        "113",
+        "114",
+        "115",
+        "116",
+        "117",
+        "118",
+        "119",
+        "120",
+        "121",
+        "136",
+        "144",
+        "145",
+        "146",
+        "147",
+        "148",
+        "149",
+        "150",
+        "151",
+        "152",
+        "153",
+        "154",
+        "155",
+        "156",
+        "157",
+        "158",
+        "159",
+        "160",
+        "161",
+        "162",
+        "163",
+        "164",
+        "165",
+        "166",
+        "167",
+        "168",
+        "169",
+        "170",
+        "171",
+        "172",
+        "173",
+        "174",
+        "175",
+        "176",
+        "177",
+        "178",
+        "179",
+        "180",
+        "181",
+        "182",
+        "183",
+        "184",
+        "185",
+        "186",
+        "187",
+        "188",
+        "189",
+        "190",
+        "191",
+        "192",
+        "193",
+        "194",
+        "195",
+        "196",
+        "197",
+        "198",
+        "225"
+    ],
+    "episodes": [
+        {
+            "title": "The Heart of the Cards",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gauntlet Is Thrown",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Journey to the Duelist Kingdom",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Into The Hornet's Nest",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Great Moth",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "First Duel",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Attack from the Deep",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Everything's Relative",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Duel With a Ghoul",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Give up the Ghost",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dueling Monkey",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Trial by Red-Eyes",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Evil Spirit of the Ring",
+            "number": "13",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Light at the End of the Tunnel",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Winning Through Intimidation",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Scars of Defeat",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Arena of Lost Souls, Part 1",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Arena of Lost Souls, Part 2",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Double Trouble Duel, Part 1",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Double Trouble Duel, Part 2",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Double Trouble Duel, Part 3",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Face Off, Part 1",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Face Off, Part 2",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Face Off, Part 3",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shining Friendship",
+            "number": "25",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Champion Vs. Creator, Part 1",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Champion Vs. Creator, Part 2",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Night Before",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Duel Identity, Part 1",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Duel Identity, Part 2",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keith's Machinations, Part 1",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keith's Machinations, Part 2",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Best of Friends Best of Duelists, Part 1",
+            "number": "33",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Best of Friends Best of Duelists, Part 2",
+            "number": "34",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Yugi Vs. Pegasus Match of the Millennium, Part 1",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yugi Vs. Pegasus Match of the Millennium, Part 2",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yugi Vs. Pegasus Match of the Millennium, Part 3",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yugi Vs. Pegasus Match of the Millennium, Part 4",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yugi Vs. Pegasus Match of the Millennium, Part 5",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Aftermath",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Wrath of Rebecca",
+            "number": "41",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Ties of Friendship",
+            "number": "42",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Legendary Heroes, Part 1",
+            "number": "43",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Legendary Heroes, Part 2",
+            "number": "44",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Legendary Heroes, Part 3",
+            "number": "45",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dungeon Dice Monsters, Part 1",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dungeon Dice Monsters, Part 2",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dungeon Dice Monsters, Part 3",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dungeon Dice Monsters, Part 4",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mystery Duelist, Part 1",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mystery Duelist, Part 2",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Past Is Present",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Steppin' Out",
+            "number": "53",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Obelisk the Tormentor",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stalked by the Rare Hunters",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yugi Vs. Rare Hunter, Part 1: Battle City Begins",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yugi Vs. Rare Hunter, Part 2: Up Against Exodia",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The ESP Duelist, Part 1",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The ESP Duelist, Part 2",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Master of Magicians, Part 1",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Master of Magicians, Part 2",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Master of Magicians, Part 3",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Playing With a Parasite, Part 1",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Playing With a Parasite, Part 2",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mime Control, Part 1",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mime Control, Part 2",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mime Control, Part 3",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Legendary Fisherman, Part 1",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Legendary Fisherman, Part 2",
+            "number": "69",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Double Duel, Part 1: Yugi and Kaiba Vs. Lumis and Umbra",
+            "number": "70",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Double Duel, Part 2: Yugi and Kaiba Vs. Lumis and Umbra",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Double Duel, Part 3: Yugi and Kaiba Vs. Lumis and Umbra",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Double Duel, Part 4: Yugi and Kaiba Vs. Lumis and Umbra",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Rescue",
+            "number": "74",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Friends 'Til the End, Part 1",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Friends 'Til the End, Part 2",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Friends 'Til the End, Part 3",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Friends 'Til the End, Part 4",
+            "number": "78",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shadow of a Duel",
+            "number": "79",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Lights, Camera, Duel!",
+            "number": "80",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Let the Finals Begin!",
+            "number": "81",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dark Spirit Revealed: Yugi Vs. Bakura, Part 1",
+            "number": "82",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dark Spirit Revealed: Yugi Vs. Bakura, Part 2",
+            "number": "83",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dark Spirit Revealed: Yugi Vs. Bakura, Part 3",
+            "number": "84",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rage of the Egyptian Gods",
+            "number": "85",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Awakening of Evil, Part 1",
+            "number": "86",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Awakening of Evil, Part 2",
+            "number": "87",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Awakening of Evil, Part 3",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Awakening of Evil, Part 4",
+            "number": "89",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mind Game: Mai Vs. Marik, Part 1",
+            "number": "90",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mind Game: Mai Vs. Marik, Part 2",
+            "number": "91",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mind Game: Mai Vs. Marik, Part 3",
+            "number": "92",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Duel With Destiny: Kaiba Vs. Ishizu, Part 1",
+            "number": "93",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Duel With Destiny: Kaiba Vs. Ishizu, Part 2",
+            "number": "94",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Tomb-Keepers' Secret",
+            "number": "95",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showdown in the Shadows: Marik Vs. Bakura, Part 1",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showdown in the Shadows: Marik Vs. Bakura, Part 2",
+            "number": "97",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Virtual Nightmare!",
+            "number": "98",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Isolated in Cyberspace, Part 1",
+            "number": "99",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Isolated in Cyberspace, Part 2",
+            "number": "100",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Isolated in Cyberspace, Part 3",
+            "number": "101",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Freeze Play, Part 1",
+            "number": "102",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Freeze Play, Part 2",
+            "number": "103",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Courtroom Chaos, Part 1",
+            "number": "104",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Courtroom Chaos, Part 2",
+            "number": "105",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mechanical Mayhem, Part 1",
+            "number": "106",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mechanical Mayhem, Part 2",
+            "number": "107",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Settling the Score, Part 1",
+            "number": "108",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Settling the Score, Part 2",
+            "number": "109",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Noah's Secret",
+            "number": "110",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Merger of the Big Five, Part 1",
+            "number": "111",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Merger of the Big Five, Part 2",
+            "number": "112",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Merger of the Big Five, Part 3",
+            "number": "113",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Brothers in Arms, Part 1",
+            "number": "114",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Brothers in Arms, Part 2",
+            "number": "115",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Brothers in Arms, Part 3",
+            "number": "116",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Noah's Final Threat, Part 1",
+            "number": "117",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Noah's Final Threat, Part 2",
+            "number": "118",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "So Close Yet So Far",
+            "number": "119",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Burying the Past, Part 1",
+            "number": "120",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Burying the Past, Part 2",
+            "number": "121",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Back to Battle City, Part 1",
+            "number": "122",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Back to Battle City, Part 2",
+            "number": "123",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Back to Battle City, Part 3",
+            "number": "124",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Darkness Returns, Part 1",
+            "number": "125",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Darkness Returns, Part 2",
+            "number": "126",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Darkness Returns, Part 3",
+            "number": "127",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Darkness Returns, Part 4",
+            "number": "128",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash in the Coliseum, Part 1",
+            "number": "129",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash in the Coliseum, Part 2",
+            "number": "130",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash in the Coliseum, Part 3",
+            "number": "131",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash in the Coliseum, Part 4",
+            "number": "132",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash in the Coliseum, Part 5",
+            "number": "133",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash in the Coliseum, Part 6",
+            "number": "134",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle for the Bronze, Part 1",
+            "number": "135",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle for the Bronze, Part 2",
+            "number": "136",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Battle for the Bronze, Part 3",
+            "number": "137",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Face-Off, Part 1",
+            "number": "138",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Face-Off, Part 2",
+            "number": "139",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Face-Off, Part 3",
+            "number": "140",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Face-Off, Part 4",
+            "number": "141",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Face-Off, Part 5",
+            "number": "142",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Alcatraz Goes Up in Flames",
+            "number": "143",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Looking Back and Moving Ahead",
+            "number": "144",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A New Evil, Part 1",
+            "number": "145",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A New Evil, Part 2",
+            "number": "146",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Legend of the Dragons",
+            "number": "147",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Creator Returns",
+            "number": "148",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Deja Duel!, Part 1",
+            "number": "149",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Deja Duel!, Part 2",
+            "number": "150",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "An Unexpected Enemy",
+            "number": "151",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "My Freaky Valentine, Part 1",
+            "number": "152",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "My Freaky Valentine, Part 2",
+            "number": "153",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "My Freaky Valentine, Part 3",
+            "number": "154",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Challenge",
+            "number": "155",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fate of the Pharaoh, Part 1",
+            "number": "156",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fate of the Pharaoh, Part 2",
+            "number": "157",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fate of the Pharaoh, Part 3",
+            "number": "158",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Trial by Stone",
+            "number": "159",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "On the Wrong Track, Part 1",
+            "number": "160",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "On the Wrong Track, Part 2",
+            "number": "161",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "On the Wrong Track, Part 3",
+            "number": "162",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Self Destruction",
+            "number": "163",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Reliving the Past",
+            "number": "164",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Deck of Armor",
+            "number": "165",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Flight of Fear, Part 1",
+            "number": "166",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Flight of Fear, Part 2",
+            "number": "167",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Paradise Found",
+            "number": "168",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fighting for a Friend, Part 1",
+            "number": "169",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fighting for a Friend, Part 2",
+            "number": "170",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fighting for a Friend, Part 3",
+            "number": "171",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fighting for a Friend, Part 4",
+            "number": "172",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fighting for a Friend, Part 5",
+            "number": "173",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Grappling with a Guardian, Part 1",
+            "number": "174",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Grappling With a Guardian, Part 2",
+            "number": "175",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Grappling With a Guardian, Part 3",
+            "number": "176",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Duel With Dartz!, Part 1",
+            "number": "177",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Duel With Dartz!, Part 2",
+            "number": "178",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Duel With Dartz!, Part 3",
+            "number": "179",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Duel With Dartz!, Part 4",
+            "number": "180",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Duel With Dartz!, Part 5",
+            "number": "181",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Duel With Dartz!, Part 6",
+            "number": "182",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Rise of the Great Beast, Part 1",
+            "number": "183",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Rise of the Great Beast, Part 2",
+            "number": "184",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Unwanted Guest, Part 1",
+            "number": "185",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Unwanted Guest, Part 2",
+            "number": "186",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Let the Games Begin!, Part 1",
+            "number": "187",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Let the Games Begin!, Part 2",
+            "number": "188",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Child's Play",
+            "number": "189",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Down in Flames, Part 1",
+            "number": "190",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Down in Flames, Part 2",
+            "number": "191",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Brawl in a Small Town, Part 1",
+            "number": "192",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Brawl in a Small Town, Part 2",
+            "number": "193",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "One Step Ahead, Part 1",
+            "number": "194",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "One Step Ahead, Part 2",
+            "number": "195",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sinister Secrets, Part 1",
+            "number": "196",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sinister Secrets, Part 2",
+            "number": "197",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sinister Secrets, Part 3",
+            "number": "198",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tomb of the Nameless Pharaoh",
+            "number": "199",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Spiritual Awakening",
+            "number": "200",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memoirs of a Pharaoh",
+            "number": "201",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Intruder, Part 1",
+            "number": "202",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Intruder, Part 2",
+            "number": "203",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Makings of a Magician",
+            "number": "204",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Birth of the Blue-Eyes",
+            "number": "205",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Village of Lost Souls",
+            "number": "206",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Reversal of Fortune",
+            "number": "207",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In Search of a King",
+            "number": "208",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Village of Vengeance, Part 1",
+            "number": "209",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Village of Vengeance, Part 2",
+            "number": "210",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Village of Vengeance, Part 3",
+            "number": "211",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Village of Vengeance, Part 4",
+            "number": "212",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Village of Vengeance, Part 5",
+            "number": "213",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Name of the Game",
+            "number": "214",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dark One Cometh, Part 1",
+            "number": "215",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dark One Cometh, Part 2",
+            "number": "216",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dark One Cometh, Part 3",
+            "number": "217",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dark One Cometh, Part 4",
+            "number": "218",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the Name of the Pharaoh",
+            "number": "219",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Journey",
+            "number": "220",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Duel, Part 1",
+            "number": "221",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Duel, Part 2",
+            "number": "222",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Duel, Part 3",
+            "number": "223",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Duel, Part 4",
+            "number": "224",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Pyramid of Light",
+            "number": "225",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

@@ -1,0 +1,320 @@
+{
+    "mal-id": 3588,
+    "anilist-id": 3588,
+    "anilist-name_en": "Soul Eater",
+    "anilist-name_jp": "Soul Eater",
+    "total-episodes": 51,
+    "afl-name": "Soul Eater",
+    "afl-link": "https://www.animefillerlist.com/shows/soul-eater",
+    "fillers_episodes": [
+        "17"
+    ],
+    "episodes": [
+        {
+            "title": "Resonance of the Soul \u2013 Will Soul Eater Become a Death Scythe?",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Am the Star! The Big Man Is Showing Up Here?",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Perfect Boy \u2013 Death the Kid's Magnificent Mission?",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Engage the Witch Hunter! A Remedial Lesson in the Graveyard?",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shape of the Soul \u2013 Enter the Ultimate Meister Stein?",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The New Student \u2013 Kid's First Day at the Academy, Will It Be an Entrance to Remember?",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Black-blooded Terror \u2013 There's a Weapon inside Crona?",
+            "number": "7",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Medusa the Witch \u2013 The One Who Possesses a Great Evil Soul?",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Legend of the Holy Sword \u2013 Kid and Black\u2606Star's Great Adventure?",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Enchanted Sword Masamune \u2013 Break the Soul Possession: A Heart Sings in the Rain?",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tsubaki, the Camellia Blossom \u2013 What Lies Beyond the Grief?",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Courage That Beats Out Fear \u2013 Maka Albarn's Great Resolution?",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Man with the Magic Eye \u2013 Soul and Maka's Diverging Soul Wavelength?",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Super Written Exam \u2013 Heart-Pounding, Reeling, and Restless. You're Kidding!?",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Soul Eating Black Dragon \u2013 Scaredy-cat Liz and Her Merry Friends?",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fierce Battle Aboard the Ghost Ship \u2013 The Hell inside My Head?",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Legend of the Holy Sword 2 \u2013 Wanna Go Drinking, Gambling, and Playing?",
+            "number": "17",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Eve Party Nightmare \u2013 And so the Curtain Rises?",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Underground Battle Commences \u2013 Break Through Medusa's Vector Arrow?",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Black Blood Resonance Battle! \u2013 A Small Soul's Grand Struggle against Fear?",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "May My Soul Reach You \u2013 A Dry Heart inside Unbearable Isolation?",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Seal Shrine \u2013 The Immortal Man's Tricks?",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dead or Alive \u2013 In the Rift between Revival and Dazzlement?",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle of the Gods \u2013 Death City on the Verge of Collapse?",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Death Scythes Convene \u2013 Stop Dad's Staff Reassignment!?",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Exciting and Embarrassing Trial Enrollment! The DWMA New Lifestyle Support Fair Is Open?",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "800 Years of Bloodlust \u2013 Advent of the Heretic Witch?",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sword God Rises \u2013 Does It Have a Sweet or Salty Taste?",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Medusa's Revival! A Spider and Snake's Fateful Reunion?",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Red Hot Runaway Express \u2013 A Magic Tool Left Behind by the Great Wizard?",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Drying Happiness! Whose Tears Sparkle in the Moonlight?",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Legend of the Holy Sword 3 \u2013 The Academy Gang Leader's Tale?",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Resonance Link \u2013 Play the Melody of the Souls?",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle for Brew \u2013 Clash: The DWMA vs. Arachnophobia?",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mosquito's Storm! Ten Minutes to Fight in the World of the Past?",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unleash the Seven's Resonance Link! A Recital of Destruction and Creation?",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Detective's First Case \u2013 Kid Exposes the DWMA's Secret?",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Asura's Temptation \u2013 The Big Man's Uncontainable Irritation?",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crona's Escape \u2013 Show Me Your Smile, Please?",
+            "number": "39",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cards Are Cut \u2013 Medusa Surrenders to the DWMA?",
+            "number": "40",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Twirl 'Round and 'Round \u2013 A New World in Which the Doc Dances?",
+            "number": "41",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Charge Baba Yaga's Castle! Things Are Kind of Gloomy?",
+            "number": "42",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Last Magic Tool \u2013 Mission Impossible for Unarmed Kid?",
+            "number": "43",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Weakling Crona's Determination \u2013 For You, for Always Being by My Side?",
+            "number": "44",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Anti-magic Wavelength \u2013 Fierce Attack, the Anger-filled Demon Hunter?",
+            "number": "45",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Warrior or Slaughterer? Showdown: Mifune vs. Black\u2606Star?",
+            "number": "46",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Miraculous Coffee Table Flip \u2013 Fly, Our Death City Robot?",
+            "number": "47",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lord Death Wields a Death Scythe \u2013 Just One Step from Utter Darkness?",
+            "number": "48",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Asura Wakes \u2013 To the End of the World?",
+            "number": "49",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sink or Swim?! The Men Who Transcend the Gods?",
+            "number": "50",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Word Is Bravery!",
+            "number": "51",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ]
+}

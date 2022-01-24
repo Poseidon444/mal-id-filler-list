@@ -1,0 +1,737 @@
+{
+    "mal-id": 1254,
+    "anilist-id": 1254,
+    "anilist-name_en": "Saint Seiya: Knights of the Zodiac",
+    "anilist-name_jp": "Saint Seiya",
+    "total-episodes": 114,
+    "afl-name": "Saint Seiya",
+    "afl-link": "https://www.animefillerlist.com/shows/saint-seiya",
+    "fillers_episodes": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "26",
+        "33",
+        "34",
+        "35",
+        "54",
+        "55",
+        "64",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78",
+        "79",
+        "80",
+        "81",
+        "82",
+        "83",
+        "84",
+        "85",
+        "86",
+        "87",
+        "88",
+        "89",
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "95",
+        "96",
+        "97",
+        "98",
+        "99"
+    ],
+    "episodes": [
+        {
+            "title": "Revive! Legendary Hero!",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Burn! Meteor Punch of Pegasus!",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cygnus! Warrior of the Ice Field",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dragon! Unrivaled Fist and Shield!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Miracle of Rebirth! Friendship of the Cosmos",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Phoenix! The Warrior who saw Hell",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It is Stolen! The Gold Cloth",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Defeat them! The Black Phoenix Army",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Formidable Enemy! The Four Heavenly Knights of Darkness Manifest",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beware Shiryu! The Cemetery of Cloths",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Life and Death Struggle! Terror of the Black Death Fist",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Catch! Nebula Chain of Friendship",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Burn Up! Punch of Flames",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Defeated! The Illusion Demon Fist",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Now It's Revealed! The Enigma of Ikki",
+            "number": "15",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Giant! The Fierce Attack of Docrates",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Rescue! Saori's Crisis",
+            "number": "17",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Great Rage! Ghost Saint of the Caribbean",
+            "number": "18",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Life or Death! Bloody Battle of the Island of Spirits",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Desperate Battle! Shaina's Revenge",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Passionate Misdeed! The Aurora Confrontation",
+            "number": "21",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Rebirth of the Flame! Invincible Ikki",
+            "number": "22",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Silver Saint! Vain and Boastful Assassin",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fly Pegasus! Like a Comet",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fight! The Rise of Athena",
+            "number": "25",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Friend or Foe! Steel Saints",
+            "number": "26",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Stone Seiya! Shield of Medusa",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dragon! Victory of Self-Sacrifice",
+            "number": "28",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Kidnapped! Corvus' Army Calls Unexpectedly on Saori",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Burn! Cosmo of Love",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Evil Apparitions! Deadline of Life or Death",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Great Explosion! Death Queen Island",
+            "number": "32",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Dragon and Tiger Clash! No Light For Dragon Tears",
+            "number": "33",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Farewell Friend! Rest in Peace",
+            "number": "34",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Desperate Journey! Open Dragon's Eyes",
+            "number": "35",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Amazing! Reality of the Twelve Gold Cloths",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mask Cries Out! Love or Death?",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash! Gold Saint",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Speed of Light! The Fist Faster than the Speed of Sound",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Go! The Official Departure",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Great Sanctuary Battle! Athena's Greatest Crisis",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Cosmo! Seven Senses",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Big Bang! Battle of Taurus Temple",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gemini! Maze of Light and Dark",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Panic! Adrift in a Different Dimension",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cry Out! Nebula Chains fight as One",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Hyoga! Sleep, O Brave One!",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dragon! Revival in the Land of Death",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love! Shunrei's Prayer",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Arise Dragon! Shiryu's Angry Cosmo",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Why! Fang of the Gold Lion",
+            "number": "51",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Ares! The Demon Emperor Plots",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That Man! Cassios Dies for Love",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ikki! Phoenix's Blazing Wings",
+            "number": "54",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fellowship of Harm! Athena's Cry",
+            "number": "55",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shaka! Most Sacred Saint",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fear of Nothingness! The Open Eyes of Shaka",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hero! Ikki Destroyed For Brotherly Love",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Revive Swan! Life, Death, and Love",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hyoga's Return! At Risk of Life",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Surrender or Die! Scorpion vs. Swan",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Forge Ahead Hyoga! Proud and Brave",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Be Heard! Sanctuary's Gold Cloth",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Young Men! You are worthy of Athena",
+            "number": "64",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Growling Excalibur! Shura vs. Dragon",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shiryuu! Vanish Like a Star",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell! My teacher, my friends",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Warrior of Beauty! Aphrodite",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Demon Roses! Sweet Fragrance of Death",
+            "number": "69",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Peace! Shun's Last Smile",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fire is going out In the Fire Clock! True Face of the Pope",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Go Seiya! Get over the death of friends",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gather, Friends! Toward Athena",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enemies of the Northern Pole! The Legendary God Warriors",
+            "number": "74",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hilda! Goddess Imprisoned by Evil",
+            "number": "75",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Great Giant Thor! Hatred of Cosmo",
+            "number": "76",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giant's Tears! Dying For Hilda's Cause",
+            "number": "77",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bared Fangs! Northern Wolf Fenrir",
+            "number": "78",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sorrow! Fate of the Northern Wolf Pack Blow",
+            "number": "79",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Flowing Snowfield! Sad Howling",
+            "number": "80",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Freya! Love Tells of the Life/Death Struggle",
+            "number": "81",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dancing Swan! Scorching Hell in the Ice",
+            "number": "82",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bewitching Harp! The Prelude of Death Tempts Shun",
+            "number": "83",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Decree of Death! String Requiem",
+            "number": "84",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hero's Grief! Frozen Hatred",
+            "number": "85",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Phoenix! Crimson Blazing Wings",
+            "number": "86",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Demon's Amethyst! Saint's Cemetery",
+            "number": "87",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sword of Flame! Dreadful Ambition",
+            "number": "88",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Impossible Viciousness! Forest of Spirits",
+            "number": "89",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Don't Look Back, Seiya! Cosmo of the Rising Dragon",
+            "number": "90",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Glow Shun! Hidden Puzzle of the Dark Fang",
+            "number": "91",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Swirl! Shun's Desperate Use of the Nebula Storm",
+            "number": "92",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bud! Fate of the Twin Stars",
+            "number": "93",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bond of Brotherhood! Syd Rests with his Ancestors",
+            "number": "94",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hero of Noble Spirit! Legendary Knight Reborn",
+            "number": "95",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dragon Against Dragon! A Fraction of a Second Leads to Victory",
+            "number": "96",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Siren! Beautiful Melody of Death",
+            "number": "97",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Appearance of a Miracle! Odin Robe",
+            "number": "98",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Athena! Eternal Prayer of Noble Spirits",
+            "number": "99",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Emperor of the seas, Poseidon! Holy War Once Again",
+            "number": "100",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Smash! Mammoth Pillars of the Seven Seas",
+            "number": "101",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Mysterious Shine! Golden Bronze Cloths",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dangerous Shun! Dreadful Fangs of the Demon Beast",
+            "number": "103",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Death of the Demon Beast! Indestructible Golden Chains",
+            "number": "104",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Excalibur! In the right arm lies Shura's Spirit",
+            "number": "105",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dream Was in Vain! The Was the Scent of Death",
+            "number": "106",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hunter of Hearts! Heartless Lymnades",
+            "number": "107",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Isaac! A Cold Hearted Man",
+            "number": "108",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hang in There Kiki! A Sorrowful Death Battle",
+            "number": "109",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Listen! The Beautiful Singing of Athena",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Friends! Until Death Do Us Part",
+            "number": "111",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two Souls! Mystery of Poseidon's Resurrection",
+            "number": "112",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shoot Poseidon! The Golden Arrow",
+            "number": "113",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shine, Stars of Friendship! Eternal Legend of Youth",
+            "number": "114",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

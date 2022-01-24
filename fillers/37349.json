@@ -1,0 +1,87 @@
+{
+    "mal-id": 37349,
+    "anilist-id": 101165,
+    "anilist-name_en": "GOBLIN SLAYER",
+    "anilist-name_jp": "Goblin Slayer",
+    "total-episodes": 12,
+    "afl-name": "Goblin Slayer",
+    "afl-link": "https://www.animefillerlist.com/shows/goblin-slayer",
+    "fillers_episodes": [
+        "5",
+        "10"
+    ],
+    "episodes": [
+        {
+            "title": "The Fate of Particular Adventurers ",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goblin Slayer",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unexpected Visitors",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Strong",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Adventures and Daily Life",
+            "number": "5",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Goblin Slayer in the Water Town",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Onward Unto Death",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Whispers and Prayers and Chants",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There and Back Again",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dozing",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Gathering of Adventurers",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fate of an Adventurer",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

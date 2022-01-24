@@ -1,0 +1,56 @@
+{
+    "mal-id": 1470,
+    "anilist-id": 1470,
+    "anilist-name_en": null,
+    "anilist-name_jp": "City Hunter",
+    "total-episodes": 51,
+    "afl-name": "City Hunter",
+    "afl-link": "https://www.animefillerlist.com/shows/city-hunter",
+    "fillers_episodes": [
+        "2"
+    ],
+    "episodes": [
+        {
+            "title": "One Cool Sweeper: XYZ is a Dangerous Cocktail",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Please Kill Me: Crosshairs Don't Become a Pretty Girl",
+            "number": "2",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Love Don't Leave Me: A Ten Count to Tomorrow",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lady Vanish: Boutique of the Shadows",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goodbye Makimura: A Tearful Birthday on a Rainy Night",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "No Romance for this Actress: The Last Shot for Hope",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Gunshot to Set the Heart A Flutter! Sad, Lonely Girl",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

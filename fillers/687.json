@@ -1,0 +1,346 @@
+{
+    "mal-id": 687,
+    "anilist-id": 687,
+    "anilist-name_en": "Tokyo Mew Mew",
+    "anilist-name_jp": "Tokyo Mew Mew",
+    "total-episodes": 52,
+    "afl-name": "Tokyo Mew Mew",
+    "afl-link": "https://www.animefillerlist.com/shows/tokyo-mew-mew",
+    "fillers_episodes": [
+        "5",
+        "6",
+        "8",
+        "9",
+        "14",
+        "15",
+        "16",
+        "20",
+        "22",
+        "23",
+        "24",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "39",
+        "42",
+        "43"
+    ],
+    "episodes": [
+        {
+            "title": "Turning into a Cat \u2013 Justice Lies in a Girl in Love, ~Nya!",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A New Comrade \u2013 Justice Lies in a Real Lady, ~Nya!",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghost Story from School: Finding the Ghost's True Identity, ~Nya!",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Tearful Date \u2013 the secret I can't tell Aoyama-kun ~Nya!",
+            "number": "4",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Stormy Rhythmic Gymnastics \u2013 becoming a Star with a Cat's Dance! ~Nya!",
+            "number": "5",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Piano of the Heart \u2013 It's a heart-pounding dance party! ~Nya!",
+            "number": "6",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Enter Pudding \u2013 The Ears and Tail are Part of the Act!",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To the Hot Spring! The Mysterious Mountain's Miracle of Love",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dearly Beloved Brother \u2013 The Memories lie in the Picture",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Last Member \u2013 The Legendary Lonely Wolf",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Heart to Believe \u2013 All Five Makes Tokyo Mew Mew!",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Identity Revealed \u2013 An Out of Season Cherry Tree Falls Away",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Intersecting Hearts \u2013 Aoyama-kun is Targeted",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Akasaka's Secret \u2013 A Tale of Sad Love",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Little Hero Masha \u2013 Friendship at the Risk of His Life",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Lettuce's Love \u2013 Longing in the Library",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Knight in Blue \u2013 I will protect you!",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mid-Summer's Love \u2013 Ichigo's Swaying Heart",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The power of kindness \u2013 O Wish, Come true in the Sea",
+            "number": "19",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Memories of mother \u2013 Onee-chan is in trouble",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sparks of the Heart \u2013 Ichigo and Mint At Odds",
+            "number": "21",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Summer \u2013 Ichigo's Longest Day",
+            "number": "22",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sudden Love \u2013 Accept Girls' Hearts!",
+            "number": "23",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Mysterious Gem \u2013 Brilliance is within you!",
+            "number": "24",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Love's Hurdle \u2013 Many Obstacles to Ichigo's Love",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stop, Time! Overwhelmed with Sentimental Feeling",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Love You \u2013 Aoyama-kun's Shocking Declaration",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kitty Panic! The Key to the Mystery is Her Kiss",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Forbidden Love? I Can Understand Cats! ~Nya",
+            "number": "29",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Be Honest! Unspoken Love in the Crystal Ball!",
+            "number": "30",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Father's Back \u2013 One-game Match for Ichigo!",
+            "number": "31",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Princess Fight \u2013 The Hero Can't be Bought For Money",
+            "number": "32",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Fianc\u00e9 Appears \u2013 Pudding's Fated Marriage?!",
+            "number": "33",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Most Important Matter \u2013 The Ability to Trust in Someone",
+            "number": "34",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Don't Cry, Lonely Little Zakuro",
+            "number": "35",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shirogane's Past: the Secret of the Mew Mews' Birth!",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Shining Tear: Celebrating Christmas with just the Two of Us",
+            "number": "37",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Miracle of the Holy Night \u2013 No Secrets Anymore",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Stolen Dream \u2013 Sweet Trap of the Lavender",
+            "number": "39",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Two Becoming Friends? Pudding in Imminent Danger!",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Winds Brings Happiness \u2013 A Heartfelt Prayer",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Zakuro's Dilemma: Only Four Mew Mews Now?",
+            "number": "42",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Friend or Foe? Fight, Oneesama!",
+            "number": "43",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The City Turns into a Forest! What Protects Ichigo's Smile",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Riddle Dissolves! The Truth about the Blue Knight",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Reinforcement! Protect the Earth Together",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Power of Love! I will protect Aoyama-kun!!",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Labyrinth of the Alternate Dimension! Kish's Gamble!!",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Awakening of Blue \u2013 Another Appearance!",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ichigo's Trial! I am a Mew Mew",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Battle! I Believe in Your Smile",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For the Earth's Future, We'll Serve You ~Nyan!",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

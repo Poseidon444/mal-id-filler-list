@@ -1,0 +1,468 @@
+{
+    "mal-id": 225,
+    "anilist-id": 225,
+    "anilist-name_en": "Dragon Ball GT",
+    "anilist-name_jp": "Dragon Ball GT",
+    "total-episodes": 64,
+    "afl-name": "Dragon Ball GT",
+    "afl-link": "https://www.animefillerlist.com/shows/dragon-ball-gt",
+    "fillers_episodes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65"
+    ],
+    "episodes": [
+        {
+            "title": "A Devastating Wish",
+            "number": "1",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Pan Blasts Off",
+            "number": "2",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Terror on Imecka",
+            "number": "3",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Most Wanted List",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Goku vs. Ledgic",
+            "number": "5",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Like Pulling Teeth",
+            "number": "6",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Trunks, the Bride",
+            "number": "7",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Whisker Power",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Lord Luud",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dance and Attack",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Lord Luud's Curse",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Last Oracle of Luud",
+            "number": "12",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Man Behind the Curtain",
+            "number": "13",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Battle Within",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Beginning of the End",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giru's Checkered Past",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Pan's Gambit",
+            "number": "17",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Unexpected Power",
+            "number": "18",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A General Uprising",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Source of Rilldo's Power",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Secret Revealed",
+            "number": "21",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Baby Secret",
+            "number": "22",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hidden Danger",
+            "number": "23",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Discovering the Truth",
+            "number": "24",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Baby's Arrival",
+            "number": "25",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Saiyan Hunting",
+            "number": "26",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Attack on Vegeta",
+            "number": "27",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Worldwide Problem",
+            "number": "28",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Fall of The Saiyans",
+            "number": "29",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Game After Life",
+            "number": "30",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Collapse From Within",
+            "number": "31",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Return of Uub",
+            "number": "32",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Tail's Tale",
+            "number": "33",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Back in the Game",
+            "number": "34",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Goku's Ascension",
+            "number": "35",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Tuffle Gorilla Attacks!",
+            "number": "36",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Old Kai's Last Stand",
+            "number": "37",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Family Bonds",
+            "number": "38",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Baby Put to Rest",
+            "number": "39",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Piccolo's Decision",
+            "number": "40",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Curtain Call",
+            "number": "41",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Dangerous Union",
+            "number": "42",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Resurrection of Cell and Frieza",
+            "number": "43",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "17 Times 2",
+            "number": "44",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Piccolo's Best Bet",
+            "number": "45",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Raising the Stakes",
+            "number": "46",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Greatest Surprise",
+            "number": "47",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Shadow Dragons",
+            "number": "48",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Two-Star Dragon",
+            "number": "49",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Five-Star Dragon",
+            "number": "50",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Six-Star Dragon",
+            "number": "51",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Seven-Star Dragon",
+            "number": "52",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Saying Goodbye",
+            "number": "53",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Four-Star Dragon",
+            "number": "54",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Heart of the Prince",
+            "number": "55",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Three-Star Dragon",
+            "number": "56",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The One-Star Dragon",
+            "number": "57",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shadow Dragons Unite",
+            "number": "58",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Super Saiyan 4 Vegeta",
+            "number": "59",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Super Saiyan 4 Fusion",
+            "number": "60",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Limits of Power",
+            "number": "61",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Rescue Goku",
+            "number": "62",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Universal Allies",
+            "number": "63",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Until We Meet Again?",
+            "number": "64",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Hero's Legacy",
+            "number": "65",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

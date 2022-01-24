@@ -1,0 +1,1206 @@
+{
+    "mal-id": 249,
+    "anilist-id": 249,
+    "anilist-name_en": "InuYasha",
+    "anilist-name_jp": "InuYasha",
+    "total-episodes": 167,
+    "afl-name": "Inuyasha",
+    "afl-link": "https://www.animefillerlist.com/shows/inuyasha",
+    "fillers_episodes": [
+        "59",
+        "63",
+        "64",
+        "65",
+        "68",
+        "72",
+        "75",
+        "76",
+        "77",
+        "78",
+        "79",
+        "89",
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "95",
+        "96",
+        "97",
+        "98",
+        "99",
+        "100",
+        "101",
+        "129",
+        "130",
+        "133",
+        "134",
+        "136",
+        "137",
+        "138",
+        "139",
+        "140",
+        "162",
+        "163"
+    ],
+    "episodes": [
+        {
+            "title": "The Girl Who Overcame Time...and the Boy Who Was Just Overcome",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Seekers of the Sacred Jewel",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Down the Rabbit Hole and Back Again",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yura of the Demon-Hair",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Aristocratic Assassin, Sesshomaru",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tetsusaiga, the Phantom Sword",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showdown! Inuyasha Vs. Sesshomaru",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Toad Who Would Be Prince",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shippo and the Thunder Brothers",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Phantom Showdown: The Thunder Brothers Vs. Tetsusaiga",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Terror of the Ancient Noh Mask",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Soul Piper and the Mischievous Little Soul",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mystery of the New Moon and the Black-haired Inuyasha",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kikyo's Stolen Ashes",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Return of the Tragic Priestess, Kikyo",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mystical Hand of the Amorous Monk, Miroku",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cursed Ink of the Hell-Painter",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Naraku and Sesshomaru Join Forces",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Go Back to Your Own Time, Kagome!",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Despicable Villain! The Mystery of Onigumo!",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Naraku's True Identity Unveiled",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Wicked Smile: Kikyo's Wandering Soul",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kagome's Voice and Kikyo's Kiss",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter Sango, the Demon Slayer",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Naraku's Insidious Plot",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Secret of the Sacred Jewel Revealed!",
+            "number": "26",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Lake of the Evil Water God",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Miroku Falls Into a Dangerous Trap",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sango's Suffering and Kohaku's Life",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tetsusaiga is Stolen! Showdown At Naraku's Castle!",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jinenji, Kind Yet Sad",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kikyo and Inuyasha, Into the Miasma",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kikyo, Captured by Naraku",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tetsusaiga and Tenseiga",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The True Owner of the Great Sword!",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kagome Kidnapped by Koga, the Wolf Demon!",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Man Who Fell In Love With Kagome!",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two Hearts, One Mind",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Trapped In A Duel To The Death!",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Deadly Trap of Kagura the Wind Sorceress!",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kagura's Dance and Kanna's Mirror",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Wind Scar Fails",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tetsusaiga Breaks",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kaijinbo's Evil Sword",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sesshomaru Wields Tokijin",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Juromaru and Kageromaru",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Onigumo's Heart Still Beats Within Naraku",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Return to the Place Where We First Met",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kohaku's Lost Memory",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That Unforgettable Face!",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Inuyasha's Soul, Devoured",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Demon's True Nature",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Father's Old Enemy: Ryukotsusei",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Backlash Wave: Tetsusaiga's Ultimate Technique",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Stone Flower and Shippo's First Love",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Temptress In The Mist",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fateful Night in Togenkyo, Part 1",
+            "number": "57",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Fateful Night in Togenkyo, Part 2",
+            "number": "58",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Beautiful Sister Apprentices",
+            "number": "59",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The 50 Year-Old Curse Of The Dark Priestess",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kikyo and the Dark Priestess",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tsubaki's Unrelenting Evil Spell",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Red and White Priestesses",
+            "number": "63",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Giant Ogre of the Forbidden Tower",
+            "number": "64",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Farewell Days of My Youth",
+            "number": "65",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Naraku's Barrier: Kagura's Decision",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Howling Wind of Betrayal",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shippo Gets an Angry Challenge",
+            "number": "68",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Terror of the Faceless Man",
+            "number": "69",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Onigumo's Memory Restored",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Three-Sided Battle to the Death",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Totosai's Rigid Training",
+            "number": "72",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shiori's Family and Inuyasha's Feelings",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Red Tetsusaiga Breaks the Barrier!",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Plot of the Panther Devas",
+            "number": "75",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Target: Sesshomaru and Inuyasha",
+            "number": "76",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Panther Tribe and the Two Swords of the Fang",
+            "number": "77",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Only You, Sango",
+            "number": "78",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Jaken's Plan to Steal Tetsusaiga",
+            "number": "79",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sesshomaru and the Abducted Rin",
+            "number": "80",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Vanishing Point: Naraku Disappears",
+            "number": "81",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gap Between the Ages",
+            "number": "82",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Female Wolf Demon and the Lunar Rainbow Promise",
+            "number": "83",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Koga's Bride-to-Be",
+            "number": "84",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Evil Within Demon's Head Castle",
+            "number": "85",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Secret of the Possessed Princess",
+            "number": "86",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kikyo's Lonely Journey",
+            "number": "87",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Three Sprites of the Monkey God",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nursing Battle of the Rival Lovers",
+            "number": "89",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sota's Brave Confession of Love",
+            "number": "90",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Suspicious Faith Healer and the Black Kirara",
+            "number": "91",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Plot of the Walking Dead",
+            "number": "92",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Mysterious, Lecherous Monk",
+            "number": "93",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Sacred Jewel Maker Part I",
+            "number": "94",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Sacred Jewel Maker Part II",
+            "number": "95",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Jaken Falls ill",
+            "number": "96",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kirara, Come Home!",
+            "number": "97",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kikyo and Kagome: Alone in a Cave",
+            "number": "98",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Koga and Sesshomaru, A Dangerous Encounter",
+            "number": "99",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Truth Behind the Nightmare: Battle in the Forest of Sorrow",
+            "number": "100",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Snow from Seven Years Past",
+            "number": "101",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Assault on the Wolf-Demon Tribe",
+            "number": "102",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Band of Seven, Resurrected",
+            "number": "103",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Stealthy Poison User, Mukotsu",
+            "number": "104",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ghastly Steel Machine",
+            "number": "105",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kagome, Miroku, and Sango: A Desperate Situation",
+            "number": "106",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "InuYasha Shows His Tears For the First Time",
+            "number": "107",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Secret of the Pure Light",
+            "number": "108",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hidden in the Mist: Onward to Mt. Hakurei",
+            "number": "109",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter Bankotsu, The Leader of the Band of Seven",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Big Clash: Banryu vs Wind Scar!",
+            "number": "111",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Afloat on the Lake Surface: The Barrier of Hijiri Island",
+            "number": "112",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sacred Vajra and the Mystery of the Living Buddha",
+            "number": "113",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Koga's Solitary Battle",
+            "number": "114",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lured by the Black Light",
+            "number": "115",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Exposed Face of Truth",
+            "number": "116",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Vanished in a River of Flames",
+            "number": "117",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Into the Depths of Mt. Hakurei",
+            "number": "118",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Divine Malice of the Saint",
+            "number": "119",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fare Thee Well: Jakotsu's Requiem",
+            "number": "120",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Final Battle: The Last and Strongest of the Band of Seven",
+            "number": "121",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Power of Banryu! Duel to the Death on Mt. Hakurei",
+            "number": "122",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Behind the Darkness - Naraku Reborn",
+            "number": "123",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Kikyo, My Beloved",
+            "number": "124",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Darkness in Kagome's Heart",
+            "number": "125",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Transform Heartache into Courage",
+            "number": "126",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Boil It! The Terrifying Dried-Up Demon",
+            "number": "127",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle Against the Dried-Up Demons at the Cultural Festival",
+            "number": "128",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Chokyukai and the Abducted Bride",
+            "number": "129",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shippo's New Technique, The Heart Scar!",
+            "number": "130",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Trap of The Cursed Wall Hanging",
+            "number": "131",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Miroku's Most Dangerous Confession",
+            "number": "132",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Woman Who Loved Sesshomaru (Part 1)",
+            "number": "133",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Woman Who Loved Sesshomaru (Part 2)",
+            "number": "134",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Last Banquet of Miroku's Master",
+            "number": "135",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Strange Invisible Demon Appears!",
+            "number": "136",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "An Ancestor Named Kagome",
+            "number": "137",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mountain of Demons: Survival of the Duo",
+            "number": "138",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Great Duel at Shoun Falls",
+            "number": "139",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Eternal Love, The Naginata of Kenkon",
+            "number": "140",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Entei, The Demon Horse Unleashed",
+            "number": "141",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Untamed Entei and Horrible Hakudoshi",
+            "number": "142",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "3000 Leagues in Search of Father",
+            "number": "143",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hosenki and the Last Shard",
+            "number": "144",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Bizarre Guards at the Border of the Afterlife",
+            "number": "145",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fiery Bird Master, Princess Abi",
+            "number": "146",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Tragic Love Song of Destiny (Part 1)",
+            "number": "147",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Tragic Love Song of Destiny (Part 2)",
+            "number": "148",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Single Arrow of Chaos",
+            "number": "149",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mysterious Light that Guides the Saint",
+            "number": "150",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kagome's Instinctive Choice",
+            "number": "151",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Protect and Plunder!",
+            "number": "152",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cruel Reunion of Fate",
+            "number": "153",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Demon Linked with the Netherworld",
+            "number": "154",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Demon Protector of the Sacred Jewel Shard",
+            "number": "155",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Final Battle at the Graveside! Sesshomaru vs. Inuyasha",
+            "number": "156",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Destroy Naraku with the Adamant Barrage",
+            "number": "157",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stampede of the Countless Demon Rats",
+            "number": "158",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kohaku's Decision and Sango's Heart",
+            "number": "159",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Lucky but Two-Timing Scoundrel",
+            "number": "160",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Miroku's Past Mistake",
+            "number": "161",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Forever with Lord Sesshomaru",
+            "number": "162",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kohaku, Sango and Kirara: The Secret Flower Garden",
+            "number": "163",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Possessed by a Parasite: Shippo, Our Worst Enemy!",
+            "number": "164",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Key to Defeating Naraku",
+            "number": "165",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Bond Between Them, Use the Sacred Jewel Shard! Part 1",
+            "number": "166",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Bond Between Them, Use the Sacred Jewel Shard! Part 2",
+            "number": "167",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Naraku's Heart",
+            "number": "168",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kagura's Wind",
+            "number": "169",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Meido Zangetsuha",
+            "number": "170",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dragon-Scaled Tessaiga",
+            "number": "171",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Great Holy Demon Spirit\u2019s Test",
+            "number": "172",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The End of Moryomaru",
+            "number": "173",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mausoleum of Mount Azusa",
+            "number": "174",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Among the Twinkling Stars",
+            "number": "175",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sesshomaru in the Underworld",
+            "number": "176",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Flowers Drenched in Sadness",
+            "number": "177",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kanna's Gravestone",
+            "number": "178",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sango's Feelings, Miroku's Resolve",
+            "number": "179",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Complete Meido",
+            "number": "180",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In Pursuit of Naraku",
+            "number": "181",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "True Heir",
+            "number": "182",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hitomiko's Barrier",
+            "number": "183",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Magatsuhi's Evil Will",
+            "number": "184",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Day of Days",
+            "number": "185",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kohaku's Shard",
+            "number": "186",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When the Jewel Is Whole",
+            "number": "187",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Inside Naraku",
+            "number": "188",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Naraku's Trap of Darkness",
+            "number": "189",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Naraku's Trap of Light",
+            "number": "190",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Naraku's Uncertain Wish",
+            "number": "191",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Thoughts Fall Short",
+            "number": "192",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Toward Tomorrow",
+            "number": "193",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

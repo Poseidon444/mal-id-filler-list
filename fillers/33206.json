@@ -1,0 +1,136 @@
+{
+    "mal-id": 33206,
+    "anilist-id": 21776,
+    "anilist-name_en": "Miss Kobayashi's Dragon Maid",
+    "anilist-name_jp": "Kobayashi-san Chi no Maidragon",
+    "total-episodes": 13,
+    "afl-name": "Miss Kobayashi's Dragon Maid",
+    "afl-link": "https://www.animefillerlist.com/shows/miss-kobayashis-dragon-maid",
+    "fillers_episodes": [
+        "9",
+        "10",
+        "11"
+    ],
+    "episodes": [
+        {
+            "title": "The Strongest Maid in History, Tohru! (Well, She is a Dragon)",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Second Dragon, Kanna! (We're Totally Spoiling Here)",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Start of a New Life! (That Doesn't Go Well, Of Course)",
+            "number": "3",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Kanna Goes to School! (Not that she needs to.)",
+            "number": "4",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Tohru's Real World Lessons! (She thinks she understands it already.)",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Home Visit! (And Homes Not Visited)",
+            "number": "6",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Summer's Staples! (The Fanservice Episode, Frankly)",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Dragon, Elma! (She's Finally Appearing, Huh?)",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sports Festival! (There's No Twist Or Anything)",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Troupe Dragon, On Stage! (They Had A Troupe Name, Huh)",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Year End, New Year! (No Comiket Bit This Time)",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tohru and Kobayashi's Impactful Meeting! (We're Raising the Bar on Ourselves)",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Emperor of Demise Arrives! (It Was the Final Episode Before We Knew It)",
+            "number": "13",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Valentines and Hot Springs! (Please Don't Get Your Hopes Up)",
+            "number": "14",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "New Dragon, Ilulu! (Please Be Nice To Her Again)",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hot Guy Kobayashi! (In Many Ways)",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Extracurricular Activities (Of Course They're Not Normal)",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When in Rome, do as the Romans do (Quite Hard to Put Together)",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Together With You (Well, If We Get Along)",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Uncanny Relationships (One Side Is a Dragon)",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

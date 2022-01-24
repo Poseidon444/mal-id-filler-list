@@ -1,0 +1,20 @@
+{
+    "1":{
+        "MAL-id":1,
+        "Anilist-id":1,
+        "episodes":[
+            {
+                "number": 1,
+                "title":"Asteroid Blues",
+                "desc":"Spike and Jet kick the series off attempting to apprehend Asimov Solensan, who has stolen a syndicate's entire supply of Bloody Eye.",
+                "filler":false,
+                "airDate":"1998-10-24"
+            },
+            {
+                "number": 2,
+                "title":"Asteroid Blues",
+                "filler":false
+            }
+        ]
+    }
+}

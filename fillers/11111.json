@@ -1,0 +1,92 @@
+{
+    "mal-id": 11111,
+    "anilist-id": 11111,
+    "anilist-name_en": "Another",
+    "anilist-name_jp": "Another",
+    "total-episodes": 12,
+    "afl-name": "Another",
+    "afl-link": "https://www.animefillerlist.com/shows/another",
+    "fillers_episodes": [
+        "8"
+    ],
+    "episodes": [
+        {
+            "title": "The other",
+            "number": "0",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rough sketch",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blueprint",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bone work",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Put flesh",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Build limbs",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Face to face",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sphere joint",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hair stand",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Body paint",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Glass eye",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Makeup",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stand by oneself",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

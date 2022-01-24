@@ -1,0 +1,97 @@
+{
+    "mal-id": 270,
+    "anilist-id": 270,
+    "anilist-name_en": "HELLSING",
+    "anilist-name_jp": "HELLSING",
+    "total-episodes": 13,
+    "afl-name": "Hellsing",
+    "afl-link": "https://www.animefillerlist.com/shows/hellsing",
+    "fillers_episodes": [
+        "4",
+        "8",
+        "9",
+        "11",
+        "12",
+        "13"
+    ],
+    "episodes": [
+        {
+            "title": "The Undead",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Club M",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sword Dancer",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Innocent as a Human",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Brotherhood",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dead Zone",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Duel",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill House",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Red Rose Vertigo",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Master of Monster",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Transcend Force",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Total Destruction",
+            "number": "12",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hellfire",
+            "number": "13",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

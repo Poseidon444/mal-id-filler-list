@@ -1,0 +1,94 @@
+{
+    "mal-id": 12293,
+    "anilist-id": 12293,
+    "anilist-name_en": "Campione!",
+    "anilist-name_jp": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+    "total-episodes": 13,
+    "afl-name": "Campione!",
+    "afl-link": "https://www.animefillerlist.com/shows/campione",
+    "fillers_episodes": [
+        "2",
+        "5",
+        "13"
+    ],
+    "episodes": [
+        {
+            "title": "Tale of the Beginning",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Landscape with a King",
+            "number": "2",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "From Afar, An Enemy Comes",
+            "number": "3",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Rogue Athena",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unpleasant Days",
+            "number": "5",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Kings Converse",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wind, Rain, Wolf",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Hero Arrives",
+            "number": "8",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Missing King",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Turbulent Demon King, The Sun Hero",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Princess Shrine Maiden of the Long Sword",
+            "number": "11",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sword of Ama no Murakumo",
+            "number": "12",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Tale of the God-Slayer",
+            "number": "13",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

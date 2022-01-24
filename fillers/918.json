@@ -1,0 +1,2249 @@
+{
+    "mal-id": 918,
+    "anilist-id": 918,
+    "anilist-name_en": "Gintama",
+    "anilist-name_jp": "Gintama",
+    "total-episodes": 201,
+    "afl-name": "Gintama",
+    "afl-link": "https://www.animefillerlist.com/shows/gintama",
+    "fillers_episodes": [
+        "1",
+        "2",
+        "50",
+        "57",
+        "75",
+        "106",
+        "114",
+        "124",
+        "125",
+        "135",
+        "137",
+        "150",
+        "155",
+        "164",
+        "166",
+        "171",
+        "173",
+        "174",
+        "176",
+        "185",
+        "209",
+        "252"
+    ],
+    "episodes": [
+        {
+            "title": "You Guys!! Do You Even Have a Gintama? (Part 1)",
+            "number": "1",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "You Guys!! Do You Even Have a Gintama? (Part 2)",
+            "number": "2",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Nobody with Naturally Wavy Hair Can Be That Bad",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Watch Out! Weekly Shonen Jump Sometimes Comes Out on Saturdays!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Make Friends You Can Call by Their Nicknames, Even When You're an Old Fart",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keep Your Promise Even If It Kills You",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Responsible Owners Should Clean Up After Their Pets",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There Is Butt A Fine Line Between Persistence And Stubbornness",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fighting Should Be Done With Fists",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eat Something Sour When You're Tired",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Look, Overly Sticky Sweet Dumplings Are Not Real Dumplings, You Idiot!",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "People Who Make Good First Impressions Usually Suck",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If You're Going To Cosplay, Go All Out",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Only Gotta Wash Under Your Armpits - Just the Armpits",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pets Resemble Their Owners",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If You Stop And Think About It, Your Life's a Lot Longer as an Old Guy Than a Kid! Whoa, Scary!!",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sons Only Take After Their Father's Negative Attributes",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Oh, Yeah! Our Crib Is Number One!",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Why's the Sea So Salty? Because You City Folk Pee Whenever You Go Swimming!",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Watch Out for Conveyer Belts!",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If You're A Man, Try The Swordfish!",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Marriage Is Prolonging An Illusion For Your Whole Life",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When You're In A Fix, Keep On Laughing, Laughing...",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cute Faces Are Always Hiding Something",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Shared Soup Pot Is A Microcosm Of Life",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Be Shy - Just Raise Your Hand And Say It",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Some Things Can't Be Cut With A Sword",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Good Things Never Come In Twos (But Bad Things Do)",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Panic - There's A Return Policy!",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Even Teen Idols Act Like You Guys",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Always Remember The Things That Matter The Least",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Life Moves On Like A Conveyor Belt",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mistaking Someone's Name Is Rude!",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love Doesn't Require A Manual",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love Doesn't Require A Manual (Continued)",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "People With Dark Pasts Can't Shut Up",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "People Who Say That Santa Doesn't Really Exist Actually Want To Believe In Him",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Only Children Play In The Snow",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ramen Shops With Long Menus Never Do Well",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Give A Thought To Planned Pregnancy",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Can't Judge A Movie By Its Title",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Know What Happens If You Pee On A Worm",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Make Characters So Anybody Can Tell Who They Are By Just Their Silhouettes",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mom's Busy, Too, So Quit Complaining About What's For Dinner",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Walk Your Dog At An Appropriate Speed",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Adults Only. We Wouldn't Want Anyone Immature In Here...",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Do Cherries Come From Cherry Trees?",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The More You're Alike, The More You Fight",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Life Without Gambling Is Like Sushi Without Wasabi",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pending Means Pending, It's Not Final",
+            "number": "50",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Milk Should Be Served At Body Temperature",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If You Want To See Someone, Make An Appo First",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stress Makes You Bald, But It's Stressful To Avoid Stress, So You End Up Stressed Out, So In The End There's Nothing You Can Do",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mothers Everywhere Are All The Same",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Make Munching Noises When You Eat",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keep An Eye On The Chief For The Day",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When Looking For Things You've Lost, Remember What You Were Doing On The Day You Lost It",
+            "number": "57",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Croquette Sandwiches Are Always The Most Popular Food Sold At The Stalls",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Be Careful Not To Leave Your Umbrella Somewhere",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sun Will Rise Again",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "On A Moonless Night, Insects Are Drawn To The Light",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Even Mummy Hunters Sometimes Turn Into Mummys",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Preview Section In JUMP Is Always Unreliable",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eating Nmaibo Can Make You Full In No Time!",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rhinoceros Beetles Teach Boys That Life Is Precious",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dango Over Flowers",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For The Wind Is The Life",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Like A Haunted House, Life Is Filled With Horrors",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Please Help By Separating Your Trash",
+            "number": "69",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Too Many Cuties Can Make You Sick",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Some Data Cannot Be Erased",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Dog's Paws Smell Fragrant",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Think For A Minute Now, Do Matsutake Mushrooms Really Taste All That Good?",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Manga Writer Becomes A Pro, After Doing A Stock Of Manuscripts",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Complain About Your Job At Home, Do It Somewhere Else",
+            "number": "75",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "In Those Situations, Keep Quiet And Cook Red Rice With Beans",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yesterday's Enemy, After All Is Said And Done, Is Still The Enemy",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "People Who Are Picky About Food Are Also Picky About People, Too",
+            "number": "78",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Four Heads Are Better Than One",
+            "number": "79",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When Someone Who Wears Glasses Takes Them Off, It Looks Like Something's Missing",
+            "number": "80",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Woman's Best Make Up Is Her Smile",
+            "number": "81",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Don't Stand In Line For The Ramen, You Stand In Line For The Self Satisfaction",
+            "number": "82",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Rank Has Nothing To Do With Luck",
+            "number": "83",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hard-Boiled Egg On A Man's Heart",
+            "number": "84",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hard-Boiled Eggs Don't Crack",
+            "number": "85",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's Often Difficult To Sleep When You're Engrossed With Counting Sheep",
+            "number": "86",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Perform A German Suplex On A Woman Who Asks If She Or The Job Is More Important",
+            "number": "87",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Most Exciting Part Of A Group Date Is Before It Starts",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What Happens Twice, Happens Thrice",
+            "number": "89",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The More Delicious The Food, The Nastier It Is When It Goes Bad",
+            "number": "90",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If You Want To Lose Weight, Then Stop Eating And Start Moving",
+            "number": "91",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Be A Person Who Can See People's Strong Points And Not Their Weak Points",
+            "number": "92",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Even A Hero Has Issues",
+            "number": "93",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When Riding A Train, Make Sure You Grab The Straps With Both Hands",
+            "number": "94",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Men, Be A Madao",
+            "number": "95",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If You're A Man, Don't Give Up",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Exaggerate The Tales Of Your Exploits By A Third, So Everyone Has A Good Time",
+            "number": "97",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Play Video Games For Only An Hour A Day",
+            "number": "98",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Life And Video Games Are Full Of Bugs",
+            "number": "99",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The More Something Is Disliked, The More Lovely It Is",
+            "number": "100",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rules Are Made To Be Broken",
+            "number": "101",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Otaku Are Talkative",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There's A Thin Line Between Strengths And Weaknesses",
+            "number": "103",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Important Things Are Hard To See",
+            "number": "104",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's All About The Beat And Timing",
+            "number": "105",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love Is Often Played Out In Sudden Death",
+            "number": "106",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kids Don't Understand How Their Parents Feel",
+            "number": "107",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Some Things are Better Left Unsaid",
+            "number": "108",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Life Is A Test",
+            "number": "109",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "People Are All Escapees Of Their Own Inner Prisons",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Definitely Do Not Let Your Girlfriend See The Things You Use For Cross-Dressing",
+            "number": "111",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Lucky Is A Man Who Gets Up And Goes To Work",
+            "number": "112",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cleaning The Toilet Cleanses The Soul",
+            "number": "113",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "They Say Soy Sauce On Pudding Tastes Like Sea Urchin, But Soy Sauce On Pudding Only Tastes Like Pudding And Soy Sauce",
+            "number": "114",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Summer Vacation Is The Most Fun Right Before It Begins",
+            "number": "115",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Older, The Wiser",
+            "number": "116",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beauty Is Like A Summer Fruit",
+            "number": "117",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Even If Your Back Is Bent, Go Straight Forward",
+            "number": "118",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Within Each Box Of Cigarettes, Are One Or Two Cigarettes That Smell Like Horse Dung",
+            "number": "119",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Japanese Restaurants Abroad Taste Pretty Much Like School Cafeteria Lunches",
+            "number": "120",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Novices Only Need A Flathead And A Phillips",
+            "number": "121",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Imagination Is Nurtured In The 8th Grade",
+            "number": "122",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Always Keep A Screwdriver In Your Heart",
+            "number": "123",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When Nagging Goes Too Far It Becomes Intimidating",
+            "number": "124",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Entering The Final Chapter!",
+            "number": "125",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Some Things Can Only Be Conveyed Through The Written Word",
+            "number": "126",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sometimes You Must Meet To Understand",
+            "number": "127",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sometimes You Can't Tell Just By Meeting Someone",
+            "number": "128",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beware Of Food You Pick Up Off The Ground",
+            "number": "129",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cat Lovers And Dog Lovers Are Mutually Exclusive",
+            "number": "130",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fights Often Ensue During Trips",
+            "number": "131",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Briefs Will Unavoidably Get Skidmarks",
+            "number": "132",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gin And His Excellency's Good-For-Nothings",
+            "number": "133",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Be Very Careful When Using Ghost Stories",
+            "number": "134",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Before Worrying About The Earth, Think About The Even More Endangered Future Of 'Gintaman'",
+            "number": "135",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "It's Your House, You Build It",
+            "number": "136",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "99% Of Men Aren't Confident In Confessing Their Love",
+            "number": "137",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Let's Talk About The Old Days Once In A While",
+            "number": "138",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Put Your Wallet In Your Back Pocket",
+            "number": "139",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beware Of Those Who Use An Umbrella On A Sunny Day!",
+            "number": "140",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Butting Into A Fight Is Dangerous",
+            "number": "141",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Life Is A Series Of Choices",
+            "number": "142",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Those Who Stand On Four Legs Are Beasts. Those Who Stand On Two Legs, Guts, And Glory Are Men",
+            "number": "143",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Trust Bedtime Stories",
+            "number": "144",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Color For Each Person's Bond Comes In Various Colors",
+            "number": "145",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Taste Of Drinking Under Broad Daylight Is Something Special",
+            "number": "146",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Adults Are Instructors For All Children",
+            "number": "147",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Zip Up Your Fly Nice And Slowly",
+            "number": "148",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When Breaking A Chuubert In Half, The End With The Knob Should Be Better. It's Also Tasty To Drink From There",
+            "number": "149",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If You Can't Beat Them, Join Them",
+            "number": "150",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Conversation With A Barber, During A Haircut, Is The Most Pointless Thing In The World",
+            "number": "151",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Heavens Created Chonmage Above Man Instead Of Another Man",
+            "number": "152",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sleep Helps A Child Grow",
+            "number": "153",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That Person Looks Different From Usual During A Birthday Party",
+            "number": "154",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Other Side Of The Other Side Of The Other Side Would Be The Other Side",
+            "number": "155",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "It Takes A Bit Of Courage To Enter A Street Vendor's Stand",
+            "number": "156",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Any Place With A Bunch Of Men Gathered Around Will Turn Into A Battlefield",
+            "number": "157",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If A Friend Gets Injured, Take Him To The Hospital, Stat!",
+            "number": "158",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If One Orange In The Box Is Rotten, The Rest Of Them Will Become Rotten Before You Realize It",
+            "number": "159",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "From A Foreigner's Perspective, You're The Foreigner. From An Alien's Perspective, You're The Alien",
+            "number": "160",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Laputa's Still Good After Seeing It So Many Times",
+            "number": "161",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love Is Unconditional",
+            "number": "162",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Black Ships Even Make A Scene When They Sink",
+            "number": "163",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That Matsutake Soup Stuff Tastes Better Than The Real Deal",
+            "number": "164",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "If It Works Once, It'll Work Over And Over Again",
+            "number": "165",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two Is Better Than One. Two People Are Better Than One",
+            "number": "166",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Smooth Polygons Smooth Men's Hearts Too",
+            "number": "167",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Human Body Is Like A Little Universe",
+            "number": "168",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Chosen Idiots",
+            "number": "169",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "And Into The Legend...",
+            "number": "170",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You'll Get Sued If All You Do Is Copy Others",
+            "number": "171",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "It All Depends On How You Use The 'Carrot And Stick' Method",
+            "number": "172",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's What's On The Inside That Counts",
+            "number": "173",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Are There Still People Who Go To The Ocean And Yell Out 'Bakayaro'?",
+            "number": "174",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "People Of All Ages Hate The Dentist!",
+            "number": "175",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Countdown Begins",
+            "number": "176",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "It's Bad Luck To See A Spider At Night",
+            "number": "177",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Once You're Entangled In A Spiderweb, It's Hard To Get It Off",
+            "number": "178",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's The Irresponsible One Who's Scary When Pissed",
+            "number": "179",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The More Precious The Burden, The Heavier And More Difficult It Is To Shoulder It",
+            "number": "180",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Watch Out For A Set Of Women And A Drink",
+            "number": "181",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Screw Popularity Polls",
+            "number": "182",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Popularity Polls Can Burn In Hell",
+            "number": "183",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Popularity Polls Can...",
+            "number": "184",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hometowns And Boobs Are Best Thought From Afar",
+            "number": "185",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Beware Of Foreshadows",
+            "number": "186",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's Goodbye Once A Flag Is Set",
+            "number": "187",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Observation Journal Should Be Seen Through To The Very End",
+            "number": "188",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That's How The End Of The Year Goes",
+            "number": "189",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When Looking For Something, Try Using Its Perspective",
+            "number": "190",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Freedom Means To Live True To Yourself, Not Without Law!",
+            "number": "191",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kabukicho Stray Cat Blues",
+            "number": "192",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cooking Is About Guts",
+            "number": "193",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Whenever I Hear Leviathan, I Think Of Sazae-san. Stupid Me!!",
+            "number": "194",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Not Losing To The Rain",
+            "number": "195",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Not Losing To The Wind",
+            "number": "196",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Not Losing To The Storm",
+            "number": "197",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Never Losing That Smile",
+            "number": "198",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That's How I Wish To Be, Beautiful And Strong",
+            "number": "199",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Santa Claus Red Is Blood Red",
+            "number": "200",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Everybody's A Santa",
+            "number": "201",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Everyone Looks a Little Grown Up After Spring Break",
+            "number": "202",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Everyone Looks Pretty Grown up after Summer Break",
+            "number": "203",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Use a Calligraphy Pen for New Year's Cards",
+            "number": "204",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Meals Should Be Balanced",
+            "number": "205",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's Too Confusing When Talking about the Poster Girl for a Poster Store, So Call Her a Sandwich Board",
+            "number": "206",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Glasses Are Part of the Soul",
+            "number": "207",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Glasses Prevent You from Seeing Certain Things",
+            "number": "208",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nothing Lasts Forever, including Parents, Money, Youth, Your Room, Dress Shirts, Me, You, and the Gintama Anime",
+            "number": "209",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Lawless Town Tends to Attract a Bunch of Whoohooey Folk",
+            "number": "210",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghosts Aren't the Only Ones Who Run Wild around Graveyards",
+            "number": "211",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Chains of a Warrior",
+            "number": "212",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Iron Town",
+            "number": "213",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "'Tis an Honor!",
+            "number": "214",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Odds or Evens",
+            "number": "215",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Can't Remember a Damn Thing about the Factory Tour",
+            "number": "216",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What Happens Twice Can Happen Thrice",
+            "number": "217",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Claws of a Crab Can Snip through a Friendship",
+            "number": "218",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "People Forget to Return Stuff All the Time without Even Realizing It",
+            "number": "219",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Bathhouse, Where You're Naked in Body and Soul",
+            "number": "220",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jugem",
+            "number": "221",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Name Reveals the Person",
+            "number": "222",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Man's Household Situation Is Hard, His Heart Is Soft",
+            "number": "223",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blue and Red Ecstasy",
+            "number": "224",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "So in the second season of Prison Break, they've already broken out of prison, but the name works once you realize that society is a prison",
+            "number": "225",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Everybody Loves Pajamas",
+            "number": "226",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Speaking of Crossovers, Don't Forget about Alien vs. Predator",
+            "number": "227",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love Is Neither plus Nor Minus",
+            "number": "228",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Making It through Love",
+            "number": "229",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It Would Take Too Much Effort to Make This Title Sound like a Text Message Subject",
+            "number": "230",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When You Go to a Funeral for the First Time, You're Surprised by How Happy the People Are",
+            "number": "231",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The People You Tend to Forget Tend to Show up after You Forget Them",
+            "number": "232",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Space Ururun Homestay",
+            "number": "233",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Piggy Banks and Trash Cans",
+            "number": "234",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Empty Planet",
+            "number": "235",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Say Goodbye Lionel",
+            "number": "236",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Please Take Me Skiing",
+            "number": "237",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Vacation in Disorientation",
+            "number": "238",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There Are a Few Things You're Not Supposed to Forget",
+            "number": "239",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "People Can Only Live by Forgetting the Bad",
+            "number": "240",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We Are All Hosts, in Capital Letters",
+            "number": "241",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Girls like Vegeta, Guys like Piccolo",
+            "number": "242",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Draw Your Life on the Canvas We Call Manga",
+            "number": "243",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Check It Out!!",
+            "number": "244",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Thorny and Rosy",
+            "number": "245",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Festival of Thornies",
+            "number": "246",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Letter from Thorny",
+            "number": "247",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Madaodog Madaonaire",
+            "number": "248",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Presents Are Meant to Be Given Early",
+            "number": "249",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Year's Envelopes Are Perfect for Dirty Jokes",
+            "number": "250",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When Sleeping under a Kotatsu, Make Sure You Don't Burn Your Balls",
+            "number": "251",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We're Sorry",
+            "number": "252",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Nobody with Natural Straight Hair Can Be That Bad/Nobody with Straight Blond Hair Can Be That Good",
+            "number": "253",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kintoki and Gintoki",
+            "number": "254",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kin-san's Kintama",
+            "number": "255",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Meaning of a Main Character",
+            "number": "256",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Courtesan Turns the Tables",
+            "number": "257",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Inside the Palace!!",
+            "number": "258",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Five Pinkies",
+            "number": "259",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pinky Swear",
+            "number": "260",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unsetting Moon",
+            "number": "261",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sound Of Beam Can Pierce Heart Of Everyone",
+            "number": "262",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two Brothers",
+            "number": "263",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Liquor and Gasoline, Smiles and Tears",
+            "number": "264",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dog Food Doesn't Have As Much Flavor As You'd Think",
+            "number": "265",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Can Never Pause at the Perfect Time",
+            "number": "266",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Even a Matsui Stick Can't Handle Some Kinds of Dirt",
+            "number": "267",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Inspector's Love Begins with an Inspection",
+            "number": "268",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Forget Dates, Remember People and You Can Hide Your Porn Mags But You Can't Hide Your ***",
+            "number": "269",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Mirror Provides a Frozen Reflection of Both Your Beautiful and Ugly Sides / Nobody Likes the Photo on Their License",
+            "number": "270",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Arriving Late to a Reunion Makes it Hard to Enter",
+            "number": "271",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Reunion Also Brings to the Surface Things You Don't Want to Remember",
+            "number": "272",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When Compared to Time in the Heavens, Fifty Years of Human Life Resembles Naught but Dreams and Lottery Tickets",
+            "number": "273",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Guys With Big Nostrils Also Have Big Imaginations / You Never Accept a New Sentai Series at the Start, But By the Final Episode, You Don't Want It to End",
+            "number": "274",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "9 + 1 = Yagyu Jyubei",
+            "number": "275",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Calories Come Back to Bite You Just When You've Forgotten About Them",
+            "number": "276",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "10-1=",
+            "number": "277",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Mothers Pack Too Much Food Into a Lunch Box and Ruin the Shape",
+            "number": "278",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Reaper by Day and the Reaper by Night",
+            "number": "279",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Human or Demon",
+            "number": "280",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell, Reaper",
+            "number": "281",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Phoenix Rises from the Ashes Over and Over",
+            "number": "282",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Amen",
+            "number": "283",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Being a Leader is Tough",
+            "number": "284",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love is a Roach Motel",
+            "number": "285",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Sizzle Summer",
+            "number": "286",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "He's the Sweet Tooth, and I'm the Mayo Guy ",
+            "number": "287",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'm a Failure as a Leader and He's Also a Failure as a Leader",
+            "number": "288",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'm Yorozuya and He's Shinsengumi",
+            "number": "289",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Always Leave Enough Room for 50 Million in Your Bag",
+            "number": "290",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Always Leave Enough Room for Pebbles in Your Bag",
+            "number": "291",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Style Goes Out of Fashion the Moment It's Put Into Words / There Are Two Types of People In This World: Those Who Yell Out Their Attack Names, and Those Who Don't",
+            "number": "292",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Two Apes",
+            "number": "293",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Afros of Life and Death",
+            "number": "294",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Afuro and Wolfro",
+            "number": "295",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Take the Initial Premise Lightly, and It'll Cost You",
+            "number": "296",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keep Your Farewells Short",
+            "number": "297",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "One Editor is Enough / The G-Pen Is Capricious, and the Maru Pen Is Stubborn",
+            "number": "298",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Strike When the Sword and Overlord are Hot / Oil Rain",
+            "number": "299",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shogun Assassination Arc Part One: Shoguns of Light and Shadow",
+            "number": "300",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shogun Assassination Arc Part Two: Ninja Village",
+            "number": "301",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shogun Assassination Arc Part Three: Ninja Soul",
+            "number": "302",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shogun Assassination Arc Part Four: And Then There Were Five",
+            "number": "303",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shogun Assassination Arc Part Five: Those Who Protect Against All Odds",
+            "number": "304",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shogun Assassination Arc Part Six: Sworn Enemy",
+            "number": "305",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shogun Assassination Arc Part Seven: The Crows Caw After the Battle Ends",
+            "number": "306",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shogun Assassination Arc Part Eight: Farewell, Buddy",
+            "number": "307",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Shinsengumi Arc Part One: The Day the Demon Cried",
+            "number": "308",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Shinsengumi Arc Part Two: Heroes Always Arrive Fashionably Late",
+            "number": "309",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Shinsengumi Arc Part Three: Lost and Found",
+            "number": "310",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Shinsengumi Arc Part Four: Prison Break",
+            "number": "311",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Shinsengumi Arc Part Five: Stray Dogs",
+            "number": "312",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Shinsengumi Arc Part Six: Undelivered Mail",
+            "number": "313",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Shinsengumi Arc Part Seven: Karma",
+            "number": "314",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Shinsengumi Arc Part Eight: Nobume",
+            "number": "315",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Shinsengumi Arc Part Nine: Farewell Shinsengumi",
+            "number": "316",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Monster and the Monster's Child",
+            "number": "317",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Leave Letter",
+            "number": "318",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Song of Samurai",
+            "number": "319",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Zura",
+            "number": "320",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Two Fools",
+            "number": "321",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ten Years",
+            "number": "322",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Paths",
+            "number": "323",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Master of Kouan",
+            "number": "324",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Lost Rabbit",
+            "number": "325",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Siblings",
+            "number": "326",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "First Student",
+            "number": "327",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hope",
+            "number": "328",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Stairs to Adulthood May Not Always Lead Up",
+            "number": "329",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "My Bald Dad, My Light-Haired Dad, and My Dad's Glasses",
+            "number": "330",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Bowl of Ramen",
+            "number": "331",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Family",
+            "number": "332",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Life, Death and Shades / All the Answers Can Be Found in the Field",
+            "number": "333",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "3000 Leagues in Search of a Scabbard",
+            "number": "334",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Super Sadist and the Super Sadist",
+            "number": "335",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sharpest Sword and the Dullest Sword",
+            "number": "336",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wash Your Hands Before a Handshake",
+            "number": "337",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Diamonds are Unscratchable",
+            "number": "338",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Idol's Badge of Honor",
+            "number": "339",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Line Between Godlike Games and Crappy Games is Paper-Thin / Glasses are a Part of the Soul",
+            "number": "340",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Guardian Spirit are Also a Part of the Soul",
+            "number": "341",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Try As You Might to Make a Natural Perm Go Away, It Will Alwasy Return",
+            "number": "342",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Flavoring is Best in Small Quantities",
+            "number": "343",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": " A Delinquent's Kid Has Long Neck Hair",
+            "number": "344",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Line Between Tenacious and Annoying Is Paper-Thin",
+            "number": "345",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Geezers Carve the Things They Shouldn't Forget into Their Wrinkles",
+            "number": "346",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Machine that Pick Up Useless Habits are Called People",
+            "number": "347",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Men Must Live Not Long Nor Thick, but Hard",
+            "number": "348",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ogres Are Weak Against Tiny Heroes Like the Inch-High Samurai",
+            "number": "349",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bragging About Your Own Heroic Deeds Will Make People Hate You, so Make Others Do It For You",
+            "number": "350",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jump and Power Creep Go Hand-in-Hand",
+            "number": "351",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Peace and Destruction are Two Sides of the Same Coin",
+            "number": "352",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bushido is Found One Second Before Death",
+            "number": "353",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Evildoers Who Do Good",
+            "number": "354",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rabbits Leap Higher on Moonlit Nights",
+            "number": "355",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Making a Dull World Interesting",
+            "number": "356",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Do Something Uncharacteristic, and Something Uncharacteristic Will Happen",
+            "number": "357",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Countless Kings",
+            "number": "358",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Unemployed Cannot Be Stained By Anything",
+            "number": "359",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": " Always Hold On to Your Trump Cards",
+            "number": "360",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Creatures Known as Humanity",
+            "number": "361",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sign",
+            "number": "362",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Specter",
+            "number": "363",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": " Two in Girl Years Is Equal to Ten in Man Years",
+            "number": "364",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Salvation",
+            "number": "365",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dun Dun",
+            "number": "366",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There Are Lines Even Villains Can't Cross",
+            "number": "367",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Spread the Wrapping Cloth Without Thinking Ahead",
+            "number": "368",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Make Up Your Mind Right Before The Important Decision",
+            "number": "369",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}

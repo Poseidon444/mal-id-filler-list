@@ -1,0 +1,820 @@
+{
+    "mal-id": 2923,
+    "anilist-id": 2923,
+    "anilist-name_en": "Shugo Chara!",
+    "anilist-name_jp": "Shugo Chara!",
+    "total-episodes": 51,
+    "afl-name": "Shugo Chara!",
+    "afl-link": "https://www.animefillerlist.com/shows/shugo-chara",
+    "fillers_episodes": [
+        "14",
+        "15",
+        "16",
+        "19",
+        "20",
+        "24",
+        "35",
+        "46",
+        "47",
+        "48",
+        "57",
+        "58",
+        "60",
+        "63",
+        "66",
+        "68",
+        "72",
+        "84",
+        "85",
+        "86",
+        "103",
+        "104",
+        "105",
+        "106",
+        "107",
+        "108",
+        "109",
+        "110",
+        "111",
+        "112",
+        "113",
+        "114",
+        "115",
+        "116",
+        "117",
+        "118",
+        "119",
+        "120",
+        "121",
+        "122",
+        "123",
+        "124",
+        "125",
+        "126",
+        "127"
+    ],
+    "episodes": [
+        {
+            "title": "A Guardian Character is Born!",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Heart's Egg!",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Flaky and Fluffy, Leave it to Su!",
+            "number": "3",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "I'm The Trump Card!?",
+            "number": "4",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Shoot! Get that X-Character!",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Character Transformation! Amulet Spade!",
+            "number": "6",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Small Egg!",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I've Fallen in Love with Your Eyes!",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Seven Mysteries of the Fujisaki Family!?",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Character Transformation! Amulet Clover!",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Snow Mountain Holiday!",
+            "number": "11",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Sad Christmas Eve!",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Big Disturbance! New Year Live!",
+            "number": "13",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Guardian Character at the Ski Slope!? Snoppe's Appearance!",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Battle at the Snowfield! Save Snoppe!",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "One Two Three\u2606Heart's Magic!",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Breathtaking Speech Contest!",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Happy, Embarrassing First Date!",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Papa and Mama's Memories!",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Present for You!",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Kidnapping of Guardian Characters!",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Guardian Characters Rescue Mission!",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Remake Honey! My Would Be Self!",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sketch of Heart!",
+            "number": "24",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Nadeshiko! Goodbye Despite Spring!?",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The New Beginning!",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fourth Guardian Egg!",
+            "number": "27",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Joker Disqualification? New Guardians Appear!",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Character Transformation!? Amulet Angel!",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Star Class vs. Moon Class! Great Cheerleader Activity!",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pretty Baby\u2606Great Tumult!",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Lonely Queen!",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Can't Help But Fall in Love!",
+            "number": "33",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Really!? Big Adventure to the Haunted Mansion!",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wedding Cake of the First Love!",
+            "number": "35",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Golden Prince, Part 1",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Golden Prince, Part 2",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Key, Lock, He and I!",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Character Transformation! Platinum Royale!",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rima! Unlock The Heart!",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "True Self!",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Utau Hoshina! The Last Battle!",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Character Transformation! Amulet Diamond!",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sparkle of the Heart!",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Go for it! Seiichiro!",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rima's Advent!? The Goddess of Comedy!",
+            "number": "46",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "I'm Utau's Manager!?",
+            "number": "47",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Asking a Favor of Yaya!",
+            "number": "48",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Secret of the Violin! Notes Dancing in the Wind!",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Have We Really Found It?! The Embryo!",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'll Get the Embryo!",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sparkle With All Your Might!",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hectic Day to Speak Frankly!?",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eh? A New Friend!",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Put the Heart of the Song on Wings!",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To the Sky! The Feeling to Take Off!",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Real Pretty Close Call!",
+            "number": "57",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Panic in Class Plum!",
+            "number": "58",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Utau Hoshina! New Beginning!",
+            "number": "59",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "When You Confess, it's Your Lucky Day?",
+            "number": "60",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Notice Kiran's Feelings!",
+            "number": "61",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Rima vs. Nagihiko! Are the Two Rivals?",
+            "number": "62",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Lulu's Flawless Christmas!",
+            "number": "63",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The New Year! First Laughter in Character Transformation!?",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Snow Days are Full of Secrets?",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Uproar! A Cat-Eared Girl!?",
+            "number": "66",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A UFO Girl Appears!",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fare Thee Well, Yamabuki Saaya...",
+            "number": "68",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "First Love? Love Attack!",
+            "number": "69",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Hate These Stupid Chocolates!?",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Arduous Path of Truth! Kairi Returns!",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Shook Up! The Grandmother Appears!!",
+            "number": "72",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Classified! Make-up Recipe?",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Jig is Up!? Utau Pays a Visit",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Exciting White Day!",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Enemy!? Battle On Moonlight!",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shocking! First Date, Busted!?",
+            "number": "78",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Amu-chan's Loong Day!?",
+            "number": "79",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ikuto and Amu Sorrowful Battle!",
+            "number": "80",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Believe in Each Other! Platinum Heart!",
+            "number": "81",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Infiltration! Easter Company!?",
+            "number": "82",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Chance Encounter at the World Music Fair?",
+            "number": "83",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fierce Battle! I'll Become the Ace Player!",
+            "number": "84",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mr. Nikaidou is a Teacher After All!?",
+            "number": "85",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Wassup! Here Comes the Gal Everyone's Talking About!!",
+            "number": "86",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Resound, My Voice! To Who I Used to Be!!",
+            "number": "87",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Save Nana! Guardian Character Nurses, Move Out?",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Confrontation! The Great? Egg Calamity!!",
+            "number": "89",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Want to Tell You These Feelings!",
+            "number": "90",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Heart to Heart",
+            "number": "91",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Full Throttle! My Rhythm!",
+            "number": "92",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's Got to Be Cool! Beat Jumper!",
+            "number": "93",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hoshina Utau, Fly to the Future!",
+            "number": "94",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Onward! The Calico Cat Search Party!?",
+            "number": "95",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unheard Pleas, Shattered Feelings.",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rima, Yaya, and the Pearls that Bind Them!",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tadase and Ikuto, the Horoscope of Fate!",
+            "number": "97",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reborn!! My Radiant Dancing Princess!",
+            "number": "98",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Our Feelings United! The Guardians' Battle!",
+            "number": "99",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Birth of Two Character Transformations!",
+            "number": "100",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Torn Picture Book! The Tragic Secret!",
+            "number": "101",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dream Egg, Who I Want to Be.",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Super-Peppy Transfer Student!",
+            "number": "103",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Enter the Guardian Apprentice!?",
+            "number": "104",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sparkle my Heart! The Power of Song!",
+            "number": "105",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hikaru vs. Bunny?",
+            "number": "106",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Place Eggs Return To",
+            "number": "107",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Yaya's Enthusiastic Gardening!",
+            "number": "108",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Welcome Back, Nadeshiko!",
+            "number": "109",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Miraculous Character Change!",
+            "number": "110",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "But Why!? Rima-senpai!",
+            "number": "111",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Eh! Tadase-kun has a crush on someone!?",
+            "number": "112",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sparkling Treasure!",
+            "number": "113",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Exhausted~ Amu-chan, Becomes a Mommy?",
+            "number": "114",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "My Would-Be Self!",
+            "number": "115",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "First Time Meeting this X Character!?",
+            "number": "116",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Stop Fighting!",
+            "number": "117",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Go, Rikka! Follow the Way of the Guardians",
+            "number": "118",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Turn, Turn! A Spinning World!",
+            "number": "119",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "An Exciting Picnic!",
+            "number": "120",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Utau's Wavering Heart",
+            "number": "121",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shock! My Egg got an X on it?",
+            "number": "122",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Nice to Meet You, My Name Is Hotaru",
+            "number": "123",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hikaru and Fun Amusement Park!",
+            "number": "124",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Oh No! Rikka and X Eggs?",
+            "number": "125",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Believe! In my Pure Heart!",
+            "number": "126",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Heart Racing Doki-Doki!",
+            "number": "127",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ]
+}

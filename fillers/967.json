@@ -1,0 +1,945 @@
+{
+    "mal-id": 967,
+    "anilist-id": 967,
+    "anilist-name_en": "Fist of the North Star",
+    "anilist-name_jp": "Hokuto no Ken",
+    "total-episodes": 109,
+    "afl-name": "Fist of the North Star",
+    "afl-link": "https://www.animefillerlist.com/shows/hokuto-no-ken",
+    "fillers_episodes": [
+        "9",
+        "10",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "38",
+        "41",
+        "79",
+        "80",
+        "81",
+        "82",
+        "98",
+        "105",
+        "109",
+        "111"
+    ],
+    "episodes": [
+        {
+            "title": "God or Devil?! The Mightiest Man Appears from Hell",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Deadly Fist of Lingering Regret!! The Future is Sighted  in the Barren Wasteland!!",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "In the City Without Light, a Lone Fist Burns! The Furious Death by the Five Exploding Fingers",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Attack the Bloody Cross! The Secret Technique, Ju Hazan.",
+            "number": "4",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Can the Flames of Love Burn in Hell? You Are Already Dead!",
+            "number": "5",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Search Order from Satan. Find the Man with the Seven Scars!",
+            "number": "6",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Villains! Shall We Have a Countdown to Death",
+            "number": "7",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Strike the Hidden Power Point! There\u2019s No Requiem for the Wicked.",
+            "number": "8",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Villains! Say Your Prayers Before You Die!",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Rekka Gyakuryuken! There Are Too Many Who Must Die!!",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Villains! Listen to the Blues of Hell!",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Am Death Itself! I'll Chase You to the Depths of Hell!",
+            "number": "12",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Rakan Nioh Ken! Once Released There's No Stopping It!!",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Miserable Era! The Good Die So Young!",
+            "number": "14",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Count to Three! You're the One to Die!",
+            "number": "15",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Try to Sing Villains! The Counting Rhyme of Hell!!",
+            "number": "16",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Man Lives to Fight! The Door to the Showdown Finally Opens!",
+            "number": "17",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Life or Death?! Beyond the Wasteland Lies the First Circle of Hell!",
+            "number": "18",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Villains! Ready Your One-Way Tickets to Death!!",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Nightmarish All-Out Battle! My Fist Pack 100 Volts!",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Evil Palace in Flames! Shin! Only One More Step to You Now!!",
+            "number": "21",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Yuria, Forever... As Well As Shin!",
+            "number": "22",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Tumultuous Dragon and Tiger! Are Battles All That Await Me!!",
+            "number": "23",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Nanto Suicho Ken! The Tragedy of the Mighty Begins!!",
+            "number": "24",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Sinners! Thy Name Is The Fang Clan!!",
+            "number": "25",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Tremble & Die! Villains Of Night Fog Valley!!",
+            "number": "26",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Only Villains Can Smile! How I Hate This Age!!",
+            "number": "27",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Rei! I\u2019ll Stop Your Tears with My Fist!!",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It\u2019s Too Late to Beg for Mercy! Go to Hell, King Fang!!",
+            "number": "29",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Destiny Draws Near! Jagi, Who are You!!",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hellish Iron Mask! - He Who Terrorizes in the Name of the North Star!!",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Four Linked Fists of Rage! - Jagi! I'll Wait for You in Hell!!!",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "This is the Village of Miracles! - A Fallen Angel Has Descended!!",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Toki! - Are You an Angel or a Devil?! / Toki! Are You Angel or Devil?!",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fiend! - Toki, Your Heart is Rotten to the Core!!",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Have no Past to Look Back on! - Just My Hatred for Evil That Will Destroy Toki!",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Instead, I Shall Reject Love! For I Bear the Cursed Star of Death!!",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crimson Fist of Lotus Mountain! A Tragic Woman Born of the Times!!",
+            "number": "38",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Wicked Legacy! The Gates to Cassandra Open Now!",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Villains Need No Graves! This Is the Hellish Cassandra!!",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The North Star\u2019s 2,000-year Tragedy! I Can Hear the Fist King\u2019s Footsteps!!",
+            "number": "41",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Century\u2019s End with No Tomorrow! I\u2019ve Been Waiting For You, Ken!!",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cassandra Collapses! The North Star\u2019s Mythology Is Painted Anew!!",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Death Omen Star Shines! Fist King, Do You Control Even Death?!",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Those Who Fear the Reaper! Listen to the Voice of Lin\u2019s Fiery Heart!",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Voices from Hell! Rei, Did You See the Death Omen Star?",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Nanto Dance of Death! I'll Give my Life for the Sake of Love!!",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Explosion of Secret Techniques! BEYOND HATRED IS THE FATE FOR THE BROTHERS OF THE NORTH STAR.",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Greatest Battle in History, Raoh vs. Ken! YOU\u2019RE THE ONE TO DIE!!",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "72 Hours to Live! The Death Omen Star Drags Rei In!!",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fate Without Tomorrow! And Yet, A Woman Believes in Love!!",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yuda Of The South Star Six Sacred Fists! I'm The Most Beautiful!!",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Death Omen Star Looms! Rei! How Cruel Time Passes By!!",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beloved Mamiya! The Death Omen Star Lurks Behind The Sparkle In Your Eyes!",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rei, Are You On Your Way To Death? A Man Is Beautiful Than Ever!!",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beautiful Warriors, Rei vs. Yuda! A Man's Passage Needs No Tears!",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "End of Part Two: Farewell, Rei! Heroic Legend Will be Told Throughout The Ages!",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beginning of Part Three: Supreme Rule in Turbulence! As The South Star Fades, The North Star Appears!!",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Star of Darkness Engulfs The Heavens! Time Evolves Beyond The Deathmatch!",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shu of The South Star White Heron Fist! What Will You Witness In The End Of This Century!?",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love on the Battlefield! Must the Time Tear Love Apart!?",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Am Souther, the Holy Emperor! I Disallow Love and Compassion!!",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Young Hero Challenges His Fate! Scream From Your Soul Shall Move The Heavens!",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Bloody Battle, Shu vs. Souther! Love, Drowned in the Tears of the Star of Benevolence!!",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Bloody Cross Mausoleum! Shu! I\u2019ll Catch Your Tears With My Heart!!",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Run Kenshiro! Another Comrade is About to Die!!",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash of the Polar Stars, Ken vs. Souther! My Star is the Only Protector of Heaven!!",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Souther, The Despondent Holy Emperor! You Are Weary From Love!!",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Critical Times of The North Star! The Three Brothers of Fate Are On The Move!!",
+            "number": "69",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Other Divine Fist of the North Star! Drive Raoh to Oblivion!!",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Secret of Origin Revealed! The Heaven Prefers Tragedy!!",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell, Toki! A Man Only Cries Once!!",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ryuga of Sirius! I'll Seize the Rainbow in Tempest!!",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Wolf Running In The Horizon! There Lies The End of Love And Hatred!",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Forgive Me, My Sister! I Am Destined to Clash With The North Star!!",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Iron Fist for the Roaring Wolf! Toki is in Danger!!",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Conclusion of Part Three: Let the New Age Awaken! The Wolf's Howl Moves the Heaven!",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shin of the South Star Sacred Fist! Risked Your Life For Love That Never Will!!",
+            "number": "78",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rei of the South Star Waterfowl Fist! A Man Who Died For His Friends!!",
+            "number": "79",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Yuda of the South Star Crimson Crane Fist! His Beautiful Smile Calls For Tragedy!!",
+            "number": "80",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shu of the South Star White Heron Fist! The Heaven Only Bestows Cruel Destinies",
+            "number": "81",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Holy Emperor Souther!! Your Deep Affection Consumes You In Love!",
+            "number": "82",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Part Four, the Final Chapter: Raoh Must Die! The Legend Turns to Terror!!",
+            "number": "83",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The South Star Strikes Back! The Wind Brigade Protects the Last General of the South Star!!",
+            "number": "84",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Prelude to a Death Match! The Screams of Hyui of the Wind Echoes in the Heaven!!",
+            "number": "85",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Burning Crimson Brigade! Shuren is Drenched in Tears of Flame!!",
+            "number": "86",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Five Chariot Stars in Danger! Raoh Has Finally Pierced Through the Flames!!",
+            "number": "87",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Five Chariot Stars Approach Kenshiro! Who Are You, Fudo?!",
+            "number": "88",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Crisis is Near! Ken, Destiny Awaits at the Capital of the South Star!",
+            "number": "89",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Am Juza of the Clouds! I Shall Move with the Flow of Time!!",
+            "number": "90",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Clouds Remain! The Masked General is Finally Revealed!!",
+            "number": "91",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Juza of the Clouds Resurrects! I Have No Fear for Raoh!!",
+            "number": "92",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Juza vs Raoh! An End of the Legend of the Invincible!!",
+            "number": "93",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fudo in Peril!! Hurry, Ken. A Man Must Not Abandon His Friends!!",
+            "number": "94",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Treacherous Quicksand! Will the Hand of Salvation Reach Fudo?",
+            "number": "95",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Juza Falls! I'll Give My Life to Protect the Woman I Love",
+            "number": "96",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell Yuria! A Strong Man Will Not Speak of Love, Even in Death!!",
+            "number": "97",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Capital of the South Star Trembles! The Two Brothers of the North Star Finally Arrive!!",
+            "number": "98",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sadness of the Five Chariot Stars! Love and Destiny Looms Over the Woman!!",
+            "number": "99",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Secret Technique, Unconscious Transmigration! Raoh, I've Got You Now!!",
+            "number": "100",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Is It the End of Raoh and His Ambitions? The Heaven Hesitates Once Again!!",
+            "number": "101",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Raoh, the Confused Giant! I Don't Believe in Love!!",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Challenge From the Devil! Fudo, Be the Demon for Those You Love!!",
+            "number": "103",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fudo, the Gentle Warrior! His Tears Awaken a Fiery Soul!!",
+            "number": "104",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Protect the Merciful Mother of the South Star! Even If It's the End of the Five Chariots!!",
+            "number": "105",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Raoh, Shaken by a Nightmare! Yuria, You Are the Only One!!",
+            "number": "106",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showdown at the North Star Mind and Body Training Ground! No One Can Stop Them Now!!",
+            "number": "107",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell, the Brothers of the North Star! They're Beyond Love and Sorrow!!",
+            "number": "108",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Conclusion of the Final Chapter - Now Revealed!! The 2000 Year History of the North Star!!",
+            "number": "109",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Past is Gone. The Dawn of the New Age!!",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When Will He Awaken?!",
+            "number": "111",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Savior Comes From the North!!",
+            "number": "112",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mysterious Bounty Hunter, Ein! Kenshiro's Head is Mine!!",
+            "number": "113",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Another Art of Assassination! The Imperial Fist of the Source Star is the Name!!",
+            "number": "114",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rage of the Celestial Emperor! Falco, Obliterate the North Star from Earth!!",
+            "number": "115",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Wrath of the South Star! The Illustrious Harn Brothers!",
+            "number": "116",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ein in Danger! Hands of Evil Reach for His Love!!",
+            "number": "117",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Falco, the Brave General of the Source Star! There Lies the Shadow of Raoh...",
+            "number": "118",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Emperor's Cries Echoes Through the Imperial Capital. Falco, Where Have You Gone?",
+            "number": "119",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Celestial Emperor is Finally Revealed",
+            "number": "120",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Elegy for Ein! Die Bravely Than Live Without Honor!",
+            "number": "121",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fall of the Imperial Capital! Jakoh, You Can Dream in Hell!!",
+            "number": "122",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ordeal Never Ends! Kenshiro Crosses the Ocean!!",
+            "number": "123",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What Awaits on the Continent of Darkness? There Lies the Legendary Land of Asura!!",
+            "number": "124",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Good or Evil? The Mysterious North Star Lapis Lazuli Fist Appears!!",
+            "number": "125",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love is Preached in the Century's End! Her Name is Leia!!",
+            "number": "126",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The General of Asura, Han! The Man Who Stains White Snow into Crimson!!",
+            "number": "127",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Legend of the Savior of Asura! His Name is Raoh!!",
+            "number": "128",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kenshiro's Secret is Revealed! The Land of Asura is His Motherland!!",
+            "number": "129",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Cruel Prophecy! Kenshiro, You Cannot Be the Savior!",
+            "number": "130",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rock, The Hero on Horseback! I Don't Believe in Kenshiro!!",
+            "number": "131",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Men Beyond Reasons! The Band of Seven Attacks Kenshiro!!",
+            "number": "132",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rock's Message of Death! Kenshiro, Hang on to Your Friend's Life!!",
+            "number": "133",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Announcing the Creator of the New Century! My Name is Demon Kaioh!!",
+            "number": "134",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Seal of the Devil! 2000 Year Tragedy of the North Star Clan is Revealed!!",
+            "number": "135",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Little Brother Ken in Danger! Hyoh, Open Up Your Kind Soul!",
+            "number": "136",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kenshiro on the Execution Stand! The Heavens Unleash the God of the Sea!",
+            "number": "137",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kaioh's Declaration of Victory! The Phantom of the North Star Attacks!!",
+            "number": "138",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Destined Encounter of Hyoh and Ken! Both Are Yet to Know Their Secrets!!",
+            "number": "139",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kaioh's Evil Decision! Cold Blood Runs Through My Body!!",
+            "number": "140",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kenshiro's Challenge! Never Be Defeated Twice!!",
+            "number": "141",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Tyrant Hyoh and His Sorrowful Aide! Who Will Stop Him Now?!",
+            "number": "142",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle Of The Blood Brothers! Tears Will Never Return To Hyoh",
+            "number": "143",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The North Star on the Brink of Death! Kaioh Reaches Out for the Celestial Emperor!!",
+            "number": "144",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tearful Reunion of the Brothers! Kenshiro, I've Been Waiting for You!!",
+            "number": "145",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shachi's Battle for Love! Kaioh Will Ridicule With Laughter",
+            "number": "146",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fall of Shachi, Warrior of Love! Love is Everything, My Friends!!",
+            "number": "147",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tragic Victim of Love! Kaioh's Foundation of Evil!!",
+            "number": "148",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kaioh's Disgraceful Past! The Heavens Recreate Lin's Destiny!!",
+            "number": "149",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Chapter: Three Episodes Remaining! Here is the 2,000 Year-old History of the North Star Clan!!",
+            "number": "150",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Prologue to the Final Episode! A Third Man Appears to Determine Lin's Fate!!",
+            "number": "151",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Episode: Farewell, Kenshiro! Farewell, the Divine Fist of the North Star!!",
+            "number": "152",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ]
+}
