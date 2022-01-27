@@ -1,0 +1,49 @@
+{
+    "mal-id": 41911,
+    "anilist-id": 118399,
+    "anilist-name_en": "Yashahime: Princess Half-Demon",
+    "anilist-name_jp": "Hanyou no Yashahime",
+    "afl-name": "Yashahime: Princess Half-Demon",
+    "afl-link": "https://www.animefillerlist.com/shows/yashahime-princess-half-demon",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Inuyasha: Since Then",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Three Princesses",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dream Butterfly",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gateway to the Past",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Red Bone Palace Young Bone Circle",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nekojuan of the Old Temple",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
+}

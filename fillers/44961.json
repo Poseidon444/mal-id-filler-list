@@ -1,0 +1,39 @@
+{
+    "mal-id": 44961,
+    "anilist-id": 127401,
+    "anilist-name_en": "Platinum End",
+    "anilist-name_jp": "Platinum End",
+    "afl-name": "Platinum End",
+    "afl-link": "https://www.animefillerlist.com/shows/platinum-end",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Gift from an Angel",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hero of Justice",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Heart's Beloved",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Time to Assemble",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "total-episodes": [
+        15
+    ],
+    "nextAiringEpisode": 16
+}

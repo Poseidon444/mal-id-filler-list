@@ -1,0 +1,343 @@
+{
+    "mal-id": 44304,
+    "anilist-id": 126830,
+    "anilist-name_en": null,
+    "anilist-name_jp": "Code Geass: Dakkan no Z",
+    "afl-name": "Code Geass",
+    "afl-link": "https://www.animefillerlist.com/shows/code-geass",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Stage 01 - The Day a New Demon Was Born",
+            "number": "1",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 02 - The White Knight Awakens",
+            "number": "2",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 03 - The False Classmate",
+            "number": "3",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 04 - His Name is Zero",
+            "number": "4",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 05 - The Princess and the Witch",
+            "number": "5",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 06 - The Stolen Mask",
+            "number": "6",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 07 - Attack Cornelia",
+            "number": "7",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 08 - The Black Knights",
+            "number": "8",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 09 - Refrain",
+            "number": "9",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 10 - Guren Dances",
+            "number": "10",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 11 - Battle for Narita",
+            "number": "11",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 12 - The Messenger From Kyoto",
+            "number": "12",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 13 - Shirley at Gunpoint",
+            "number": "13",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 14 - Geass vs. Geass",
+            "number": "14",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 15 - Cheering Mao",
+            "number": "15",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 16 - Nunnally Held Hostage",
+            "number": "16",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 17 - Knight ",
+            "number": "17",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 18 - I Order you, Suzaku Kururugi",
+            "number": "18",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 19 - Island of the Gods",
+            "number": "19",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 20 - The Battle for Kyushu",
+            "number": "20",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 21 - The School Festival Declaration",
+            "number": "21",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 22 - Bloodstained Euphy",
+            "number": "22",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 23 - At Least with Sorrow",
+            "number": "23",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 24 - The Collapsing Stage",
+            "number": "24",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stage 25 - Zero",
+            "number": "25",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 01 - The Day a Demon Awakens",
+            "number": "26",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 02 - Plan for Independent Japan",
+            "number": "27",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 03 - Imprisoned in Campus",
+            "number": "28",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 04 - Counterattack at the Gallows",
+            "number": "29",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 05 - Knights of the Round",
+            "number": "30",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 06 - Surprise Attack over the Pacific",
+            "number": "31",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 07 - The Abandoned Mask",
+            "number": "32",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 08 - One Million Miracles",
+            "number": "33",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 09 - A Bride in the Vermillion Forbidden City",
+            "number": "34",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 10 - When Shen Hu Wins Glory",
+            "number": "35",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 11 - Power of Passion",
+            "number": "36",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 12 - Love Attack!",
+            "number": "37",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 13 - Assassin from the Past",
+            "number": "38",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 14 - Geass Hunt",
+            "number": "39",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 15 - The Cs' World",
+            "number": "40",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 16 - United Federation of Nations Resolution Number One",
+            "number": "41",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 17 - The Taste of Humiliation",
+            "number": "42",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 18 - Final Battle Tokyo II",
+            "number": "43",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 19 - Betrayal",
+            "number": "44",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 20 - Emperor Dismissed",
+            "number": "45",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 21 - The Ragnarok Connection",
+            "number": "46",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 22 - Emperor Lelouch",
+            "number": "47",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 23 - Schneizel's Guise",
+            "number": "48",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turn 24 - The Grip of Damocles",
+            "number": "49",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Final Turn - Re;",
+            "number": "50",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Wyvern Arrives",
+            "number": "51",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Wyvern Divided",
+            "number": "52",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Brightness Falls",
+            "number": "53",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memories of Hatred",
+            "number": "54",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To Beloved Ones",
+            "number": "55",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": null
+}
