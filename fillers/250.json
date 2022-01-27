@@ -3,7 +3,6 @@
     "anilist-id": 250,
     "anilist-name_en": "Zatch Bell!",
     "anilist-name_jp": "Konjiki no Gash Bell!!",
-    "total-episodes": 150,
     "afl-name": "Zatch Bell!",
     "afl-link": "https://www.animefillerlist.com/shows/zatch-bell",
     "fillers_episodes": [
@@ -222,31 +221,31 @@
             "title": "The Cute Transfer Student",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Shion's Secret",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Joining of the Three",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sunset Soaked in Tears",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Final Mirror Battle",
             "number": "35",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Collision: Zatch vs. Naomi",
@@ -570,73 +569,73 @@
             "title": "The Magnificent Victoream Returns!",
             "number": "89",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Hurricane Test Battle!",
             "number": "90",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Naomi's Evil Plot",
             "number": "91",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Dr. Riddles' Renewed Vow",
             "number": "92",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Voice From Another World!",
             "number": "93",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Door to a Different World! Brago vs. Zatch",
             "number": "94",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Attack of the Iron Army!",
             "number": "95",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Battle With Brago - Without Sherry!",
             "number": "96",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Maestro's Revenge on the Mamodo World!",
             "number": "97",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Decisive Battle in the In-Between World!",
             "number": "98",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Miss Wriggle's Class is Now in Session",
             "number": "99",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Bagpipes of Sadness!",
             "number": "100",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Boy that Speaks to the Wind!",
@@ -870,73 +869,75 @@
             "title": "Aim for the brain! Roaring Faudo. Desperate re-entry",
             "number": "139",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Those who won't become King. Do or die! Final fist.",
             "number": "140",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Burning Umagon. Freezing Karudio. Run to Victory!!",
             "number": "141",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sealed room. Aleshie's fight. Destiny once more!",
             "number": "142",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Burn Up Life. Warrior Alishie. The Conclusion!? Zaruchimu",
             "number": "143",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "We are Kings. Kanchom\u00e9 and Momon. Defeat Keith!",
             "number": "144",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Screams that won't reach. Ted vs. Cherish. Things more important than King",
             "number": "145",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Faudo's safeguards. From Arth to Gash. Trusted future",
             "number": "146",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Reversed future. Thunder emperor Zeon. Prelude to ruin",
             "number": "147",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Raging Zeon! Two fates. Gash's secret",
             "number": "148",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The inheritor of Baou. Gash vs. Zeon. Jigadirasu's thunder",
             "number": "149",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Decisive battle against Faudo! The golden radiance. The kind king",
             "number": "150",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 150
 }

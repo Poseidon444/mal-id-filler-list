@@ -3,7 +3,6 @@
     "anilist-id": 223,
     "anilist-name_en": "Dragon Ball",
     "anilist-name_jp": "Dragon Ball",
-    "total-episodes": 153,
     "afl-name": "Dragon Ball",
     "afl-link": "https://www.animefillerlist.com/shows/dragon-ball",
     "fillers_episodes": [
@@ -208,25 +207,25 @@
             "title": "Pilaf and the Mystery Force",
             "number": "30",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Wedding Plans?",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Flying Fortress - Vanished!",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Legend of a Dragon",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Cruel General Red",
@@ -298,7 +297,7 @@
             "title": "Danger in the Air",
             "number": "45",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Bulma's Bad Day",
@@ -502,31 +501,31 @@
             "title": "Terror and Plague",
             "number": "79",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Goku vs. Sky Dragon",
             "number": "80",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Goku Goes to Demon Land",
             "number": "81",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Rampage of InoShikaCho",
             "number": "82",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Which Way To Papaya Island?",
             "number": "83",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rivals and Arrivals",
@@ -790,37 +789,37 @@
             "title": "Quicker than Lightning",
             "number": "127",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Secret of the Woods",
             "number": "128",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Time Room",
             "number": "129",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Goku's Doll",
             "number": "130",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Walking Their Own Ways",
             "number": "131",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hotter than Lava",
             "number": "132",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Changes",
@@ -922,31 +921,33 @@
             "title": "Dress in Flames",
             "number": "149",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Fire-Eater",
             "number": "150",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Outrageous Octagon",
             "number": "151",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Mystery of the Dark World",
             "number": "152",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The End, The Beginning",
             "number": "153",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 153
 }

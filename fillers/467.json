@@ -1,0 +1,331 @@
+{
+    "mal-id": 467,
+    "anilist-id": 467,
+    "anilist-name_en": "Ghost in the Shell: Stand Alone Complex",
+    "anilist-name_jp": "Koukaku Kidoutai: STAND ALONE COMPLEX",
+    "afl-name": "Ghost In the Shell: Stand Alone Complex",
+    "afl-link": "https://www.animefillerlist.com/shows/ghost-shell-stand-alone-complex",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "SA: Public Security Section 9 \u2013 SECTION-9",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: Runaway Evidence \u2013 TESTATION",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: A Modest Rebellion \u2013 ANDROID AND I",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C: The Visual Device will Laugh \u2013 INTERCEPTER",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C: The Inviting Bird will Chant \u2013 DECOY",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C: The Copycat will Dance \u2013 MEME",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: Idolatry \u2013 IDOLATOR",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: The Fortunate Ones \u2013 MISSING HEARTS",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C: The Man Who Dwells in the Shadows of the Net \u2013 CHAT! CHAT! CHAT!",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: A Perfect Day for a Jungle Cruise \u2013 JUNGLE CRUISE",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C: In The Forest of the Imagoes \u2013 PORTRAITZ",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: Tachikoma Runs Away; The Movie Director's Dream \u2013 ESCAPE FROM",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: Unequal Terrorist \u2013 NOT EQUAL",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: Automated Capitalism \u2013 \u00a5\u20ac$",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: Time of the Machines \u2013 MACHINES D\u00c9SIRANTES",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: Chinks in the Armor of the Heart \u2013 Ag2O",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: The True Reason For The Unfinished Love Affair \u2013 ANGELS' SHARE",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: Assassination Duet \u2013 LOST HERITAGE",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SA: Embraced by a Disguised Net \u2013 CAPTIVATED",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C: Vanished Medication \u2013 RE-VIEW",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C: Left-Behind Trace \u2013 ERASER",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C: Corporate Graft \u2013 SCANDAL",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C: The Other Side of Good and Evil \u2013 EQUINOX",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C: Sunset in the Lonely City \u2013 ANNIHILATION",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C: Smoke of Gunpowder, Hail of Bullets \u2013 BARRAGE",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "C: Public Security Section 9, Once Again \u2013 STAND ALONE COMPLEX",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DI: Reactivation \u2013 REEMBODY",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DI: Well-Fed Me \u2013 NIGHT CRUISE",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DI: Saturday Night and Sunday Morning \u2013 CASH EYE",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DU: Natural Enemy \u2013 NATURAL ENEMY",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "IN: Those Who Have the Motive \u2013 INDUCTANCE",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DI: Latent Heat Source \u2013 EXCAVATION",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DU: The Rhapsodic Melody of a Bygone Nation \u2013 239Pu",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DI: Vegetarian Dinner \u2013 FAKE FOOD",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DU: The Hope Named Despair \u2013 AMBIVALENCE",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DI: One Angry Man \u2013 TRIAL",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "IN: Grass Labyrinth \u2013 AFFECTION",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "IN: To Those Without Even a Name... \u2013 SELECON",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DI: Face \u2013 MAKE UP",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DI: Beware the Left Eye \u2013 POKER FACE",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DI: Afternoon of the Machines \u2013 PAT.",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "IN: The Fact of Being There \u2013 ANOTHER CHANCE",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DI: Mother and Child \u2013 RED DATA",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DI: Angel's Poem \u2013 TRANS PARENT",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "IN: Chain Reaction of Symmetry \u2013 CHAIN REACTION",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "IN: Confusion at the North End \u2013 FABRICATE FOG",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "IN: Escape in Defeat \u2013 EMBARRASSMENT",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "DU: Abandoned City \u2013 REVERSAL PROCESS",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "IN: The Day the Bridge Falls \u2013 MARTIAL LAW",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "IN: Aerial Bombing of Dejima \u2013 NUCLEAR POWER",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "IN: To the Other Side of Paradise \u2013 THIS SIDE OF JUSTICE",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "IN: Return to Patriotism \u2013 ENDLESS\u221eGIG",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Solid State Society",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 26
+}

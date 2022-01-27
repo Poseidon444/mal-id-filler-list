@@ -3,7 +3,6 @@
     "anilist-id": 1565,
     "anilist-name_en": "Pok\u00e9mon: Diamond and Pearl",
     "anilist-name_jp": "Pocket Monsters Diamond & Pearl",
-    "total-episodes": 191,
     "afl-name": "Pok\u00e9mon Diamond and Pearl",
     "afl-link": "https://www.animefillerlist.com/shows/pok%C3%A9mon-diamond-and-pearl",
     "fillers_episodes": [
@@ -145,7 +144,7 @@
             "title": "Ya See We Want An Evolution!",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Borrowing on Bad Faith! ",
@@ -157,13 +156,13 @@
             "title": "Faced with Steelix Determination!",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Cooking Up a Sweet Story!",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Oh Do You Know The Poffin Plan!",
@@ -253,7 +252,7 @@
             "title": "Steamboat Willies!",
             "number": "39",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Top-Down Training!",
@@ -271,13 +270,13 @@
             "title": "The Electrike Company! ",
             "number": "42",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Malice In Wonderland! ",
             "number": "43",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Mass Hip-Po-Sis!",
@@ -349,25 +348,25 @@
             "title": "The Keystone Pops!",
             "number": "55",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Bibarel Gnaws Best!",
             "number": "56",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Nosing 'Round the Mountain!",
             "number": "57",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Luxray Vision!",
             "number": "58",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Journey To The Unown!",
@@ -433,7 +432,7 @@
             "title": "The Bells Are Singing! ",
             "number": "69",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Pok\u00e9mon Ranger and the Kidnapped Riolu! Part 1 ",
@@ -565,7 +564,7 @@
             "title": "A Lean Mean Team Rocket Machine!",
             "number": "91",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Playing The Leveling Field",
@@ -633,5 +632,7 @@
             "filler": "Anime Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 191
 }

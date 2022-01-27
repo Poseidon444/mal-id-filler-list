@@ -3,7 +3,6 @@
     "anilist-id": 270,
     "anilist-name_en": "HELLSING",
     "anilist-name_jp": "HELLSING",
-    "total-episodes": 13,
     "afl-name": "Hellsing",
     "afl-link": "https://www.animefillerlist.com/shows/hellsing",
     "fillers_episodes": [
@@ -37,7 +36,7 @@
             "title": "Innocent as a Human",
             "number": "4",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Brotherhood",
@@ -61,13 +60,13 @@
             "title": "Kill House",
             "number": "8",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Red Rose Vertigo",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Master of Monster",
@@ -79,19 +78,21 @@
             "title": "Transcend Force",
             "number": "11",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Total Destruction",
             "number": "12",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hellfire",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
 }

@@ -3,7 +3,6 @@
     "anilist-id": 232,
     "anilist-name_en": "Cardcaptor Sakura",
     "anilist-name_jp": "Cardcaptor Sakura",
-    "total-episodes": 70,
     "afl-name": "Cardcaptor Sakura",
     "afl-link": "https://www.animefillerlist.com/shows/cardcaptor-sakura",
     "fillers_episodes": [
@@ -112,25 +111,25 @@
             "title": "Sakura's Neverending Day",
             "number": "12",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and the Elephant's Test of Strength",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura, Toya, and Cinderella",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and Kero's Big Fight",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and the Rainbow of Memories",
@@ -154,37 +153,37 @@
             "title": "Sakura and the Summer Holiday Homework",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Transfer Student vs. Sakura",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura's Long Marathon Race",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and Her Kind Father",
             "number": "22",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura, Tomoyo, and the Wonderful Song",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura's Little Adventure",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and One More Sakura",
@@ -202,49 +201,49 @@
             "title": "Sakura and the Shrine of Memories",
             "number": "27",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and the Enchanted Cards",
             "number": "28",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura's Sweet Cooking",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and the Injured Card",
             "number": "30",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and the Nameless Book",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura, Kero, and Syaoran",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura's Freezing Ice Skating",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura, Yukito, and the Midday Moon",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura's Wonderful Christmas",
@@ -256,19 +255,19 @@
             "title": "Sakura and the Snowy New School Term",
             "number": "36",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and Tomoyo's Lost Voice",
             "number": "37",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura's Fun Strawberry-Picking Adventure",
             "number": "38",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura's Dizzy Fever Day",
@@ -280,7 +279,7 @@
             "title": "Sakura and the Sakura from the Dream",
             "number": "40",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura, Syaoran, and the Sea of Sand",
@@ -298,7 +297,7 @@
             "title": "Sakura and Farewell to Meilin",
             "number": "43",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura, Kero, and the Mysterious Teacher",
@@ -358,7 +357,7 @@
             "title": "Sakura and the Panicky Bike",
             "number": "53",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and the Calendar of Memories",
@@ -370,25 +369,25 @@
             "title": "Sakura and Sakura from Wonderland",
             "number": "55",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura, Kero, and the Sweet Meeting",
             "number": "56",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura, Syaoran, and the Elevator",
             "number": "57",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and Double Trouble",
             "number": "58",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura, Tomoyo, and the Ball Trap",
@@ -400,31 +399,31 @@
             "title": "Sakura and the Precious Friend",
             "number": "60",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura, the Cards, and the Presents",
             "number": "61",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and the Mysterious Fortune",
             "number": "62",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura, the Pool, and the Huge Wave",
             "number": "63",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura and the Snowy Ski Class",
             "number": "64",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sakura, Yukito, and the Vanishing Power",
@@ -600,5 +599,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 70
 }

@@ -3,7 +3,6 @@
     "anilist-id": 687,
     "anilist-name_en": "Tokyo Mew Mew",
     "anilist-name_jp": "Tokyo Mew Mew",
-    "total-episodes": 52,
     "afl-name": "Tokyo Mew Mew",
     "afl-link": "https://www.animefillerlist.com/shows/tokyo-mew-mew",
     "fillers_episodes": [
@@ -58,13 +57,13 @@
             "title": "Stormy Rhythmic Gymnastics \u2013 becoming a Star with a Cat's Dance! ~Nya!",
             "number": "5",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Piano of the Heart \u2013 It's a heart-pounding dance party! ~Nya!",
             "number": "6",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Enter Pudding \u2013 The Ears and Tail are Part of the Act!",
@@ -76,13 +75,13 @@
             "title": "To the Hot Spring! The Mysterious Mountain's Miracle of Love",
             "number": "8",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Dearly Beloved Brother \u2013 The Memories lie in the Picture",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Last Member \u2013 The Legendary Lonely Wolf",
@@ -112,19 +111,19 @@
             "title": "Akasaka's Secret \u2013 A Tale of Sad Love",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Little Hero Masha \u2013 Friendship at the Risk of His Life",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Lettuce's Love \u2013 Longing in the Library",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Knight in Blue \u2013 I will protect you!",
@@ -148,7 +147,7 @@
             "title": "Memories of mother \u2013 Onee-chan is in trouble",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sparks of the Heart \u2013 Ichigo and Mint At Odds",
@@ -160,19 +159,19 @@
             "title": "Farewell Summer \u2013 Ichigo's Longest Day",
             "number": "22",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sudden Love \u2013 Accept Girls' Hearts!",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Mysterious Gem \u2013 Brilliance is within you!",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Love's Hurdle \u2013 Many Obstacles to Ichigo's Love",
@@ -202,43 +201,43 @@
             "title": "A Forbidden Love? I Can Understand Cats! ~Nya",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Be Honest! Unspoken Love in the Crystal Ball!",
             "number": "30",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Father's Back \u2013 One-game Match for Ichigo!",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Princess Fight \u2013 The Hero Can't be Bought For Money",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Fianc\u00e9 Appears \u2013 Pudding's Fated Marriage?!",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Most Important Matter \u2013 The Ability to Trust in Someone",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Don't Cry, Lonely Little Zakuro",
             "number": "35",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Shirogane's Past: the Secret of the Mew Mews' Birth!",
@@ -262,7 +261,7 @@
             "title": "The Stolen Dream \u2013 Sweet Trap of the Lavender",
             "number": "39",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Two Becoming Friends? Pudding in Imminent Danger!",
@@ -280,13 +279,13 @@
             "title": "Zakuro's Dilemma: Only Four Mew Mews Now?",
             "number": "42",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Friend or Foe? Fight, Oneesama!",
             "number": "43",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The City Turns into a Forest! What Protects Ichigo's Smile",
@@ -342,5 +341,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 52
 }

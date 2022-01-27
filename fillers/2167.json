@@ -3,7 +3,6 @@
     "anilist-id": 2167,
     "anilist-name_en": "Clannad",
     "anilist-name_jp": "CLANNAD",
-    "total-episodes": 23,
     "afl-name": "Clannad",
     "afl-link": "https://www.animefillerlist.com/shows/clannad",
     "fillers_episodes": [
@@ -90,13 +89,13 @@
             "title": "Garden of Memories",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Theory of Everything",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Stuck Problem",
@@ -108,19 +107,19 @@
             "title": "3 on 3",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Room Without Anyone",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Counter Measures",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A New Life",
@@ -152,5 +151,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 23
 }

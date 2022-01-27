@@ -3,7 +3,6 @@
     "anilist-id": 22,
     "anilist-name_en": "The Prince of Tennis",
     "anilist-name_jp": "Tennis no Ouji-sama",
-    "total-episodes": 178,
     "afl-name": "The Prince of Tennis",
     "afl-link": "https://www.animefillerlist.com/shows/prince-tennis-0",
     "fillers_episodes": [
@@ -135,7 +134,7 @@
             "title": "Is the Tennis Court Burning Up?",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kaoru's Troubles",
@@ -153,7 +152,7 @@
             "title": "Ryoma's Day Off",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Seigaku's Strongest Man, Part 1",
@@ -203,5 +202,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 178
 }

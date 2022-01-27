@@ -3,7 +3,6 @@
     "anilist-id": 552,
     "anilist-name_en": "Digimon: Digital Monsters",
     "anilist-name_jp": "Digimon Adventure",
-    "total-episodes": 54,
     "afl-name": "Digimon Adventure",
     "afl-link": "https://www.animefillerlist.com/shows/digimon-adventure",
     "fillers_episodes": [
@@ -206,7 +205,7 @@
             "title": "Pump and Gotsu are Shibuya-Type Digimon",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Bond of Destiny! Tailmon",
@@ -334,5 +333,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 54
 }

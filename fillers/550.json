@@ -3,7 +3,6 @@
     "anilist-id": 550,
     "anilist-name_en": null,
     "anilist-name_jp": "Yu\u2606Gi\u2606Oh!",
-    "total-episodes": 27,
     "afl-name": "Yu-Gi-Oh!",
     "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh",
     "fillers_episodes": [
@@ -39,7 +38,7 @@
             "title": "Theft! Rare Watch Battle",
             "number": "4",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Now Revealed!! Yugi's Secret",
@@ -63,7 +62,7 @@
             "title": "The Four Game Masters Finally Stir",
             "number": "8",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Explosion - Ultimate Yo-Yo Technique",
@@ -87,7 +86,7 @@
             "title": "A Lucky Foe Calls Out - The Invincible Legend",
             "number": "12",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Targeting a Schoolgirl - The Fang of a Great Prediction",
@@ -105,19 +104,19 @@
             "title": "Eerie Woman!! Unable to Transform",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Breadth's Change - Crisis of the White Robe",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Last Minute Match - The Invited Model",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "In a Forbidden Game - Show Your Hand",
@@ -129,13 +128,13 @@
             "title": "The Grand Melee!! Popularity Contest",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Come Out!! The Strongest and Final Trump Card",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Completed!! The Ultimate Game Land",
@@ -179,5 +178,7 @@
             "filler": "Mixed Canon/Filler",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 27
 }

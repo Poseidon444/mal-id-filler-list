@@ -3,7 +3,6 @@
     "anilist-id": 263,
     "anilist-name_en": "Fighting Spirit",
     "anilist-name_jp": "Hajime no Ippo: THE FIGHTING!",
-    "total-episodes": 75,
     "afl-name": "Fighting Spirit ",
     "afl-link": "https://www.animefillerlist.com/shows/fighting-spirit",
     "fillers_episodes": [
@@ -195,7 +194,7 @@
             "title": "Traces of Intense Battles",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Throw Your Right!",
@@ -321,7 +320,7 @@
             "title": "The Challenger",
             "number": "52",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "So That I Can Be Myself",
@@ -461,5 +460,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 75
 }

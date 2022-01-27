@@ -3,7 +3,6 @@
     "anilist-id": 1482,
     "anilist-name_en": "D.Gray-man",
     "anilist-name_jp": "D.Gray-man",
-    "total-episodes": 103,
     "afl-name": "D.Gray-man",
     "afl-link": "https://www.animefillerlist.com/shows/d-gray-man",
     "fillers_episodes": [
@@ -116,31 +115,31 @@
             "title": "The Leaf of Revival",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Beyond the Snowstorm",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Millennium Swordsman",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Pride of the Swordsmen",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Lenalee's Love",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Vampire of the Solitary Castle",
@@ -182,7 +181,7 @@
             "title": "The General's Chains",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Beginning of the End",
@@ -194,7 +193,7 @@
             "title": "My Mentor, General Cross",
             "number": "27",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Exorcist Krory",
@@ -206,49 +205,49 @@
             "title": "The One Who Sells Souls, Part 1",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The One Who Sells Souls, Part 2",
             "number": "30",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Lost Miranda",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Mysterious Ghost Ship",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Village Where a Witch Lives, Part 1",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Village Where a Witch Lives, Part 2",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Exorcist Clad in Wind",
             "number": "35",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Shroud of Darkness",
             "number": "36",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Charity Bell",
@@ -278,61 +277,61 @@
             "title": "A New Assassin",
             "number": "41",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Black Cat's Traps",
             "number": "42",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Wandering Stone Statue",
             "number": "43",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Iron Fan Maid",
             "number": "44",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Strange Mansion",
             "number": "45",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Illusions in the Snow",
             "number": "46",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Crystal Girl",
             "number": "47",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Wavering Accommodator",
             "number": "48",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Lulu Bell's Bell",
             "number": "49",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Feelings of Devotion",
             "number": "50",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Set Sail, to the East",
@@ -730,5 +729,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 103
 }

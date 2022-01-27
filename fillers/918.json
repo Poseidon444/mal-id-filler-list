@@ -3,7 +3,6 @@
     "anilist-id": 918,
     "anilist-name_en": "Gintama",
     "anilist-name_jp": "Gintama",
-    "total-episodes": 201,
     "afl-name": "Gintama",
     "afl-link": "https://www.animefillerlist.com/shows/gintama",
     "fillers_episodes": [
@@ -35,13 +34,13 @@
             "title": "You Guys!! Do You Even Have a Gintama? (Part 1)",
             "number": "1",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "You Guys!! Do You Even Have a Gintama? (Part 2)",
             "number": "2",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Nobody with Naturally Wavy Hair Can Be That Bad",
@@ -329,7 +328,7 @@
             "title": "Pending Means Pending, It's Not Final",
             "number": "50",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Milk Should Be Served At Body Temperature",
@@ -371,7 +370,7 @@
             "title": "When Looking For Things You've Lost, Remember What You Were Doing On The Day You Lost It",
             "number": "57",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Croquette Sandwiches Are Always The Most Popular Food Sold At The Stalls",
@@ -479,7 +478,7 @@
             "title": "Don't Complain About Your Job At Home, Do It Somewhere Else",
             "number": "75",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "In Those Situations, Keep Quiet And Cook Red Rice With Beans",
@@ -665,7 +664,7 @@
             "title": "Love Is Often Played Out In Sudden Death",
             "number": "106",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kids Don't Understand How Their Parents Feel",
@@ -713,7 +712,7 @@
             "title": "They Say Soy Sauce On Pudding Tastes Like Sea Urchin, But Soy Sauce On Pudding Only Tastes Like Pudding And Soy Sauce",
             "number": "114",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Summer Vacation Is The Most Fun Right Before It Begins",
@@ -773,13 +772,13 @@
             "title": "When Nagging Goes Too Far It Becomes Intimidating",
             "number": "124",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Entering The Final Chapter!",
             "number": "125",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Some Things Can Only Be Conveyed Through The Written Word",
@@ -839,7 +838,7 @@
             "title": "Before Worrying About The Earth, Think About The Even More Endangered Future Of 'Gintaman'",
             "number": "135",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "It's Your House, You Build It",
@@ -851,7 +850,7 @@
             "title": "99% Of Men Aren't Confident In Confessing Their Love",
             "number": "137",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Let's Talk About The Old Days Once In A While",
@@ -929,7 +928,7 @@
             "title": "If You Can't Beat Them, Join Them",
             "number": "150",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Conversation With A Barber, During A Haircut, Is The Most Pointless Thing In The World",
@@ -959,7 +958,7 @@
             "title": "The Other Side Of The Other Side Of The Other Side Would Be The Other Side",
             "number": "155",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "It Takes A Bit Of Courage To Enter A Street Vendor's Stand",
@@ -1013,7 +1012,7 @@
             "title": "That Matsutake Soup Stuff Tastes Better Than The Real Deal",
             "number": "164",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "If It Works Once, It'll Work Over And Over Again",
@@ -1025,7 +1024,7 @@
             "title": "Two Is Better Than One. Two People Are Better Than One",
             "number": "166",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Smooth Polygons Smooth Men's Hearts Too",
@@ -1055,7 +1054,7 @@
             "title": "You'll Get Sued If All You Do Is Copy Others",
             "number": "171",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "It All Depends On How You Use The 'Carrot And Stick' Method",
@@ -1067,13 +1066,13 @@
             "title": "It's What's On The Inside That Counts",
             "number": "173",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Are There Still People Who Go To The Ocean And Yell Out 'Bakayaro'?",
             "number": "174",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "People Of All Ages Hate The Dentist!",
@@ -1085,7 +1084,7 @@
             "title": "Countdown Begins",
             "number": "176",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "It's Bad Luck To See A Spider At Night",
@@ -1139,7 +1138,7 @@
             "title": "Hometowns And Boobs Are Best Thought From Afar",
             "number": "185",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Beware Of Foreshadows",
@@ -1283,7 +1282,7 @@
             "title": "Nothing Lasts Forever, including Parents, Money, Youth, Your Room, Dress Shirts, Me, You, and the Gintama Anime",
             "number": "209",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Lawless Town Tends to Attract a Bunch of Whoohooey Folk",
@@ -1541,7 +1540,7 @@
             "title": "We're Sorry",
             "number": "252",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Nobody with Natural Straight Hair Can Be That Bad/Nobody with Straight Blond Hair Can Be That Good",
@@ -2245,5 +2244,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 201
 }

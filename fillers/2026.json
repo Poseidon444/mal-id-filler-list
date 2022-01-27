@@ -3,7 +3,6 @@
     "anilist-id": 2026,
     "anilist-name_en": "Hayate the Combat Butler",
     "anilist-name_jp": "Hayate no Gotoku!",
-    "total-episodes": 52,
     "afl-name": "Hayate the Combat Butler",
     "afl-link": "https://www.animefillerlist.com/shows/hayate-combat-butler",
     "fillers_episodes": [
@@ -64,13 +63,13 @@
             "title": "The Rare Cards are Swimsuits",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Miss Saki's Little Preoccupation",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "I like Books, but Sing It, Great Palace of the Dragon King",
@@ -82,19 +81,19 @@
             "title": "The Delivery was Made in 29 Minutes, So Please Pay the Stipulated Fee... Is a Thing of the Distant Past",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hayate Rising",
             "number": "27",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Black Hayate",
             "number": "28",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Match-Making Meeting",
@@ -106,13 +105,13 @@
             "title": "The Beautiful, Rich, Great, Young Detective Lady Saw It! The Case of the Murdered Female Teacher Amidst Clouds of Steam",
             "number": "30",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Do You Like Pretty, Rich Big Sisters?",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Devil Hunter Welcome Yoko Isumi and Nabeshin",
@@ -124,43 +123,43 @@
             "title": "Why?! Academy Culture Fest ~ Part One",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Why Dead?! Academy Culture Fest ~ Part Two",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Must-See! Complete Autumn 2007 guide of the Latest Fashionable Date Spots for the Young an Hip",
             "number": "35",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Klaus is Japanese Because His Name is Written \"Kurausu\"",
             "number": "36",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "I Want to Go Back to Being an Ordinary Girl, but Buy My Character Songs, Okay?",
             "number": "37",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hayate in Peril! All Functions Shut Down!!",
             "number": "38",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hurray for the Butler-in-Debt, Friend to Good Children!",
             "number": "39",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "New Year's Food is Good, but Have Some Hayate, Too",
@@ -172,7 +171,7 @@
             "title": "Despairing Goodbye to the Teacher",
             "number": "41",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Like a Dog, a Mouse, and a Bulldog",
@@ -184,13 +183,13 @@
             "title": "It is Maria Appreciation Day! In February",
             "number": "45",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Name is Magic Ball Pitcher Wataru!!!",
             "number": "46",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sure, Amuro May Have Had a Place to Return To, But...",
@@ -202,7 +201,7 @@
             "title": "Hina Love",
             "number": "48",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Ordinary Stories",
@@ -214,13 +213,13 @@
             "title": "Quiz! Written as \"Foe\" and Read as \"Friend\"!!",
             "number": "50",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Spring",
             "number": "51",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Radical Dreamers",
@@ -232,7 +231,7 @@
             "title": "It's Really a Story About a Young Lady & Her Butler",
             "number": "77",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "I Will Love and Be Loved in My Life",
@@ -240,5 +239,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 52
 }

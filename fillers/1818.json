@@ -3,7 +3,6 @@
     "anilist-id": 1818,
     "anilist-name_en": "Claymore",
     "anilist-name_jp": "Claymore",
-    "total-episodes": 26,
     "afl-name": "Claymore",
     "afl-link": "https://www.animefillerlist.com/shows/claymore",
     "fillers_episodes": [
@@ -154,19 +153,21 @@
             "title": "Critical Point (Part 2)",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "For Whose Sake",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "To the Successors",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 26
 }

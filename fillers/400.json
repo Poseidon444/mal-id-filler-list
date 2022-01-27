@@ -3,7 +3,6 @@
     "anilist-id": 400,
     "anilist-name_en": "Outlaw Star",
     "anilist-name_jp": "Seihou Bukyou Outlaw Star",
-    "total-episodes": 24,
     "afl-name": "Outlaw Star",
     "afl-link": "https://www.animefillerlist.com/shows/outlaw-star",
     "fillers_episodes": [
@@ -91,13 +90,13 @@
             "title": "Advance Guard from Another World",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Final Countdown",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Seven Emerge",
@@ -109,7 +108,7 @@
             "title": "Demon of the Water Planet",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Between Life and Machine",
@@ -121,19 +120,19 @@
             "title": "The Strongest Woman in the Universe",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Law and Lawlessness",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Cats and Girls and Spaceships",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Grave of the Dragon",
@@ -171,5 +170,7 @@
             "filler": "Mixed Canon/Filler",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

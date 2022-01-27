@@ -3,7 +3,6 @@
     "anilist-id": 170,
     "anilist-name_en": "Slam Dunk",
     "anilist-name_jp": "Slam Dunk",
-    "total-episodes": 101,
     "afl-name": "Slam Dunk",
     "afl-link": "https://www.animefillerlist.com/shows/slam-dunk-0",
     "fillers_episodes": [
@@ -299,7 +298,7 @@
             "title": "Challenge From a Rival",
             "number": "47",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Guy Who Pledged to Defeat Kainan",
@@ -527,13 +526,13 @@
             "title": "New Challenge: The National Championship!",
             "number": "85",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rukawa's Ambition",
             "number": "86",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Japan's Number One High School Player",
@@ -569,7 +568,7 @@
             "title": "Male Friendship!? Sakuragi's Gang",
             "number": "92",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Going Toward 20000 Shoots",
@@ -587,7 +586,7 @@
             "title": "Hanamichi's Hottest Day",
             "number": "95",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Basketball Shoes Part II",
@@ -599,31 +598,33 @@
             "title": "Mixed Feelings, Uozumi Returns",
             "number": "97",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Fierce Battle Begins! Shohoku vs. Shoyo/Ryonan",
             "number": "98",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Facing the Strongest Team, Shohoku in Danger!",
             "number": "99",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Man of Miracles, Hanamichi Sakuragi!",
             "number": "100",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Glorious Slam Dunk!",
             "number": "101",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 101
 }

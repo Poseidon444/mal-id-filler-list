@@ -3,7 +3,6 @@
     "anilist-id": 1254,
     "anilist-name_en": "Saint Seiya: Knights of the Zodiac",
     "anilist-name_jp": "Saint Seiya",
-    "total-episodes": 114,
     "afl-name": "Saint Seiya",
     "afl-link": "https://www.animefillerlist.com/shows/saint-seiya",
     "fillers_episodes": [
@@ -143,43 +142,43 @@
             "title": "A Giant! The Fierce Attack of Docrates",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rescue! Saori's Crisis",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Great Rage! Ghost Saint of the Caribbean",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Life or Death! Bloody Battle of the Island of Spirits",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Desperate Battle! Shaina's Revenge",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Passionate Misdeed! The Aurora Confrontation",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rebirth of the Flame! Invincible Ikki",
             "number": "22",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Silver Saint! Vain and Boastful Assassin",
@@ -203,7 +202,7 @@
             "title": "Friend or Foe! Steel Saints",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Stone Seiya! Shield of Medusa",
@@ -245,19 +244,19 @@
             "title": "Dragon and Tiger Clash! No Light For Dragon Tears",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Farewell Friend! Rest in Peace",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Desperate Journey! Open Dragon's Eyes",
             "number": "35",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Amazing! Reality of the Twelve Gold Cloths",
@@ -371,13 +370,13 @@
             "title": "Ikki! Phoenix's Blazing Wings",
             "number": "54",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Fellowship of Harm! Athena's Cry",
             "number": "55",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Shaka! Most Sacred Saint",
@@ -431,7 +430,7 @@
             "title": "Young Men! You are worthy of Athena",
             "number": "64",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Growling Excalibur! Shura vs. Dragon",
@@ -491,157 +490,157 @@
             "title": "Enemies of the Northern Pole! The Legendary God Warriors",
             "number": "74",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hilda! Goddess Imprisoned by Evil",
             "number": "75",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Great Giant Thor! Hatred of Cosmo",
             "number": "76",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Giant's Tears! Dying For Hilda's Cause",
             "number": "77",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Bared Fangs! Northern Wolf Fenrir",
             "number": "78",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sorrow! Fate of the Northern Wolf Pack Blow",
             "number": "79",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Flowing Snowfield! Sad Howling",
             "number": "80",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Freya! Love Tells of the Life/Death Struggle",
             "number": "81",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Dancing Swan! Scorching Hell in the Ice",
             "number": "82",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Bewitching Harp! The Prelude of Death Tempts Shun",
             "number": "83",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Decree of Death! String Requiem",
             "number": "84",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hero's Grief! Frozen Hatred",
             "number": "85",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Phoenix! Crimson Blazing Wings",
             "number": "86",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Demon's Amethyst! Saint's Cemetery",
             "number": "87",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sword of Flame! Dreadful Ambition",
             "number": "88",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Impossible Viciousness! Forest of Spirits",
             "number": "89",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Don't Look Back, Seiya! Cosmo of the Rising Dragon",
             "number": "90",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Glow Shun! Hidden Puzzle of the Dark Fang",
             "number": "91",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Swirl! Shun's Desperate Use of the Nebula Storm",
             "number": "92",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Bud! Fate of the Twin Stars",
             "number": "93",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Bond of Brotherhood! Syd Rests with his Ancestors",
             "number": "94",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hero of Noble Spirit! Legendary Knight Reborn",
             "number": "95",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Dragon Against Dragon! A Fraction of a Second Leads to Victory",
             "number": "96",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Siren! Beautiful Melody of Death",
             "number": "97",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Appearance of a Miracle! Odin Robe",
             "number": "98",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Athena! Eternal Prayer of Noble Spirits",
             "number": "99",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Emperor of the seas, Poseidon! Holy War Once Again",
@@ -733,5 +732,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 114
 }

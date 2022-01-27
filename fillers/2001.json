@@ -3,7 +3,6 @@
     "anilist-id": 2001,
     "anilist-name_en": "Gurren Lagann",
     "anilist-name_jp": "Tengen Toppa Gurren Lagann",
-    "total-episodes": 27,
     "afl-name": "GURREN LAGANN",
     "afl-link": "https://www.animefillerlist.com/shows/gurren-lagann",
     "fillers_episodes": [
@@ -104,7 +103,7 @@
             "title": "Compilation Episode",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "You Don't Know Anything!",
@@ -172,5 +171,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 27
 }

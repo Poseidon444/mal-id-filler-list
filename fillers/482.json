@@ -3,7 +3,6 @@
     "anilist-id": 482,
     "anilist-name_en": "Yu-Gi-Oh! GX",
     "anilist-name_jp": "Yu\u2606Gi\u2606Oh! Duel Monsters GX",
-    "total-episodes": 180,
     "afl-name": "Yu-Gi-Oh! GX",
     "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh-gx",
     "fillers_episodes": [
@@ -100,7 +99,7 @@
             "title": "Family Business",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Tag Team Trial, Part 1",
@@ -124,49 +123,49 @@
             "title": "Monkey See, Monkey Duel",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Spirit Summoned",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Courting Alexis",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Duel Giant",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Nature of the Draw",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The King of the Copycats, Part 1",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The King of the Copycats, Part 2",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Maiden in Love",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Duel Off, Part 1",
@@ -184,7 +183,7 @@
             "title": "The Little Belowski",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The New Chazz",
@@ -250,13 +249,13 @@
             "title": "Fear Factor",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sibling Rivalry",
             "number": "35",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Duel Distractions, Part 1",
@@ -274,7 +273,7 @@
             "title": "Get Yarr Game On!",
             "number": "38",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Dark Scorpions",
@@ -298,7 +297,7 @@
             "title": "Duel Monsters Spirit Day",
             "number": "42",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hearts are Wild",
@@ -328,7 +327,7 @@
             "title": "Chazz-anova",
             "number": "47",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rise of the Sacred Beasts, Part 1",
@@ -370,7 +369,7 @@
             "title": "Champion or Chazz-been",
             "number": "54",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Hassleberry Hounding",
@@ -406,7 +405,7 @@
             "title": "Pop Goes the Duel",
             "number": "60",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "I've Seen the Light",
@@ -424,13 +423,13 @@
             "title": "Curry Worries",
             "number": "63",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Camaraderie Contest",
             "number": "64",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "No Pain, No Game",
@@ -442,7 +441,7 @@
             "title": "Going Bananas",
             "number": "66",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Homecoming Duel, Part 1",
@@ -472,13 +471,13 @@
             "title": "DuelFellas",
             "number": "71",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Not Playing with a Full Deck",
             "number": "72",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Source of Strength",
@@ -490,7 +489,7 @@
             "title": "Happily Never After",
             "number": "74",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Taken by Storm, Part 1",
@@ -526,13 +525,13 @@
             "title": "What a Doll!",
             "number": "80",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Let's Make a Duel!",
             "number": "81",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Magnetic Personality",
@@ -556,13 +555,13 @@
             "title": "Rah, Rah, Rah!",
             "number": "85",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Art of the Duel",
             "number": "86",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Blinded by the Light, Part 1",
@@ -586,19 +585,19 @@
             "title": "Pro-Dueling",
             "number": "90",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Don't Fear the Reaper",
             "number": "91",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Duel For Hire",
             "number": "92",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Heart of Ice, Part 1",
@@ -676,7 +675,7 @@
             "title": "Third Time's a Charm",
             "number": "105",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Jewel of A Duel: Part 1",
@@ -982,7 +981,7 @@
             "title": "Judai Revived!? A Brand New Journey",
             "number": "156",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Approaching Threat! A Mysterious Visitor",
@@ -1012,43 +1011,43 @@
             "title": "Shall We Duel? Invitation to a Pair Duel",
             "number": "161",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Judai vs. Asuka! Face-Down Card of Hidden Emotions",
             "number": "162",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Challenge from Psycho Shocker",
             "number": "163",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Inherited Cyber Dark Dragon",
             "number": "164",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Aim for it Manjoume! Path to a Pro Duelist!",
             "number": "165",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Armed Dragon vs. Dragoon D End",
             "number": "166",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Gratitude Duel! Chronos vs. The Original Dropout Boy",
             "number": "167",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Opening of Graduation Duel! Neos vs. Black Flame Dragon of Horus",
@@ -1128,5 +1127,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 180
 }

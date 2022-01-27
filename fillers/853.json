@@ -1,0 +1,37 @@
+{
+    "mal-id": 853,
+    "anilist-id": 853,
+    "anilist-name_en": "Ouran High School Host Club",
+    "anilist-name_jp": "Ouran Koukou Host Club",
+    "afl-name": "Ouran High School Host Club",
+    "afl-link": "https://www.animefillerlist.com/shows/ouran-high-school-host-club",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Starting Today, You Are a Host!",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Job of a High School Host!",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beware the Physical Exam!",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Attack of the Lady Manager!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 26
+}

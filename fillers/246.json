@@ -3,7 +3,6 @@
     "anilist-id": 246,
     "anilist-name_en": "Rave Master",
     "anilist-name_jp": "GROOVE ADVENTURE RAVE",
-    "total-episodes": 51,
     "afl-name": "Rave Master",
     "afl-link": "https://www.animefillerlist.com/shows/rave-master",
     "fillers_episodes": [
@@ -254,7 +253,7 @@
             "title": "Sideshow",
             "number": "41",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "All Aboard, Part 1",
@@ -316,5 +315,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 51
 }

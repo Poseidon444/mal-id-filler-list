@@ -3,7 +3,6 @@
     "anilist-id": 1604,
     "anilist-name_en": "REBORN!",
     "anilist-name_jp": "Katekyou Hitman REBORN!",
-    "total-episodes": 203,
     "afl-name": "Reborn!",
     "afl-link": "https://www.animefillerlist.com/shows/katekyo-hitman-reborn",
     "fillers_episodes": [
@@ -372,7 +371,7 @@
             "title": "Gokudera's Story",
             "number": "56",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Sky Ring Battle Begins!",
@@ -618,7 +617,7 @@
             "title": "The Great Chase",
             "number": "97",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Declaration of War",
@@ -750,7 +749,7 @@
             "title": "Interval Between Battles",
             "number": "119",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Virtual Space",
@@ -888,79 +887,79 @@
             "title": "The Strongest Seven",
             "number": "142",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Trial #1",
             "number": "143",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Arcobaleno Seals",
             "number": "144",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Guardian Showdown! Cloud and Mist",
             "number": "145",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Box Weapon Prototype",
             "number": "146",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Catch the Wind",
             "number": "147",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Two Successors of the Sky",
             "number": "148",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Reborn's Trial",
             "number": "149",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Path is Closed Off",
             "number": "150",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Once the Rainbow is Complete",
             "number": "151",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Boss' Resolve",
             "number": "152",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Final Seal",
             "number": "153",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "To the Next Battle",
             "number": "154",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Real Six Funeral Wreaths",
@@ -1098,79 +1097,79 @@
             "title": "After the Battle",
             "number": "177",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Primo Family Arrives!",
             "number": "178",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Inheritance Begins",
             "number": "179",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Duty of the Rain Guardian",
             "number": "180",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Furious Bolt of Lightning",
             "number": "181",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Silent Storm",
             "number": "182",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Aloof Cloud",
             "number": "183",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sunny then Cloudy",
             "number": "184",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Trap is Set",
             "number": "185",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Bewitching Mist",
             "number": "186",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Memories of Betrayal",
             "number": "187",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Primo's Will",
             "number": "188",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Family's Resolve",
             "number": "189",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Real Six Funeral Wreaths Attack!",
@@ -1250,5 +1249,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 203
 }

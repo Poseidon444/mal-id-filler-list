@@ -3,7 +3,6 @@
     "anilist-id": 68,
     "anilist-name_en": "Black Cat",
     "anilist-name_jp": "Black Cat",
-    "total-episodes": 23,
     "afl-name": "Black Cat",
     "afl-link": "https://www.animefillerlist.com/shows/black-cat",
     "fillers_episodes": [
@@ -137,25 +136,27 @@
             "title": "The Drowning Cat",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Cat Bares Claws",
             "number": "22",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Cat's Paradise",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Carefree Cat",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 23
 }

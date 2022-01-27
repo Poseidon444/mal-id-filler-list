@@ -3,7 +3,6 @@
     "anilist-id": 356,
     "anilist-name_en": "Fate/stay night",
     "anilist-name_jp": "Fate/stay night",
-    "total-episodes": 24,
     "afl-name": "Fate/stay night",
     "afl-link": "https://www.animefillerlist.com/shows/fatestay-night",
     "fillers_episodes": [
@@ -46,7 +45,7 @@
             "title": "Two Magi (Part 2)",
             "number": "6",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Despicable Act",
@@ -112,13 +111,13 @@
             "title": "Branded As A Witch",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Decisive Battle",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Golden King",
@@ -156,5 +155,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

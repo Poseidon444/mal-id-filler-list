@@ -3,7 +3,6 @@
     "anilist-id": 530,
     "anilist-name_en": "Sailor Moon",
     "anilist-name_jp": "Bishoujo Senshi Sailor Moon",
-    "total-episodes": 46,
     "afl-name": "Sailor Moon",
     "afl-link": "https://www.animefillerlist.com/shows/sailor-moon",
     "fillers_episodes": [
@@ -117,37 +116,37 @@
             "title": "Punsihment Awaits: the House of Fortune is the Monster Mansion",
             "number": "2",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Mysterious Sleeping Illness: Protect the Girls in Love",
             "number": "3",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Learn How to Be Skinny from Usagi",
             "number": "4",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Scent of a Monster: Chanela Will Steal Your Love",
             "number": "5",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Protect the Melody of Love: Usagi Plays Cupid",
             "number": "6",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Usagi Learns Her Lesson: Becoming a Star is Hard Work",
             "number": "7",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Girl Genius is a Monster: The Brainwashing Cram School of Horror",
@@ -159,7 +158,7 @@
             "title": "Usagi's Disaster: Beware the Clock of Confusion",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Cursed Bus: Enter Mars, the Guardian of Fire",
@@ -171,13 +170,13 @@
             "title": "Usagi vs. Rei: Nightmare in Dream Land",
             "number": "11",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "I Want a Boyfriend: The Luxury Cruise Ship is a Trap",
             "number": "12",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Girls Unite: The End of Jadeite",
@@ -195,25 +194,25 @@
             "title": "Usagi's Panic: Rei's First Date",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Girl's Dream: Usagi Becomes a Bride",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Usagi's a Model: The Flash of the Monster Camera",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Shingo's Love: The Grieving Doll",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Usagi's Joy: A Love Letter from Tuxedo Mask",
@@ -225,13 +224,13 @@
             "title": "The Summer, the Beach, Youth, and Ghosts",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Protect the Children's Dreams: Friendship Through Anime",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Romance Under the Moon: Usagi's First Kiss",
@@ -261,43 +260,43 @@
             "title": "Restore Naru's Smile: Usagi's Friendship",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Crushing on Ami: The Boy Who Can See the Future",
             "number": "27",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Painting of Love: Usagi and Mamoru Get Closer",
             "number": "28",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Total Chaos: The Messy Love Rectangle",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Grandpa Loses Control: Rei in Danger",
             "number": "30",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Love and Chased: Luna's Worst Day Ever",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Umino's Resolve: I'll Protect Naru",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Enter Venus, the Last Guardian",
@@ -327,31 +326,31 @@
             "title": "Let's Become a Princess: Usagi's Bizarre Training",
             "number": "37",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Snow, the Mountains, Friendship, and Monsters",
             "number": "38",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Paired with a Monster: Mako, the Ice-Skating Queen",
             "number": "39",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Legendary Lake Yokai: The Bond of Usagi's Family",
             "number": "40",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "I Won't Run Away from Love Anymore: Ami vs. Mamoru",
             "number": "41",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sailor Venus's Past: Minako's Tragic Past",
@@ -363,7 +362,7 @@
             "title": "Usagi Abandoned: The Falling-Out of the Sailor Guardians",
             "number": "43",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Usagi's Awakening: A Message from the Distant Past",
@@ -387,79 +386,79 @@
             "title": "Moon Revived! The Mysterious Aliens Appear",
             "number": "47",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "For Love and Justice! A Sailor Guardian Once Again",
             "number": "48",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "For Whom is the White Rise? Moonlight Knight Appears",
             "number": "49",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Usagi's Crisis: The Moon Tiara Doesn't Work",
             "number": "50",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A New Transformation: Usagi Powers Up",
             "number": "51",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Targeted Kindergarten Kids: Venus's Great Performance",
             "number": "52",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Mamoru and Usagi's Babysitting Mayhem",
             "number": "53",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Culture Fest is for Me? Queen Rei Sings with Passion",
             "number": "54",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Is Seijuro the Moonlight Knight? Mako Falls in Love",
             "number": "55",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Steal Mamoru's Kiss! An's Snow White Strategy",
             "number": "56",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Be Careful After School: Usagi is a Target",
             "number": "57",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Lovers' Hearts Disagree: The Angry Doom Tree",
             "number": "58",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "True Love Awakens: The Angry Doom Tree",
             "number": "59",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "An Angel? A Devil? Mysterious Girl from the Sky",
@@ -483,31 +482,31 @@
             "title": "Women Should be Strong and Beautiful: Rei's Killer New Move",
             "number": "63",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "In Search of the Silver Crystal: Chibiusa's Secret",
             "number": "64",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Dispute Over Love: Minako and Makoto Face Off",
             "number": "65",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Usagi's Parental Love: A Curry Triangle Relationship",
             "number": "66",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Ocean! The Island! A Vacation! A Break for the Sailor Guardians",
             "number": "67",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Protect Chibiusa: The Clash of the 10 Warriors",
@@ -519,7 +518,7 @@
             "title": "Awaken, Sleeping Beauty: Mamoru's Distress",
             "number": "69",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Battle of the Flames of Love: Mars vs. Koan",
@@ -573,19 +572,19 @@
             "title": "Venus Minako's Nurse Mayhem",
             "number": "78",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Artemis's Adventure: The Evil Animal Kingdom",
             "number": "79",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Terrifying Illusion: Ami All Alone",
             "number": "80",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Dark Gate Completed: A Grade School in Danger",
@@ -639,7 +638,7 @@
             "title": "Usagi and the Girls' Resolve: Prelude to a New Battle",
             "number": "89",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Premonition of World's End? The Appearance of Mysterious New Guardians",
@@ -669,43 +668,43 @@
             "title": "Protect the Pure Heart: A Three-Way Battle",
             "number": "94",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Leave it to the Moon for Love Aid",
             "number": "95",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Cold-Hearted Uranus: Makoto in Trouble",
             "number": "96",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Labyrinth of Water: Ami the Targeted",
             "number": "97",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Save Friends: Moon and Uranus Join Forces",
             "number": "98",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Kindness of a Man: Yuichiro, Heartbroken by Rei?",
             "number": "99",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Retire from the Sailor Guardians? Minako's Concerns",
             "number": "100",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Usagi in Tears! Glass Slippers for Her Birthday",
@@ -729,7 +728,7 @@
             "title": "Seeking Friends: Chibi Moon's Actions",
             "number": "104",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Wanting More Power: Mako's Lost Path",
@@ -747,13 +746,13 @@
             "title": "Art is an Explosion of Love: Chibiusa's First Love",
             "number": "107",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Usagi's Dance, in Time to Waltz",
             "number": "108",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Time of Shock: True Identities Revealed to One Another",
@@ -789,7 +788,7 @@
             "title": "Crazy for Celebrities: Mimete in Doubt",
             "number": "114",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Shadow of Silence: The Pale Glimmer of a Firefly",
@@ -801,19 +800,19 @@
             "title": "Sunny Skies After a Storm: A Friendship Dedicated to Hotaru",
             "number": "116",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Higher, Stronger! Cheers by Usagi",
             "number": "117",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Battle in a Demonic Dimension: The Sailor Guardians' Bet",
             "number": "118",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Awakening of the Messiah of Silence? Stars of Destiny",
@@ -867,7 +866,7 @@
             "title": "Self-Awareness as a Guardian: Strength Lies in the Pure Heart",
             "number": "127",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Meeting of Fate: The Night Where a Pegasus Flies",
@@ -879,7 +878,7 @@
             "title": "Super Transformations Again! Pegasus's Power",
             "number": "129",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Protect a Mother's Dream! The New Attack for Double Moon",
@@ -891,13 +890,13 @@
             "title": "Capture the Pegasus: The Amazons' Trap",
             "number": "131",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Couple Made for Each Other: Usagi and Mamoru's Love",
             "number": "132",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Artemis's Affair?! A Mysterious Kitten Appears",
@@ -909,7 +908,7 @@
             "title": "Makoto's Friendship: A Girl Who Adores a Pegasus",
             "number": "134",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hearts that Communicate: Chibiusa and Pegasus",
@@ -921,43 +920,43 @@
             "title": "Protect Mamoru: Jealousy of Usagi the Ninja",
             "number": "136",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Forest of Illusion: Invitation of a Beautiful Fairy",
             "number": "137",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Drive to Heaven: Love Riding on the Car of Dreams",
             "number": "138",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Try for the Best of Japan: The Worries of a Beautiful Girl Swordsman",
             "number": "139",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Love Those Minis: The Fashionable Guardians",
             "number": "140",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Storm of Love: Minako's Grand Two-Timing Plan",
             "number": "141",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Mansion of Secrets: The Menu of Love to You",
             "number": "142",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Time to Believe in Pegasus: The Super Transformations of the Four Guardians",
@@ -969,25 +968,25 @@
             "title": "Sparkling Summer Days: Ami, the Girl in the Ocean Breeze",
             "number": "144",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Aim for the Prima: Usagi's Ballet",
             "number": "145",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Holiday in Juban City: A Carefree Princess",
             "number": "146",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Fated Partner? Makoto's Innocence",
             "number": "147",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Shadows of the Great Evil: The Trio is Cornered",
@@ -1011,43 +1010,43 @@
             "title": "True Power Explodes: Ami's Song of the Heart",
             "number": "151",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Burning Passion: Mars's Furious Deadly Attack",
             "number": "152",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Dentist of Terror? PallaPalla's House",
             "number": "153",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Confrontation in Dreams: Minako and Makoto's Broken Friendship",
             "number": "154",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Over the Fear: Jump to Freedom",
             "number": "155",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Don't Lose Your Dreams: The Truth-Reflecting Mirror",
             "number": "156",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Pegasus is Gone?! Swinging Friendships",
             "number": "157",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Secret of Pegasus: The Handsome Guardian of the Dream World",
@@ -1059,7 +1058,7 @@
             "title": "Chibiusa's Little Rhapsody of Love",
             "number": "159",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Dream to be an Adult: The Amazoness' Bewilderment",
@@ -1155,25 +1154,25 @@
             "title": "Aim to be an Idol: Minako's Ambition",
             "number": "175",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Fighter's True Form: A Super Shocking Transformation",
             "number": "176",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Entrusting Dreams and Romance to the Stars: Taiki's Transformation",
             "number": "177",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Luna Saw It?! Idol Yaten's True Face",
             "number": "178",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Enemies? Allies? Starlights and the Sailor Guardians",
@@ -1203,25 +1202,25 @@
             "title": "The Scream of Dead Souls: The Mystery of Terror Camp",
             "number": "183",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Night Just for Us: Usagi's Pinch",
             "number": "184",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Taiki Sings with Excellence: A Believing Heart Carried by a Song",
             "number": "185",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Mystery of Chibi Chibi? The Big Noisy Chase",
             "number": "186",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Power of a Shining Star: Chibi Chibi's Transformation",
@@ -1257,7 +1256,7 @@
             "title": "Straight to Your Dream: Idol Minako is Born?",
             "number": "192",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Silver Crystal is Stolen! The Fireball Princess Appears",
@@ -1307,5 +1306,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 46
 }

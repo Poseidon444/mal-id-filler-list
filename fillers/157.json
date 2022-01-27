@@ -3,7 +3,6 @@
     "anilist-id": 157,
     "anilist-name_en": "Negima!",
     "anilist-name_jp": "Mahou Sensei Negima!",
-    "total-episodes": 26,
     "afl-name": "Negima!",
     "afl-link": "https://www.animefillerlist.com/shows/magister-negi-magi",
     "fillers_episodes": [
@@ -149,25 +148,27 @@
             "title": "Memento mori (Remember to Die)",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Et arma et verba vulnerant (Both Weapons and Words Wound)",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Mors certa, mora incerta (Death Is Certain, the Time Is Uncertain)",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Non mihi, non tibi, sed nobis (Not for Me, Not for You, But for Us)",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 26
 }

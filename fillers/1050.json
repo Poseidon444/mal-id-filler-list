@@ -1,0 +1,469 @@
+{
+    "mal-id": 1050,
+    "anilist-id": 1050,
+    "anilist-name_en": "Bobobo-bo Bo-bobo",
+    "anilist-name_jp": "Bobobo-bo Bo-bobo",
+    "afl-name": "Bobobo-bo Bo-bobo",
+    "afl-link": "https://www.animefillerlist.com/shows/bobobo-bo-bobo",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The Bo-nafide Soulful Bo-tector of Hair",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let's Get Wiggy With It",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wacky Quacker Cooks His Own Goose",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bababa-ba Ba-baba! The Honorable King Nosehair",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To Be or Snot to Be",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pasta...the Perfect Food!",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Queen Chicken Level and the Video Store of Dumb",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We All Scream for Ice Cream!",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gasser Up! I'm Ready to Drive!",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Protect the Environment...Something Stinks in Here!",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Bird in the Hand Can Play Chicken But Still Smell Fowl!",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Weally Wobbly World of Bo-bobo's Foe: General Jelly Jiggler!",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bo-bobo's Rappin' Roller Coaster Ride",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Haunted HollowBo-bobo",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "General Jelly Jiggler: Supreme Hair Enemy or Dastardly Dessert?",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Snot in My Neighborhood!",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ducktail Versus Afro Showdown",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beauty is in the Eye of her Holder",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Entangled Nose Hair of Destiny: Who Will Pass the Test?",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "World of Blabs-a-Lot: The Sappiest Place on Earth",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Good-bye Bo-bobo! The Final Showdown?",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hatenko the Hunk Has the Key to Your Heart",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Weddings, Wiggins and Water Torture",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Terrifying Z-Block Is Here!",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The New Bo-bobo with the Old Bo-bobody",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dengaku Man, Pixie or Pit Bull--He'll Love You or Hate You!",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Luck Let a Wiggin See...How Nice a Hanky Can Be!",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mortal Match! Fist of Nose Hair vs. Fist of Rice!",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Instant Rice - Ready in Half an Hour?",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Revenge is a Dish Best Served Cold with Shiitake Mushroom Sauce",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Five Assassins vs. Bo-bobo All-Stars!",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter BoboPatchiggler! Is That How It's Spelled?",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It Ain't OVER 'Til the Fat Lady Sings",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Torpedo Girl: Man or Myth? Or Mythes?",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "King Nose Hair Presents: \"The Follicle Follies of the Future\"",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Next Stop...Holy Guacamole Land!",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Holy Guacamole Land Isn't Just For Breakfast Anymore",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Money Castle! Cash Only Please. Credit Cards Not Accepted",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Terrible Triplets Versus the Wiggin' Trio!",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fall of Halekulani! And the Winter of Discontent!",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Magical Battle Against Halekulani!",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bo-bobo Braves the Board Game that's Berry, Berry Bothersome",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ha-le Oo-pu Ah-ah!",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Seriously Circular Skirmish in Cyber City",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Begin the Bungie Battle! Last One Down is a Rotten Egg!",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Libraries and Driving Tests!",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Battle of Skills and Wills with One Green Onion. Or Is It Garlic?",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Silly Singing Saves the Show from a Sinister Scoundrel",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle of Brains Begins!",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Giga Goes Gaga! Alarming Attacks with Impressive Art",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Art of Art and the Fist of All Fists!",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gasser's Back! A Whole New Season, Same Old Stench!",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Rose by Any Other Name Would Be Called Something Else!",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The War of the Roses...or Lilacs...or Daffodils",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gang's All Here! And Boy, Are They Weird! ",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Aboard! The Nightmare Tour is About to Begin!",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Our Torpedo Hero Fights a Commando Like a Tornado!",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Face the Cold Hard Facts! It's Freezing in Here!",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enemy Crusin' for a Brusin? Then Just Try Fusion",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blowing Your Savings on Bubbles, Is It Worth It?",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "United We Stand, Divided We Also Stand, Just Further Apart!",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Good Night! Sleep Tight! And Don't Let the Bedbugs Bug Ya!",
+            "number": "62",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Our Dream Team Turns Bad Dreams to Bad Guys' Screams!",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Geometry 101: Painful, Perplexing and Pungent Polygons",
+            "number": "64",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Unreal Meal That's a Major Ordeal For Real",
+            "number": "65",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fishcake Frenzy: Freeze Dried, French Fried, Freaked Out Fracas",
+            "number": "66",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Pacifist That Packs a Punch Like a Pugilist",
+            "number": "67",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle of Baldy Bald: Buckle Up and Brace Yourself",
+            "number": "68",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yummy, Yummy, Yummy! Bo-bobo's in My Tummy!",
+            "number": "69",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Baldy Bald Bottoms Out! Best of Luck, Be Well and Bye-Bye!",
+            "number": "70",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Funneled into a Tunnel and Bamboozled By Noodles",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Swiftly Run! Bo-bobo TV Channel! It's Here~The Meanacing Ratings!!",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Take a Stance Against the Dance, Mr. Smarty Pants!",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Bigger the Gasser --- The Smellier the Gas!",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Finally! The Final Fight of Finality! Except the Final One!",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Finally! The Final Fight of Finality! This Time We Mean It!",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 76
+}

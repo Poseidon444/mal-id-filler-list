@@ -3,7 +3,6 @@
     "anilist-id": 282,
     "anilist-name_en": null,
     "anilist-name_jp": "Angel Heart",
-    "total-episodes": 50,
     "afl-name": "Angel Heart",
     "afl-link": "https://www.animefillerlist.com/shows/angel-heart",
     "fillers_episodes": [
@@ -152,7 +151,7 @@
             "title": "Together with The Beat...",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Client's Death Wish",
@@ -310,5 +309,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 50
 }

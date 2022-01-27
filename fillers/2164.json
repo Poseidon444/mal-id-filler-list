@@ -1,0 +1,91 @@
+{
+    "mal-id": 2164,
+    "anilist-id": 2164,
+    "anilist-name_en": "Den-noh Coil",
+    "anilist-name_jp": "Dennou Coil",
+    "afl-name": "Den-Noh Coil",
+    "afl-link": "https://www.animefillerlist.com/shows/dennou-coil",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The Children with Glasses",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "COIL Cyber Detective Agency",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yuko and Yuko",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Daikoku City Heike Club",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Metabug Scramble Bus Tour",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Red Automaton",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In Action!! The COIL Investigation Agency",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Summer Festival and a Duel",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Michiko-san from the Other Side",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kanna's Diary",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sunken! Daikoku City",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Daichi Grows Hair",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Last Plesiosaur",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 26
+}

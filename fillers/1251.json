@@ -3,7 +3,6 @@
     "anilist-id": 1251,
     "anilist-name_en": "Nadia: The Secret of Blue Water",
     "anilist-name_jp": "Fushigi no Umi no Nadia",
-    "total-episodes": 39,
     "afl-name": "Nadia: The Secret of Blue Water",
     "afl-link": "https://www.animefillerlist.com/shows/nadia-secret-blue-water",
     "fillers_episodes": [
@@ -157,7 +156,7 @@
             "title": "Lincoln Island",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The First Kiss",
@@ -169,7 +168,7 @@
             "title": "The Lonely King",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Island of the Witch",
@@ -187,7 +186,7 @@
             "title": "King vs. King",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Labyrinth in the Earth",
@@ -205,19 +204,19 @@
             "title": "Nadia's First Love...?",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "King's Rescue",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "My Darling Nadia \u2665 (Series Recap)",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Secret of Blue Water",
@@ -249,5 +248,7 @@
             "filler": "Anime Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 39
 }

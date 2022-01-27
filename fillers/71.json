@@ -3,7 +3,6 @@
     "anilist-id": 71,
     "anilist-name_en": "Full Metal Panic!",
     "anilist-name_jp": "Full Metal Panic!",
-    "total-episodes": 24,
     "afl-name": "Full Metal Panic!",
     "afl-link": "https://www.animefillerlist.com/shows/full-metal-panic",
     "fillers_episodes": [
@@ -101,19 +100,19 @@
             "title": "A Cat and a Kitten's Rock & Roll",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Is Narashino Burning?",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Wind Blows at Home, Part 1",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Wind Blows at Home, Part 2",
@@ -137,7 +136,7 @@
             "title": "Engaging Six and Seven",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Venom's Flame",
@@ -173,73 +172,73 @@
             "title": "The Man From the South / A Hostage With No Compromises",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hostility Passing-By / A Fruitless Lunchtime",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Summer Illusion of Steel",
             "number": "27",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Hamburger Hill of Art / Single-Minded Stakeout",
             "number": "28",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Pure Yet Impure Grappler / Trespassing on Good Faith",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Hard Sell Fetish / The Patient of Darkness",
             "number": "30",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Warcry of Excessiveness",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Goddess Comes to Japan (Part 1: The Suffering)",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Goddess Comes to Japan (Part 2: The Hot Spring)",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Fancy Without Honor or Humanity",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Uncontrollable Bluebird",
             "number": "35",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "5th Period Hot Spot",
             "number": "36",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The End of Day by Day",
@@ -319,5 +318,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

@@ -3,7 +3,6 @@
     "anilist-id": 967,
     "anilist-name_en": "Fist of the North Star",
     "anilist-name_jp": "Hokuto no Ken",
-    "total-episodes": 109,
     "afl-name": "Fist of the North Star",
     "afl-link": "https://www.animefillerlist.com/shows/hokuto-no-ken",
     "fillers_episodes": [
@@ -81,13 +80,13 @@
             "title": "Villains! Say Your Prayers Before You Die!",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rekka Gyakuryuken! There Are Too Many Who Must Die!!",
             "number": "10",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Villains! Listen to the Blues of Hell!",
@@ -111,49 +110,49 @@
             "title": "A Miserable Era! The Good Die So Young!",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Count to Three! You're the One to Die!",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Try to Sing Villains! The Counting Rhyme of Hell!!",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Man Lives to Fight! The Door to the Showdown Finally Opens!",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Life or Death?! Beyond the Wasteland Lies the First Circle of Hell!",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Villains! Ready Your One-Way Tickets to Death!!",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Nightmarish All-Out Battle! My Fist Pack 100 Volts!",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Evil Palace in Flames! Shin! Only One More Step to You Now!!",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Yuria, Forever... As Well As Shin!",
@@ -255,7 +254,7 @@
             "title": "Crimson Fist of Lotus Mountain! A Tragic Woman Born of the Times!!",
             "number": "38",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Wicked Legacy! The Gates to Cassandra Open Now!",
@@ -273,7 +272,7 @@
             "title": "The North Star\u2019s 2,000-year Tragedy! I Can Hear the Fist King\u2019s Footsteps!!",
             "number": "41",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Century\u2019s End with No Tomorrow! I\u2019ve Been Waiting For You, Ken!!",
@@ -501,25 +500,25 @@
             "title": "Rei of the South Star Waterfowl Fist! A Man Who Died For His Friends!!",
             "number": "79",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Yuda of the South Star Crimson Crane Fist! His Beautiful Smile Calls For Tragedy!!",
             "number": "80",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Shu of the South Star White Heron Fist! The Heaven Only Bestows Cruel Destinies",
             "number": "81",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Holy Emperor Souther!! Your Deep Affection Consumes You In Love!",
             "number": "82",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Part Four, the Final Chapter: Raoh Must Die! The Legend Turns to Terror!!",
@@ -615,7 +614,7 @@
             "title": "The Capital of the South Star Trembles! The Two Brothers of the North Star Finally Arrive!!",
             "number": "98",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sadness of the Five Chariot Stars! Love and Destiny Looms Over the Woman!!",
@@ -657,7 +656,7 @@
             "title": "Protect the Merciful Mother of the South Star! Even If It's the End of the Five Chariots!!",
             "number": "105",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Raoh, Shaken by a Nightmare! Yuria, You Are the Only One!!",
@@ -681,7 +680,7 @@
             "title": "Conclusion of the Final Chapter - Now Revealed!! The 2000 Year History of the North Star!!",
             "number": "109",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Past is Gone. The Dawn of the New Age!!",
@@ -693,7 +692,7 @@
             "title": "When Will He Awaken?!",
             "number": "111",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Savior Comes From the North!!",
@@ -941,5 +940,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 109
 }

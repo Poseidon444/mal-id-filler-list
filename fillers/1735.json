@@ -3,7 +3,6 @@
     "anilist-id": 1735,
     "anilist-name_en": "Naruto: Shippuden",
     "anilist-name_jp": "NARUTO: Shippuuden",
-    "total-episodes": 500,
     "afl-name": "Naruto Shippuden",
     "afl-link": "https://www.animefillerlist.com/shows/naruto-shippuden",
     "fillers_episodes": [
@@ -550,85 +549,85 @@
             "title": "Robbed of Sleep",
             "number": "57",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Loneliness",
             "number": "58",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A New Enemy",
             "number": "59",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Impermanence",
             "number": "60",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Contact",
             "number": "61",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Teammate",
             "number": "62",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Two Kings",
             "number": "63",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Jet-Black Signal Fire",
             "number": "64",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Lockdown of Darkness",
             "number": "65",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Revived Souls",
             "number": "66",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Everyone's Struggle to the Death",
             "number": "67",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Moment of Awakening",
             "number": "68",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Despair",
             "number": "69",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Resonance",
             "number": "70",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "My Friend",
@@ -754,127 +753,127 @@
             "title": "Orochimaru's Hideout Discovered",
             "number": "91",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Encounter",
             "number": "92",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Connecting Hearts",
             "number": "93",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Night of Rain",
             "number": "94",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Two Charms",
             "number": "95",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Unseeing Enemy",
             "number": "96",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Labyrinth of Distorted Reflection",
             "number": "97",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Target Appears",
             "number": "98",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Rampaging Tailed Beast",
             "number": "99",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Inside the Mist",
             "number": "100",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Everyone's Feelings",
             "number": "101",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Regroup!",
             "number": "102",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Four-Corner Sealing Barrier",
             "number": "103",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Breaking the Crystal Style",
             "number": "104",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Battle Over the Barrier",
             "number": "105",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Red Camellia",
             "number": "106",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Strange Bedfellows",
             "number": "107",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Guidepost of the Camellia",
             "number": "108",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Cursed Seal Counterattack",
             "number": "109",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Memory of Guilt",
             "number": "110",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Shattered Promise",
             "number": "111",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Place to Return To",
@@ -1072,49 +1071,49 @@
             "title": "Wanderer",
             "number": "144",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Successor of the Forbidden Jutsu",
             "number": "145",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Successor's Wish",
             "number": "146",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rogue Ninja's Past",
             "number": "147",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Heir to Darkness",
             "number": "148",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Separation",
             "number": "149",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Forbidden Jutsu Released",
             "number": "150",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Master and Student",
             "number": "151",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Somber News",
@@ -1228,13 +1227,13 @@
             "title": "Big Adventure! The Quest for the Fourth Hokage's Legacy, Part 1",
             "number": "170",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Big Adventure! The Quest for the Fourth Hokage's Legacy, Part 2",
             "number": "171",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Meeting",
@@ -1264,127 +1263,127 @@
             "title": "Rookie Instructor Iruka",
             "number": "176",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Iruka's Ordeal",
             "number": "177",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Iruka's Decision",
             "number": "178",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi Hatake, the Jonin in Charge",
             "number": "179",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Inari's Courage Put to the Test",
             "number": "180",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Naruto's School of Revenge",
             "number": "181",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Gaara's Bond",
             "number": "182",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Naruto: Outbreak",
             "number": "183",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Deploy! Team Tenten",
             "number": "184",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Animal District",
             "number": "185",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Ah, the Medicine of Youth",
             "number": "186",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Gutsy Master and Student: The Training",
             "number": "187",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Record of the Gutsy Ninja Master and Student",
             "number": "188",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sasuke's Paw Encyclopedia",
             "number": "189",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Naruto and the Old Soldier",
             "number": "190",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi Love Song",
             "number": "191",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Neji Chronicles",
             "number": "192",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Man Who Died Twice",
             "number": "193",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Worst Three-Legged Race",
             "number": "194",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Team 10's Teamwork",
             "number": "195",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Drive Towards Darkness",
             "number": "196",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Sixth Hokage Danzo",
@@ -1546,121 +1545,121 @@
             "title": "The Young Man and the Sea",
             "number": "223",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Ninja of Benisu",
             "number": "224",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Cursed Ghost Ship",
             "number": "225",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Battleship Island",
             "number": "226",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Forgotten Island",
             "number": "227",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Fight! Rock Lee!",
             "number": "228",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Eat or Die! Mushrooms from Hell",
             "number": "229",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Revenge of the Shadow Clones",
             "number": "230",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Closed Route",
             "number": "231",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Girls Get-Together",
             "number": "232",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Naruto's Imposter",
             "number": "233",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Naruto's Favorite Student",
             "number": "234",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Kunoichi of Nadeshiko Village",
             "number": "235",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Friends You Can Count On",
             "number": "236",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Ah, My Hero Lady Tsunade!",
             "number": "237",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sai's Day Off",
             "number": "238",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Legendary Ino-Shika-Cho Trio",
             "number": "239",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kiba's Determination",
             "number": "240",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi, My Eternal Rival!",
             "number": "241",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Naruto's Vow",
             "number": "242",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Land Ahoy! Is This the Island of Paradise?",
@@ -1750,25 +1749,25 @@
             "title": "Meeting",
             "number": "257",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rivals",
             "number": "258",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rift",
             "number": "259",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Parting",
             "number": "260",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "For My Friend",
@@ -1834,7 +1833,7 @@
             "title": "Road to Sakura",
             "number": "271",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Mifune vs. Hanzo",
@@ -1882,19 +1881,19 @@
             "title": "White Zetsu's Trap",
             "number": "279",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Aesthetics of an Artist",
             "number": "280",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Allied Mom Force!",
             "number": "281",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Secret Origin of the Ultimate Tag Team!",
@@ -1912,73 +1911,73 @@
             "title": "Helmet Splitter: Jinin Akebino!",
             "number": "284",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "User of the Scorch Style: Pakura of the Sand!",
             "number": "285",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Things You Can't Get Back",
             "number": "286",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "One Worth Betting On",
             "number": "287",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Danger: Jinpachi and Kushimaru!",
             "number": "288",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Lightning Blade: Ameyuri Ringo!",
             "number": "289",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Power: Episode 1",
             "number": "290",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Power: Episode 2",
             "number": "291",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Power: Episode 3",
             "number": "292",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Power: Episode 4",
             "number": "293",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Power: Episode 5",
             "number": "294",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Power: Episode Final",
             "number": "295",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Naruto Enters the Battle",
@@ -2026,109 +2025,109 @@
             "title": "Ghosts from the Past",
             "number": "303",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Underworld Transfer Jutsu",
             "number": "304",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Vengeful",
             "number": "305",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Heart's Eye",
             "number": "306",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Fade Into the Moonlight",
             "number": "307",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Crescent Moon Night",
             "number": "308",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The A-Rank Mission: Food Fight!",
             "number": "309",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Fallen Castle",
             "number": "310",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Prologue of Road to Ninja",
             "number": "311",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Old Master and the Dragon's Eye",
             "number": "312",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rain Followed by Snow, with Some Lightning",
             "number": "313",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Sad Sun Shower",
             "number": "314",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Lingering Snow",
             "number": "315",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Reanimated Allied Forces",
             "number": "316",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Shino vs. Torune",
             "number": "317",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Hole in the Heart: the Other Jinchuriki",
             "number": "318",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Soul Living Inside the Puppet",
             "number": "319",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Run, Omoi!",
             "number": "320",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Reinforcements Arrive",
@@ -2290,91 +2289,91 @@
             "title": "Creeping Shadow",
             "number": "347",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The New Akatsuki",
             "number": "348",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops \u2013 A Mask That Hides the Heart",
             "number": "349",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops \u2013 Minato's Death",
             "number": "350",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops: Hashirama's Cells",
             "number": "351",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops: The Rogue Ninja Orochimaru",
             "number": "352",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops \u2013 Orochimaru's Test Subjects",
             "number": "353",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops \u2013 Their Own Paths",
             "number": "354",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops \u2013 the Targeted Sharingan",
             "number": "355",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops \u2013 a Shinobi of the Leaf",
             "number": "356",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops \u2013 an Uchiha ANBU",
             "number": "357",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops \u2013 Coup D'\u00c9tat",
             "number": "358",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops \u2013 the Night of the Tragedy",
             "number": "359",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops \u2013 Jonin Leader",
             "number": "360",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi: Shadow of the ANBU Black Ops \u2013 Squad Seven",
             "number": "361",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kakashi's Resolve",
@@ -2464,13 +2463,13 @@
             "title": "The Directive to Take the Nine Tails",
             "number": "376",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Naruto vs. Mecha Naruto",
             "number": "377",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Ten Tails' Jinchuriki",
@@ -2536,19 +2535,19 @@
             "title": "My First Friend",
             "number": "388",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Adored Elder Sister",
             "number": "389",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hanabi's Decision",
             "number": "390",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Madara Uchiha Arises",
@@ -2572,121 +2571,121 @@
             "title": "The New Chunin Exams",
             "number": "394",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Chunin Exams Begin!",
             "number": "395",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Three Questions",
             "number": "396",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "One Worthy As A Leader",
             "number": "397",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Night Before the Second Exam",
             "number": "398",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Demon Desert Survival",
             "number": "399",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "As a Taijutsu User",
             "number": "400",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Ultimate",
             "number": "401",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Escape vs. Pursuit",
             "number": "402",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Unwavering Gutsiness",
             "number": "403",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Tenten's Troubles",
             "number": "404",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Imprisoned Pair",
             "number": "405",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Place Where I Belong",
             "number": "406",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Yamanaka Clan: Secret Ninjutsu",
             "number": "407",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Cursed Puppet",
             "number": "408",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Their Backs",
             "number": "409",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Hidden Plot Set Into Motion",
             "number": "410",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Targeted Tailed Beast",
             "number": "411",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Neji\u2019s Judgement",
             "number": "412",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hopes Entrusted to the Future",
             "number": "413",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "On the Brink of Death",
@@ -2704,13 +2703,13 @@
             "title": "The Formation of Team Minato",
             "number": "416",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "You\u2019ll Be My Backup",
             "number": "417",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Blue Beast vs Six Paths Madara",
@@ -2740,13 +2739,13 @@
             "title": "The One Who Will Inherit",
             "number": "422",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Naruto's Rival",
             "number": "423",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "To Rise Up",
@@ -2770,145 +2769,145 @@
             "title": "To the Dream World",
             "number": "427",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Where Tenten Belongs",
             "number": "428",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Killer Bee Rappuden, Part 1",
             "number": "429",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Killer Bee Rappuden, Part 2",
             "number": "430",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "To See That Smile, Just One More Time",
             "number": "431",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Loser Ninja",
             "number": "432",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Search Mission",
             "number": "433",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Team Jiraiya",
             "number": "434",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Order of Priority",
             "number": "435",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Masked Man",
             "number": "436",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Sealed Power",
             "number": "437",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Rules or a Comrade",
             "number": "438",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Child of Prophecy",
             "number": "439",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Caged Bird",
             "number": "440",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Returning Home",
             "number": "441",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Mutual Path",
             "number": "442",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Difference in Power",
             "number": "443",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Leaving the Village",
             "number": "444",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Pursuers",
             "number": "445",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Collision",
             "number": "446",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Another Moon",
             "number": "447",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Comrade",
             "number": "448",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Shinobi Unite",
             "number": "449",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rival",
             "number": "450",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Itachi's Story - Light and Darkness: Birth and Death",
@@ -2992,31 +2991,31 @@
             "title": "Ninsh\u016b: The Ninja Creed",
             "number": "464",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Ashura and Indra",
             "number": "465",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Tumultuous Journey",
             "number": "466",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Ashura's Decision",
             "number": "467",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Successor",
             "number": "468",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Special Mission",
@@ -3088,25 +3087,25 @@
             "title": "Naruto and Hinata",
             "number": "480",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sasuke and Sakura",
             "number": "481",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Gaara and Shikamaru",
             "number": "482",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Jiraiya and Kakashi",
             "number": "483",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sasuke\u2019s Story - Sunrise, Part 1: The Exploding Human",
@@ -3210,5 +3209,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 500
 }
