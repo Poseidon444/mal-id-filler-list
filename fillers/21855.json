@@ -1,0 +1,43 @@
+{
+    "mal-id": 21855,
+    "anilist-id": 20593,
+    "anilist-name_en": "Hanamonogatari",
+    "anilist-name_jp": "Hanamonogatari",
+    "afl-name": "Hanamonogatari",
+    "afl-link": "https://www.animefillerlist.com/shows/hanamonogatari",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Suruga Devil, Part One",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Suruga Devil, Part Two",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Suruga Devil, Part Three",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Suruga Devil, Part Four",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Suruga Devil, Part Five",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 5
+}

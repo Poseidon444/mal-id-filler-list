@@ -3,7 +3,6 @@
     "anilist-id": 10033,
     "anilist-name_en": null,
     "anilist-name_jp": "Toriko",
-    "total-episodes": 147,
     "afl-name": "Toriko",
     "afl-link": "https://www.animefillerlist.com/shows/toriko",
     "fillers_episodes": [
@@ -33,7 +32,7 @@
             "title": "Arrival on Gourmet Island! The Gourmet Hunter Toriko Appears!",
             "number": "1",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Undiscovered Giant Beast! Toriko, Capture a Gararagator!",
@@ -279,13 +278,13 @@
             "title": "The Gourmet King Championship! Search for the Ultimate Sweets!",
             "number": "42",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Bonding Dish! Partners Are Forever!",
             "number": "43",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "White Hot! Toriko vs. the IGO President!",
@@ -333,7 +332,7 @@
             "title": "Toriko and Luffy Meet Again! Find the Seafood Fruit!",
             "number": "51",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Shock! The Broken Kitchen Knife and Cutler Melk!",
@@ -441,13 +440,13 @@
             "title": "Surpass Dad! Midsummer Gobbling Katsu Curry!",
             "number": "69",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Connecting Bonds! The Superb Gatsugatsu Curry!",
             "number": "70",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A New Stage! Toriko's Determination and the Return of",
@@ -507,19 +506,19 @@
             "title": "Flashy Presentation! Supreme Service With a Meal!",
             "number": "80",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Supreme Chitose Ame! Komatsu and Yun's Tale!",
             "number": "81",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Assemble on Autumn Mountain! Terry, Yun, Kiss, Queen!",
             "number": "82",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Reunion! Take-chan of Fairytale Castle!",
@@ -543,7 +542,7 @@
             "title": "Gathering of the Four Kings! A Midwinter Night's Miracle!",
             "number": "86",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Merry Feastmas! Gourmet Santa's Present!",
@@ -621,7 +620,7 @@
             "title": "Run, Strongest Army! Toriko, Luffy, Goku!",
             "number": "99",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Commemorating the Hundredth Episode, All Four Heavenly Kings Assemble!",
@@ -699,13 +698,13 @@
             "title": "The Legendary Bee",
             "number": "112",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Showing his True Strength! Komatsu's Food Honor The Actual Food! The Phantasmal Noodles,",
             "number": "113",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Four Heavenly Kings Gather! The Gourmet World Beasts the",
@@ -771,13 +770,13 @@
             "title": "Toriko VS Gurume-kai no Kaibutsu \"Monpuran",
             "number": "124",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Toriko's New Technique",
             "number": "125",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Great Imminent Troubles!? Cooking Fest Opens!!",
@@ -807,13 +806,13 @@
             "title": "Life or Death, Scale Death Cooking!!",
             "number": "130",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Who is the Strongest Combo? Entire Island Cooking!!",
             "number": "131",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Outbreak of War! Bishokukai's Furious All-out Attack!!",
@@ -843,7 +842,7 @@
             "title": "A Catastrophic Joker Card! Gourmet World Monster Nitro",
             "number": "136",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Struggle to the Death! Coco vs. Grinpatch",
@@ -903,13 +902,15 @@
             "title": "Reach him, Komatsu's Yells! Toriko Awakens!!",
             "number": "146",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Toriko and Komatsu, Setting Out on a New Journey!!",
             "number": "147",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 147
 }

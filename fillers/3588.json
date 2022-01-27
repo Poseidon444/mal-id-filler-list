@@ -3,7 +3,6 @@
     "anilist-id": 3588,
     "anilist-name_en": "Soul Eater",
     "anilist-name_jp": "Soul Eater",
-    "total-episodes": 51,
     "afl-name": "Soul Eater",
     "afl-link": "https://www.animefillerlist.com/shows/soul-eater",
     "fillers_episodes": [
@@ -110,7 +109,7 @@
             "title": "Legend of the Holy Sword 2 \u2013 Wanna Go Drinking, Gambling, and Playing?",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Eve Party Nightmare \u2013 And so the Curtain Rises?",
@@ -316,5 +315,7 @@
             "filler": "Anime Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 51
 }

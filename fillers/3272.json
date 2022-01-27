@@ -1,0 +1,37 @@
+{
+    "mal-id": 3272,
+    "anilist-id": 3272,
+    "anilist-name_en": null,
+    "anilist-name_jp": "Kinnikuman",
+    "afl-name": "Kinnikuman",
+    "afl-link": "https://www.animefillerlist.com/shows/kinnikuman",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Messager from Planet Kinniku/The Man From America",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Target is Nessie!/Save Planet Kinniku!",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Space Kaiju Attack/Kinnikuman's Great Hustle",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Flying Natsuko/Part-Time Jobs are Annoying",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 137
+}

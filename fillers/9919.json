@@ -3,7 +3,6 @@
     "anilist-id": 9919,
     "anilist-name_en": "Blue Exorcist",
     "anilist-name_jp": "Ao no Exorcist",
-    "total-episodes": 25,
     "afl-name": "Blue Exorcist",
     "afl-link": "https://www.animefillerlist.com/shows/blue-exorcist",
     "fillers_episodes": [
@@ -53,7 +52,7 @@
             "title": "The Phantom Chef",
             "number": "6",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Flock of Plovers",
@@ -83,7 +82,7 @@
             "title": "Demon of the Deep Seas",
             "number": "11",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Game of Tag",
@@ -125,49 +124,49 @@
             "title": "Gufu",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "An Ordinary Day",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Mask",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Secret Garden",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Demon-hunting",
             "number": "22",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Truth",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Satan's Spawn",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Stop, Time",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Small Beginnings",
@@ -241,5 +240,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 25
 }

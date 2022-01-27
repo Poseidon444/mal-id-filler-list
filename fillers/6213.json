@@ -3,7 +3,6 @@
     "anilist-id": 6213,
     "anilist-name_en": "A Certain Scientific Railgun",
     "anilist-name_jp": "Toaru Kagaku no Railgun",
-    "total-episodes": 24,
     "afl-name": "A Certain Scientific Railgun",
     "afl-link": "https://www.animefillerlist.com/shows/a-certain-scientific-railgun",
     "fillers_episodes": [
@@ -40,7 +39,7 @@
             "title": "Tokiwadai is Targeted",
             "number": "3",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Urban Legends",
@@ -100,13 +99,13 @@
             "title": "A Bikini Divides the Eyeline Between Top and Bottom, But a One-piece Shows Off the Figure, so They Only Flatter the Slender",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Special Workshop",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Skill Out",
@@ -124,19 +123,19 @@
             "title": "Tsuzuri's Summer Vacation",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Asunaro Park",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Midsummer Festival",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Poltergeist",
@@ -208,7 +207,7 @@
             "title": "I... I Want To Be Of Help To You, Sissy",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "ITEM",
@@ -268,49 +267,49 @@
             "title": "Study Group",
             "number": "41",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Moving",
             "number": "42",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Academic Reach Assembly",
             "number": "43",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Febri",
             "number": "44",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Darkness",
             "number": "45",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "STUDY",
             "number": "46",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Silent Party",
             "number": "47",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Eternal Party",
             "number": "48",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Super-powered (Level 5)",
@@ -462,5 +461,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

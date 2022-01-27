@@ -1,0 +1,91 @@
+{
+    "mal-id": 24455,
+    "anilist-id": 20809,
+    "anilist-name_en": "Lord Marksman and Vanadis",
+    "anilist-name_jp": "Madan no Ou to Vanadis",
+    "afl-name": "Lord Marksman and Vanadis",
+    "afl-link": "https://www.animefillerlist.com/shows/madan-no-ou-vanadis-lord-marksman-and-vanadis",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Wind Princess of the Battlefield",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Return Home",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Return of the Magic Marksman",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Snow Princess of the Frozen Ripple",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Storming of the Tatra Mountains",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Black Knight",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To Protect",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "2,000 vs. 20,000",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Thunder Swirl and Luminous Flame",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ormea Campaign",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two War Maidens",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Holy Grotto",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Widening World",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
+}

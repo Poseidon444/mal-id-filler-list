@@ -3,11 +3,9 @@
     "anilist-id": 4898,
     "anilist-name_en": "Black Butler",
     "anilist-name_jp": "Kuroshitsuji",
-    "total-episodes": 24,
     "afl-name": "Black Butler",
     "afl-link": "https://www.animefillerlist.com/shows/black-butler",
     "fillers_episodes": [
-        "1",
         "7",
         "8",
         "9",
@@ -34,15 +32,14 @@
         "33",
         "34",
         "35",
-        "36",
-        "37"
+        "36"
     ],
     "episodes": [
         {
             "title": "His Butler, Able",
             "number": "1",
-            "filler": "Filler",
-            "filler-bool": true
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
         },
         {
             "title": "His Butler, Strongest",
@@ -78,37 +75,37 @@
             "title": "His Butler, Merrymaking",
             "number": "7",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, Training",
             "number": "8",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, Phantom Image",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, on Ice",
             "number": "10",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, However You Please",
             "number": "11",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, Forlorn",
             "number": "12",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, Freeloader",
@@ -132,133 +129,133 @@
             "title": "His Butler, in an Isolated Castle",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, Offering",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, Transmitted",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, Imprisoned",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, Escaping",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, Engaging Servants",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, Dissolution",
             "number": "22",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, Up in Flames",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "His Butler, Fluent",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Clawed Butler",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Solo Butler",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Wench Butler",
             "number": "27",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Terrorist Butler",
             "number": "28",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Beacon Butler",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Bedewed Butler",
             "number": "30",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Deathly Butler",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Divulging Butler",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hollow Butler",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Zero Butler",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Crossroads Butler",
             "number": "35",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Black Butler",
             "number": "36",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Book of Circus: His Butler, Presenting",
             "number": "37",
-            "filler": "Filler",
-            "filler-bool": true
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
         },
         {
             "title": "Book of Circus: His Butler, Taking the Stage",
@@ -313,6 +310,26 @@
             "number": "46",
             "filler": "Manga Canon",
             "filler-bool": false
+        },
+        {
+            "title": "Book of Murder: Part 1 (OVA)",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Book of Murder: Part 2 (OVA)",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Book of the Atlantic (Movie)",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

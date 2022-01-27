@@ -1,0 +1,157 @@
+{
+    "mal-id": 22199,
+    "anilist-id": 20613,
+    "anilist-name_en": "Akame ga Kill!",
+    "anilist-name_jp": "Akame ga Kill!",
+    "afl-name": "Akame ga Kill!",
+    "afl-link": "https://www.animefillerlist.com/shows/akame-ga-kill",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Kill the Darkness",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Authority",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill Your Cares",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Imperial Arm Users",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Dream",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Absolute Justice",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Three -Part One-",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Three -Part Two-",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Lust for Combat",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Seduction",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Mad Scientist",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Newcomers",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Nuisances",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Giant Danger Beast",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Religious Organization",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Dolls",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Curse",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Demon",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Fate",
+            "number": "19",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Carnage",
+            "number": "20",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Despair",
+            "number": "21",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Little Sister",
+            "number": "22",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kill the Emperor",
+            "number": "23",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Akame ga Kill!",
+            "number": "24",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
+}

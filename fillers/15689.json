@@ -1,0 +1,37 @@
+{
+    "mal-id": 15689,
+    "anilist-id": 15689,
+    "anilist-name_en": "Nekomonogatari Black",
+    "anilist-name_jp": "Nekomonogatari (Kuro)",
+    "afl-name": "Nekomonogatari",
+    "afl-link": "https://www.animefillerlist.com/shows/nekomonogatari-kuro",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Tsubasa Family, Part One",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tsubasa Family, Part Two",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tsubasa Family, Part Three",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tsubasa Family, Part Four",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 4
+}

@@ -3,7 +3,6 @@
     "anilist-id": 2923,
     "anilist-name_en": "Shugo Chara!",
     "anilist-name_jp": "Shugo Chara!",
-    "total-episodes": 51,
     "afl-name": "Shugo Chara!",
     "afl-link": "https://www.animefillerlist.com/shows/shugo-chara",
     "fillers_episodes": [
@@ -136,19 +135,19 @@
             "title": "A Guardian Character at the Ski Slope!? Snoppe's Appearance!",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Battle at the Snowfield! Save Snoppe!",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "One Two Three\u2606Heart's Magic!",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Breathtaking Speech Contest!",
@@ -166,13 +165,13 @@
             "title": "Papa and Mama's Memories!",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Present for You!",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Kidnapping of Guardian Characters!",
@@ -196,7 +195,7 @@
             "title": "Sketch of Heart!",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Nadeshiko! Goodbye Despite Spring!?",
@@ -262,7 +261,7 @@
             "title": "Wedding Cake of the First Love!",
             "number": "35",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Golden Prince, Part 1",
@@ -328,19 +327,19 @@
             "title": "Rima's Advent!? The Goddess of Comedy!",
             "number": "46",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "I'm Utau's Manager!?",
             "number": "47",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Asking a Favor of Yaya!",
             "number": "48",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Secret of the Violin! Notes Dancing in the Wind!",
@@ -394,13 +393,13 @@
             "title": "Real Pretty Close Call!",
             "number": "57",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Panic in Class Plum!",
             "number": "58",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Utau Hoshina! New Beginning!",
@@ -412,7 +411,7 @@
             "title": "When You Confess, it's Your Lucky Day?",
             "number": "60",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Notice Kiran's Feelings!",
@@ -430,7 +429,7 @@
             "title": "Lulu's Flawless Christmas!",
             "number": "63",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The New Year! First Laughter in Character Transformation!?",
@@ -448,7 +447,7 @@
             "title": "Uproar! A Cat-Eared Girl!?",
             "number": "66",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A UFO Girl Appears!",
@@ -460,7 +459,7 @@
             "title": "Fare Thee Well, Yamabuki Saaya...",
             "number": "68",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "First Love? Love Attack!",
@@ -484,7 +483,7 @@
             "title": "All Shook Up! The Grandmother Appears!!",
             "number": "72",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Classified! Make-up Recipe?",
@@ -550,19 +549,19 @@
             "title": "Fierce Battle! I'll Become the Ace Player!",
             "number": "84",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Mr. Nikaidou is a Teacher After All!?",
             "number": "85",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Wassup! Here Comes the Gal Everyone's Talking About!!",
             "number": "86",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Resound, My Voice! To Who I Used to Be!!",
@@ -619,13 +618,13 @@
             "filler-bool": false
         },
         {
-            "title": "Unheard Pleas, Shattered Feelings.",
+            "title": "Rima, Yaya, and the Pearls that Bind Them!",
             "number": "96",
             "filler": "Manga Canon",
             "filler-bool": false
         },
         {
-            "title": "Rima, Yaya, and the Pearls that Bind Them!",
+            "title": "Unheard Pleas, Shattered Feelings.",
             "number": "96",
             "filler": "Manga Canon",
             "filler-bool": false
@@ -670,151 +669,153 @@
             "title": "The Super-Peppy Transfer Student!",
             "number": "103",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Enter the Guardian Apprentice!?",
             "number": "104",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sparkle my Heart! The Power of Song!",
             "number": "105",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hikaru vs. Bunny?",
             "number": "106",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Place Eggs Return To",
             "number": "107",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Yaya's Enthusiastic Gardening!",
             "number": "108",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Welcome Back, Nadeshiko!",
             "number": "109",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Miraculous Character Change!",
             "number": "110",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "But Why!? Rima-senpai!",
             "number": "111",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Eh! Tadase-kun has a crush on someone!?",
             "number": "112",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sparkling Treasure!",
             "number": "113",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Exhausted~ Amu-chan, Becomes a Mommy?",
             "number": "114",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "My Would-Be Self!",
             "number": "115",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "First Time Meeting this X Character!?",
             "number": "116",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Stop Fighting!",
             "number": "117",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Go, Rikka! Follow the Way of the Guardians",
             "number": "118",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Turn, Turn! A Spinning World!",
             "number": "119",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "An Exciting Picnic!",
             "number": "120",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Utau's Wavering Heart",
             "number": "121",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Shock! My Egg got an X on it?",
             "number": "122",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Nice to Meet You, My Name Is Hotaru",
             "number": "123",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hikaru and Fun Amusement Park!",
             "number": "124",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Oh No! Rikka and X Eggs?",
             "number": "125",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Believe! In my Pure Heart!",
             "number": "126",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Heart Racing Doki-Doki!",
             "number": "127",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 51
 }

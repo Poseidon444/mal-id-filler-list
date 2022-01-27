@@ -3,7 +3,6 @@
     "anilist-id": 6033,
     "anilist-name_en": "Dragon Ball Z Kai",
     "anilist-name_jp": "Dragon Ball Kai",
-    "total-episodes": 97,
     "afl-name": "Dragon Ball Z Kai",
     "afl-link": "https://www.animefillerlist.com/shows/dragon-ball-z-kai",
     "fillers_episodes": [
@@ -615,7 +614,7 @@
             "title": "Videl's Crisis? Gohan's Urgent Call-out!",
             "number": "101",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Monster is Taken Away! The Culprit is Great Saiyaman?",
@@ -999,7 +998,7 @@
             "title": "Peace Returns! A Time of Rest for the Warriors!",
             "number": "165",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "And So, Ten Years Later... A Long-Awaited World Martial Arts Tournament!",
@@ -1013,5 +1012,7 @@
             "filler": "Mixed Canon/Filler",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 97
 }

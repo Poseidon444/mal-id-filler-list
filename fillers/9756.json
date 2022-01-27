@@ -1,0 +1,85 @@
+{
+    "mal-id": 9756,
+    "anilist-id": 9756,
+    "anilist-name_en": "Puella Magi Madoka Magica",
+    "anilist-name_jp": "Mahou Shoujo Madoka\u2606Magica",
+    "afl-name": "Puella Magi Madoka Magica",
+    "afl-link": "https://www.animefillerlist.com/shows/puella-magi-madoka-magica",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "I First Met Her in a Dream... or Something.",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That Would Be Truly Wonderful",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'm Not Afraid of Anything Anymore",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Miracles and Magic Are Real",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There's No Way I'll Ever Regret It",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "This Just Can't Be Right",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Can You Face Your True Feelings?",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Was Stupid... So Stupid",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'd Never Allow That to Happen",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Won't Rely On Anyone Anymore",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Only Thing I Have Left to Guide Me",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "My Very Best Friend",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

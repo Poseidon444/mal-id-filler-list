@@ -1,0 +1,85 @@
+{
+    "mal-id": 22877,
+    "anilist-id": 20663,
+    "anilist-name_en": "Bladedance of Elementalers",
+    "anilist-name_jp": "Seirei Tsukai no Blade Dance",
+    "afl-name": "seirei tsukai no blade dance",
+    "afl-link": "https://www.animefillerlist.com/shows/seirei-tsukai-no-blade-dance",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The Sword, the School, and the Fire Cat-Girl",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blade Dance at Midnight",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Holy Sword that Killed the Demon Lord",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Strongest Blade Dancer",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lost Queen",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Demon Lord's Successor",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle of the Mining City",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Team Scarlet",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Covenant of the Wind",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sylphid",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Night of Valentia",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ren Ashbell",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

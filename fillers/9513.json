@@ -3,7 +3,6 @@
     "anilist-id": 9513,
     "anilist-name_en": "Beelzebub",
     "anilist-name_jp": "Beelzebub",
-    "total-episodes": 60,
     "afl-name": "Beelzebub",
     "afl-link": "https://www.animefillerlist.com/shows/beelzebub",
     "fillers_episodes": [
@@ -90,31 +89,31 @@
             "title": "There was Something Money Could not Buy",
             "number": "11",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "I Won't Let You Sleep Tonight",
             "number": "12",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Baby Beel's Assessment Test",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Is there a Special Move?",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Delinquents have Changed into Swimsuits",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "You're Not a Bad Specimen of a Man",
@@ -126,7 +125,7 @@
             "title": "How About Some Demon World Homework?",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "I Quit being the Baby on Back Brawler",
@@ -186,13 +185,13 @@
             "title": "Called the Magical Girl",
             "number": "27",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Let's All Get Physicals",
             "number": "28",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "What Are the 6 Holy Knights?",
@@ -228,7 +227,7 @@
             "title": "Maids Run Amok",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Time for the Game to Begin",
@@ -258,7 +257,7 @@
             "title": "His Brother was a Crybaby",
             "number": "39",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "No Shirt, No Shoes, No Assassins",
@@ -318,7 +317,7 @@
             "title": "Beelzebub's New Year's Special! Beelbeel Journey to the West!",
             "number": "49",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Today I'm Different On The Inside",
@@ -336,37 +335,37 @@
             "title": "And Then There Were No Delinquents",
             "number": "52",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Furuichi Falls In Love",
             "number": "53",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Black Baby Beel Grows Up",
             "number": "54",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Great Demon Lord Has Come",
             "number": "55",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Is This A Job For Men?",
             "number": "56",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Won't You Eat a Manju?",
             "number": "57",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Akumano Academy is Open",
@@ -386,5 +385,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 60
 }

@@ -3,7 +3,6 @@
     "anilist-id": 9253,
     "anilist-name_en": "Steins;Gate",
     "anilist-name_jp": "Steins;Gate",
-    "total-episodes": 24,
     "afl-name": "Steins;Gate",
     "afl-link": "https://www.animefillerlist.com/shows/steinsgate",
     "fillers_episodes": [
@@ -158,7 +157,9 @@
             "title": "Egoistic Poriomania",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

@@ -3,7 +3,6 @@
     "anilist-id": 9863,
     "anilist-name_en": "SKET Dance",
     "anilist-name_jp": "SKET DANCE",
-    "total-episodes": 77,
     "afl-name": "SKET Dance",
     "afl-link": "https://www.animefillerlist.com/shows/sket-dance",
     "fillers_episodes": [
@@ -165,7 +164,7 @@
             "title": "Spirit Dance",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Together With Onee-san and Bad Scientist",
@@ -201,7 +200,7 @@
             "title": "Thief Dance, Plus",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Glass Man",
@@ -335,5 +334,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 77
 }

@@ -3,7 +3,6 @@
     "anilist-id": 5114,
     "anilist-name_en": "Fullmetal Alchemist: Brotherhood",
     "anilist-name_jp": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
-    "total-episodes": 64,
     "afl-name": "Fullmetal Alchemist: Brotherhood",
     "afl-link": "https://www.animefillerlist.com/shows/fullmetal-alchemist-brotherhood",
     "fillers_episodes": [
@@ -170,7 +169,7 @@
             "title": "Interlude Party",
             "number": "27",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Father",
@@ -394,5 +393,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 64
 }

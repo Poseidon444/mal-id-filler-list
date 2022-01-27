@@ -3,7 +3,6 @@
     "anilist-id": 11111,
     "anilist-name_en": "Another",
     "anilist-name_jp": "Another",
-    "total-episodes": 12,
     "afl-name": "Another",
     "afl-link": "https://www.animefillerlist.com/shows/another",
     "fillers_episodes": [
@@ -62,7 +61,7 @@
             "title": "Hair stand",
             "number": "8",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Body paint",
@@ -88,5 +87,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
 }

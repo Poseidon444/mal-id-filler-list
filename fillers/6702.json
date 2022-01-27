@@ -3,7 +3,6 @@
     "anilist-id": 6702,
     "anilist-name_en": "Fairy Tail",
     "anilist-name_jp": "FAIRY TAIL",
-    "total-episodes": 175,
     "afl-name": "Fairy Tail",
     "afl-link": "https://www.animefillerlist.com/shows/fairy-tail",
     "fillers_episodes": [
@@ -122,7 +121,7 @@
             "title": "Natsu Devours a Village",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Natsu vs. Erza",
@@ -182,7 +181,7 @@
             "title": "Changeling",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Natsu and the Dragon Egg",
@@ -368,7 +367,7 @@
             "title": "Special Request: Watch Out for the Guy You Like!",
             "number": "50",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Love & Lucky",
@@ -488,37 +487,37 @@
             "title": "Natsu vs. Gray!!",
             "number": "70",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Friendship Overcomes the Dead",
             "number": "71",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Fairy Tail Wizard",
             "number": "72",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rainbow Cherry Blossoms",
             "number": "73",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Wendy's First Big Job!?",
             "number": "74",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "24-Hour Endurance Road Race",
             "number": "75",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Gildarts",
@@ -818,157 +817,157 @@
             "title": "The Magic Ball",
             "number": "125",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "True Scoundrels - The Butt Jiggle Gang",
             "number": "126",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Terror of Invisible Lucy!",
             "number": "127",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Father's Memento",
             "number": "128",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Turbulent Showdown! Natsu vs. Laxus",
             "number": "129",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Target: Lucy",
             "number": "130",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Fury of Legion",
             "number": "131",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Key of the Starry Heavens",
             "number": "132",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Travel Companions",
             "number": "133",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Labyrinth Capriccio",
             "number": "134",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Footprints of the Myth",
             "number": "135",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "True Scoundrels, Once Again",
             "number": "136",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Defying Calculation",
             "number": "137",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Course of the Holy War",
             "number": "138",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Time Begins To Tick",
             "number": "139",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Enter the Neo-Oraci\u00f3n Seis!",
             "number": "140",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Get the Infinity Clock!",
             "number": "141",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Dissonance of Battle",
             "number": "142",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Anti-Link",
             "number": "143",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Despair Unleashed",
             "number": "144",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Real Nightmare",
             "number": "145",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Time Spiral",
             "number": "146",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "To the Infinity Castle!",
             "number": "147",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Angel Tears",
             "number": "148",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "I Hear the Voice of My Friend",
             "number": "149",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Lucy and Michelle",
             "number": "150",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Sabertooth",
@@ -1280,151 +1279,151 @@
             "title": "Welcome Back, Frosch",
             "number": "202",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Moulin Rouge",
             "number": "203",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Full Effort Hospitality!",
             "number": "204",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Signal of Rebellion",
             "number": "205",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Library Panic",
             "number": "206",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Hisui Rises!",
             "number": "207",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Astral Spiritus",
             "number": "208",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Wendy vs. Aquarius - Let's Have Fun in the Amusement Park!",
             "number": "209",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Guild Deck vs. Celestial Deck",
             "number": "210",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Gray vs. Cancer! Dance Battle!",
             "number": "211",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Juvia vs. Aries! Desert Death Match!",
             "number": "212",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Erza vs. Sagittarius! Horseback Showdown!",
             "number": "213",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Natsu vs. Leo",
             "number": "214",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Ophiuchus, the Snake Charmer",
             "number": "215",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "When the Stars Fall",
             "number": "216",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Celestial Spirit Beast",
             "number": "217",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Believe",
             "number": "218",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "What a Pure Heart Weaves",
             "number": "219",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "413 Days",
             "number": "220",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Labyrinth of White",
             "number": "221",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Transform!",
             "number": "222",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "It's Kemo-Kemo!",
             "number": "223",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Place You Came To",
             "number": "224",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Lightning Man",
             "number": "225",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Fairy Tail of the Dead Meeeeeeeeen",
             "number": "226",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Morning of a New Adventure",
@@ -1676,7 +1675,7 @@
             "title": "Fairy Tail Zer\u00f8: Treasure Hunt",
             "number": "268",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Fairy Tail Zer\u00f8: Dancing with Blades",
@@ -2038,5 +2037,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 175
 }

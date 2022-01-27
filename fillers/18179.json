@@ -1,0 +1,97 @@
+{
+    "mal-id": 18179,
+    "anilist-id": 18179,
+    "anilist-name_en": null,
+    "anilist-name_jp": "Yowamushi Pedal",
+    "afl-name": "Yowamushi Pedal",
+    "afl-link": "https://www.animefillerlist.com/shows/yowamushi-pedal",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Because I Can Go to Akiba for Free",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To Recruit More Members",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Don't Have Any Friends",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Naruko Shoukichi",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The S\u014dhoku High School Bicycle Racing Team",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Welcoming Race",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Want to Catch Up!",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sprint Climb!!",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Full Power vs. Full Power",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Peak Spider",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Human Bullet Train!!",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "First Day of Camp!",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Imaizumi and Naruko's 1000km",
+            "number": "13",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Reunion at Dawn",
+            "number": "14",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 38
+}

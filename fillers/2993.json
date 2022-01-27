@@ -3,7 +3,6 @@
     "anilist-id": 2993,
     "anilist-name_en": "Rosario + Vampire",
     "anilist-name_jp": "Rosario to Vampire",
-    "total-episodes": 13,
     "afl-name": "Rosario + Vampire",
     "afl-link": "https://www.animefillerlist.com/shows/rosario-vampire",
     "fillers_episodes": [
@@ -42,7 +41,7 @@
             "title": "Farewell and a Vampire",
             "number": "4",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "School Swimsuits and a Vampire",
@@ -108,31 +107,31 @@
             "title": "Little Sister and a Vampire",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Mother and a Child and a Vampire",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Body Measurements and a Vampire",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Curry and a Vampire",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "School Trip and a Vampire",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Bathroom and a Vampire",
@@ -144,19 +143,19 @@
             "title": "Youth and a Vampire",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Skiing and a Vampire",
             "number": "22",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Pretty Boy and a Vampire",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Lilith's Mirror and a Vampire",
@@ -168,13 +167,15 @@
             "title": "Holy Seal and a Vampire",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Cross and Family and a Vampire",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
 }

@@ -1,0 +1,31 @@
+{
+    "mal-id": 12115,
+    "anilist-id": 12115,
+    "anilist-name_en": "Berserk: The Golden Age Arc III - The Advent",
+    "anilist-name_jp": "Berserk: Ougon Jidaihen III - Kourin",
+    "afl-name": "Berserk: The Golden Age Arc",
+    "afl-link": "https://www.animefillerlist.com/shows/berserk-golden-age-arc",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The Egg of the King",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle for Doldrey ",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Advent",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 1
+}
