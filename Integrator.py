@@ -1,7 +1,5 @@
-import requests
+import requests, os , json
 from bs4 import BeautifulSoup
-import re
-import json
 from os.path import exists
 
 url = "https://www.animefillerlist.com"
@@ -20,24 +18,23 @@ query ($search: String) {
 }
 """
 
-def variable(name) :
-    return {'search': name}
+def variable(name):return {'search': name}
 
 def executeQuery(query,variables):
-    headers = {
-        "Content-Type": "application/json",
-        "Accept": "application/json"
-    }
+    headers = {"Content-Type": "application/json","Accept": "application/json"}
     return json.loads(requests.post("https://graphql.anilist.co/",headers=headers,json={"query":query,"variables":variables}).content)
+
 
 # print (executeQuery(query=query,variables=variable("cowboy")))
 
-f = open('links.json')
-links = json.load(f)
+
+with open("links.json") as f:
+#f = open('links.json')
+  links = json.load(f)
  
-for i in list(links.keys()):
+for i in links.keys():
   anilistData = executeQuery(query=query,variables=variable(i))["data"]["Media"]
-  if exists("fillers/"+str(anilistData["idMal"])+".json") : continue
+  if exists("fillers/"+str(anilistData["idMal"])+".json"):continue
   data = {
     "mal-id": anilistData["idMal"],
     "anilist-id": anilistData["id"],
@@ -49,7 +46,7 @@ for i in list(links.keys()):
     "fillers_episodes":[],
     "episodes":[]
   }
-  print(str(anilistData["id"])+" : "+anilistData["title"]["romaji"])
+  print(f'{anilistData["id"]} : {anilistData["title"]["romaji"]}')
   linkSoup = BeautifulSoup(requests.get(links[i]).content, "html.parser")
   print(links[i])
   for i in linkSoup.select(".EpisodeList > tbody > tr "):
@@ -59,9 +56,7 @@ for i in list(links.keys()):
       "filler": i.select_one("td.Type").text, 
       "filler-bool": False, 
     }
-    if "canon" not in episode["filler"].lower():
-      episode["filler-bool"] = True
-      data["fillers_episodes"].append(episode["number"])
+    if "canon" not in episode["filler"].lower():episode["filler-bool"] = True and data["fillers_episodes"].append(episode["number"])
     # episode = {}
     # pageSoup = BeautifulSoup(requests.get(url+i.attrs["href"]).content, "html.parser")
     # node = pageSoup.select_one(".node")
@@ -86,6 +81,4 @@ for i in list(links.keys()):
     #         episode["description"] = i.select_one(".field-items > .field-item").text
     print(episode)
     data["episodes"].append(episode)
-  with open("fillers/"+str(anilistData["idMal"])+".json", "w") as fp:
-    json.dump(data , fp, indent = 4) 
-f.close()
+  with open(f'fillers/{anilistData["idMal"]}.json', "w") as fp:json.dump(data , fp, indent = 4) 

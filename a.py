@@ -1,9 +1,4 @@
 import os,json
 
-path_to_json = 'fillers/'
-
-for file_name in [file for file in os.listdir(path_to_json) if file.endswith('.json')]:
-  with open(path_to_json + file_name) as json_file:
-    data = json.load(json_file)
-    if(str(data["total-episodes"])!=list(data["episodes"])[-1]["number"]):
-        print(file_name)
+sums = [i for i in [file for file in os.listdir(f"fillers/") if file.endswith('.json')] if str(json.load(open(f'fillers/{i}'))["total-episodes"]) and str(json.load(open(f'fillers/{i}'))["total-episodes"])!=len(list(json.load(open(f'fillers/{i}'))["episodes"]))]
+print(sums)
