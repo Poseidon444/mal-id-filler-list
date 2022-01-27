@@ -1,0 +1,85 @@
+{
+    "mal-id": 39199,
+    "anilist-id": 107672,
+    "anilist-name_en": "To the Abandoned Sacred Beasts",
+    "anilist-name_jp": "Katsute Kami Datta Kemono-tachi e",
+    "afl-name": "To The Abandoned Sacred Beasts",
+    "afl-link": "https://www.animefillerlist.com/shows/abandoned-sacred-beasts",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "To The Abandoned Sacred Beasts",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dragon's Daughter",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Minotaur's Fortress",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "March of The Behemoth",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gargoyle's Judgement",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The King of Beasts",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Trigger of Memories",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Songstress of Sleep",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hound of Hell's Gate",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Their Oath",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Start of Troubles Ahead",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Those Who Seek",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

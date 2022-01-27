@@ -1,0 +1,85 @@
+{
+    "mal-id": 35507,
+    "anilist-id": 98659,
+    "anilist-name_en": "Classroom of the Elite",
+    "anilist-name_jp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "afl-name": "Classroom of the Elite",
+    "afl-link": "https://www.animefillerlist.com/shows/classroom-elite",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "What is evil? Whatever springs from weakness.",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It takes a great talent and skill to conceal one's talent and skill.",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Man is an animal that makes bargains: no other animal does this - no dog exchanges bones with another.",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We should not be upset that others hide the truth from us, when we hide it so often from ourselves.",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hell is other people",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There are two kinds of lies; one concerns an accomplished fact, the other concerns a future duty.",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nothing is as dangerous as an ignorant friend; a wise enemy is to be preferred",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Abandon all hope, ye who enter here.",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Man is condemned to be free.",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Every man has in himself the most dangerous traitor of all",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What people commonly call fate is mostly their own stupidity.",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Genius lives only one story above madness.",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

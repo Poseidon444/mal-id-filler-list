@@ -3,7 +3,6 @@
     "anilist-id": 21459,
     "anilist-name_en": "My Hero Academia",
     "anilist-name_jp": "Boku no Hero Academia",
-    "total-episodes": 13,
     "afl-name": "My Hero Academia",
     "afl-link": "https://www.animefillerlist.com/shows/my-hero-academia",
     "fillers_episodes": [
@@ -245,7 +244,7 @@
             "title": "Game Start",
             "number": "39",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Wild, Wild Pussycats",
@@ -359,7 +358,7 @@
             "title": "Special Episode: Save the World With Love!",
             "number": "58",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "What's the Big Idea?",
@@ -395,7 +394,7 @@
             "title": "The Scoop on U.A. Class 1-A",
             "number": "64",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Overhaul",
@@ -635,7 +634,7 @@
             "title": "Long Time No See, Selkie",
             "number": "104",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Hellish Todoroki Family",
@@ -691,5 +690,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
 }

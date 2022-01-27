@@ -1,0 +1,91 @@
+{
+    "mal-id": 30240,
+    "anilist-id": 20807,
+    "anilist-name_en": "Prison School",
+    "anilist-name_jp": "Kangoku Gakuen",
+    "afl-name": "Prison School",
+    "afl-link": "https://www.animefillerlist.com/shows/prison-school",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The Peep Job",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Man Who Viewed Too Much",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Mighty Spurt",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Take Me Out to the Sumoland",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The School's Number One Most Treacherous Man",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hana's Vengeance",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Meiko's Delicious Restaurant",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Diary of Andre",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Full of Bodily Fluids",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's a Bum-derful Life",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eryngii Brockovich",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Good Morning, Prison",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mad Wax",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

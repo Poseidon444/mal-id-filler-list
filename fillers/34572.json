@@ -3,7 +3,6 @@
     "anilist-id": 97940,
     "anilist-name_en": "Black Clover",
     "anilist-name_jp": "Black Clover",
-    "total-episodes": 170,
     "afl-name": "Black Clover",
     "afl-link": "https://www.animefillerlist.com/shows/black-clover",
     "fillers_episodes": [
@@ -198,7 +197,7 @@
             "title": "Path",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Mirror Mage",
@@ -420,7 +419,7 @@
             "title": "The Secret of the Eye of the Midnight Sun",
             "number": "66",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Fun Festival Double Date",
@@ -432,7 +431,7 @@
             "title": "Battle to the Death?! Yami vs. Jack",
             "number": "68",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Briar Maiden's Melancholy",
@@ -516,7 +515,7 @@
             "title": "Clover Clips: The Nightmarish Charmy Special!",
             "number": "82",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Burn It into You",
@@ -762,19 +761,19 @@
             "title": "Nero Reminisces... Part One",
             "number": "123",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Nero Reminisces... Part Two",
             "number": "124",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Return",
             "number": "125",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Blue Rose's Confession",
@@ -810,7 +809,7 @@
             "title": "A New Resolve",
             "number": "131",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Lion Awakens",
@@ -828,13 +827,13 @@
             "title": "Those Who Have Been Gathered",
             "number": "134",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The One Who Has My Heart, My Mind, and Soul",
             "number": "135",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "A Black Deep-Sea Story",
@@ -876,43 +875,43 @@
             "title": "Those Remaining",
             "number": "142",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Tilted Scale",
             "number": "143",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Those Who Wish to Destroy Devils",
             "number": "144",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Rescue ",
             "number": "145",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Those Who Worship Devils",
             "number": "146",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Death",
             "number": "147",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Become the Light That Illuminates the Darkness",
             "number": "148",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Two Things to Look for",
@@ -1046,5 +1045,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 170
 }

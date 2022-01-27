@@ -1,0 +1,91 @@
+{
+    "mal-id": 34599,
+    "anilist-id": 97986,
+    "anilist-name_en": "Made in Abyss",
+    "anilist-name_jp": "Made in Abyss",
+    "afl-name": "Made in Abyss",
+    "afl-link": "https://www.animefillerlist.com/shows/made-abyss",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The City of the Great Pit",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Resurrection Festival",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Departure",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Edge of the Abyss",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Incinerator",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Seeker Camp",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Unmovable Sovereign",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Survival Training",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Great Fault",
+            "number": "9",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Poison and the Curse",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nanachi",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The True Nature of the Curse",
+            "number": "12",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Challengers",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
+}

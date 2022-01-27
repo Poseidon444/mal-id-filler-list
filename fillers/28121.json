@@ -1,0 +1,163 @@
+{
+    "mal-id": 28121,
+    "anilist-id": 20920,
+    "anilist-name_en": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "anilist-name_jp": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+    "afl-name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "afl-link": "https://www.animefillerlist.com/shows/it-wrong-try-pick-girls-dungeon",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Adventurer (Bell Cranel)",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Monster Festival (Monsterphilia)",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Blade of a God (Hestia Knife)",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Weak (Supporter)",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Magic Book (Grimoire)",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reason (Liliruca Arde)",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sword Princess (Ais Wallenstein)",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wanting To Be A Hero (Argonaut)",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blacksmith (Welf Crozzo)",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Procession of Monsters (Pass Parade)",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Labyrinth Utopia (Under Resort)",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Evil Intentions (Show)",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Story of a Familia (Familia Myth)",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Banquet of the Gods (Party)",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sun God (Apollo)",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gathering (Conversion)",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "War Game (War Game)",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hearthfire Mansion (Home)",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "City of Lust (Ishtar Familia)",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fox Person (Renard)",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Killing Stone (Ephemeral Dreams)",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "War Prostitutes (Berbera)",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Longing to Be a Hero (Argonaut)",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Army's Advance (Rakia)",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goddess and Child (Song of Love)",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
+}

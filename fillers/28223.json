@@ -1,0 +1,85 @@
+{
+    "mal-id": 28223,
+    "anilist-id": 20931,
+    "anilist-name_en": "Death Parade",
+    "anilist-name_jp": "Death Parade",
+    "afl-name": "Death Parade",
+    "afl-link": "https://www.animefillerlist.com/shows/death-parade",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Death Seven Darts",
+            "number": "1",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Death Reverse",
+            "number": "2",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rolling Ballade",
+            "number": "3",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Death Arcade",
+            "number": "4",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Death March",
+            "number": "5",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cross Heart Attack",
+            "number": "6",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Alcohol Poison",
+            "number": "7",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Death Rally",
+            "number": "8",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Death Counter",
+            "number": "9",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Story Teller",
+            "number": "10",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memento Mori",
+            "number": "11",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Suicide Tour",
+            "number": "12",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

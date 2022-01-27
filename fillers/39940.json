@@ -1,0 +1,85 @@
+{
+    "mal-id": 39940,
+    "anilist-id": 109963,
+    "anilist-name_en": "Food Wars! The Fourth Plate",
+    "anilist-name_jp": "Shokugeki no Souma: Shin no Sara",
+    "afl-name": "Food Wars! The Fourth Plate",
+    "afl-link": "https://www.animefillerlist.com/shows/food-wars-fourth-plate",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "What We Want to Protect",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Camera Flash",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hope in Solidarity",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Aim for Victory!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You're Through",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Single Blade",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Two Queens",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Watching from Beside You",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The First and Second Seats",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "How to Build a Specialty",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Song of Hope",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The New \"Totsuki Elite Ten\"",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

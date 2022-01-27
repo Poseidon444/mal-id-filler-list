@@ -3,7 +3,6 @@
     "anilist-id": 104463,
     "anilist-name_en": "A Certain Scientific Accelerator",
     "anilist-name_jp": "Toaru Kagaku no Accelerator",
-    "total-episodes": 12,
     "afl-name": "A Certain Scientific Accelerator",
     "afl-link": "https://www.animefillerlist.com/shows/sh%C5%8Dnan-pure-love-gang",
     "fillers_episodes": [
@@ -14,7 +13,7 @@
             "title": "Accelerator (Academy City's Mightiest Esper)",
             "number": "1",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Necromancer (Raiser of the Dead)",
@@ -82,5 +81,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
 }

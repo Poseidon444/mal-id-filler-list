@@ -3,7 +3,6 @@
     "anilist-id": 98460,
     "anilist-name_en": "Devilman Crybaby",
     "anilist-name_jp": "DEVILMAN crybaby",
-    "total-episodes": 10,
     "afl-name": "Devilman Crybaby",
     "afl-link": "https://www.animefillerlist.com/shows/devilman-crybaby",
     "fillers_episodes": [
@@ -29,25 +28,25 @@
             "title": "Believe Me!",
             "number": "3",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Come, Akira",
             "number": "4",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Beautiful Silene",
             "number": "5",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Neither Demon Nor Human",
             "number": "6",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Weak Humans, Wise Demons",
@@ -73,5 +72,7 @@
             "filler": "Mixed Canon/Filler",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 10
 }

@@ -1,0 +1,31 @@
+{
+    "mal-id": 35557,
+    "anilist-id": 98707,
+    "anilist-name_en": "Land of the Lustrous",
+    "anilist-name_jp": "Houseki no Kuni",
+    "afl-name": "Land of the Lustrous",
+    "afl-link": "https://www.animefillerlist.com/shows/land-lustrous",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Phosphophyllite",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Diamond",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Metamorphose",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

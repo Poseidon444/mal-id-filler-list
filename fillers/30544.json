@@ -3,7 +3,6 @@
     "anilist-id": 21131,
     "anilist-name_en": "The Asterisk War",
     "anilist-name_jp": "Gakusen Toshi Asterisk",
-    "total-episodes": 12,
     "afl-name": "The Asterisk War",
     "afl-link": "https://www.animefillerlist.com/shows/asterisk-war",
     "fillers_episodes": [
@@ -56,7 +55,7 @@
             "title": "A Holiday for Two, Part 2",
             "number": "8",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "The Phoenix Festa",
@@ -154,5 +153,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
 }

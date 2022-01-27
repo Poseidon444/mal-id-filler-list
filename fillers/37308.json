@@ -1,0 +1,49 @@
+{
+    "mal-id": 37308,
+    "anilist-id": 109670,
+    "anilist-name_en": null,
+    "anilist-name_jp": "K: Seven Stories - The Idol K",
+    "afl-name": "K: Seven Stories",
+    "afl-link": "https://www.animefillerlist.com/shows/k-seven-stories",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "R:B ~Blaze!",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SIDE: BLUE ~Tenrou no Gotoku~",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SIDE: GREEN ~Uwagaki Sekai~",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lost Small World ~Ori no Mukou ni~",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memory of Red ~BURN~",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Circle Vision ~Nameless Song~",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 6
+}

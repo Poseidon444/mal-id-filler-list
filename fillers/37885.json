@@ -3,7 +3,6 @@
     "anilist-id": 102352,
     "anilist-name_en": null,
     "anilist-name_jp": "Super Dragon Ball Heroes",
-    "total-episodes": null,
     "afl-name": "Super Dragon Ball Heroes",
     "afl-link": "https://www.animefillerlist.com/shows/dragon-ball-heroes",
     "fillers_episodes": [
@@ -182,7 +181,7 @@
             "title": "Push Forward to the Battlefield! Dragon Ball Heroes",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Reborn Evil! Birth of Dark King Fu!",
@@ -250,5 +249,7 @@
             "filler": "Anime Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": null
 }

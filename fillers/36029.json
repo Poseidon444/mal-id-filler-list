@@ -1,0 +1,151 @@
+{
+    "mal-id": 36029,
+    "anilist-id": 99727,
+    "anilist-name_en": "HAKYU HOSHIN ENGI",
+    "anilist-name_jp": "Hakyuu Houshin Engi",
+    "afl-name": "Hakyu Hoshin Engi",
+    "afl-link": "https://www.animefillerlist.com/shows/hakyu-hoshin-engi",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The Hoshin List",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nataku",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yozen",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Buseioh's Rebellion",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two Paths",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Curtain Falls on the Aging Wise Man",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Great Sennin World War Begins!!",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Juzetsujin Battle",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Concentration",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rain of Blood",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Insect",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Romantic",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mirror",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Parasite",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shadow and Light",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tsuten Kyoshu",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fugen Shinjin",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle to the Death",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bunchu",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When the Stars Rain Down",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blinding Light, Deafening Silence, and Then...",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Brave Warrior's Soul Is Released",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Aged Symbols and Diverging Winds",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 23
+}

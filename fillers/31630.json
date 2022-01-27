@@ -3,7 +3,6 @@
     "anilist-id": 21360,
     "anilist-name_en": "Ace Attorney",
     "anilist-name_jp": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
-    "total-episodes": 24,
     "afl-name": "Ace Attorney",
     "afl-link": "https://www.animefillerlist.com/shows/ace-attorney",
     "fillers_episodes": [
@@ -91,7 +90,7 @@
             "title": "Turnabout Promise",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Reunion and Turnabout \u2013 1st Trial",
@@ -193,7 +192,7 @@
             "title": "Sound the Turnabout Melody",
             "number": "30",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Recipe for Turnabout \u2013 1st Trial",
@@ -217,19 +216,19 @@
             "title": "Northward, Turnabout Express \u2013 1st Trial",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Northward, Turnabout Express \u2013 2nd Trial",
             "number": "35",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Northward, Turnabout Express \u2013 Last Trial",
             "number": "36",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Turnabout Memories",
@@ -241,7 +240,7 @@
             "title": "Hear the Waves of Turnabout",
             "number": "38",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Turnabout Beginnings \u2013 1st Trial",
@@ -297,5 +296,7 @@
             "filler": "Anime Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

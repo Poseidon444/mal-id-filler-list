@@ -3,7 +3,6 @@
     "anilist-id": 101280,
     "anilist-name_en": "That Time I Got Reincarnated as a Slime",
     "anilist-name_jp": "Tensei Shitara Slime Datta Ken",
-    "total-episodes": 24,
     "afl-name": "That Time I Got Reincarnated as a Slime",
     "afl-link": "https://www.animefillerlist.com/shows/time-i-got-reincarnated-slime",
     "fillers_episodes": [
@@ -152,7 +151,9 @@
             "title": "Black and a Mask",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

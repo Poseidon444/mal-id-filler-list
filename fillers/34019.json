@@ -1,0 +1,85 @@
+{
+    "mal-id": 34019,
+    "anilist-id": 97625,
+    "anilist-name_en": "Tsugumomo",
+    "anilist-name_jp": "Tsugumomo",
+    "afl-name": "Tsugumomo",
+    "afl-link": "https://www.animefillerlist.com/shows/tsugumomo",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The Scent of Cherry Blossoms",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Library and the Childhood Friend",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kukuri-hime",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Trials of the Local God",
+            "number": "4",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Training",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memories and Childhood Friends",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kanayama-san",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Certain Day in the Kagami Household / The Super Popular Fragrance",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Letter",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Naked in the Futon",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Duel",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Partner",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

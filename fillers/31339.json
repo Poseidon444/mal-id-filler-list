@@ -1,0 +1,85 @@
+{
+    "mal-id": 31339,
+    "anilist-id": 21123,
+    "anilist-name_en": "DRIFTERS",
+    "anilist-name_jp": "DRIFTERS",
+    "afl-name": "Drifters",
+    "afl-link": "https://www.animefillerlist.com/shows/drifters",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Fight Song",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Footsteps",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Army of Ours--Sortie at Dawn",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Active Heart",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bring Back Love",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Men of Destiny",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Chaos Diver",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mystery CALL ME",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Serious Bomber",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Baba Yetu",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Adventure of the Pistol Daimy\u014d ~Bullet Counting Song~",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Staring at Shinsengumi ~The Song of the Fervid Ky\u016bsh\u016b Man~",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

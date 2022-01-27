@@ -1,0 +1,151 @@
+{
+    "mal-id": 30484,
+    "anilist-id": 21127,
+    "anilist-name_en": null,
+    "anilist-name_jp": "Steins;Gate 0",
+    "afl-name": "Steins;Gate 0",
+    "afl-link": "https://www.animefillerlist.com/shows/steins-gate-0",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Missing Link of the Annihilator -Absolute Zero- ",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Epigraph of the Closed Curve -Closed Epigraph-",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Protocol of the Two Sided Gospel -X-day Protocol-",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Solitude of the Mournful Flow -A Stray Sheep-",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Solitude of the Astigmatism -Entangled Sheep-",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eclipse of Orbital Ordering -The Orbital Eclipse-",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eclipse of Vibronic Transition -Vibronic Transition-",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dual of Antinomy -Antinomic Dual-",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pandora of Eternal Return -Pandora's Box-",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pandora of Provable Existence -Forbidden Cubicle-",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pandora of Forgotten Existence -Sealed Reliquary-",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mother Goose of Mutual Recursion -Recursive Mother Goose-",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mother Goose of Diffractive Recitativo -Diffraction Mother Goose-",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Recognition of the Elastic Limit -Presage or Recognize-",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Recognition of the Asymptotic Line -Recognize Asymptote-",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Altair of the Point at Infinity -Vega and Altair-",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Altair of the Hyperbolic Plane -Beltrami Pseudosphere-",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Altair of Translational Symmetry -Translational Symmetry-",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Altair of the  Cyclic Coordinate -Time Leap Machine-",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rinascimento of the Unwavering Promise -Promised Rinascimento-",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rinascimento of Image Formation -Return of Phoenix-",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rinascimento of Projection -Project Amadeus-",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Arc Light of the Point at Infinity -Arc-light of the Sky-",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 23
+}

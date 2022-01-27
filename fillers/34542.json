@@ -1,0 +1,79 @@
+{
+    "mal-id": 34542,
+    "anilist-id": 97922,
+    "anilist-name_en": "INUYASHIKI LAST HERO",
+    "anilist-name_jp": "Inuyashiki",
+    "afl-name": "Inuyashiki Last Hero",
+    "afl-link": "https://www.animefillerlist.com/shows/inuyashiki-last-hero",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Ichir\u014d Inuyashiki",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hiro Shishigami",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Naoyuki Ando",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Samejima",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yuko Shishigami",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "People of 2 Chan",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shion Watanabe",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mari Inuyashiki",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "People of Shinjuku",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "People of Tokyo",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "People of Earth",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 11
+}

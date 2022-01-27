@@ -1,0 +1,19 @@
+{
+    "mal-id": 40747,
+    "anilist-id": 113416,
+    "anilist-name_en": "HAPPY-GO-LUCKY DAYS",
+    "anilist-name_jp": "Dounika Naru Hibi",
+    "afl-name": "HAPPY-GO-LUCKY DAYS",
+    "afl-link": "https://www.animefillerlist.com/shows/happy-go-lucky-days",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Happy",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 1
+}

@@ -1,0 +1,85 @@
+{
+    "mal-id": 32887,
+    "anilist-id": 21676,
+    "anilist-name_en": "Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side",
+    "anilist-name_jp": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+    "afl-name": "Is It Wrong to Try to Pick Up Girls In a Dungeon? On the Side: Sword Oratoria",
+    "afl-link": "https://www.animefillerlist.com/shows/it-wrong-try-pick-girls-dungeon-side-sword-oratoria",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The Sword Princess and the Elf",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fittings and Purchases",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Festivals and Courage",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Murder and the Jewel",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Red-head and the Lone Ruler",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Subjugation and Escape",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Requests and Divisions",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Corruption and the Maid",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Training and Jealousy",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Boy and the Hero",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Adventure and the Unknown",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kin to the Gods (Sword Oratoria)",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

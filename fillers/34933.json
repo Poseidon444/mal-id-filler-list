@@ -1,0 +1,67 @@
+{
+    "mal-id": 34933,
+    "anilist-id": 98314,
+    "anilist-name_en": "Kakegurui",
+    "anilist-name_jp": "Kakegurui",
+    "afl-name": "Kakegurui",
+    "afl-link": "https://www.animefillerlist.com/shows/kakegurui",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "A Woman Named Yumeko Jabami",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Boring Woman",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Slit-Eyed Woman",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Girl Who Became A Pet",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Girl Who Became Human",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tempting Girl",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Refusing Girl",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love-Dancing Girl",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dreaming Girl",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

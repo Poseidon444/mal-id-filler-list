@@ -1,0 +1,85 @@
+{
+    "mal-id": 36475,
+    "anilist-id": 100183,
+    "anilist-name_en": "Sword Art Online Alternative: Gun Gale Online",
+    "anilist-name_jp": "Sword Art Online Alternative: Gun Gale Online",
+    "afl-name": "Sword Art Online Alternative: Gun Gale Online",
+    "afl-link": "https://www.animefillerlist.com/shows/sword-art-online-alternative-ggo",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Squad Jam",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "GGO",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fan Letter",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Death Game",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Leave the Last Battle to Me",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "SAO Loser",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Second Squad Jam",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Booby Trap",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ten Minute Massacre",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Devil's Comeback",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Psycho Llenn",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Applause",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

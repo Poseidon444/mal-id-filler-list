@@ -1,0 +1,117 @@
+{
+    "mal-id": 40906,
+    "anilist-id": 114099,
+    "anilist-name_en": "Dragon Quest: The Adventure of Dai",
+    "anilist-name_jp": "Dragon Quest: Dai no Daibouken",
+    "afl-name": "Dragon Quest: The Adventure of Dai",
+    "afl-link": "https://www.animefillerlist.com/shows/dragon-quest-adventure-dai",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Dai, the Tiny Hero",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dai and Princess Leona",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hero's Tutor",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dark Lord Hadlar's Return",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Insignia of Avan",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crocodine, The Beast King",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Maam's Turmoil",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Furfang Full Assault",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Single Shard of Courage",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Onto Papnica Kingdom",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hyunckel, the Dark Swordsman",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Collaborative Zapple",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Deciding Moment",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blizzblaze General Flazzard",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Terrifying Curse Field",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Grand Sorcerer Matoriv",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Death-Defying Savior",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "total-episodes": [
+        66
+    ],
+    "nextAiringEpisode": 67
+}

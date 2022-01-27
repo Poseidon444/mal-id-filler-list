@@ -1,0 +1,39 @@
+{
+    "mal-id": 40145,
+    "anilist-id": 114072,
+    "anilist-name_en": null,
+    "anilist-name_jp": "Yu\u2606Gi\u2606Oh! SEVENS",
+    "afl-name": "Yu-Gi-Oh! Sevens",
+    "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh-sevens",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Let's Go! Rush Duel!!",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Man Who Possesses a Demon",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Secret of Romin",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goodbye, Student Council President!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "total-episodes": [
+        83
+    ],
+    "nextAiringEpisode": 84
+}

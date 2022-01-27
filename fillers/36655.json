@@ -1,0 +1,85 @@
+{
+    "mal-id": 36655,
+    "anilist-id": 100408,
+    "anilist-name_en": "Fist of the Blue Sky: Regenesis",
+    "anilist-name_jp": "Souten no Ken: REGENESIS",
+    "afl-name": "Fist of the Blue Sky: Regenesis",
+    "afl-link": "https://www.animefillerlist.com/shows/fist-of-the-blue-sky-regenesis",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Successor to the Divine Fist of the North Star: Kasumi Kenshiro",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unattainable Desires",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bloodstained Death Bird Demon",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Origin of the Divine Fist of the North Star",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Grudge of the Hungry Wolf",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Departing Swallow",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two Thousand Year Love",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle of Destiny",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Forgiver",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Young Successor",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Heaven Dipper Sacred Yin Fist",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fists of Pengyou",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

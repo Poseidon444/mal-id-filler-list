@@ -3,7 +3,6 @@
     "anilist-id": 105749,
     "anilist-name_en": "Ace of the Diamond act II",
     "anilist-name_jp": "Diamond no Ace Act II",
-    "total-episodes": 52,
     "afl-name": "Ace of the Diamond: Act II",
     "afl-link": "https://www.animefillerlist.com/shows/ace-diamond-act-ii",
     "fillers_episodes": [
@@ -182,7 +181,7 @@
             "title": "After Spring Comes",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Bloom of Youth",
@@ -322,5 +321,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 52
 }

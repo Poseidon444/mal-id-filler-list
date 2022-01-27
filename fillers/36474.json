@@ -1,0 +1,295 @@
+{
+    "mal-id": 36474,
+    "anilist-id": 100182,
+    "anilist-name_en": "Sword Art Online: Alicization",
+    "anilist-name_jp": "Sword Art Online: Alicization",
+    "afl-name": "Sword Art Online: Alicization",
+    "afl-link": "https://www.animefillerlist.com/shows/sword-art-online-alicization",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Underworld",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Demon Tree",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The End Mountains",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Departure",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ocean Turtle",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Project Alicization",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Swordcraft Academy",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Swordsman's Pride",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nobleman's Responsibilities ",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Taboo Index",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Central Cathedral",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sage of the Library",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ruler and Mediator",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Crimson Knight",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Relentless Knight",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Osmanthus Knight",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Truce",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Legendary Hero",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Seal of the Right Eye",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Synthesis",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The 32nd Knight",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Titan of the Sword",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Administrator",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "My Hero",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the Far North",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Raids",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Load Test",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dark Territory",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Night Before Battle",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle of the Knights",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stigma of the Disqualified",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blood and Life",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sword and Fist",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stacia, the Goddess of Creation",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Heartless Choice",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ray of Light",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Great Underworld War",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "End to Eternity",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Instigation",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Code 871",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Prince of Hell",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memories",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Awakening",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Night-Sky Blade",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beyond Time",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Alice",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New World",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
+}

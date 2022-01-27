@@ -1,0 +1,85 @@
+{
+    "mal-id": 28623,
+    "anilist-id": 21196,
+    "anilist-name_en": "Kabaneri of the Iron Fortress",
+    "anilist-name_jp": "Koutetsujou no Kabaneri",
+    "afl-name": "Kabaneri of the Iron Fortress",
+    "afl-link": "https://www.animefillerlist.com/shows/kabaneri-iron-fortress",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Frightened Corpse",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Never-Ending Night",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Prayer Offer",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Flowing Blood",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Inescapable Darkness",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gathering Light",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Begging The Heavens",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Silent Hunter",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fang of Ruin",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Attacking Weak",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Burning Life",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Iron Fortress",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

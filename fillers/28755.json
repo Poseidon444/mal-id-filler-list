@@ -1,0 +1,19 @@
+{
+    "mal-id": 28755,
+    "anilist-id": 21220,
+    "anilist-name_en": "Boruto: Naruto the Movie",
+    "anilist-name_jp": "BORUTO: NARUTO THE MOVIE",
+    "afl-name": "Boruto: Naruto the Movie",
+    "afl-link": "https://www.animefillerlist.com/shows/boruto-naruto-movie",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Boruto: Naruto the Movie",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 1
+}

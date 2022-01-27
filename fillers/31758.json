@@ -1,0 +1,31 @@
+{
+    "mal-id": 31758,
+    "anilist-id": 21400,
+    "anilist-name_en": "Kizumonogatari Part 3: Reiketsu",
+    "anilist-name_jp": "Kizumonogatari III: Reiketsu-hen",
+    "afl-name": "Kizumonogatari",
+    "afl-link": "https://www.animefillerlist.com/shows/kizumonogatari",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Part 1: Iron Blood",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Part 2: Hot Blood",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Part 3: Cold Blood",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 1
+}

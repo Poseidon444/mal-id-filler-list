@@ -3,7 +3,6 @@
     "anilist-id": 21776,
     "anilist-name_en": "Miss Kobayashi's Dragon Maid",
     "anilist-name_jp": "Kobayashi-san Chi no Maidragon",
-    "total-episodes": 13,
     "afl-name": "Miss Kobayashi's Dragon Maid",
     "afl-link": "https://www.animefillerlist.com/shows/miss-kobayashis-dragon-maid",
     "fillers_episodes": [
@@ -64,19 +63,19 @@
             "title": "Sports Festival! (There's No Twist Or Anything)",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Troupe Dragon, On Stage! (They Had A Troupe Name, Huh)",
             "number": "10",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Year End, New Year! (No Comiket Bit This Time)",
             "number": "11",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Tohru and Kobayashi's Impactful Meeting! (We're Raising the Bar on Ourselves)",
@@ -132,5 +131,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
 }

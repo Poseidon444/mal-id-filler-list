@@ -1,0 +1,67 @@
+{
+    "mal-id": 31181,
+    "anilist-id": 21262,
+    "anilist-name_en": "Owarimonogatari",
+    "anilist-name_jp": "Owarimonogatari",
+    "afl-name": "Owarimonogatari",
+    "afl-link": "https://www.animefillerlist.com/shows/owarimonogatari",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Ougi Formula, Part One",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ougi Formula, Part Two",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sodachi Riddle, Part One",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sodachi Riddle, Part Two",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sodachi Lost, Part One",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sodachi Lost, Part Two",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sodachi Lost, Part Three",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shinobu Mail, Part One",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shinobu Mail, Part Two",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

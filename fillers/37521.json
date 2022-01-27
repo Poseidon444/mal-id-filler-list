@@ -1,0 +1,157 @@
+{
+    "mal-id": 37521,
+    "anilist-id": 101348,
+    "anilist-name_en": "VINLAND SAGA",
+    "anilist-name_jp": "Vinland Saga",
+    "afl-name": "Vinland Saga",
+    "afl-link": "https://www.animefillerlist.com/shows/vinland-saga",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Somewhere Not Here",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sword",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Troll",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A True Warrior",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Troll's Son",
+            "number": "5",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Journey Begins",
+            "number": "6",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Normanni",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beyond The Edge of The Sea",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle of London Bridge",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ragnarok",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Gamble",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Land on The Far Bank",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Child of a Hero",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Light of Dawn",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "After Yule",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "History of Beasts",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Servant",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Out of the Cradle ",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "United Front ",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crown",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reunion ",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lone Wolf",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Miscalculation ",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "END OF THE PROLOGUE",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
+}

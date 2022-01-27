@@ -1,0 +1,85 @@
+{
+    "mal-id": 38668,
+    "anilist-id": 105228,
+    "anilist-name_en": "Dorohedoro",
+    "anilist-name_jp": "Dorohedoro",
+    "afl-name": "Dorohedoro",
+    "afl-link": "https://www.animefillerlist.com/shows/dragon-ball-super-broly",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Caiman",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the Bag/ Eat Quietly During Meals/ My Neighbor the Sorcerer",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Night of the Dead - Duel! - In Front of the Main Department Store",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Roast Duck \u00e0 La Sorcerer/ Formal Attire Requested/ Another Year in the Hole",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Caiman in Wonderland",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mushrooms Are Ready/ The First Smoke/ Manhole Elegy",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The All-Star \u2606 Dream Game",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Good Day To Leave/Lalala Monsterman/Splendid & Exuberant/Welcome To Blue Night Land",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Oh, Flower Smoke/Awesome Meat Pie/A Macabre Mushroom Appears!!",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lonely Caiman/Before Nightmare/Manju Terror",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let's Meet At The Snack Stall",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memories Of School Days/Boy Meets Girl = Battle!/Pinky Swear",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

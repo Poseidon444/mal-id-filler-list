@@ -1,0 +1,313 @@
+{
+    "mal-id": 31240,
+    "anilist-id": 21355,
+    "anilist-name_en": "Re:ZERO -Starting Life in Another World-",
+    "anilist-name_jp": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "afl-name": "Re:ZERO -Starting Life in Another World-",
+    "afl-link": "https://www.animefillerlist.com/shows/re-zero-starting-life-another-world",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The End of the Beginning and the Beginning of the End",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reunion with the Witch",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Starting Life from Zero in Another World",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Happy Roswaal Mansion Family",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Morning of Our Promise is Still Distant",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sound of Chains",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Natsuki Subaru's Restart",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Cried, Cried My Lungs Out, and Stopped Crying",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Meaning of Courage",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fanatical Methods Like a Demon",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rem",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Return to the Capital",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Self-Proclaimed Knight Natsuki Subaru",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sickness Called Despair",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Outside of Madness",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Greed of a Pig",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Disgrace in the Extreme",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "From Zero",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle Against the White Whale",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wilhelm van Astrea",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Wager That Defies Despair",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Flash of Sloth",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nefarious Sloth",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Self-Proclaimed Knight and the Greatest Knight",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That's All This Story Is About",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Each One's Promise",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Next Location",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Long-Awaited Reunion",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Parent and Child",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Step Forward",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Maiden's Gospel",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Friend",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Value of Life",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love Love Love Love Love Love You",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Know Hell",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Taste of Death",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Witches' Tea Party",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sounds That Make You Want to Cry",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "STRAIGHT BET",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Otto Suwen / A Reason to Believe",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nobody Can Lift a Quain Stone Alone",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Journey Through Memories",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Day Betelgeuse Laughed",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Permafrost of Elior Forest",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Beginning of the Sanctuary and the Beginning of the End",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reunion of Roars",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Happiness Reflected on the Water's Surface",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love Me Down to My Blood and Guts",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Choose Me",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Offbeat Steps Under the Moonlight",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 25
+}

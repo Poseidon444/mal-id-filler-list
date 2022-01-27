@@ -3,7 +3,6 @@
     "anilist-id": 98231,
     "anilist-name_en": "Yu-Gi-Oh! VRAINS",
     "anilist-name_jp": "Yu\u2606Gi\u2606Oh! VRAINS",
-    "total-episodes": 120,
     "afl-name": "Yu-Gi-Oh! VRAINS",
     "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh-vrains",
     "fillers_episodes": [
@@ -88,7 +87,7 @@
             "title": "Battle Record",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Ghost Girl's Invitation",
@@ -184,7 +183,7 @@
             "title": "Kusanagi Report",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Doorway to the Abyss",
@@ -238,7 +237,7 @@
             "title": "Hanoi's Recollection",
             "number": "38",
             "filler": "Filler",
-            "filler-bool": true
+            "filler-bool": false
         },
         {
             "title": "Bullet Buried in Darkness",
@@ -348,5 +347,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 120
 }

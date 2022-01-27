@@ -1,0 +1,91 @@
+{
+    "mal-id": 40902,
+    "anilist-id": 114043,
+    "anilist-name_en": "Food Wars! The Fifth Plate",
+    "anilist-name_jp": "Shokugeki no Souma: Gou no Sara",
+    "afl-name": "Food Wars! The Fifth Plate",
+    "afl-link": "https://www.animefillerlist.com/shows/food-wars-fifth-plate",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Final Exams",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The BLUE Preliminaries",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Noir",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Last Supper",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Convenience Store Brawl",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Midsummer Christmas",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crossed Knives",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Missing Half of the Moon",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The God Tongue's Despair",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Surpassing Dad",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Taste of Failure",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Perfect Rocks",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Food Wars",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
+}

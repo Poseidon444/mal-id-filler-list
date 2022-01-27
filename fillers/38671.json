@@ -1,0 +1,301 @@
+{
+    "mal-id": 38671,
+    "anilist-id": 105310,
+    "anilist-name_en": "Fire Force",
+    "anilist-name_jp": "Enen no Shouboutai",
+    "afl-name": "Fire Force",
+    "afl-link": "https://www.animefillerlist.com/shows/fire-force",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Shinra Kusakabe Enlists",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Heart of a Fire Soldier",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Rookie Fire Soldier Games",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hero and the Princess",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle Begins",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Spark of Promise",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Investigation of the 1st Commences",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Infernal Insects",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Spreading Malice",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Promise",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Formation of Special Fire Force Company 8 / The Mightiest Hikeshi",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eve of Hostilities in Asakusa",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Trap is Set",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For Whom the Flame Burns",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Blacksmith's Dream",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We Are Family",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Black and White and Gray",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Secrets of Pyrokinesis",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Into the Nether",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wearing His Pride",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Those Connected",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Brother's Determination",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Smiles",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Burning Past",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Fire Soldier's Fight / A Man\u2019s Fight",
+            "number": "25",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Flames of Madness",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A New Flashpoint",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Groping Through the Fire",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Corna (Sign of the Devil) / A Secret Plan",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Time to Choose",
+            "number": "30",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Road to the Oasis",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Smoldering Malevolence",
+            "number": "32",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Core",
+            "number": "33",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Woman in Black",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dark Hero",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shadows Cast by Divine Light",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Pair of One-Eyes",
+            "number": "37",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ashen Reaper",
+            "number": "38",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Three-Way Melee",
+            "number": "39",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mind Blown",
+            "number": "40",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Boys, Be Weak",
+            "number": "41",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Holy Woman\u2019s Anguish / The Man Assault",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Oze Family",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Weapons of Destruction",
+            "number": "44",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enemy Contact",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Plot for Extinction",
+            "number": "46",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Firecat ",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Signs of Upheaval",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
+}
