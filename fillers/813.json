@@ -99,13 +99,13 @@
             "title": "The Strangest Robot",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A New Friend",
             "number": "10",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Terror on Arlia",
@@ -117,31 +117,31 @@
             "title": "Global Training",
             "number": "12",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Goz and Mez",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Princess Snake",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Dueling Piccolos",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Plight of the Children",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Pendulum Room Peril",
@@ -279,37 +279,37 @@
             "title": "Friends or Foes?",
             "number": "39",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Held Captive",
             "number": "40",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Friends or Foes?",
             "number": "41",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Search Continues",
             "number": "42",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Friendly Surprise",
             "number": "43",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Brood of Evil",
             "number": "44",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Frieza Strikes!",
@@ -645,7 +645,7 @@
             "title": "Gohan Returns",
             "number": "100",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Last Wish",
@@ -657,7 +657,7 @@
             "title": "Duel on a Vanishing Planet",
             "number": "102",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Pathos of Frieza",
@@ -693,61 +693,61 @@
             "title": "The Heavens Tremble",
             "number": "108",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Black Fog of Terror",
             "number": "109",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Battle in Kami's Lookout",
             "number": "110",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fight With Piccolo",
             "number": "111",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Call For Restoration",
             "number": "112",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Suicidal Course",
             "number": "113",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Extreme Measures",
             "number": "114",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The World Awakens",
             "number": "115",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Brief Chance for Victory",
             "number": "116",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Krillin's Proposal",
             "number": "117",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Frieza's Counterattack",
@@ -789,13 +789,13 @@
             "title": "Z Warriors Prepare",
             "number": "124",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Goku's Ordeal",
             "number": "125",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Androids Appear",
@@ -1065,13 +1065,13 @@
             "title": "A Girl Named Lime",
             "number": "170",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Memories of Gohan",
             "number": "171",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A New Guardian",
@@ -1089,7 +1089,7 @@
             "title": "The Puzzle of General Tao",
             "number": "174",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Games Begin",
@@ -1215,31 +1215,31 @@
             "title": "Warriors of the Dead",
             "number": "195",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Tournament Begins",
             "number": "196",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Water Fight",
             "number": "197",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Final Round",
             "number": "198",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Goku vs. Pikkon",
             "number": "199",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Gohan Goes to High School",
@@ -1257,13 +1257,13 @@
             "title": "Gohan's First Date",
             "number": "202",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Rescue Videl",
             "number": "203",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Blackmail",
@@ -1689,7 +1689,7 @@
             "title": "Mind Trap",
             "number": "274",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Deadly Vision",
@@ -1773,7 +1773,7 @@
             "title": "He's Always Late",
             "number": "288",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Granddaughter Pan",

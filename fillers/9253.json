@@ -157,7 +157,7 @@
             "title": "Egoistic Poriomania",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

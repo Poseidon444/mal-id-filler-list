@@ -80,13 +80,13 @@
             "title": "Villains! Say Your Prayers Before You Die!",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Rekka Gyakuryuken! There Are Too Many Who Must Die!!",
             "number": "10",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Villains! Listen to the Blues of Hell!",
@@ -110,49 +110,49 @@
             "title": "A Miserable Era! The Good Die So Young!",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Count to Three! You're the One to Die!",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Try to Sing Villains! The Counting Rhyme of Hell!!",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Man Lives to Fight! The Door to the Showdown Finally Opens!",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Life or Death?! Beyond the Wasteland Lies the First Circle of Hell!",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Villains! Ready Your One-Way Tickets to Death!!",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Nightmarish All-Out Battle! My Fist Pack 100 Volts!",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Evil Palace in Flames! Shin! Only One More Step to You Now!!",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Yuria, Forever... As Well As Shin!",
@@ -254,7 +254,7 @@
             "title": "Crimson Fist of Lotus Mountain! A Tragic Woman Born of the Times!!",
             "number": "38",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Wicked Legacy! The Gates to Cassandra Open Now!",
@@ -272,7 +272,7 @@
             "title": "The North Star\u2019s 2,000-year Tragedy! I Can Hear the Fist King\u2019s Footsteps!!",
             "number": "41",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Century\u2019s End with No Tomorrow! I\u2019ve Been Waiting For You, Ken!!",
@@ -500,25 +500,25 @@
             "title": "Rei of the South Star Waterfowl Fist! A Man Who Died For His Friends!!",
             "number": "79",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Yuda of the South Star Crimson Crane Fist! His Beautiful Smile Calls For Tragedy!!",
             "number": "80",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Shu of the South Star White Heron Fist! The Heaven Only Bestows Cruel Destinies",
             "number": "81",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Holy Emperor Souther!! Your Deep Affection Consumes You In Love!",
             "number": "82",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Part Four, the Final Chapter: Raoh Must Die! The Legend Turns to Terror!!",
@@ -614,7 +614,7 @@
             "title": "The Capital of the South Star Trembles! The Two Brothers of the North Star Finally Arrive!!",
             "number": "98",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sadness of the Five Chariot Stars! Love and Destiny Looms Over the Woman!!",
@@ -656,7 +656,7 @@
             "title": "Protect the Merciful Mother of the South Star! Even If It's the End of the Five Chariots!!",
             "number": "105",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Raoh, Shaken by a Nightmare! Yuria, You Are the Only One!!",
@@ -680,7 +680,7 @@
             "title": "Conclusion of the Final Chapter - Now Revealed!! The 2000 Year History of the North Star!!",
             "number": "109",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Past is Gone. The Dawn of the New Age!!",
@@ -692,7 +692,7 @@
             "title": "When Will He Awaken?!",
             "number": "111",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Savior Comes From the North!!",

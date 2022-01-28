@@ -164,7 +164,7 @@
             "title": "Spirit Dance",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Together With Onee-san and Bad Scientist",
@@ -200,7 +200,7 @@
             "title": "Thief Dance, Plus",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Glass Man",
