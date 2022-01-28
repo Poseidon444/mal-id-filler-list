@@ -496,7 +496,7 @@
             "title": "Valentine Murder Case",
             "number": "6",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Once-A-Month Present Threat Case",
@@ -544,7 +544,7 @@
             "title": "The Mysterious Shooting Message Case",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Missing Corpse Murder Case",
@@ -562,7 +562,7 @@
             "title": "The Case of the Hi-Jacked Department Store",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A June Bride Murder Case",
@@ -574,7 +574,7 @@
             "title": "An Elevator Murder Case",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Haunted Mansion Murder Case",
@@ -586,7 +586,7 @@
             "title": "On Location, TV Drama Murder Case",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Luxury Liner Serial Murder Case (Part 1)",
@@ -604,19 +604,19 @@
             "title": "The Mysterious Woman With Amnesia Case",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The False Kidnapping and Hostage Case",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Pet Dog John Murder Case",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kogoro's Class Reunion Murder Case (Part 1)",
@@ -634,13 +634,13 @@
             "title": "Computer Murder Case",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Alibi Testimony Murder Case",
             "number": "30",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "TV Station Murder Case",
@@ -658,7 +658,7 @@
             "title": "Detective Boys Survival Case",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mountain Villa Bandaged Man Murder Case (Part 1)",
@@ -676,13 +676,13 @@
             "title": "Monday Night 7:30 P.M. Murder Case",
             "number": "36",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Cactus's Flower Murder Case",
             "number": "37",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Akaoni Village Fire Festival Murder Case",
@@ -706,7 +706,7 @@
             "title": "Victory Flag Tearing Case",
             "number": "41",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Karaoke Box Murder Case",
@@ -724,13 +724,13 @@
             "title": "Three Hotta Siblings Murder Case",
             "number": "44",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Facial Mask Murder Case",
             "number": "45",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Alpine Hut in the Snowy Mountain Murder Case",
@@ -742,7 +742,7 @@
             "title": "Sports Club Murder Case",
             "number": "47",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Diplomat Murder Case (Part 1)",
@@ -766,7 +766,7 @@
             "title": "The Golf Driving Range Murder Case",
             "number": "51",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mist Goblin Legend Murder Case (1 Hour Special)",
@@ -778,7 +778,7 @@
             "title": "The Mystery Weapon Murder Case",
             "number": "53",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Game Company Murder Case",
@@ -790,13 +790,13 @@
             "title": "The Train Trick Murder Case",
             "number": "55",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Ojamanbou Murder Case",
             "number": "56",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Holmes Freak Murder Case (Part 1)",
@@ -814,7 +814,7 @@
             "title": "The First Errand Murder Case",
             "number": "59",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "An Illustrator Murder Case",
@@ -826,13 +826,13 @@
             "title": "A Ghost Ship Murder Case (Part 1)",
             "number": "61",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Ghost Ship Murder Case (Part 2)",
             "number": "62",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Big Monster Gomera Murder Case",
@@ -844,25 +844,25 @@
             "title": "The Third Fingerprint Murder Case",
             "number": "64",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Crab and Whale Kidnapping Case",
             "number": "65",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Night Road Murder Case",
             "number": "66",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Stage Actress Murder Case",
             "number": "67",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Night Baron Murder Case (Case Part)",
@@ -886,7 +886,7 @@
             "title": "A Stalker's Murder Case",
             "number": "71",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Triplet's Country Home Murder Case",
@@ -898,13 +898,13 @@
             "title": "The Detective Boys' Disaster Case",
             "number": "73",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Death God Jinnai Murder Case",
             "number": "74",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Loan Company President's Murder Case",
@@ -934,13 +934,13 @@
             "title": "The Bank Heist Murder Case",
             "number": "79",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Wandering Artist Murder Case",
             "number": "80",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Kidnapping of a Popular Artist Case (Part 1)",
@@ -958,7 +958,7 @@
             "title": "General Hospital Murder Case",
             "number": "83",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ski Lodge Murder Case (Part 1)",
@@ -982,25 +982,25 @@
             "title": "The Crane's Reciprocation Murder Case",
             "number": "87",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Dracula's Villa Murder Case (Part 1)",
             "number": "88",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Dracula's Villa Murder Case (Part 2)",
             "number": "89",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Flower Scent Murder Case",
             "number": "90",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Bank Robber's Hospitalization Case",
@@ -1012,25 +1012,25 @@
             "title": "The Fearful Traversing Murder Case (Part 1)",
             "number": "92",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Fearful Traversing Murder Case (Part 2)",
             "number": "93",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Snow Woman Legend Murder Case",
             "number": "94",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kogoro's Date Murder Case",
             "number": "95",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Caught Up with the Great Detective! 2 Murder Cases! (2 Hour Special)",
@@ -1042,7 +1042,7 @@
             "title": "The Farewell Wine Murder Case",
             "number": "97",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Famous Potter Murder Case (Part 1)",
@@ -1096,37 +1096,37 @@
             "title": "Scoop Picture Murder Case",
             "number": "106",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mysterious Mole Alien Case (Part 1)",
             "number": "107",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mysterious Mole Alien Case (Part 2)",
             "number": "108",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Detective Club Pursuit Case",
             "number": "109",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Cooking Classroom Murder Case (Part 1)",
             "number": "110",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Cooking Classroom Murder Case (Part 2)",
             "number": "111",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Seven Mysteries of Teitan Elementary School Case",
@@ -1174,13 +1174,13 @@
             "title": "Masked Yaiba Murder Case",
             "number": "119",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Honey Cocktail Murder Case",
             "number": "120",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Locked Bathroom Murder Case (Part 1)",
@@ -1198,31 +1198,31 @@
             "title": "The Weather Girl Kidnapping Case",
             "number": "123",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Mysterious Sniper Murder Case (Part 1)",
             "number": "124",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Mysterious Sniper Murder Case (Part 2)",
             "number": "125",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Traveling Drama Troupe Murder Case (Part 1)",
             "number": "126",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Traveling Drama Troupe Murder Case (Part 2)",
             "number": "127",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Black Organization: 1 Billion Yen Robbery Case",
@@ -1270,7 +1270,7 @@
             "title": "The Disappearing Weapon Case",
             "number": "135",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Old Blue Castle Investigation Case (Part 1)",
@@ -1300,7 +1300,7 @@
             "title": "SOS! Message from Ayumi!",
             "number": "140",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Night Before the Wedding Locked Room Case (Part 1)",
@@ -1318,7 +1318,7 @@
             "title": "The Suspicious Astronomical Observation",
             "number": "143",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The North Star No. 3 Express Leaving Ueno (Part 1)",
@@ -1348,31 +1348,31 @@
             "title": "The Sudden Street Car Stopping Case",
             "number": "148",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Amusement Park Bungee Jumping Case",
             "number": "149",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Truth of the Exploding Car Case (Part 1)",
             "number": "150",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Truth of the Exploding Car Case (Part 2)",
             "number": "151",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mysterious Old Man Disappearance Case",
             "number": "152",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sonoko's Dangerous Summer Story (Part 1)",
@@ -1390,7 +1390,7 @@
             "title": "The Key in the Water Locked Room Case",
             "number": "155",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Metropolitan Police Detective Love Story 2 (Part 1)",
@@ -1408,25 +1408,25 @@
             "title": "The Silent Ring Line",
             "number": "158",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bizarre! The Legend of the Five Storied Pagoda (Part 1)",
             "number": "159",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bizarre! The Legend of the Five Storied Pagoda (Part 2)",
             "number": "160",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Murder Floating in Ryusuitei",
             "number": "161",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Sealed Chamber in the Sky! Shinichi Kudo's First Case (1 Hour Special)",
@@ -1450,7 +1450,7 @@
             "title": "The Disappearing Detective Boys Case",
             "number": "165",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Tottori Spider Mansion Demon (The Murder)",
@@ -1474,7 +1474,7 @@
             "title": "Venus' Kiss",
             "number": "169",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Blind Spot in the Darkness (Part 1)",
@@ -1510,7 +1510,7 @@
             "title": "The Man Who Was Killed Four Times",
             "number": "175",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Reunion with the Black Organization (Haibara)",
@@ -1534,55 +1534,55 @@
             "title": "The Coffee Shop Truck's Wild Entrance Case",
             "number": "179",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Nocturne of Red Murderous Intent (Part 1)",
             "number": "180",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Nocturne of Red Murderous Intent (Part 2)",
             "number": "181",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Big Investigation of the Nine Doors",
             "number": "182",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Dangerous Recipe",
             "number": "183",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Cursed Mask Coldly Laughs (1 Hour Special)",
             "number": "184",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Murdered Famous Detective (Part 1)",
             "number": "185",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Murdered Famous Detective (Part 2)",
             "number": "186",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mysterious Gun Rings in the Dark",
             "number": "187",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Desperate Revival - The Cavern of the Detective Boys",
@@ -1636,19 +1636,19 @@
             "title": "The Invisible Weapon, Ran's First Investigation",
             "number": "196",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Super Car's Trap (Part 1)",
             "number": "197",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Super Car's Trap (Part 2)",
             "number": "198",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kogoro Mouri, Suspect (Part 1)",
@@ -1666,25 +1666,25 @@
             "title": "The Tenth Passenger (Part 1)",
             "number": "201",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Tenth Passenger (Part 2)",
             "number": "202",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Black Wing of Icarus (Part 1)",
             "number": "203",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Black Wing of Icarus (Part 2)",
             "number": "204",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Metropolitan Police Detective Love Story 3 (Part 1)",
@@ -1702,31 +1702,31 @@
             "title": "The Deduction That Was Too Good",
             "number": "207",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Entrance to the Maze: The Anger of Colossussup class=",
             "number": "208",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Falling from Mt. Ryushin Case",
             "number": "209",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Water Palace of 5 Colors (Part 1)",
             "number": "210",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Water Palace of 5 Colors (Part 2)",
             "number": "211",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mushrooms, Bears, and the Detective Boys (Part 1)",
@@ -1744,19 +1744,19 @@
             "title": "The Mysterious Retro Room Case",
             "number": "214",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Bay of Revenge (Part 1)",
             "number": "215",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Bay of Revenge (Part 2)",
             "number": "216",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Megure's Sealed Secret (Part 1)",
@@ -1810,7 +1810,7 @@
             "title": "The Secret of the High Sales",
             "number": "225",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Battle Game Trap (Part 1)",
@@ -1852,7 +1852,7 @@
             "title": "The Apartment Degradation Case",
             "number": "232",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Evidence That Didn't Disappear (Part 1)",
@@ -1870,19 +1870,19 @@
             "title": "The Locked Wine Cellar",
             "number": "235",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Nanki Beach Mystery Tour (Part 1)",
             "number": "236",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Nanki Beach Mystery Tour (Part 2)",
             "number": "237",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The 3 \"K\"s of Osaka Case (Part 1)",
@@ -1930,7 +1930,7 @@
             "title": "The Gun Shot in the Sunflower Building",
             "number": "245",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mystery in the Net (Part 1)",
@@ -1948,7 +1948,7 @@
             "title": "The Alibi of the Soothing Forest",
             "number": "248",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Celebrities' Secret (Part 1)",
@@ -1966,13 +1966,13 @@
             "title": "The Tragedy at the OK Corral",
             "number": "251",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Kidnapper in the Picture",
             "number": "252",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Metropolitan Police Detective Love Story 4 (Part 1)",
@@ -1990,19 +1990,19 @@
             "title": "The 14th Round of the Matsue Tamatsukuri Linked Verse Contest (Part 1)",
             "number": "255",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The 14th Round of the Matsue Tamatsukuri Linked Verse Contest (Part 2)",
             "number": "256",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Extremely Strange Punishment from Heaven",
             "number": "257",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Man from Chicago (Part 1)",
@@ -2020,19 +2020,19 @@
             "title": "The Shaking Restaurant",
             "number": "260",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Fearful Legend of the Snowy Night (Part 1)",
             "number": "261",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Fearful Legend of the Snowy Night (Part 2)",
             "number": "262",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Osaka Double Mystery - Naniwa Swordsman and Toyotomi's Castle (2 Hour Special)",
@@ -2044,13 +2044,13 @@
             "title": "Courtroom Battle: Kisaki vs. Kogoro (Part 1)",
             "number": "264",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Courtroom Battle: Kisaki vs. Kogoro (Part 2)",
             "number": "265",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Truth Behind Valentine's (The Case)",
@@ -2098,7 +2098,7 @@
             "title": "Old Lady's Quiz Disappearance Case",
             "number": "273",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Truth About the Haunted House (Part 1)",
@@ -2116,7 +2116,7 @@
             "title": "Case of the Missing Policeman's Badge",
             "number": "276",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "English Teacher vs. Great Western Detective (Part 1)",
@@ -2146,19 +2146,19 @@
             "title": "The Small Eye-Witnesses",
             "number": "281",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mystery of the Water Flowing Stone Garden (Part 1)",
             "number": "282",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mystery of the Water Flowing Stone Garden (Part 2)",
             "number": "283",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Chinatown Deja Vu in the Rain (Part 1)",
@@ -2224,43 +2224,43 @@
             "title": "Smash of Love and Determination (Part 1)",
             "number": "294",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Smash of Love and Determination (Part 2)",
             "number": "295",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Houseboat Fishing Shock",
             "number": "296",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Courtroom Confrontation II: Kisaki vs. Kujo (Part 1)",
             "number": "297",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Courtroom Confrontation II: Kisaki vs. Kujo (Part 2)",
             "number": "298",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kanmon Strait of Friendship and Murderous Intent (Part 1)",
             "number": "299",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kanmon Strait of Friendship and Murderous Intent (Part 2)",
             "number": "300",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Parade of Malice and Saint (Part 1)",
@@ -2278,7 +2278,7 @@
             "title": "The Victim Who Came Back",
             "number": "303",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Trembling Metropolitan Police Headquarters: 12 Million Hostages (2 Hour Special)",
@@ -2344,13 +2344,13 @@
             "title": "Broken Fence of the Observatory",
             "number": "314",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Place Exposed to the Sun",
             "number": "315",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Sullied Masked Hero (Part 1)",
@@ -2368,31 +2368,31 @@
             "title": "Cigar Case of Good Fortune (Part 1)",
             "number": "318",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Cigar Case of Good Fortune (Part 2)",
             "number": "319",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ninja Art: The Art of Alibi Construction",
             "number": "320",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Vanished Kidnapper's Getaway Car (Part 1)",
             "number": "321",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Vanished Kidnapper's Getaway Car (Part 2)",
             "number": "322",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Heiji Hattori's Desperate Situation! (Part 1)",
@@ -2428,7 +2428,7 @@
             "title": "Mystery of the Birthday Wine",
             "number": "328",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Friendship That Can't Be Bought (Part 1)",
@@ -2482,7 +2482,7 @@
             "title": "Hidden Facts of the Accidental Fall",
             "number": "337",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Four Porsches (Part 1)",
@@ -2512,7 +2512,7 @@
             "title": "Bride of Huis Ten Boschsup",
             "number": "342",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Convenience Store Trap (Part 1)",
@@ -2548,13 +2548,13 @@
             "title": "Love, a Ghost, and a World's Inheritance (Part 1)",
             "number": "348",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Love, a Ghost, and a World's Inheritance (Part 2)",
             "number": "349",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Forgotten Cell Phone (Part 1)",
@@ -2572,13 +2572,13 @@
             "title": "The Tragedy of The Fishing Tournament (Part 1)",
             "number": "352",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Tragedy of The Fishing Tournament (Part 2)",
             "number": "353",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Small Client (Part 1)",
@@ -2602,7 +2602,7 @@
             "title": "Sweetheart Is an Illusion of Spring",
             "number": "357",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Metropolitan Police Detective Love Story 5 (Part 1)",
@@ -2620,7 +2620,7 @@
             "title": "A Mysterious Spring Beetle",
             "number": "360",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Teitan High School's Ghost Story (Part 1)",
@@ -2638,19 +2638,19 @@
             "title": "The City's Crows",
             "number": "363",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Synchronicity Case (Part 1)",
             "number": "364",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Synchronicity Case (Part 2)",
             "number": "365",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Tragedy of the Pier in Plain Sight (Part 1)",
@@ -2668,19 +2668,19 @@
             "title": "The Candy House the Witch Lives In",
             "number": "368",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Lucky Man's Suspense",
             "number": "369",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Running Away in a Game",
             "number": "370",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Course Without Protest (Part 1)",
@@ -2698,7 +2698,7 @@
             "title": "Poisonous Spider Trap",
             "number": "373",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Code of Stars and Tobacco (Part 1)",
@@ -2716,31 +2716,31 @@
             "title": "Time Limit at 3 o'clock",
             "number": "376",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Momotaro Mystery Solving Tour (Part 1)",
             "number": "377",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Momotaro Mystery Solving Tour (Part 2)",
             "number": "378",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Case of the Long Sleeved Kimono at the Hidden Hot Spring on a Snowy Night (Part 1)",
             "number": "379",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Case of the Long Sleeved Kimono at the Hidden Hot Spring on a Snowy Night (Part 2)",
             "number": "380",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Which One's Deduction Show (Part 1)",
@@ -2764,7 +2764,7 @@
             "title": "The Target Is Kogoro Mori!",
             "number": "384",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Dissonance of the Stradivarius (Prelude)",
@@ -2788,13 +2788,13 @@
             "title": "Kogoro Gets Drunk in Satsuma (Part 1)",
             "number": "388",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kogoro Gets Drunk in Satsuma (Part 2)",
             "number": "389",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Metropolitan Police Detective Love Story 6 (Part 1)",
@@ -2812,13 +2812,13 @@
             "title": "The Mysterious Height Difference of 20cm",
             "number": "392",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Kidnapping Case... So It Seems",
             "number": "393",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Big Adventure in the Eccentric Mansion: The Seal",
@@ -2842,7 +2842,7 @@
             "title": "Spicy, Bitter, Sweet Soup",
             "number": "397",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Strange Family's Request (Part 1)",
@@ -2878,19 +2878,19 @@
             "title": "The Mysterious Angel's Mansion (Part 1)",
             "number": "403",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mysterious Angel's Mansion (Part 2)",
             "number": "404",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Man Who Went to Call For An Ambulance",
             "number": "405",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Conan and Heiji's Reasoning Magic: The Trick",
@@ -2914,13 +2914,13 @@
             "title": "The Simultaneous Stage Advance and Kidnapping (Part 1)",
             "number": "409",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Simultaneous Stage Advance and Kidnapping (Part 2)",
             "number": "410",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Shinto Shrine Torii's Surprising Code (Part 1)",
@@ -2938,13 +2938,13 @@
             "title": "The Mystery of the Half-Completed Crime",
             "number": "413",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Detective Boys Blue Bird Chase",
             "number": "414",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Evil Spirit Appears on An Unlucky Day: The Case",
@@ -2968,19 +2968,19 @@
             "title": "Home of Beika's Grenier",
             "number": "418",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sword of the Eight-Headed Serpent (Part 1)",
             "number": "419",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sword of the Eight-Headed Serpent (Part 2)",
             "number": "420",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Gingko-Colored First Love (Part 1)",
@@ -2998,13 +2998,13 @@
             "title": "Detective Boys and the Four Aomushi Brothers",
             "number": "423",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Photograph Mail From a Clown",
             "number": "424",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Black Impact! The Moment the Black Organization Reaches Out! (2.5 Hour Special)",
@@ -3016,7 +3016,7 @@
             "title": "Love Letter to Ran",
             "number": "426",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Super Secret Road to School (Part 1)",
@@ -3058,13 +3058,13 @@
             "title": "Conan-A Strange Child",
             "number": "433",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Great Dog Coeur's Triumph",
             "number": "434",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Information Gathered About the Detective Boys (Part 1)",
@@ -3082,7 +3082,7 @@
             "title": "Ueto Aya and Shinichi - The Promise from 4 Years Ago",
             "number": "437",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Pursuit of the Fish E-mail",
@@ -3094,25 +3094,25 @@
             "title": "And It'd Be Nice If Everybody Disappeared",
             "number": "439",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Stunt Car's Utmost Limit",
             "number": "440",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Final \"Ahh\"",
             "number": "441",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Man Obstructing the Steel Frame",
             "number": "442",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Clam Digging With a Sigh (Part 1)",
@@ -3148,7 +3148,7 @@
             "title": "Meguro's Pike Case",
             "number": "448",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Metropolitan Police Love Story - Fake Weddings (1 Hour Special)",
@@ -3160,19 +3160,19 @@
             "title": "Trick vs. Magic (Part 1)",
             "number": "450",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Trick vs. Magic (Part 2)",
             "number": "451",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mysterious Person From the Konpira Troupesup",
             "number": "452",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Preview Screening of Fate and Friendship",
@@ -3196,7 +3196,7 @@
             "title": "The Mystery I Loved",
             "number": "456",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sonoko's Red Handkerchief (Part 1)",
@@ -3214,7 +3214,7 @@
             "title": "A Mysterious Man - Overly Strict with Regulations",
             "number": "459",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Class 1-B's Great Operation!",
@@ -3226,7 +3226,7 @@
             "title": "The Missing Page",
             "number": "461",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Shadow of the Black Organization (The Young Witness)",
@@ -3268,7 +3268,7 @@
             "title": "The Mysterious Case Near the Pond",
             "number": "468",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kaitou Kid and the Four Masterpieces (Part 1)",
@@ -3286,7 +3286,7 @@
             "title": "The Out of Control Rental Car",
             "number": "471",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Shinichi Kud\u014d's Childhood Adventure (Part 1)",
@@ -3310,7 +3310,7 @@
             "title": "Bad Luck Grand Prix",
             "number": "475",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Genta's Certain Kill Shot (Part 1)",
@@ -3328,7 +3328,7 @@
             "title": "Real 30 Minutes",
             "number": "478",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Three Days With Heiji Hattori (2 Hour Special)",
@@ -3340,7 +3340,7 @@
             "title": "Yellow Alibi",
             "number": "480",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mountain Witch's Cutlery (Part 1)",
@@ -3358,7 +3358,7 @@
             "title": "The Missing Policeman",
             "number": "483",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Whereabouts of the Dark Photograph (Part 1)",
@@ -3376,7 +3376,7 @@
             "title": "Maneki Neko from the Right to the Left",
             "number": "486",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Metropolitan Police Detective Love Story 8: Left Hand's Ring Finger (1 Hour Special)",
@@ -3394,7 +3394,7 @@
             "title": "Courtroom Confrontation III Prosecutor as Eyewitnesssup",
             "number": "489",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Heiji Hattori vs. Shinichi Kudo! The Grand Deduction Battle! (1 Hour Special)",
@@ -3532,7 +3532,7 @@
             "title": "The Broken Horoscope",
             "number": "512",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Coffee Aroma with Murderous Intention (Part 1)",
@@ -3568,19 +3568,19 @@
             "title": "Meiji Restoration Mystery Tour: Investigation Chapter",
             "number": "518",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Meiji Restoration Mystery Tour: Decipher Chapter",
             "number": "519",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Indictment by Red Wine",
             "number": "520",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Murderer, Shinichi Kudo (1 Hour Special)",
@@ -3622,7 +3622,7 @@
             "title": "Evil Intent Hidden Behind a Mask",
             "number": "527",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Might Over Mystery (Part 1)",
@@ -3676,7 +3676,7 @@
             "title": "The Secret of the Vanished Masterpiece",
             "number": "536",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kait\u014d Kid vs the Strongest Vault (Part 1)",
@@ -3694,19 +3694,19 @@
             "title": "The Inheritance to a Foolish Person",
             "number": "539",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Day Kogoro Mori Discontinues His Detective Business (Part 1)",
             "number": "540",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Day Kogoro Mori Discontinues His Detective Business (Part 2)",
             "number": "541",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Disappearing Fish at Ikkaku Rock (Part 1)",
@@ -3724,7 +3724,7 @@
             "title": "The Hand That Plays in Dissonance",
             "number": "544",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Witch Enshrouded by Fog (Part 1)",
@@ -3742,13 +3742,13 @@
             "title": "Two Days with the Culprit (First Day)",
             "number": "547",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Two Days with the Culprit (Second Day)",
             "number": "548",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Revolving Sushi Mystery (Part 1)",
@@ -3778,25 +3778,25 @@
             "title": "The Interrogation Room",
             "number": "553",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Stork Mystery Tour (Ran's Search Part)",
             "number": "554",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Stork Mystery Tour (Haruna's Tracking Part)",
             "number": "555",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Fearful Intersection",
             "number": "556",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Dangerous Party of Two",
@@ -3832,7 +3832,7 @@
             "title": "The Kidnapping of Rainbow Colors",
             "number": "562",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Detective Boys vs. Robber Group (Turmoil)",
@@ -3850,19 +3850,19 @@
             "title": "The Witness that Cannot be Seen",
             "number": "565",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Partner is Santa-san",
             "number": "566",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Intention to Murder Befalling in an Open-air Bath",
             "number": "567",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Inspector Shiratori, Memories of the Sakura (Part 1)",
@@ -3880,7 +3880,7 @@
             "title": "The Crime that has Zero Possibility to Be Proven",
             "number": "570",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Battle of the Haunted Warehouse's Treasure (Part 1)",
@@ -3922,7 +3922,7 @@
             "title": "The Fireflies that Light up the Truth",
             "number": "577",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Calling of the Red Omen Crisis",
@@ -3952,7 +3952,7 @@
             "title": "The Night the Zombie Died",
             "number": "582",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kobayashi-sensei's Love",
@@ -3988,7 +3988,7 @@
             "title": "The Trap of the Rooftop Farm",
             "number": "588",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Worst Birthday (Part 1)",
@@ -4006,7 +4006,7 @@
             "title": "The House With an Aquarium",
             "number": "591",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Detective Memoir of Monkey and Rake (Part 1)",
@@ -4024,19 +4024,19 @@
             "title": "The Seven Wonders Tour in Hiroshima and Miyajima (Miyajima Part)",
             "number": "594",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Seven Wonders Tour in Hiroshima and Miyajima (Hiroshima Part)",
             "number": "595",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Alibi that Fell",
             "number": "596",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Scenario of the Steaming Locked Room (Part 1)",
@@ -4054,7 +4054,7 @@
             "title": "Friend of Justice",
             "number": "599",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Dream the Kappa Saw (Part 1)",
@@ -4072,37 +4072,37 @@
             "title": "The Devil Hiding at the Tennis Court",
             "number": "602",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Seance's Double Locked Room Mystery (First Locked Room)",
             "number": "603",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Seance's Double Locked Room Mystery (Second Locked Room)",
             "number": "604",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Seance's Double Locked Room Mystery (Opening of the Locked Room)",
             "number": "605",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Courtroom Confrontation IV: Juror Sumiko Kobayashi (Part 1)",
             "number": "606",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Courtroom Confrontation IV: Juror Sumiko Kobayashi (Part 2)",
             "number": "607",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "White Day of Betrayal (Part 1)",
@@ -4234,19 +4234,19 @@
             "title": "The Shooting of the Promotional Video Case (Part 1)",
             "number": "629",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Shooting of the Promotional Video Case (Part 2)",
             "number": "630",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "What the Floral Clock Knew",
             "number": "631",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Guardian of Time's Sword (Part 1)",
@@ -4264,49 +4264,49 @@
             "title": "The Crime Scene is a Very Narrow Shop",
             "number": "634",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Beware of Dieting",
             "number": "635",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Most Useful School in the World Case (Part 1)",
             "number": "636",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Most Useful School in the World Case (Part 2)",
             "number": "637",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Solving Mysteries at the Red Leaf Palace (Part 1)",
             "number": "638",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Solving Mysteries at the Red Leaf Palace (Part 2)",
             "number": "639",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Memory Trip of the Eight Sketches (Okayama Part)",
             "number": "640",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Memory Trip of the Eight Sketches (Kurashiki Part)",
             "number": "641",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Grabbing Karuta Cards in Dire Straits (Part 1)",
@@ -4408,7 +4408,7 @@
             "title": "The Hot Chocolate Trap",
             "number": "658",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Co-Investigating with a First Love (Part 1)",
@@ -4438,25 +4438,25 @@
             "title": "The Mountain Beetle Chase",
             "number": "663",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Great Dog Coeur's Triumph 2",
             "number": "664",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Suspicion of Initial K",
             "number": "665",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Intimidator In a Rainy Night",
             "number": "666",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Wedding Eve (Part 1)",
@@ -4474,13 +4474,13 @@
             "title": "Treasure in the Tower of Darkness (Part 1)",
             "number": "669",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Treasure in the Tower of Darkness (Part 2)",
             "number": "670",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Detectives' Nocturne (The Case)",
@@ -4522,25 +4522,25 @@
             "title": "The Sandy Beach with No Footprints",
             "number": "677",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Nagasaki Mystery Theater (Bakumatsu Part)",
             "number": "678",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Nagasaki Mystery Theater (Present-Day Part)",
             "number": "679",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Cactus Rhapsody",
             "number": "680",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Life-Threatening Broadcast of Love (Begin Broadcasting)",
@@ -4576,25 +4576,25 @@
             "title": "The Car Carrying A Time Bomb",
             "number": "686",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Unsolvable Ice Trap",
             "number": "687",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Detective Takagi Picked Up 30 Million Yen",
             "number": "688",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Messages From the Client",
             "number": "689",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Yusaku Kudo's Unsolved Case (Part 1)",
@@ -4612,43 +4612,43 @@
             "title": "The Night Cherry Blossom Route on Sumida River (Part 1)",
             "number": "692",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Night Cherry Blossom Route on Sumida River (Part 2)",
             "number": "693",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Missing Japanese Sweet in the Old Shop",
             "number": "694",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Roses in the Vineyard",
             "number": "695",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Stormy Flowerbed Conspiracy",
             "number": "696",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Window of the Girls Academy",
             "number": "697",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "No Way! The UFO Crash Case",
             "number": "698",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Shadow Approaching Haibara's Secret (Part 1)",
@@ -4702,19 +4702,19 @@
             "title": "The Framed Great Detective",
             "number": "707",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Man That Fell Slowly",
             "number": "708",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Case of the Unconfirmed Crash",
             "number": "709",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Everyone Saw (Part 1)",
@@ -4756,37 +4756,37 @@
             "title": "Dancing Demon in the Noh Mask Mansion (Part 1)",
             "number": "716",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Dancing Demon in the Noh Mask Mansion (Part 2)",
             "number": "717",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Devil's Circuit",
             "number": "718",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Platinum Ticket Commotion",
             "number": "719",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fire and Water Mystery Tour (Aso Part)",
             "number": "720",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fire and Water Mystery Tour (Kumamoto Part)",
             "number": "721",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sweet and Cold Delivery Service (Part 1)",
@@ -4816,7 +4816,7 @@
             "title": "The Happy Message That Brings Misfortune",
             "number": "726",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Treasure Chest Filled With Fruits (Part 1)",
@@ -4834,13 +4834,13 @@
             "title": "The Diamond, the Painting, and the Great Actress",
             "number": "729",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Figure That Was Too Good",
             "number": "730",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Ex-Boyfriend Living Next to a Crime Scene (Part 1)",
@@ -4858,7 +4858,7 @@
             "title": "The Banquet and the Two Gunshots",
             "number": "733",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Jodie's Memories and the Cherry Blossom Viewing Trap (1 Hour Special)",
@@ -4870,19 +4870,19 @@
             "title": "The Coded Invitation",
             "number": "735",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Secret of the Statue of Kogoro Mouri",
             "number": "736",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Suspicious Walking Path",
             "number": "737",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kogoro In The Bar (Part 1)",
@@ -4912,13 +4912,13 @@
             "title": "The Promise with the J-League",
             "number": "742",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Coincidentally Overlapped Twice",
             "number": "743",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Suspect is Makoto Kyogoku (Part 1)",
@@ -4960,7 +4960,7 @@
             "title": "The Man Betrayed by the Sea",
             "number": "750",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Case of the Lucky Calico (Part 1)",
@@ -4978,7 +4978,7 @@
             "title": "The Blind Spot in the Share House",
             "number": "753",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Tragedy of the Red Woman (Steam)",
@@ -5002,13 +5002,13 @@
             "title": "The Comedian Who Turned Himself In (Part 1)",
             "number": "757",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Comedian Who Turned Himself In (Part 2)",
             "number": "758",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Romance Novel with the Unexpected Conclusion (Part 1)",
@@ -5026,13 +5026,13 @@
             "title": "Kaga Hyakumangoku Mystery Tour (Kanazawa Arc)",
             "number": "761",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kaga Hyakumangoku Mystery Tour (Kaga Hot Springs Part)",
             "number": "762",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Conan and Heiji, Code of Love (Part 1)",
@@ -5062,19 +5062,19 @@
             "title": "The Lover Gone Missing in a Snowstorm",
             "number": "767",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Haibara Ai Imprisonment Case",
             "number": "768",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Troublesome Emergency Patient",
             "number": "769",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Tense Tea Party (Part 1)",
@@ -5104,31 +5104,31 @@
             "title": "Munch's Missing Scream",
             "number": "774",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Manipulated Great Detective (Part 1)",
             "number": "775",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Manipulated Great Detective (Part 2)",
             "number": "776",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Detective Boys VS the Silver Detectives",
             "number": "777",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mirage of the Disappearing Angel",
             "number": "778",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Scarlet Prologue",
@@ -5164,7 +5164,7 @@
             "title": "Welcome to Club Orihime",
             "number": "784",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Taiko Meijin's Match of Love (Part 1)",
@@ -5194,19 +5194,19 @@
             "title": "The Queen's Weather Forecast",
             "number": "789",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bekapon's Bleeding Service",
             "number": "790",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Detective Takagi On the Run in Handcuffs",
             "number": "791",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Three First Discoverers (Part 1)",
@@ -5224,85 +5224,85 @@
             "title": "Bodyguard Mori Kogoro!",
             "number": "794",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Secret of the Missing Young Lady",
             "number": "795",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Lovebirds' Ruse",
             "number": "796",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Dreaming Girl's Confused Deduction",
             "number": "797",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Moving Target",
             "number": "798",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Detective Boys' Locked Room Mystery Battle",
             "number": "799",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "After That Hundred Million Yen",
             "number": "800",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Tottori Sand Dunes Mystery Tour (Kurayoshi Arc)",
             "number": "801",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Tottori Sand Dunes Mystery Tour (Tottori Arc)",
             "number": "802",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Pitfall of Fire Precautions",
             "number": "803",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Conan and Ebizo's Kabuki J\u016bhachiban Mystery (Part 1)",
             "number": "804",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Conan and Ebizo's Kabuki J\u016bhachiban Mystery (Part 2)",
             "number": "805",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Ventriloquist's Illusion (Part One)",
             "number": "806",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Ventriloquist's Illusion (Part Two)",
             "number": "807",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Kamaitachi Inn (Part 1)",
@@ -5338,7 +5338,7 @@
             "title": "The Shadow Approaching Amuro",
             "number": "813",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Actress Blogger's Locked Room Case (Part 1)",
@@ -5356,37 +5356,37 @@
             "title": "The Disappointing and Kind Alien",
             "number": "816",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Missing Fianc\u00e9e",
             "number": "817",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kogoro's Pursuit of Rage (Part 1)",
             "number": "818",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kogoro's Pursuit of Rage (Part 2)",
             "number": "819",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Seven People in the Waiting Room ",
             "number": "820",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Hidden Secret of Dongaraji Temple",
             "number": "821",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Suspects Are a Passionate Couple (Part 1)",
@@ -5404,19 +5404,19 @@
             "title": "The Detective Boys Get Out of the Rain",
             "number": "824",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Tidal Park Comeback Case",
             "number": "825",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Beauty, The Lie, and The Secret",
             "number": "826",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ramen So Good, It's to Die For 2 (Part 1)",
@@ -5434,7 +5434,7 @@
             "title": "The Mysterious Boy",
             "number": "829",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Cottage Surrounded By Zombies (Part 1)",
@@ -5458,19 +5458,19 @@
             "title": "The Great Detective's Weakness",
             "number": "833",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Man Who Died Twice (Part 1)",
             "number": "834",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Man Who Died Twice (Part 2)",
             "number": "835",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Unfriendly Girls Band (Part 1)",
@@ -5488,31 +5488,31 @@
             "title": "Mystery in a Hot Air Balloon",
             "number": "838",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "You Can Hear the Tengu's Voice",
             "number": "839",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Last Gift",
             "number": "840",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Rainy Bus Stop",
             "number": "841",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Turning Point on a Driving Date",
             "number": "842",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Detective Boys in a Grove (Part 1)",
@@ -5530,13 +5530,13 @@
             "title": "Conan Cornered in the Darkness (Part One)",
             "number": "845",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Conan Cornered in the Darkness (Part Two)",
             "number": "846",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Chiba's UFO Case (Part 1)",
@@ -5566,13 +5566,13 @@
             "title": "The Descent Into Hell Tour of Love (Beppu Chapter)",
             "number": "851",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Descent Into Hell Tour of Love (Oita Chapter)",
             "number": "852",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Memories From Sakura Class (Ran GIRL)",
@@ -5590,37 +5590,37 @@
             "title": "Mystery of the Misssing Black Belt",
             "number": "855",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Socialite Couple's Secret ",
             "number": "856",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Shifting Mystery of Beika City (Part 1)",
             "number": "857",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Shifting Mystery of Beika City (Part 2)",
             "number": "858",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Dark Mountain Route",
             "number": "859",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Security System's Pitfall",
             "number": "860",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Just Like a 17 Year Old Crime Scene (Part 1)",
@@ -5650,7 +5650,7 @@
             "title": "The Foul-Mouthed Myna Bird",
             "number": "865",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Traitor's Stage (Part 1)",
@@ -5668,25 +5668,25 @@
             "title": "The Whistling Bookstore",
             "number": "868",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Conan Disappears Over a Cliff (Part 1)",
             "number": "869",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Conan Disappears Over a Cliff (Part 2)",
             "number": "870",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Nobunaga 450 Case",
             "number": "871",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Conan and Heiji's Nue Legend (Roar Arc)",
@@ -5710,19 +5710,19 @@
             "title": "The Mysterious Prophetic Buddha!",
             "number": "875",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mechanical Witness",
             "number": "876",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Pair of Crossing Fates",
             "number": "877",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Blind Spot in the Changing Room (Part 1)",
@@ -5740,7 +5740,7 @@
             "title": "The Detective Boys and the Haunted House",
             "number": "880",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Wizard of the Ripples (Part 1)",
@@ -5758,13 +5758,13 @@
             "title": "The Pop-up Book Bomber (Part One)",
             "number": "883",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Pop-up Book Bomber (Part Two)",
             "number": "884",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Solving Mysteries at the Poirot Caf\u00e9 (Part 1)",
@@ -5806,19 +5806,19 @@
             "title": "The Meiji Restoration Mystery Tour (Yamaguchi Arc)",
             "number": "891",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": " The Meiji Restoration Mystery Tour (Hagi Arc)",
             "number": "892",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mystery of a Michelin Starred Restaurant",
             "number": "893",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Tokyo-Style Detective Show Next Door (Part 1)",
@@ -5848,19 +5848,19 @@
             "title": "The Melting Cake!",
             "number": "898",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Real Culprit's Scream",
             "number": "899",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Solving Mysteries in a Locked Room",
             "number": "900",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Lawyer Kisaki's SOS (Part 1)",
@@ -5878,37 +5878,37 @@
             "title": "Birds of a Feather at Loggerheads",
             "number": "903",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Result of the Draw",
             "number": "904",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Eyewitness Testimony Seven Years Later (Part 1)",
             "number": "905",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Eyewitness Testimony Seven Years Later (Part 2)",
             "number": "906",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The J League Bodyguard",
             "number": "907",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Friendship Washed Away In the Riverbed",
             "number": "908",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mystery of the Burning Tent  (Part 1)",
@@ -5926,31 +5926,31 @@
             "title": "The Job Request from Inspector Megure",
             "number": "911",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Detective Boys Become Models",
             "number": "912",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Conan Kidnapped (Part 1)",
             "number": "913",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Conan Kidnapped (Part 2)",
             "number": "914",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "High School Girl Detective Suzuki Sonoko",
             "number": "915",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Kendo Tournament of Love and Mystery (Part 1)",
@@ -5968,7 +5968,7 @@
             "title": "The Mini-Patrol Car Police's Big Chase",
             "number": "918",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The High School Girl Trio's Secret Caf\u00e9 (Part 1)",
@@ -5986,25 +5986,25 @@
             "title": "The Murderous Carpool",
             "number": "921",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Disappearing Detective Boys",
             "number": "922",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Day Without Conan",
             "number": "923",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Sun Sets Over Tangerine Fields",
             "number": "924",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Heartfelt Strap (Part 1)",
@@ -6034,73 +6034,73 @@
             "title": "The Woman Standing in the Window (Part 1)",
             "number": "929",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Woman Standing in the Window (Part 2)",
             "number": "930",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Northern Kyushu Mystery Tour (Kokura Arc)",
             "number": "931",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Northern Kyushu Mystery Tour (Moji Arc)",
             "number": "932",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Thoroughbred Kidnapping Case (Part 1)",
             "number": "933",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Thoroughbred Kidnapping Case (Part 2)",
             "number": "934",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Fortune Teller and the Three Customers",
             "number": "935",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Intrigue at the Food Court",
             "number": "936",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Killer Fist of Talos (Part 1)",
             "number": "937",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Killer Fist of Talos (Part 2)",
             "number": "938",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Dangerous Fossil Finding Trip",
             "number": "939",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Missing Girlfriend",
             "number": "940",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Search for Maria-chan! (Part 1)",
@@ -6118,55 +6118,55 @@
             "title": "The Tokyo Barls Collection",
             "number": "943",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Cost of Likes (Part 1)",
             "number": "944",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Cost of Likes (Part 2)",
             "number": "945",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Cursed Tears of Borgia (Part One)",
             "number": "946",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Cursed Tears of Borgia (Part Two)",
             "number": "947",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Man Crushed by a Dinosaur",
             "number": "948",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Radio Questions and Concerns Show (Challenge Arc)",
             "number": "949",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Radio Questions and Concerns Show (Solution Arc)",
             "number": "950",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Whistling Bookstore 2",
             "number": "951",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Unsolved Cocktail Case (Part 1)",
@@ -6190,97 +6190,97 @@
             "title": "The Secret of the Insect Man",
             "number": "955",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mystery-Solving Water Taxi (Part 1)",
             "number": "956",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mystery-Solving Water Taxi (Part 2)",
             "number": "957",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Poodle and the Shotgun (Part 1)",
             "number": "958",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Poodle and the Shotgun (Part 2)",
             "number": "959",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Miss Lonely and the Detective Boys",
             "number": "960",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Glamping Mystery",
             "number": "961",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mori Kogoro's Grand Lecture (Part One)",
             "number": "962",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mori Kogoro's Grand Lecture (Part Two) ",
             "number": "963",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mori Kogoro's Grand Lecture (Part Three)",
             "number": "964",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kaiju Gomera VS Kamen Yaiba (Prologue)",
             "number": "965",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kaiju Gomera VS Kamen Yaiba (Interlude)",
             "number": "966",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kaiju Gomera VS Kamen Yaiba (Climax)",
             "number": "967",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kaiju Gomera VS Kamen Yaiba (Finale)",
             "number": "968",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Young Kaga Lady's Mystery Tour (Part One)",
             "number": "969",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Young Kaga Lady's Mystery Tour (Part Two)",
             "number": "970",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Target: MPD Transportation Department (Part One)",
@@ -6310,49 +6310,49 @@
             "title": "The Secret of the Search for His Wife",
             "number": "975",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Follow them! Detective Taxi",
             "number": "976",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Broken Fishbowl",
             "number": "977",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Case On the Opposite Shore",
             "number": "978",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Leading a Detective Around By the Nose",
             "number": "979",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "An Encouragement of the Perfect Crime",
             "number": "980",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Welcome to Bocchan Restaurant (Part One)",
             "number": "981",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Welcome to Bocchan Restaurant (Part Two) ",
             "number": "982",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kid vs. Komei: the Targeted Lips (Part One) ",
@@ -6370,49 +6370,49 @@
             "title": "The Two Faces (Part One)",
             "number": "985",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Two Faces (Part Two)",
             "number": "986",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Company Dissolution Party",
             "number": "987",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Feuding Girls",
             "number": "988",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Case of Ayumi's Illustrated Diary",
             "number": "989",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Automatic Tragedy (Part One)",
             "number": "990",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Automatic Tragedy (Part Two)",
             "number": "991",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Murder at the Townhouse Caf\u00e9",
             "number": "992",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Makoto Kyogoku the Understudy (Part One)",
@@ -6436,25 +6436,25 @@
             "title": "The Skilled Hawk Hides His Crimes",
             "number": "996",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Intrigue at Smile Village",
             "number": "997",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Frying Pan of Hatred",
             "number": "998",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Troublesome Kindness",
             "number": "999",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Moonlight Sonata Murder (Part One)",
@@ -6472,7 +6472,7 @@
             "title": "The Beika City Shopping Center Garbage Bin Mystery",
             "number": "1002",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The 36-Cell Perfect Game (Part One)",
@@ -6496,31 +6496,31 @@
             "title": "Who Poisoned the Victim",
             "number": "1006",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Out For Revenge (Part One)",
             "number": "1007",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Out For Revenge (Part Two)",
             "number": "1008",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Lost Article That Smells Like a Case",
             "number": "1009",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Idol Whose Smile Disappeared",
             "number": "1010",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Picking Wild Plants and Clovers (Part One)",
@@ -6538,31 +6538,31 @@
             "title": "The Man Who Loved Too Much",
             "number": "1013",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Novelist Known as the Demon King",
             "number": "1014",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Stake Out",
             "number": "1015",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Monorail Sniper Case (Part One)",
             "number": "1016",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Monorail Sniper Case (Part Two)",
             "number": "1017",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Antique Tray Can't Be Hidden (Part One)",
@@ -6586,19 +6586,19 @@
             "title": "Rondo in Bad Company",
             "number": "1021",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Cursed Museum",
             "number": "1022",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Whistling Bookstore 3",
             "number": "1023",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ooka Momiji's Challenge (Part One)",
@@ -6616,19 +6616,19 @@
             "title": "The Wordless Witness",
             "number": "1026",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Beyond the Curtain",
             "number": "1027",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ballad of the Woman Who Loved Cake",
             "number": "1028",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Police Academy Arc Wild Police Story CASE. Matsuda Jinpei",
@@ -6640,19 +6640,19 @@
             "title": "The Blank Year (Part One)",
             "number": "1030",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Blank Year (Part Two)",
             "number": "1031",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mori Ran, the Model",
             "number": "1032",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Taiko Meijin's Shogi Board (Opening Move)",
@@ -6676,13 +6676,13 @@
             "title": "Whiteout (Part One)",
             "number": "1036",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Whiteout (Part Two)",
             "number": "1037",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "total-episodes": [

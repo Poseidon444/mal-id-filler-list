@@ -194,7 +194,7 @@
             "title": "Traces of Intense Battles",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Throw Your Right!",
@@ -320,7 +320,7 @@
             "title": "The Challenger",
             "number": "52",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "So That I Can Be Myself",

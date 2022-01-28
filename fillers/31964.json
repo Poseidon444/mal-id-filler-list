@@ -244,7 +244,7 @@
             "title": "Game Start",
             "number": "39",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Wild, Wild Pussycats",
@@ -358,7 +358,7 @@
             "title": "Special Episode: Save the World With Love!",
             "number": "58",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "What's the Big Idea?",
@@ -394,7 +394,7 @@
             "title": "The Scoop on U.A. Class 1-A",
             "number": "64",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Overhaul",
@@ -634,7 +634,7 @@
             "title": "Long Time No See, Selkie",
             "number": "104",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Hellish Todoroki Family",

@@ -36,7 +36,7 @@
             "title": "Innocent as a Human",
             "number": "4",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Brotherhood",
@@ -60,13 +60,13 @@
             "title": "Kill House",
             "number": "8",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Red Rose Vertigo",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Master of Monster",
@@ -78,19 +78,19 @@
             "title": "Transcend Force",
             "number": "11",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Total Destruction",
             "number": "12",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hellfire",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

@@ -87,7 +87,7 @@
             "title": "Battle Record",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ghost Girl's Invitation",
@@ -183,7 +183,7 @@
             "title": "Kusanagi Report",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Doorway to the Abyss",
@@ -237,7 +237,7 @@
             "title": "Hanoi's Recollection",
             "number": "38",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bullet Buried in Darkness",

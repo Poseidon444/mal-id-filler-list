@@ -152,7 +152,7 @@
             "title": "Superstition",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Compromising Positions",
@@ -164,25 +164,25 @@
             "title": "Playing Doctor - GTO Style",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Onizuka Meets His Match",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "GTO - Agent to the Stars",
             "number": "27",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Whatever Can Go Wrong, Will Go Wrong",
             "number": "28",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Studies in High Finance",
@@ -218,7 +218,7 @@
             "title": "Good CopBad Cop",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Wedding Bell Blues",
@@ -266,13 +266,13 @@
             "title": "Old Wounds Revisited",
             "number": "42",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Onizuka's Final Battle",
             "number": "43",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

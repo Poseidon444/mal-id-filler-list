@@ -63,19 +63,19 @@
             "title": "Sports Festival! (There's No Twist Or Anything)",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Troupe Dragon, On Stage! (They Had A Troupe Name, Huh)",
             "number": "10",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Year End, New Year! (No Comiket Bit This Time)",
             "number": "11",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Tohru and Kobayashi's Impactful Meeting! (We're Raising the Bar on Ourselves)",

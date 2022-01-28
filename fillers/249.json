@@ -395,7 +395,7 @@
             "title": "The Beautiful Sister Apprentices",
             "number": "59",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The 50 Year-Old Curse Of The Dark Priestess",
@@ -419,19 +419,19 @@
             "title": "The Red and White Priestesses",
             "number": "63",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Giant Ogre of the Forbidden Tower",
             "number": "64",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Farewell Days of My Youth",
             "number": "65",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Naraku's Barrier: Kagura's Decision",
@@ -449,7 +449,7 @@
             "title": "Shippo Gets an Angry Challenge",
             "number": "68",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Terror of the Faceless Man",
@@ -473,7 +473,7 @@
             "title": "Totosai's Rigid Training",
             "number": "72",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Shiori's Family and Inuyasha's Feelings",
@@ -491,31 +491,31 @@
             "title": "The Plot of the Panther Devas",
             "number": "75",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Target: Sesshomaru and Inuyasha",
             "number": "76",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Panther Tribe and the Two Swords of the Fang",
             "number": "77",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Only You, Sango",
             "number": "78",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Jaken's Plan to Steal Tetsusaiga",
             "number": "79",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sesshomaru and the Abducted Rin",
@@ -575,79 +575,79 @@
             "title": "Nursing Battle of the Rival Lovers",
             "number": "89",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sota's Brave Confession of Love",
             "number": "90",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Suspicious Faith Healer and the Black Kirara",
             "number": "91",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Plot of the Walking Dead",
             "number": "92",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mysterious, Lecherous Monk",
             "number": "93",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Sacred Jewel Maker Part I",
             "number": "94",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Sacred Jewel Maker Part II",
             "number": "95",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Jaken Falls ill",
             "number": "96",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kirara, Come Home!",
             "number": "97",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kikyo and Kagome: Alone in a Cave",
             "number": "98",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Koga and Sesshomaru, A Dangerous Encounter",
             "number": "99",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Truth Behind the Nightmare: Battle in the Forest of Sorrow",
             "number": "100",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Snow from Seven Years Past",
             "number": "101",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Assault on the Wolf-Demon Tribe",
@@ -815,13 +815,13 @@
             "title": "Chokyukai and the Abducted Bride",
             "number": "129",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Shippo's New Technique, The Heart Scar!",
             "number": "130",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Trap of The Cursed Wall Hanging",
@@ -839,13 +839,13 @@
             "title": "The Woman Who Loved Sesshomaru (Part 1)",
             "number": "133",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Woman Who Loved Sesshomaru (Part 2)",
             "number": "134",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Last Banquet of Miroku's Master",
@@ -857,31 +857,31 @@
             "title": "A Strange Invisible Demon Appears!",
             "number": "136",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "An Ancestor Named Kagome",
             "number": "137",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mountain of Demons: Survival of the Duo",
             "number": "138",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Great Duel at Shoun Falls",
             "number": "139",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Eternal Love, The Naginata of Kenkon",
             "number": "140",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Entei, The Demon Horse Unleashed",
@@ -1013,13 +1013,13 @@
             "title": "Forever with Lord Sesshomaru",
             "number": "162",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kohaku, Sango and Kirara: The Secret Flower Garden",
             "number": "163",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Possessed by a Parasite: Shippo, Our Worst Enemy!",

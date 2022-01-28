@@ -197,7 +197,7 @@
             "title": "Path",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mirror Mage",
@@ -419,7 +419,7 @@
             "title": "The Secret of the Eye of the Midnight Sun",
             "number": "66",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Fun Festival Double Date",
@@ -431,7 +431,7 @@
             "title": "Battle to the Death?! Yami vs. Jack",
             "number": "68",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Briar Maiden's Melancholy",
@@ -515,7 +515,7 @@
             "title": "Clover Clips: The Nightmarish Charmy Special!",
             "number": "82",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Burn It into You",
@@ -761,19 +761,19 @@
             "title": "Nero Reminisces... Part One",
             "number": "123",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Nero Reminisces... Part Two",
             "number": "124",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Return",
             "number": "125",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Blue Rose's Confession",
@@ -809,7 +809,7 @@
             "title": "A New Resolve",
             "number": "131",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Lion Awakens",
@@ -827,13 +827,13 @@
             "title": "Those Who Have Been Gathered",
             "number": "134",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The One Who Has My Heart, My Mind, and Soul",
             "number": "135",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Black Deep-Sea Story",
@@ -875,43 +875,43 @@
             "title": "Those Remaining",
             "number": "142",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Tilted Scale",
             "number": "143",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Those Who Wish to Destroy Devils",
             "number": "144",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Rescue ",
             "number": "145",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Those Who Worship Devils",
             "number": "146",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Death",
             "number": "147",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Become the Light That Illuminates the Darkness",
             "number": "148",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Two Things to Look for",

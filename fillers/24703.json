@@ -213,19 +213,19 @@
             "title": "The Occult Club Disappears?!",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "I Will Fight!",
             "number": "35",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Any Time, For All Time!",
             "number": "36",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "That's Right, Let's Go to Kyoto",

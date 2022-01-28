@@ -28,25 +28,25 @@
             "title": "Believe Me!",
             "number": "3",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Come, Akira",
             "number": "4",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Beautiful Silene",
             "number": "5",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Neither Demon Nor Human",
             "number": "6",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Weak Humans, Wise Demons",

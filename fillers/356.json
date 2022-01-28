@@ -45,7 +45,7 @@
             "title": "Two Magi (Part 2)",
             "number": "6",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Despicable Act",
@@ -111,13 +111,13 @@
             "title": "Branded As A Witch",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Decisive Battle",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Golden King",

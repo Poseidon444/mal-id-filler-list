@@ -90,7 +90,7 @@
             "title": "Turnabout Promise",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Reunion and Turnabout \u2013 1st Trial",
@@ -192,7 +192,7 @@
             "title": "Sound the Turnabout Melody",
             "number": "30",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Recipe for Turnabout \u2013 1st Trial",
@@ -216,19 +216,19 @@
             "title": "Northward, Turnabout Express \u2013 1st Trial",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Northward, Turnabout Express \u2013 2nd Trial",
             "number": "35",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Northward, Turnabout Express \u2013 Last Trial",
             "number": "36",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Turnabout Memories",
@@ -240,7 +240,7 @@
             "title": "Hear the Waves of Turnabout",
             "number": "38",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Turnabout Beginnings \u2013 1st Trial",

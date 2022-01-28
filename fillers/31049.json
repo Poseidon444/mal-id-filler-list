@@ -43,7 +43,7 @@
             "title": "Get Ready! Crash Course!",
             "number": "6",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

@@ -44,13 +44,13 @@
             "title": "The Azure Messenger",
             "number": "6",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Love for the Disease Called Ideals",
             "number": "7",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Teaching Them To Kill; Then To Die",
