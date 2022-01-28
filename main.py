@@ -73,6 +73,8 @@ for i in links.keys():
             "filler": i.select_one("td.Type").text, 
             "filler-bool": False, 
             }
+            if "canon" not in episode["filler"].lower():episode["filler-bool"] = True and data["fillers_episodes"].append(episode["number"])
+
             #if "canon" not in episode["filler"].lower():
             #  episode["filler-bool"] = True
             #  data["fillers_episodes"].append(episode["number"])
