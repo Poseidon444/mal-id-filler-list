@@ -61,7 +61,7 @@
             "title": "Hair stand",
             "number": "8",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Body paint",

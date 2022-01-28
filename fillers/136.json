@@ -86,7 +86,7 @@
             "title": "Letter \u00d7 From \u00d7 Gon",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hit \u00d7 The \u00d7 Target",
@@ -164,7 +164,7 @@
             "title": "Then \u00d7 And \u00d7 After",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Arrival \u00d7 At \u00d7 The Arena",

@@ -134,7 +134,7 @@
             "title": "Is the Tennis Court Burning Up?",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kaoru's Troubles",
@@ -152,7 +152,7 @@
             "title": "Ryoma's Day Off",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Seigaku's Strongest Man, Part 1",

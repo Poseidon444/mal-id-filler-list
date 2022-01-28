@@ -207,25 +207,25 @@
             "title": "Pilaf and the Mystery Force",
             "number": "30",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Wedding Plans?",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Flying Fortress - Vanished!",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Legend of a Dragon",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Cruel General Red",
@@ -297,7 +297,7 @@
             "title": "Danger in the Air",
             "number": "45",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bulma's Bad Day",
@@ -501,31 +501,31 @@
             "title": "Terror and Plague",
             "number": "79",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Goku vs. Sky Dragon",
             "number": "80",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Goku Goes to Demon Land",
             "number": "81",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Rampage of InoShikaCho",
             "number": "82",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Which Way To Papaya Island?",
             "number": "83",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Rivals and Arrivals",
@@ -789,37 +789,37 @@
             "title": "Quicker than Lightning",
             "number": "127",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Secret of the Woods",
             "number": "128",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Time Room",
             "number": "129",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Goku's Doll",
             "number": "130",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Walking Their Own Ways",
             "number": "131",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hotter than Lava",
             "number": "132",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Changes",
@@ -921,31 +921,31 @@
             "title": "Dress in Flames",
             "number": "149",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Fire-Eater",
             "number": "150",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Outrageous Octagon",
             "number": "151",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mystery of the Dark World",
             "number": "152",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The End, The Beginning",
             "number": "153",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

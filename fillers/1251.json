@@ -156,7 +156,7 @@
             "title": "Lincoln Island",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The First Kiss",
@@ -168,7 +168,7 @@
             "title": "The Lonely King",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Island of the Witch",
@@ -186,7 +186,7 @@
             "title": "King vs. King",
             "number": "29",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Labyrinth in the Earth",
@@ -204,19 +204,19 @@
             "title": "Nadia's First Love...?",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "King's Rescue",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "My Darling Nadia \u2665 (Series Recap)",
             "number": "34",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Secret of Blue Water",

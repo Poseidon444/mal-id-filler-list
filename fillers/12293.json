@@ -21,7 +21,7 @@
             "title": "The Landscape with a King",
             "number": "2",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "From Afar, An Enemy Comes",
@@ -39,7 +39,7 @@
             "title": "Unpleasant Days",
             "number": "5",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Kings Converse",
@@ -87,7 +87,7 @@
             "title": "Tale of the God-Slayer",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

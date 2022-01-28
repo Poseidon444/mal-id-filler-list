@@ -101,13 +101,13 @@
             "title": "Training Days, Part 1",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Training Days, Part 2",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "It's in the Cards, Part 1",
@@ -137,7 +137,7 @@
             "title": "Battle with the Bot",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Shark Hunter",
@@ -275,13 +275,13 @@
             "title": "Rock and a Hard Place",
             "number": "44",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ruffled Feathers",
             "number": "45",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Family Leave",

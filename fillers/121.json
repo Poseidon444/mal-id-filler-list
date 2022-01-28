@@ -33,7 +33,7 @@
             "title": "A Forger's Love",
             "number": "4",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Man with the Mechanical Arm",
@@ -69,7 +69,7 @@
             "title": "The Phantom Thief",
             "number": "10",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Other Brothers Elric: Part 1",
@@ -231,7 +231,7 @@
             "title": "The Flame Alchemist, The Bachelor Lieutenant & The Mystery of Warehouse 13",
             "number": "37",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "With the River's Flow",

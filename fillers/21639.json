@@ -122,13 +122,13 @@
             "title": "Quiz Quagmire, Part 1",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Quiz Quagmire, Part 2",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

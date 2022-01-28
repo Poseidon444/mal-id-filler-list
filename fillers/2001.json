@@ -103,7 +103,7 @@
             "title": "Compilation Episode",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "You Don't Know Anything!",

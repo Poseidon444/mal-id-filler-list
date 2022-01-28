@@ -148,25 +148,25 @@
             "title": "Memento mori (Remember to Die)",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Et arma et verba vulnerant (Both Weapons and Words Wound)",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mors certa, mora incerta (Death Is Certain, the Time Is Uncertain)",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Non mihi, non tibi, sed nobis (Not for Me, Not for You, But for Us)",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

@@ -252,7 +252,7 @@
             "title": "Special Report: Live from the Forest of Death!",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Chunin Exam Stage 2: The Forest of Death",
@@ -678,7 +678,7 @@
             "title": "Kidnapped! Naruto's Hot Spring Adventure!",
             "number": "97",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Tsunade's Warning: Ninja No More!",
@@ -702,37 +702,37 @@
             "title": "Gotta See! Gotta Know! Kakashi-Sensei's True Face!",
             "number": "101",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mission: Help an Old Friend in the Land of Tea",
             "number": "102",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Race is on! Trouble on the High Seas!",
             "number": "103",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Run Idate Run! Nagi Island Awaits!",
             "number": "104",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Fierce Battle of Rolling Thunder!",
             "number": "105",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Last Leg: A Final Act of Desperation",
             "number": "106",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Battle Begins: Naruto vs. Sasuke",
@@ -912,31 +912,31 @@
             "title": "Deep Cover!? A Super S-Ranked Mission!",
             "number": "136",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Town of Outlaws, the Shadow of the Fuma Clan",
             "number": "137",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Pure Betrayal, and a Fleeting Plea!",
             "number": "138",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Pure Terror! The House of Orochimaru",
             "number": "139",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Two Heartbeats: Kabuto's Trap",
             "number": "140",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sakura's Determination",
@@ -954,463 +954,463 @@
             "title": "Tonton! I'm Counting on You!",
             "number": "143",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A New Squad! Two People and a Dog?!",
             "number": "144",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A New Formation: Ino-Shika-Cho!",
             "number": "145",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Orochimaru's Shadow",
             "number": "146",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Clash of Fate: You Can't Bring Me Down",
             "number": "147",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Search for the Rare Bikochu Beetle",
             "number": "148",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "What's the Difference? Don't All Insects Look Alike?",
             "number": "149",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Battle of Bugs: The Deceivers and the Deceived",
             "number": "150",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Blaze Away Byakugan: This Is My Ninja Way",
             "number": "151",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Funeral March for the Living",
             "number": "152",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Lesson Learned: The Iron Fist of Love",
             "number": "153",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Enemy of the Byakugan",
             "number": "154",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Dark Creeping Clouds",
             "number": "155",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Raiga's Counterattack",
             "number": "156",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Run! The Curry of Life",
             "number": "157",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Follow My Lead! The Great Survival Challenge",
             "number": "158",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bounty Hunter from the Wilderness",
             "number": "159",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hunt or Be Hunted?! Showdown at the O.K. Temple!",
             "number": "160",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Appearance of Strange Visitors",
             "number": "161",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Cursed Warrior",
             "number": "162",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Tactician's Intent",
             "number": "163",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Too Late for Help",
             "number": "164",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Death of Naruto",
             "number": "165",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "When Time Stands Still",
             "number": "166",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "When Egrets Flap Their Wings",
             "number": "167",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mix It, Stretch It, Boil It Up! Burn, Copper Pot, Burn!",
             "number": "168",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Remembrance: The Lost Page",
             "number": "169",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Closed Door",
             "number": "170",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Infiltration: The Set-Up!",
             "number": "171",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Despair: A Fractured Heart",
             "number": "172",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Battle at Sea: The Power Unleashed!",
             "number": "173",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Impossible! Celebrity Ninja Art - Money Style Jutsu!",
             "number": "174",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Treasure Hunt is On!",
             "number": "175",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Run, Dodge, Zigzag! Chase or Be Chased!",
             "number": "176",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Please, Mr. Postman!",
             "number": "177",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Encounter! The Boy with a Star's Name",
             "number": "178",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Remembered Lullaby",
             "number": "179",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hidden Jutsu: The Price of The Ninja Art: Kujaku",
             "number": "180",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hoshikage, The Buried Truth",
             "number": "181",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Reunion, The Remaining time",
             "number": "182",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Star's Radiance",
             "number": "183",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kiba's Long Day!",
             "number": "184",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Legend from the Hidden Leaf: The Onbaa!",
             "number": "185",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Laughing Shino",
             "number": "186",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Open for Business! The Leaf Moving Service",
             "number": "187",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mystery of the Targeted Merchants",
             "number": "188",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Limitless Supply of Ninja Tools",
             "number": "189",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Byakugan Sees the Blind Spot",
             "number": "190",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Forecast: Death! Cloudy with Chance of Sun",
             "number": "191",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ino Screams! Chubby Paradise!",
             "number": "192",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Viva Dojo Challenge! Youth Is All About Passion!",
             "number": "193",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mysterious Curse of the Haunted Castle",
             "number": "194",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Third Super-Beast!",
             "number": "195",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hot-Blooded Confrontation: Student vs. Sensei",
             "number": "196",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Crisis! The Hidden Leaf 11 Gather!",
             "number": "197",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The ANBU Gives Up? Naruto's Recollection",
             "number": "198",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Missed Target",
             "number": "199",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Powerful Helper",
             "number": "200",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Multiple Traps! Countdown to Destruction",
             "number": "201",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Top 5 Ninja Battles",
             "number": "202",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kurenai's Decision, Squad 8 Left Behind",
             "number": "203",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Yakumo's Sealed Ability",
             "number": "204",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kurenai's Top-Secret Mission: The Promise With the Third Hokage",
             "number": "205",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Genjutsu or Reality?",
             "number": "206",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Supposed Sealed Ability",
             "number": "207",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Weight of the Prized Artifact!",
             "number": "208",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Enemy: Ninja Dropouts",
             "number": "209",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Bewildering Forest",
             "number": "210",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Memory of Flames",
             "number": "211",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "To Each His Own Path",
             "number": "212",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Vanished Memories",
             "number": "213",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bringing Back Reality",
             "number": "214",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Past to Be Erased",
             "number": "215",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Targeted Shukaku",
             "number": "216",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sand Alliance with the Leaf Shinobi",
             "number": "217",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Counterattack!",
             "number": "218",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Ultimate Weapon Reborn",
             "number": "219",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Departure",

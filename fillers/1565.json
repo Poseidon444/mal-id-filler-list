@@ -144,7 +144,7 @@
             "title": "Ya See We Want An Evolution!",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Borrowing on Bad Faith! ",
@@ -156,13 +156,13 @@
             "title": "Faced with Steelix Determination!",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Cooking Up a Sweet Story!",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Oh Do You Know The Poffin Plan!",
@@ -252,7 +252,7 @@
             "title": "Steamboat Willies!",
             "number": "39",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Top-Down Training!",
@@ -270,13 +270,13 @@
             "title": "The Electrike Company! ",
             "number": "42",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Malice In Wonderland! ",
             "number": "43",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mass Hip-Po-Sis!",
@@ -348,25 +348,25 @@
             "title": "The Keystone Pops!",
             "number": "55",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bibarel Gnaws Best!",
             "number": "56",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Nosing 'Round the Mountain!",
             "number": "57",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Luxray Vision!",
             "number": "58",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Journey To The Unown!",
@@ -432,7 +432,7 @@
             "title": "The Bells Are Singing! ",
             "number": "69",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Pok\u00e9mon Ranger and the Kidnapped Riolu! Part 1 ",
@@ -564,7 +564,7 @@
             "title": "A Lean Mean Team Rocket Machine!",
             "number": "91",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Playing The Leveling Field",

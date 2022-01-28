@@ -62,13 +62,13 @@
             "title": "PYROPHORIC CULT, Part 1",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "PYROPHORIC CULT, Part 2",
             "number": "10",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Arise - The New Movie",

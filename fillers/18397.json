@@ -20,13 +20,13 @@
             "title": "The Sudden Visitor: The Torturous Curse of Youth",
             "number": "2",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Distress",
             "number": "3",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "No Regrets: Part 1",

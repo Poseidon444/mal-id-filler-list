@@ -180,7 +180,7 @@
             "title": "Pelvic Fortune-Telling? Ranma is the No. One Bride in Japan",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Enter Shampoo, the Gung-Ho Girl! I Put Your Life in My Hands",
@@ -204,7 +204,7 @@
             "title": "I Am a Man! Ranma's Going Back to China!?",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Clash of the Delivery Girls! The Martial Arts Takeout Race",
@@ -354,7 +354,7 @@
             "title": "The Witch Who Loved Me: A Japanese Ghost Story",
             "number": "46",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Transform! Akane the Super-Duper Girl",
@@ -366,31 +366,31 @@
             "title": "The Killer from Jusenkyo",
             "number": "48",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Am I... Pretty? Ranma's Declaration of Womanhood",
             "number": "49",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Final Facedown! Happosai vs. The Invisible Man",
             "number": "50",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Les Mis\u00e9rables of the Kuno Estate",
             "number": "51",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ghost Story! Ranma and the Magic Sword",
             "number": "52",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "All It Takes is One! The Kiss of Love or the Kiss of Death",
@@ -402,7 +402,7 @@
             "title": "The Ultimate Team-Up!? The Ryoga-Mousse Alliance",
             "number": "54",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Back to the Happosai!",
@@ -414,31 +414,31 @@
             "title": "Kodachi the Black Rose! The Beeline to True Love",
             "number": "56",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Last Days of Happosai...?",
             "number": "57",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Two, Too Violent Girls: Ling-Ling & Lung-Lung",
             "number": "58",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ranma and the Evil Within",
             "number": "59",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Enter Ken and His Copycat Kerchief",
             "number": "60",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ryoga's Miracle Cure! Hand Over that Soap!",
@@ -450,19 +450,19 @@
             "title": "Fight! The Anything-Goes Obstacle Course Race",
             "number": "62",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ukyo's Skirt! The Great Girly-Girl Gambit",
             "number": "63",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ranma Goes Back to the Jusenkyo At Last",
             "number": "64",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Return of the Hawai\u02bbian Headmaster from Hell",
@@ -474,7 +474,7 @@
             "title": "Enter Kuno, the Night-Prowling Knight",
             "number": "66",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ranma Gets Weak!",
@@ -498,13 +498,13 @@
             "title": "Here Comes Ranma's Mom!",
             "number": "70",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "From Ryoga with Love",
             "number": "71",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "My Fianc\u00e9, the Cat",
@@ -516,13 +516,13 @@
             "title": "Blow, Wind! To Be Young is to Go Gung-Ho",
             "number": "73",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Formidable New Disciple Appears",
             "number": "74",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Step Outside!",
@@ -540,13 +540,13 @@
             "title": "Happosai's Happy Heart!",
             "number": "77",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Extra, Extra! Kuno & Nabiki: Read All About It!",
             "number": "78",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ryoga the Strong... Too Strong",
@@ -564,7 +564,7 @@
             "title": "The Egg-Catcher Man",
             "number": "81",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ranma and Kuno's... First Kiss",
@@ -576,13 +576,13 @@
             "title": "Shampoo's Red Thread of Dread",
             "number": "83",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mousse Goes Home to the Country!",
             "number": "84",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Dumbest Bet in History!",
@@ -594,13 +594,13 @@
             "title": "Kuno Becomes a Marianne!",
             "number": "86",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ranma, You Are Such A Jerk!",
             "number": "87",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Gimme That Pigtail",
@@ -618,19 +618,19 @@
             "title": "Ling-Ling & Lung-Lung Strike Back!",
             "number": "90",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ryoga's Proposal",
             "number": "91",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Genma Takes a Walk",
             "number": "92",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Gentle Art of Martial Tea Ceremony",
@@ -642,7 +642,7 @@
             "title": "And the Challenge is... a Girl?!",
             "number": "94",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hot Springs Battle Royale!",
@@ -660,49 +660,49 @@
             "title": "The Matriarch Takes a Stand",
             "number": "97",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Leotard is a Girl's Burden",
             "number": "98",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mixed-Bath Horror!",
             "number": "99",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Frogman's Curse!",
             "number": "100",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Revenge! Raging Okonomiyaki...!",
             "number": "101",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ranma the Lady-Killer",
             "number": "102",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Shogi Showdown",
             "number": "103",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sasuke's \"Mission: Improbable\"",
             "number": "104",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bonjour, Furinkan!",
@@ -726,13 +726,13 @@
             "title": "Ryoga, Run Into the Sunset",
             "number": "108",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Into the Darkness",
             "number": "109",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Nabiki, Ranma's New Fianc\u00e9e!",
@@ -744,61 +744,61 @@
             "title": "Case of the Missing Takoyaki!",
             "number": "111",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ranma Versus Shadow Ranma!",
             "number": "112",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Dear Daddy... Love, Kodachi!",
             "number": "113",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Enter Gosunkugi, The New Rival!?",
             "number": "114",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ranma's Calligraphy Challenge",
             "number": "115",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Secret Don of Furinkan High",
             "number": "116",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Back to the Way We Were... Please!",
             "number": "117",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ryoga Inherits the Saotome School?",
             "number": "118",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Tendo Family Goes to the Amusement Park!",
             "number": "119",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Case of the Furinkan Stalker!",
             "number": "120",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Demon from Jusenkyo, Part I",
@@ -816,13 +816,13 @@
             "title": "A Xmas Without Ranma",
             "number": "123",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Cold Day in Furinkan",
             "number": "124",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Curse of the Scribbled Panda",
@@ -840,7 +840,7 @@
             "title": "Legend of the Lucky Panda!",
             "number": "127",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ukyo's Secret Sauce, Part 1",
@@ -882,13 +882,13 @@
             "title": "Akane's Unfathomable Heart",
             "number": "134",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Teenage Ghost Story",
             "number": "135",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Master and Student... Forever!?",
@@ -900,25 +900,25 @@
             "title": "Tatewaki Kuno, Substitute Principal",
             "number": "137",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ranma's Greatest Challenge!",
             "number": "138",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Nihao! Jusenkyo Guide",
             "number": "139",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Pick-a-Peck o' Happosai",
             "number": "140",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "From the Depth of Despair, Part I",
@@ -948,7 +948,7 @@
             "title": "Let's Go to the Mushroom Temple",
             "number": "145",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Cradle from Hell",
@@ -960,13 +960,13 @@
             "title": "Madame St. Paul's Cry for Help",
             "number": "147",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Meet You in the Milky Way",
             "number": "148",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Wretched Rice Cakes Of Love",
@@ -978,7 +978,7 @@
             "title": "The Horrible Happo Mold-Burst!",
             "number": "150",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Kuno Sibling Scandal",
@@ -990,13 +990,13 @@
             "title": "Battle for the Golden Tea Set",
             "number": "152",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Gosunkugi's Summer Affair!",
             "number": "153",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bring it On! Love as a Cheerleader, Part 1",
@@ -1014,25 +1014,25 @@
             "title": "The Battle for Miss Beachside",
             "number": "156",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Musical Instruments of Destruction",
             "number": "157",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Ninja's Dog is Black and White",
             "number": "158",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Tendo Dragon Legend",
             "number": "159",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Boy Meets Mom, Part 1",

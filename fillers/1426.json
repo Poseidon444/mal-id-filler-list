@@ -14,7 +14,7 @@
             "title": "Is Lupin Burnin...?!",
             "number": "1",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Man They Called a Magician",
@@ -26,7 +26,7 @@
             "title": "The Big Golden Showdown!",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",
