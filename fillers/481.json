@@ -175,7 +175,7 @@
             "title": "Evil Spirit of the Ring",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Light at the End of the Tunnel",
@@ -247,7 +247,7 @@
             "title": "Shining Friendship",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Champion Vs. Creator, Part 1",
@@ -295,7 +295,7 @@
             "title": "Best of Friends Best of Duelists, Part 1",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Best of Friends Best of Duelists, Part 2",
@@ -343,31 +343,31 @@
             "title": "The Wrath of Rebecca",
             "number": "41",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ties of Friendship",
             "number": "42",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Legendary Heroes, Part 1",
             "number": "43",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Legendary Heroes, Part 2",
             "number": "44",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Legendary Heroes, Part 3",
             "number": "45",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Dungeon Dice Monsters, Part 1",
@@ -541,7 +541,7 @@
             "title": "The Rescue",
             "number": "74",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Friends 'Til the End, Part 1",
@@ -577,7 +577,7 @@
             "title": "Lights, Camera, Duel!",
             "number": "80",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Let the Finals Begin!",
@@ -685,145 +685,145 @@
             "title": "A Virtual Nightmare!",
             "number": "98",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Isolated in Cyberspace, Part 1",
             "number": "99",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Isolated in Cyberspace, Part 2",
             "number": "100",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Isolated in Cyberspace, Part 3",
             "number": "101",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Freeze Play, Part 1",
             "number": "102",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Freeze Play, Part 2",
             "number": "103",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Courtroom Chaos, Part 1",
             "number": "104",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Courtroom Chaos, Part 2",
             "number": "105",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mechanical Mayhem, Part 1",
             "number": "106",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mechanical Mayhem, Part 2",
             "number": "107",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Settling the Score, Part 1",
             "number": "108",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Settling the Score, Part 2",
             "number": "109",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Noah's Secret",
             "number": "110",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Merger of the Big Five, Part 1",
             "number": "111",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Merger of the Big Five, Part 2",
             "number": "112",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Merger of the Big Five, Part 3",
             "number": "113",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Brothers in Arms, Part 1",
             "number": "114",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Brothers in Arms, Part 2",
             "number": "115",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Brothers in Arms, Part 3",
             "number": "116",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Noah's Final Threat, Part 1",
             "number": "117",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Noah's Final Threat, Part 2",
             "number": "118",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "So Close Yet So Far",
             "number": "119",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Burying the Past, Part 1",
             "number": "120",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Burying the Past, Part 2",
             "number": "121",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Back to Battle City, Part 1",
@@ -913,7 +913,7 @@
             "title": "Battle for the Bronze, Part 2",
             "number": "136",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Battle for the Bronze, Part 3",
@@ -961,331 +961,331 @@
             "title": "Looking Back and Moving Ahead",
             "number": "144",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A New Evil, Part 1",
             "number": "145",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A New Evil, Part 2",
             "number": "146",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Legend of the Dragons",
             "number": "147",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Creator Returns",
             "number": "148",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Deja Duel!, Part 1",
             "number": "149",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Deja Duel!, Part 2",
             "number": "150",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "An Unexpected Enemy",
             "number": "151",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "My Freaky Valentine, Part 1",
             "number": "152",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "My Freaky Valentine, Part 2",
             "number": "153",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "My Freaky Valentine, Part 3",
             "number": "154",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Challenge",
             "number": "155",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fate of the Pharaoh, Part 1",
             "number": "156",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fate of the Pharaoh, Part 2",
             "number": "157",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fate of the Pharaoh, Part 3",
             "number": "158",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Trial by Stone",
             "number": "159",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "On the Wrong Track, Part 1",
             "number": "160",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "On the Wrong Track, Part 2",
             "number": "161",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "On the Wrong Track, Part 3",
             "number": "162",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Self Destruction",
             "number": "163",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Reliving the Past",
             "number": "164",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Deck of Armor",
             "number": "165",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Flight of Fear, Part 1",
             "number": "166",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Flight of Fear, Part 2",
             "number": "167",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Paradise Found",
             "number": "168",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fighting for a Friend, Part 1",
             "number": "169",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fighting for a Friend, Part 2",
             "number": "170",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fighting for a Friend, Part 3",
             "number": "171",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fighting for a Friend, Part 4",
             "number": "172",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fighting for a Friend, Part 5",
             "number": "173",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Grappling with a Guardian, Part 1",
             "number": "174",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Grappling With a Guardian, Part 2",
             "number": "175",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Grappling With a Guardian, Part 3",
             "number": "176",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Duel With Dartz!, Part 1",
             "number": "177",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Duel With Dartz!, Part 2",
             "number": "178",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Duel With Dartz!, Part 3",
             "number": "179",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Duel With Dartz!, Part 4",
             "number": "180",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Duel With Dartz!, Part 5",
             "number": "181",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Duel With Dartz!, Part 6",
             "number": "182",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Rise of the Great Beast, Part 1",
             "number": "183",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Rise of the Great Beast, Part 2",
             "number": "184",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Unwanted Guest, Part 1",
             "number": "185",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Unwanted Guest, Part 2",
             "number": "186",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Let the Games Begin!, Part 1",
             "number": "187",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Let the Games Begin!, Part 2",
             "number": "188",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Child's Play",
             "number": "189",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Down in Flames, Part 1",
             "number": "190",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Down in Flames, Part 2",
             "number": "191",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Brawl in a Small Town, Part 1",
             "number": "192",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Brawl in a Small Town, Part 2",
             "number": "193",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "One Step Ahead, Part 1",
             "number": "194",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "One Step Ahead, Part 2",
             "number": "195",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sinister Secrets, Part 1",
             "number": "196",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sinister Secrets, Part 2",
             "number": "197",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sinister Secrets, Part 3",
             "number": "198",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Tomb of the Nameless Pharaoh",
@@ -1447,7 +1447,7 @@
             "title": "The Pyramid of Light",
             "number": "225",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

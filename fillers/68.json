@@ -136,25 +136,25 @@
             "title": "The Drowning Cat",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Cat Bares Claws",
             "number": "22",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Cat's Paradise",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Carefree Cat",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

@@ -614,7 +614,7 @@
             "title": "Videl's Crisis? Gohan's Urgent Call-out!",
             "number": "101",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Monster is Taken Away! The Culprit is Great Saiyaman?",
@@ -998,7 +998,7 @@
             "title": "Peace Returns! A Time of Rest for the Warriors!",
             "number": "165",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "And So, Ten Years Later... A Long-Awaited World Martial Arts Tournament!",

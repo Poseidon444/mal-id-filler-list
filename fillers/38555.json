@@ -54,19 +54,19 @@
             "title": "I Entered a Dangerous Dungeon...",
             "number": "7",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "I Became Engulfed by Desire...",
             "number": "8",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Things Got Crazy at a Slumber Party...",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Moment of My Doom Arrived... Part 1",
@@ -120,19 +120,19 @@
             "title": "I Had a Summer Adventure...",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "My Wish Was Granted...",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "I Had an Arranged Marriage Meeting...",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Keith Disappeared... Part 1",

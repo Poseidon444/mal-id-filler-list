@@ -285,13 +285,13 @@
             "title": "The Path to the Pok\u00e9mon League",
             "number": "8",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The School of Hard Knocks",
             "number": "9",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bulbasaur and the Hidden Village",
@@ -351,7 +351,7 @@
             "title": "The Ghost of Maiden's Peak",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bye Bye Butterfree",
@@ -429,13 +429,13 @@
             "title": "The Flame Pok\u00e9mon-athon!",
             "number": "32",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Kangaskhan Kid",
             "number": "33",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Bridge Bike Gang",
@@ -459,19 +459,19 @@
             "title": "The Battling Eevee Brothers",
             "number": "37",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Wake Up Snorlax!",
             "number": "38",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Showdown at Dark City",
             "number": "39",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The March of the Exeggutor Squad",
@@ -501,7 +501,7 @@
             "title": "A Chansey Operation",
             "number": "44",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Holy Matrimony!",
@@ -513,7 +513,7 @@
             "title": "So Near, Yet So Farfetch'd",
             "number": "46",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Who Gets To Keep Togepi?",
@@ -531,7 +531,7 @@
             "title": "The Case of the K-9 Caper!",
             "number": "49",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Pok\u00e9mon Paparazzi",
@@ -543,7 +543,7 @@
             "title": "The Ultimate Test",
             "number": "51",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Breeding Center Secret",
@@ -561,7 +561,7 @@
             "title": "The Purr-fect Hero",
             "number": "54",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Riddle Me This",
@@ -579,7 +579,7 @@
             "title": "Beach Blank-out Blastoise",
             "number": "57",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Misty Mermaid",
@@ -591,7 +591,7 @@
             "title": "Clefairy Tales",
             "number": "59",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Battle of the Badge",
@@ -609,7 +609,7 @@
             "title": "Snow Way Out!",
             "number": "62",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Showdown at the Po-k\u00e9 Corral",
@@ -621,25 +621,25 @@
             "title": "The Evolution Solution",
             "number": "64",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Pi-Kahuna",
             "number": "65",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Make Room for Gloom!",
             "number": "66",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Lights, Camera, Quack-tion!",
             "number": "67",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Go West Young Meowth",
@@ -651,13 +651,13 @@
             "title": "To Master the Onixpected",
             "number": "69",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Ancient Puzzle of Pok\u00e9mopolis",
             "number": "70",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bad to the Bone",
@@ -741,37 +741,37 @@
             "title": "Pikachu Re-Volts",
             "number": "84",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Crystal Onix",
             "number": "85",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "In the Pink",
             "number": "86",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Shell Shock!",
             "number": "87",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bye Bye Psyduck",
             "number": "88",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Joy of Pok\u00e9mon",
             "number": "89",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Navel Maneuvers",
@@ -795,7 +795,7 @@
             "title": "Meowth Rules!",
             "number": "93",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Tracey Gets Bugged",
@@ -807,19 +807,19 @@
             "title": "A Way Off A Day Off",
             "number": "95",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Wherefore Art Thou, Pok\u00e9mon?",
             "number": "96",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Get Along, Little Pok\u00e9mon",
             "number": "97",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mystery Menace",
@@ -837,7 +837,7 @@
             "title": "Bound for Trouble",
             "number": "100",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Charizard Chills",
@@ -855,7 +855,7 @@
             "title": "Pok\u00e9mon Food Fight",
             "number": "103",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Pok\u00e9mon Double Trouble",
@@ -867,7 +867,7 @@
             "title": "The Wacky Watcher",
             "number": "105",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Stun Spore Detour",
@@ -933,7 +933,7 @@
             "title": "Roll On, Pok\u00e9mon!",
             "number": "116",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Illusion Confusion",
@@ -945,13 +945,13 @@
             "title": "Flower Power",
             "number": "118",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Spinarak Attack",
             "number": "119",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Snubbull Snobbery",
@@ -975,13 +975,13 @@
             "title": "Once in a Blue Moon",
             "number": "123",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Whistle Stop",
             "number": "124",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ignorance Is Blissey",
@@ -1011,7 +1011,7 @@
             "title": "Tanks A Lot!",
             "number": "129",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Charizard's Burning Ambition",
@@ -1023,7 +1023,7 @@
             "title": "Grin to Win!",
             "number": "131",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Chikorita's Big Upset",
@@ -1035,25 +1035,25 @@
             "title": "Foul Weather Friends",
             "number": "133",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Superhero Secret",
             "number": "134",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mild 'N Wooly",
             "number": "135",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Wired For Battle",
             "number": "136",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Good 'Quil Hunting",
@@ -1101,19 +1101,19 @@
             "title": "No Big Woop!",
             "number": "144",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Tunnel Vision",
             "number": "145",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hour of the Houndour",
             "number": "146",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Totodile Duel",
@@ -1125,13 +1125,13 @@
             "title": "Hot Matches",
             "number": "148",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Love, Totodile Style",
             "number": "149",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fowl Play",
@@ -1143,13 +1143,13 @@
             "title": "Forest Grumps",
             "number": "151",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Psychic Sidekicks",
             "number": "152",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Fortune Hunters",
@@ -1185,19 +1185,19 @@
             "title": "Type Casting!",
             "number": "158",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fossil Fools",
             "number": "159",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Carrying On",
             "number": "160",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hassle in the Castle",
@@ -1209,19 +1209,19 @@
             "title": "Two Hits and a Miss",
             "number": "162",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Hot Water Battle",
             "number": "163",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hook, Line and Stinker",
             "number": "164",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Beauty and the Breeder",
@@ -1233,7 +1233,7 @@
             "title": "A Better Pill to Swallow",
             "number": "166",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Power Play",
@@ -1245,13 +1245,13 @@
             "title": "Mountain Time",
             "number": "168",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Wobbu-Palooza",
             "number": "169",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Immitation Confrontation",
@@ -1275,25 +1275,25 @@
             "title": "Wings 'n' Things",
             "number": "173",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Grass Route",
             "number": "174",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Apple Corp!",
             "number": "175",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Houndoom's Special Delivery",
             "number": "176",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Ghost of a Chance",
@@ -1317,19 +1317,19 @@
             "title": "All That Glitters!",
             "number": "180",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Light Fantastic",
             "number": "181",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "UnBEARable",
             "number": "182",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Moving Pictures",
@@ -1341,7 +1341,7 @@
             "title": "Spring Fever",
             "number": "184",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Freeze Frame",
@@ -1353,25 +1353,25 @@
             "title": "The Stolen Stones",
             "number": "186",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Dunsparce Deception",
             "number": "187",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Wayward Wobbuffet",
             "number": "188",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sick Daze",
             "number": "189",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ring Masters",
@@ -1383,7 +1383,7 @@
             "title": "The Pok\u00e9 Spokesman",
             "number": "191",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Control Freak!",
@@ -1395,13 +1395,13 @@
             "title": "The Art of Pok\u00e9mon",
             "number": "193",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Heartbreak of Brock",
             "number": "194",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Current Events",
@@ -1413,49 +1413,49 @@
             "title": "Turning Over A New Bayleef",
             "number": "196",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Doin' What Comes Natu-rally",
             "number": "197",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Big Balloon Blow-Up",
             "number": "198",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Screen Actor's Guilt",
             "number": "199",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Right On, Rhydon",
             "number": "200",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Kecleon Caper",
             "number": "201",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Joy of Water Pok\u00e9mon",
             "number": "202",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Got Milktank?",
             "number": "203",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fight for the Light",
@@ -1479,13 +1479,13 @@
             "title": "Fly Me to the Moon",
             "number": "207",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Takin' it on the Chinchou",
             "number": "208",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Corsola Caper",
@@ -1497,7 +1497,7 @@
             "title": "Mantine Overboard",
             "number": "210",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Octillery the Outcast",
@@ -1521,13 +1521,13 @@
             "title": "Plant It Now... Diglett Later",
             "number": "214",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hi Ho Silver... Away",
             "number": "215",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Mystery is History",
@@ -1587,7 +1587,7 @@
             "title": "An Egg-Sighting Adventure",
             "number": "225",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hatching a Plan",
@@ -1605,19 +1605,19 @@
             "title": "Just Waiting on a Friend",
             "number": "228",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fit to be Tyrogued",
             "number": "229",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Xatu the Future",
             "number": "230",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Talkin' 'bout an Evolution",
@@ -1647,49 +1647,49 @@
             "title": "Whichever Way the Wind Blows",
             "number": "235",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Some Like It Hot",
             "number": "236",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hocus Pok\u00e9mon",
             "number": "237",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "As Clear as Crystal",
             "number": "238",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Same Old Song and Dance",
             "number": "239",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Enlighten Up",
             "number": "240",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Will the Real Oak Please Stand Up?",
             "number": "241",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Wish Upon a Star Shape",
             "number": "242",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Outrageous Fortunes",
@@ -1701,13 +1701,13 @@
             "title": "One Trick Phony",
             "number": "244",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "I Politoed Ya So",
             "number": "245",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Beauty is Skin Deep",
@@ -1743,7 +1743,7 @@
             "title": "Just Add Water",
             "number": "251",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Lapras of Luxury",
@@ -1767,7 +1767,7 @@
             "title": "A Crowning Achievement",
             "number": "255",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Here's Lookin' at You, Elekid",
@@ -1779,7 +1779,7 @@
             "title": "You're a Star, Larvitar",
             "number": "257",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Address Unown!",
@@ -1905,19 +1905,19 @@
             "title": "Taming of the Shroomish",
             "number": "278",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "You Said a Mouthful",
             "number": "279",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Bite to Remember",
             "number": "280",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Lotad Lowdown",
@@ -1977,7 +1977,7 @@
             "title": "Which Wurmple's Which?",
             "number": "290",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Hole Lotta Trouble",
@@ -2007,7 +2007,7 @@
             "title": "Turning Over a New Nuzleaf!",
             "number": "295",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Three Team Scheme",
@@ -2025,7 +2025,7 @@
             "title": "Ready, Willing and Sableye!",
             "number": "298",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Meditite Fight!",
@@ -2073,7 +2073,7 @@
             "title": "Jump for Joy!",
             "number": "306",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Different Kind of Misty!",
@@ -2103,7 +2103,7 @@
             "title": "Let Bagons Be Bagons",
             "number": "311",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Princess and the Togepi",
@@ -2121,13 +2121,13 @@
             "title": "Candid Camerupt",
             "number": "314",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Love at First Flight",
             "number": "315",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "I Feel Skitty!",
@@ -2145,7 +2145,7 @@
             "title": "Maxxed Out!",
             "number": "318",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Pros and Con Artists",
@@ -2169,7 +2169,7 @@
             "title": "Game Winning Assist",
             "number": "322",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fight for the Meteorite",
@@ -2193,7 +2193,7 @@
             "title": "Going for a Spinda",
             "number": "326",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "All Torkoal, No Play",
@@ -2211,7 +2211,7 @@
             "title": "Delcatty Got Your Tongue",
             "number": "329",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Disaster of Disguise",
@@ -2235,13 +2235,13 @@
             "title": "True Blue Swablu",
             "number": "333",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Gulpin It Down",
             "number": "334",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Exploud and Clear",
@@ -2253,7 +2253,7 @@
             "title": "Go Go Ludicolo",
             "number": "336",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Double Dilemma",
@@ -2301,13 +2301,13 @@
             "title": "Wishcash and Ash",
             "number": "344",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Me, Myself and Time",
             "number": "345",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Fan with a Plan",
@@ -2367,7 +2367,7 @@
             "title": "Lights, Camerupt, Action!",
             "number": "355",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Crazy as a Lunatone",
@@ -2379,13 +2379,13 @@
             "title": "The Garden of Eatin'",
             "number": "357",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Scare to Remember",
             "number": "358",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Pok\u00e9block, Stock, and Berry",
@@ -2403,7 +2403,7 @@
             "title": "Judgment Day!",
             "number": "361",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Clamperl of Wisdom",
@@ -2415,7 +2415,7 @@
             "title": "The Relicanth Really Can",
             "number": "363",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Evolutionary War",
@@ -2427,7 +2427,7 @@
             "title": "Training Wrecks",
             "number": "365",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Gaining Groudon",
@@ -2463,7 +2463,7 @@
             "title": "Where's Armaldo?",
             "number": "371",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Cacturne for the Worse",
@@ -2475,7 +2475,7 @@
             "title": "Claydol Big and Tall",
             "number": "373",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Once in a Mawlie",
@@ -2487,13 +2487,13 @@
             "title": "Beg, Burrow, and Steal",
             "number": "375",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Absol-ute Disaster",
             "number": "376",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Let It Snow, Let It Snow, Let It Snorunt!",
@@ -2505,7 +2505,7 @@
             "title": "Do I Hear a Ralts?",
             "number": "378",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Great Eight Fate",
@@ -2523,7 +2523,7 @@
             "title": "Showdown at Linoone",
             "number": "381",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Who, What, Where, When, Wynaut?",
@@ -2667,13 +2667,13 @@
             "title": "Hooked on Onix",
             "number": "405",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Rough, Tough Jigglypuff",
             "number": "406",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "On Cloud Arcanine",
@@ -2685,19 +2685,19 @@
             "title": "Sitting Psyduck",
             "number": "408",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Hail to the Chef",
             "number": "409",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Caterpie's Big Dilemma",
             "number": "410",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Saffron Con",
@@ -2715,13 +2715,13 @@
             "title": "Pasta la Vista",
             "number": "413",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fear Factor Phony!",
             "number": "414",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sweet Baby James",
@@ -2757,7 +2757,7 @@
             "title": "On Olden Pond",
             "number": "420",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Tactics Theatrics",
@@ -2835,13 +2835,13 @@
             "title": "King and Queen For a Day",
             "number": "433",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Curbing the Crimson Tide",
             "number": "434",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "What I Did For Love",
@@ -2853,7 +2853,7 @@
             "title": "Three Jynx and a Baby",
             "number": "436",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Talking a Good Game",
@@ -2883,7 +2883,7 @@
             "title": "All That Glitters Is Not Golden",
             "number": "441",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "New Plot, Odd Lot!",
@@ -2901,7 +2901,7 @@
             "title": "The Ole' Berate and Switch",
             "number": "444",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Grating Spaces",
@@ -2943,19 +2943,19 @@
             "title": "Aipom and Circumstance",
             "number": "451",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Strategy Tomorrow \u2013 Comedy Tonight",
             "number": "452",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Duels of the Jungle",
             "number": "453",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Overjoyed",
@@ -2973,7 +2973,7 @@
             "title": "Pinch Healing",
             "number": "456",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Gathering the Gang of Four",
@@ -3039,7 +3039,7 @@
             "title": "Like It or Lup It",
             "number": "467",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Gymbaliar",
@@ -3135,13 +3135,13 @@
             "title": "Faced with Steelix Determination",
             "number": "483",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Cooking Up a Sweet Story",
             "number": "484",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Oh Do You Know the Poffin Plan",
@@ -3231,7 +3231,7 @@
             "title": "Steamboat Willies",
             "number": "499",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Top-Down Training",
@@ -3249,13 +3249,13 @@
             "title": "The Electrike Company",
             "number": "502",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Malice in Wonderland",
             "number": "503",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mass Hip-Po-Sis",
@@ -3327,25 +3327,25 @@
             "title": "The Keystone Pops",
             "number": "515",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Bibarel Gnaws Best",
             "number": "516",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Nosing 'Round the Mountain",
             "number": "517",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Luxray Vision",
             "number": "518",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Journey to the Unown",
@@ -3411,7 +3411,7 @@
             "title": "The Bells Are Singing",
             "number": "529",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Crossing Paths",
@@ -3609,7 +3609,7 @@
             "title": "Jumping Rocket Ship",
             "number": "562",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sleepless in Pre-Battle",
@@ -3681,13 +3681,13 @@
             "title": "Stealing the Conversation!",
             "number": "574",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Drifting Snorunt!",
             "number": "575",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Noodles! Roamin' Off!",
@@ -3735,7 +3735,7 @@
             "title": "Battling a Cute Drama!",
             "number": "583",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Classroom Training!",
@@ -3795,7 +3795,7 @@
             "title": "Beating the Bustle and Hustle!",
             "number": "593",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Gateway to Ruin!",
@@ -3873,13 +3873,13 @@
             "title": "Try For the Family Stone!",
             "number": "606",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sticking with Who You Know!",
             "number": "607",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Unlocking the Red Chain of Events!",
@@ -3933,7 +3933,7 @@
             "title": "Regaining the Home Advantage!",
             "number": "616",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Short and to the Punch!",
@@ -4023,7 +4023,7 @@
             "title": "Dealing with a Fierce Double Ditto Drama!",
             "number": "631",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Last Call\u2014First Round!",
@@ -4179,7 +4179,7 @@
             "title": "Saving Darmanitan from the Bell!",
             "number": "657",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Bloom Is On Axew!",
@@ -4287,7 +4287,7 @@
             "title": "Scare at the Litwick Mansion!",
             "number": "675",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Dragon Master's Path!",
@@ -4305,13 +4305,13 @@
             "title": "Cottonee in Love!",
             "number": "678",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A UFO for Elgyem!",
             "number": "679",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Ash and Trip's Third Battle!",
@@ -4341,7 +4341,7 @@
             "title": "Where Did You Go, Audino?",
             "number": "684",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Archeops in the Modern World!",
@@ -4449,19 +4449,19 @@
             "title": "A Maractus Musical!",
             "number": "702",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Four Seasons of Sawsbuck!",
             "number": "703",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Scraggy and the Demanding Gothita!",
             "number": "704",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Lonely Deino!",
@@ -4527,7 +4527,7 @@
             "title": "Baffling the Bouffalant!",
             "number": "715",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Cilan Takes Flight!",
@@ -4659,7 +4659,7 @@
             "title": "The Mystery of the Missing Cubchoo!",
             "number": "737",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Iris and the Rogue Dragonite!",
@@ -4701,7 +4701,7 @@
             "title": "Unrest at the Nursery!",
             "number": "744",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Meloetta and the Undersea Temple!",
@@ -4719,13 +4719,13 @@
             "title": "Beauties Battling for Pride and Prestige!",
             "number": "747",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Surface to Air Tag Battle Team!",
             "number": "748",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Village Homecoming!",
@@ -4881,7 +4881,7 @@
             "title": "Cilan and the Case of the Purrloin Witness!",
             "number": "774",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Crowning the Scalchop King!",
@@ -4893,7 +4893,7 @@
             "title": "The Island of Illusions!",
             "number": "776",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "To Catch a Rotom!",
@@ -4905,7 +4905,7 @@
             "title": "The Pirates of Decolore!",
             "number": "778",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Butterfree and Me!",
@@ -4923,13 +4923,13 @@
             "title": "Searching For a Wish!",
             "number": "781",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Capacia Island UFO!",
             "number": "782",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Journalist from Another Region!",
@@ -4959,7 +4959,7 @@
             "title": "Go, Go, Gogoat!",
             "number": "787",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Team Rocket's Shocking Recruit!",
@@ -5031,7 +5031,7 @@
             "title": "Grooming Furfrou!",
             "number": "799",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Clemont's Got a Secret!",
@@ -5067,19 +5067,19 @@
             "title": "Seeking Shelter from the Storm!",
             "number": "805",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "An Appetite for Battle!",
             "number": "806",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Jolting Switcheroo!",
             "number": "807",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Rush of Ninja Wisdom!",
@@ -5091,7 +5091,7 @@
             "title": "Awakening the Sleeping Giant!",
             "number": "809",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Conspiracy to Conquer!",
@@ -5139,7 +5139,7 @@
             "title": "To Find a Fairy Flower!",
             "number": "817",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Bonds of Evolution!",
@@ -5151,7 +5151,7 @@
             "title": "Heroes\u2013Friends and Faux Alike!",
             "number": "819",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mega Revelations!",
@@ -5253,7 +5253,7 @@
             "title": "The Clumsy Crier Quiets the Chaos!",
             "number": "836",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Dreaming a Performer's Dream!",
@@ -5271,7 +5271,7 @@
             "title": "Bonnie for the Defense!",
             "number": "839",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Pathways to Performance Partnering!",
@@ -5283,7 +5283,7 @@
             "title": "When Light and Dark Collide!",
             "number": "841",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "An Undersea Place to Call Home!",
@@ -5409,7 +5409,7 @@
             "title": "So You're Having a Bad Day!",
             "number": "862",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Scary Hospitality!",
@@ -5475,13 +5475,13 @@
             "title": "Over the Mountain of Snow!",
             "number": "873",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Adventures in Running Errands!",
             "number": "874",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Mending a Broken Spirit!",
@@ -5499,7 +5499,7 @@
             "title": "The Tiny Caretaker!",
             "number": "877",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Trip Down Memory Train!",
@@ -5517,7 +5517,7 @@
             "title": "Lights! Camera! Pika!",
             "number": "880",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Tag Team Inspiration!",
@@ -5553,25 +5553,25 @@
             "title": "Love Strikes! Eevee, Yikes!",
             "number": "886",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Giga Battle with Mega Results!",
             "number": "887",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Fiery Rite of Passage!",
             "number": "888",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Dream a Little Dream from Me!",
             "number": "889",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Legend of the Ninja Hero!",
@@ -5631,7 +5631,7 @@
             "title": "A Watershed Moment!",
             "number": "899",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Master Class Choices!",
@@ -5649,7 +5649,7 @@
             "title": "Unlocking Some Respect!",
             "number": "902",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Master Class Is in Session!",
@@ -5685,7 +5685,7 @@
             "title": "Making Friends and Influencing Villians!",
             "number": "908",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Championing a Research Battle!",
@@ -5721,13 +5721,13 @@
             "title": "A Diamond in the Rough!",
             "number": "914",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Gaggle of Gadget Greatness!",
             "number": "915",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A League of His Own!",
@@ -5865,7 +5865,7 @@
             "title": "A Shocking Grocery Run!",
             "number": "938",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "That's Why the Litten Is a Scamp!",
@@ -5895,7 +5895,7 @@
             "title": "Young Kiawe Had a Farm!",
             "number": "943",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Sun, the Scare, the Secret Lair!",
@@ -5925,7 +5925,7 @@
             "title": "They Might Not Be Giants!",
             "number": "948",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Crystal-Clear Sleuthing!",
@@ -5967,7 +5967,7 @@
             "title": "Getting the Band Back Together!",
             "number": "955",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Alolan Open House!",
@@ -5997,13 +5997,13 @@
             "title": "Pulling Out the Pok\u00e9mon Base Pepper!",
             "number": "960",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Lulled to La-La Land!",
             "number": "961",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Ol' Raise and Switch!",
@@ -6171,7 +6171,7 @@
             "title": "The Dex Can't Help It!",
             "number": "989",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Fighting Back The Tears!",
@@ -6249,7 +6249,7 @@
             "title": "Dewpider Ascending!",
             "number": "1002",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sours for the Sweet!",
@@ -6321,7 +6321,7 @@
             "title": "Dummy, You Shrunk the Kids!",
             "number": "1014",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Shape of Love to Come!",
@@ -6339,7 +6339,7 @@
             "title": "I Choose Paradise!",
             "number": "1017",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Filling the Light with Darkness!",
@@ -6381,7 +6381,7 @@
             "title": "Lillier and the Staff!",
             "number": "1024",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Haunted House for Everyone!",
@@ -6501,7 +6501,7 @@
             "title": "This Magik Moment!",
             "number": "1044",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Beauty is Only Crystal Deep!",
@@ -6579,7 +6579,7 @@
             "title": "Pikachu\u2019s Exciting Adventure!",
             "number": "1057",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Chasing Memories, Creating Dreams!",

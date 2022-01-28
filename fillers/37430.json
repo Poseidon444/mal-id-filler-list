@@ -151,7 +151,7 @@
             "title": "Black and a Mask",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

@@ -38,7 +38,7 @@
             "title": "Adventures and Daily Life",
             "number": "5",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Goblin Slayer in the Water Town",
@@ -68,7 +68,7 @@
             "title": "Dozing",
             "number": "10",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Gathering of Adventurers",

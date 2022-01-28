@@ -442,25 +442,25 @@
             "title": "Lessons Learned",
             "number": "67",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Trash Talk",
             "number": "68",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Duel With Interest",
             "number": "69",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Wicked Spirit",
             "number": "70",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "French Twist, Part 1",
@@ -484,37 +484,37 @@
             "title": "Synchro Solution",
             "number": "74",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Acceleration",
             "number": "75",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Syd Is Vicious",
             "number": "76",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Dawn of the Duel Board, Part 1",
             "number": "77",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Dawn of the Duel Board, Part 2",
             "number": "78",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Putting It All Together",
             "number": "79",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Super Genius",
@@ -556,7 +556,7 @@
             "title": "Mother Knows Best",
             "number": "86",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Duelist for Hire",
@@ -580,25 +580,25 @@
             "title": "The Race to Escape, Part 1",
             "number": "90",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Race to Escape, Part 2",
             "number": "91",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Clash at Crash Town, Part 1",
             "number": "92",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Clash at Crash Town, Part 2",
             "number": "93",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Question of the Card",
@@ -610,73 +610,73 @@
             "title": "Keeping a Promise, Part 1",
             "number": "95",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Keeping a Promise, Part 2",
             "number": "96",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Natural Instincts, Part 1",
             "number": "97",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Natural Instincts, Part 2",
             "number": "98",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Power Plays",
             "number": "99",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Trouble For Team 5D's",
             "number": "100",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Edge of Elimination, Part 1",
             "number": "101",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Edge of Elimination, Part 2",
             "number": "102",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Edge of Elimination, Part 3",
             "number": "103",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Party Crashers",
             "number": "104",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Knight Takes Pawn",
             "number": "105",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Rook Takes Knight",
             "number": "106",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Primo's Plan, Part 1",
@@ -730,13 +730,13 @@
             "title": "Operation Capture Lazar II",
             "number": "115",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Press Him About The Mystery!! The Endgame Turbo Duel!",
             "number": "116",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Ener-D Express Development Agency",
@@ -772,7 +772,7 @@
             "title": "The Miraculous Trump Card - Zushin the Sleeping Giant!",
             "number": "122",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Believe in the Power! The Strongest Giant Zushin VS Shooting Star Dragon",
@@ -784,7 +784,7 @@
             "title": "Eyes on the Prize",
             "number": "124",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Duel for Redemption",
@@ -826,7 +826,7 @@
             "title": "Bound To The Future, Bonds To Our Companions",
             "number": "131",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Beginning of the End",
@@ -880,13 +880,13 @@
             "title": "The Enchanting Field - \u00c9cole de Zone!",
             "number": "140",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Soul-Binding Gate! The Sealed Future!",
             "number": "141",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Duel of Despair! Fortissimo the Mobile Fortress!",

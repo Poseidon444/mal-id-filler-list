@@ -29,19 +29,19 @@
             "title": "The $60,000,000,000 Man",
             "number": "1",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Truth of Mistake",
             "number": "2",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Peace Maker",
             "number": "3",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Love & Peace",
@@ -59,7 +59,7 @@
             "title": "Lost July",
             "number": "6",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "B. D. N.",
@@ -83,13 +83,13 @@
             "title": "Quick Draw",
             "number": "10",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Escape from Pain",
             "number": "11",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Diablo",
@@ -101,7 +101,7 @@
             "title": "Vash the Stampede",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Little Arcadia",
@@ -119,13 +119,13 @@
             "title": "Fifth Moon",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Rem Saverem",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Goodbye for Now",
@@ -137,49 +137,49 @@
             "title": "Hang Fire",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Flying Ship",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Out of Time",
             "number": "21",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Alternative",
             "number": "22",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Paradise",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Sin",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Live Through",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Under the Sky so Blue",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

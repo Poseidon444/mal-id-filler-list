@@ -143,31 +143,31 @@
             "title": "Don't Ever Say That Again!",
             "number": "22",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Kurono Alien",
             "number": "23",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "There's No Labyrinth I Can't Get Out Of!!",
             "number": "24",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Let's Go Back Alive",
             "number": "25",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Please Live!",
             "number": "26",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         }
     ],
     "nextAiringEpisode": "Unknown",

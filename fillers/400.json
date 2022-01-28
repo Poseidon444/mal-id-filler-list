@@ -90,13 +90,13 @@
             "title": "Advance Guard from Another World",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Final Countdown",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "The Seven Emerge",
@@ -108,7 +108,7 @@
             "title": "Demon of the Water Planet",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Between Life and Machine",
@@ -120,19 +120,19 @@
             "title": "The Strongest Woman in the Universe",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Law and Lawlessness",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Cats and Girls and Spaceships",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Grave of the Dragon",

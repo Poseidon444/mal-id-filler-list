@@ -39,7 +39,7 @@
             "title": "Tokiwadai is Targeted",
             "number": "3",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Urban Legends",
@@ -99,13 +99,13 @@
             "title": "A Bikini Divides the Eyeline Between Top and Bottom, But a One-piece Shows Off the Figure, so They Only Flatter the Slender",
             "number": "13",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Special Workshop",
             "number": "14",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Skill Out",
@@ -123,19 +123,19 @@
             "title": "Tsuzuri's Summer Vacation",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Asunaro Park",
             "number": "18",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Midsummer Festival",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Poltergeist",
@@ -207,7 +207,7 @@
             "title": "I... I Want To Be Of Help To You, Sissy",
             "number": "31",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "ITEM",
@@ -267,49 +267,49 @@
             "title": "Study Group",
             "number": "41",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Moving",
             "number": "42",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Academic Reach Assembly",
             "number": "43",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Febri",
             "number": "44",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Darkness",
             "number": "45",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "STUDY",
             "number": "46",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Silent Party",
             "number": "47",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Eternal Party",
             "number": "48",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Super-powered (Level 5)",

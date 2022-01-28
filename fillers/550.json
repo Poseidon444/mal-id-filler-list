@@ -38,7 +38,7 @@
             "title": "Theft! Rare Watch Battle",
             "number": "4",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Now Revealed!! Yugi's Secret",
@@ -62,7 +62,7 @@
             "title": "The Four Game Masters Finally Stir",
             "number": "8",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Explosion - Ultimate Yo-Yo Technique",
@@ -86,7 +86,7 @@
             "title": "A Lucky Foe Calls Out - The Invincible Legend",
             "number": "12",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Targeting a Schoolgirl - The Fang of a Great Prediction",
@@ -104,19 +104,19 @@
             "title": "Eerie Woman!! Unable to Transform",
             "number": "15",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Breadth's Change - Crisis of the White Robe",
             "number": "16",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "A Last Minute Match - The Invited Model",
             "number": "17",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "In a Forbidden Game - Show Your Hand",
@@ -128,13 +128,13 @@
             "title": "The Grand Melee!! Popularity Contest",
             "number": "19",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Come Out!! The Strongest and Final Trump Card",
             "number": "20",
             "filler": "Filler",
-            "filler-bool": false
+            "filler-bool": true
         },
         {
             "title": "Completed!! The Ultimate Game Land",
