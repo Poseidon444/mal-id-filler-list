@@ -3,7 +3,6 @@
     "anilist-id": 98460,
     "anilist-name_en": "Devilman Crybaby",
     "anilist-name_jp": "DEVILMAN crybaby",
-    "total-episodes": 10,
     "afl-name": "Devilman Crybaby",
     "afl-link": "https://www.animefillerlist.com/shows/devilman-crybaby",
     "fillers_episodes": [
@@ -73,5 +72,7 @@
             "filler": "Mixed Canon/Filler",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 10
 }

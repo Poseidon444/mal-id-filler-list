@@ -1,0 +1,79 @@
+{
+    "mal-id": 11597,
+    "anilist-id": 11597,
+    "anilist-name_en": "Nisemonogatari",
+    "anilist-name_jp": "Nisemonogatari",
+    "afl-name": "Nisemonogatari",
+    "afl-link": "https://www.animefillerlist.com/shows/nisemonogatari",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Karen Bee, Part One",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Karen Bee, Part Two",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Karen Bee, Part Three",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Karen Bee, Part Four",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Karen Bee, Part Five",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Karen Bee, Part Six",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Karen Bee, Part Seven",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tsukihi Phoenix, Part One",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tsukihi Phoenix, Part Two",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tsukihi Phoenix, Part Three",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tsukihi Phoenix, Part Four",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 11
+}

@@ -1,0 +1,79 @@
+{
+    "mal-id": 1559,
+    "anilist-id": 1559,
+    "anilist-name_en": "Kenichi: The Mightiest Disciple",
+    "anilist-name_jp": "Shijou Saikyou no Deshi Kenichi",
+    "afl-name": "KenIchi: The Mightiest Disciple",
+    "afl-link": "https://www.animefillerlist.com/shows/kenIchi-mightiest-disciple",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Attack on Ryozanpaku",
+            "number": "51",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The girl that came from China",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gorgeous Assassin",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beautiful Wings",
+            "number": "54",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reaper vs. Devil",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Soldier from Russia",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Conviction concentrated in one's Fist",
+            "number": "57",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The God of Destruction Under the Tracks",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Anonymous (18 years)",
+            "number": "59",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The King of Tidat, Part 1",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The King of Tidat, Part 2",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 50
+}

@@ -3,7 +3,6 @@
     "anilist-id": 21360,
     "anilist-name_en": "Ace Attorney",
     "anilist-name_jp": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
-    "total-episodes": 24,
     "afl-name": "Ace Attorney",
     "afl-link": "https://www.animefillerlist.com/shows/ace-attorney",
     "fillers_episodes": [
@@ -297,5 +296,7 @@
             "filler": "Anime Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

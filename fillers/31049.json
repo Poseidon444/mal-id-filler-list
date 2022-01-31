@@ -3,7 +3,6 @@
     "anilist-id": 21236,
     "anilist-name_en": null,
     "anilist-name_jp": "Beyblade Burst",
-    "total-episodes": 51,
     "afl-name": "Beyblade Burst",
     "afl-link": "https://www.animefillerlist.com/shows/beyblade-burst-all-seasons",
     "fillers_episodes": [
@@ -46,5 +45,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 51
 }

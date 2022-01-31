@@ -3,7 +3,6 @@
     "anilist-id": 45,
     "anilist-name_en": "Rurouni Kenshin",
     "anilist-name_jp": "Rurouni Kenshin: Meiji Kenkaku Romantan",
-    "total-episodes": 94,
     "afl-name": "Rurouni Kenshin",
     "afl-link": "https://www.animefillerlist.com/shows/rurouni-kenshin",
     "fillers_episodes": [
@@ -649,5 +648,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 94
 }

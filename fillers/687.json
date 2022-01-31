@@ -3,7 +3,6 @@
     "anilist-id": 687,
     "anilist-name_en": "Tokyo Mew Mew",
     "anilist-name_jp": "Tokyo Mew Mew",
-    "total-episodes": 52,
     "afl-name": "Tokyo Mew Mew",
     "afl-link": "https://www.animefillerlist.com/shows/tokyo-mew-mew",
     "fillers_episodes": [
@@ -342,5 +341,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 52
 }

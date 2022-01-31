@@ -1,0 +1,98 @@
+{
+    "mal-id": null,
+    "anilist-id": 123074,
+    "anilist-name_en": "Yu-Gi-Oh! Capsule Monsters",
+    "anilist-name_jp": "Yu\u2606Gi\u2606Oh! Duel Monsters ALEX",
+    "afl-name": "Yu-Gi-Oh! Capsule Monsters",
+    "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh-capsule-monsters",
+    "fillers_episodes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+    ],
+    "episodes": [
+        {
+            "title": "Getting Played",
+            "number": "1",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Divide and Conquer",
+            "number": "2",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Reunited at Last",
+            "number": "3",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fortress of Fear",
+            "number": "4",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Eye of the Storm",
+            "number": "5",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Trial of Light and Shadow",
+            "number": "6",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Red-Eyes Black Curse",
+            "number": "7",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fruits of Evolution",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Fiendish Five, Part 1",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Fiendish Five, Part 2",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The True King, Part 1",
+            "number": "11",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The True King, Part 2",
+            "number": "12",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

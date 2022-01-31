@@ -3,7 +3,6 @@
     "anilist-id": 9919,
     "anilist-name_en": "Blue Exorcist",
     "anilist-name_jp": "Ao no Exorcist",
-    "total-episodes": 25,
     "afl-name": "Blue Exorcist",
     "afl-link": "https://www.animefillerlist.com/shows/blue-exorcist",
     "fillers_episodes": [
@@ -241,5 +240,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 25
 }

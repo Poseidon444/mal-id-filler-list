@@ -3,7 +3,6 @@
     "anilist-id": 21776,
     "anilist-name_en": "Miss Kobayashi's Dragon Maid",
     "anilist-name_jp": "Kobayashi-san Chi no Maidragon",
-    "total-episodes": 13,
     "afl-name": "Miss Kobayashi's Dragon Maid",
     "afl-link": "https://www.animefillerlist.com/shows/miss-kobayashis-dragon-maid",
     "fillers_episodes": [
@@ -132,5 +131,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
 }

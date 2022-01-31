@@ -3,7 +3,6 @@
     "anilist-id": 552,
     "anilist-name_en": "Digimon: Digital Monsters",
     "anilist-name_jp": "Digimon Adventure",
-    "total-episodes": 54,
     "afl-name": "Digimon Adventure",
     "afl-link": "https://www.animefillerlist.com/shows/digimon-adventure",
     "fillers_episodes": [
@@ -334,5 +333,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 54
 }

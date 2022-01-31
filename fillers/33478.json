@@ -1,0 +1,85 @@
+{
+    "mal-id": 33478,
+    "anilist-id": 21855,
+    "anilist-name_en": "UQ Holder!",
+    "anilist-name_jp": "UQ Holder!: Mahou Sensei Negima! 2",
+    "afl-name": "UQ Holder!",
+    "afl-link": "https://www.animefillerlist.com/shows/uq-holder-magister-negi-magi-2",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Beauty and the Boy",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Can't Hate Someone You Meet Naked",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Palace of the Immortals",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Invasion of the Assassins ",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Magia Erebea",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kur\u014dmaru's Dark Days",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reset and Restart",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Operation: Capture Fate",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love, Baths, and Vigorous Exercise",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Welcome to Mahora Academy",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Her Love Story",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Adeat! Everlasting Love!",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

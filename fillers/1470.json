@@ -3,7 +3,6 @@
     "anilist-id": 1470,
     "anilist-name_en": null,
     "anilist-name_jp": "City Hunter",
-    "total-episodes": 51,
     "afl-name": "City Hunter",
     "afl-link": "https://www.animefillerlist.com/shows/city-hunter",
     "fillers_episodes": [
@@ -52,5 +51,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 51
 }

@@ -3,7 +3,6 @@
     "anilist-id": 1565,
     "anilist-name_en": "Pok\u00e9mon: Diamond and Pearl",
     "anilist-name_jp": "Pocket Monsters Diamond & Pearl",
-    "total-episodes": 191,
     "afl-name": "Pok\u00e9mon Diamond and Pearl",
     "afl-link": "https://www.animefillerlist.com/shows/pok%C3%A9mon-diamond-and-pearl",
     "fillers_episodes": [
@@ -633,5 +632,7 @@
             "filler": "Anime Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 191
 }

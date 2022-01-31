@@ -1,0 +1,157 @@
+{
+    "mal-id": 31636,
+    "anilist-id": 21365,
+    "anilist-name_en": null,
+    "anilist-name_jp": "Dagashi Kashi",
+    "afl-name": "Dagashi Kashi",
+    "afl-link": "https://www.animefillerlist.com/shows/dagashi-kashi",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Umai-bou, Fries, and... / Milk Coffee Candies, Young Donuts, and...",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kinako-bou, Namaiki Beer, and... / Fue Ramune, Menko, and...",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Buta-men, Kuru Kuru Bou Jelly, and... / Bontan-ame, Seven Neon, and...",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fugashi, Fugashi, and... / Glico, Glico, and...",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bottle Ramune, Baby-Star Ramen, and... / Yatta Men, Watch Out for the Sour Grape, and...",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Super Himo Q, Ohajiki, and sometimes Maken Gumi... / Yoguret, Coconuts, and...",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Summer Festival, Hotaru, and... / Summer Festival, Saya, and...",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Super Scary Story Gum, Typhoon, and... / Kendama, Popping Fortune-Telling Chocolate, and...",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wata-pachi, Lucky Choco-droppings, and... / Sakura Daikon, Egg Ice Cream, and...",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That's Dagashi!",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cola Gum, Yo, and... / Miyako Kombu, Ramune, and...",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I\u2019m Gonna Eat It-Hi, Poem of Cherries, and... / Morinaga Milk Caramel, Sakuma Drops, and...",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Big Katsu, Peperoncino, and...",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Baseball Board Game Gum, Pop Pop Boat, and...",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beigoma, Reminiscence, and...",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Homerun Bar, Fireworks Festival, and...",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ambulance, Get a Move On, You Cod!, and...",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Convenience Store, Job Magazine, and...",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hajime Owari, Chocoball, and...",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Roll Candy, High Eight Chocolate, and...",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Internets, Super Ball, and...",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Monjiro Squid, Manga Manuscript, and...",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Homerun Bar Winning Stick, Snow, and...",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'm Back, Welcome Back, and...",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

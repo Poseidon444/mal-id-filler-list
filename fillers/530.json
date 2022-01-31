@@ -3,7 +3,6 @@
     "anilist-id": 530,
     "anilist-name_en": "Sailor Moon",
     "anilist-name_jp": "Bishoujo Senshi Sailor Moon",
-    "total-episodes": 46,
     "afl-name": "Sailor Moon",
     "afl-link": "https://www.animefillerlist.com/shows/sailor-moon",
     "fillers_episodes": [
@@ -1307,5 +1306,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 46
 }

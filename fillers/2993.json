@@ -3,7 +3,6 @@
     "anilist-id": 2993,
     "anilist-name_en": "Rosario + Vampire",
     "anilist-name_jp": "Rosario to Vampire",
-    "total-episodes": 13,
     "afl-name": "Rosario + Vampire",
     "afl-link": "https://www.animefillerlist.com/shows/rosario-vampire",
     "fillers_episodes": [
@@ -176,5 +175,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
 }

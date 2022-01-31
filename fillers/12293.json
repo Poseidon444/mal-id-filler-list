@@ -3,7 +3,6 @@
     "anilist-id": 12293,
     "anilist-name_en": "Campione!",
     "anilist-name_jp": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
-    "total-episodes": 13,
     "afl-name": "Campione!",
     "afl-link": "https://www.animefillerlist.com/shows/campione",
     "fillers_episodes": [
@@ -90,5 +89,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
 }

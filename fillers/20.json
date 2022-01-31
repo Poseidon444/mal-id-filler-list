@@ -3,7 +3,6 @@
     "anilist-id": 20,
     "anilist-name_en": "Naruto",
     "anilist-name_jp": "NARUTO",
-    "total-episodes": 220,
     "afl-name": "Naruto",
     "afl-link": "https://www.animefillerlist.com/shows/naruto",
     "fillers_episodes": [
@@ -1419,5 +1418,7 @@
             "filler": "Mixed Canon/Filler",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 220
 }

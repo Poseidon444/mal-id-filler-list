@@ -1,0 +1,37 @@
+{
+    "mal-id": 33191,
+    "anilist-id": 21778,
+    "anilist-name_en": "Thus Spoke Rohan Kishibe",
+    "anilist-name_jp": "Kishibe Rohan wa Ugokanai",
+    "afl-name": "Thus Spoke Kishibe Rohan",
+    "afl-link": "https://www.animefillerlist.com/shows/chrono-crusade",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Episode 5: Millionaire Village",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Episode 2: Mutsu-kabe Hill",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Episode 16: At a Confessional",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Episode 10: The Run",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 4
+}

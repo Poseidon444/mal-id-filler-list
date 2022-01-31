@@ -3,7 +3,6 @@
     "anilist-id": 22,
     "anilist-name_en": "The Prince of Tennis",
     "anilist-name_jp": "Tennis no Ouji-sama",
-    "total-episodes": 178,
     "afl-name": "The Prince of Tennis",
     "afl-link": "https://www.animefillerlist.com/shows/prince-tennis-0",
     "fillers_episodes": [
@@ -203,5 +202,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 178
 }

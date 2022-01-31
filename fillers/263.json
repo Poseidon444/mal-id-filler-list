@@ -3,7 +3,6 @@
     "anilist-id": 263,
     "anilist-name_en": "Fighting Spirit",
     "anilist-name_jp": "Hajime no Ippo: THE FIGHTING!",
-    "total-episodes": 75,
     "afl-name": "Fighting Spirit ",
     "afl-link": "https://www.animefillerlist.com/shows/fighting-spirit",
     "fillers_episodes": [
@@ -461,5 +460,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 75
 }

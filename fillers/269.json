@@ -3,7 +3,6 @@
     "anilist-id": 269,
     "anilist-name_en": "Bleach",
     "anilist-name_jp": "Bleach",
-    "total-episodes": 366,
     "afl-name": "Bleach",
     "afl-link": "https://www.animefillerlist.com/shows/bleach",
     "fillers_episodes": [
@@ -2368,5 +2367,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 366
 }

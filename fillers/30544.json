@@ -3,7 +3,6 @@
     "anilist-id": 21131,
     "anilist-name_en": "The Asterisk War",
     "anilist-name_jp": "Gakusen Toshi Asterisk",
-    "total-episodes": 12,
     "afl-name": "The Asterisk War",
     "afl-link": "https://www.animefillerlist.com/shows/asterisk-war",
     "fillers_episodes": [
@@ -154,5 +153,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
 }

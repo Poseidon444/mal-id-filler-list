@@ -3,7 +3,6 @@
     "anilist-id": 157,
     "anilist-name_en": "Negima!",
     "anilist-name_jp": "Mahou Sensei Negima!",
-    "total-episodes": 26,
     "afl-name": "Negima!",
     "afl-link": "https://www.animefillerlist.com/shows/magister-negi-magi",
     "fillers_episodes": [
@@ -169,5 +168,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 26
 }

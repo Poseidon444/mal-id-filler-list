@@ -1,0 +1,25 @@
+{
+    "mal-id": 46352,
+    "anilist-id": 128705,
+    "anilist-name_en": "Blue Period",
+    "anilist-name_jp": "Blue Period",
+    "afl-name": "Blue Period",
+    "afl-link": "https://www.animefillerlist.com/shows/blue-period",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Awakening to the Joy of Painting",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "He's Not Tanned At All",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

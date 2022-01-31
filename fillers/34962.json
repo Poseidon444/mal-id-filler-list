@@ -1,0 +1,49 @@
+{
+    "mal-id": 34962,
+    "anilist-id": 98402,
+    "anilist-name_en": "Digimon Adventure tri. Chapter 5: Coexistance",
+    "anilist-name_jp": "Digimon Adventure tri. 5: Kyousei",
+    "afl-name": "Digimon Adventure tri.",
+    "afl-link": "https://www.animefillerlist.com/shows/digimon-adventure-tri",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Reunion",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Determination",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Confession",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Loss",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Coexistence",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Future",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 1
+}

@@ -3,7 +3,6 @@
     "anilist-id": 392,
     "anilist-name_en": "Yu Yu Hakusho: Ghostfiles",
     "anilist-name_jp": "Yuu\u2606Yuu\u2606Hakusho",
-    "total-episodes": 112,
     "afl-name": "Yu Yu Hakusho",
     "afl-link": "https://www.animefillerlist.com/shows/yuyu-hakusho",
     "fillers_episodes": [
@@ -694,5 +693,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 112
 }

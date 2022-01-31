@@ -1,0 +1,85 @@
+{
+    "mal-id": 42361,
+    "anilist-id": 120697,
+    "anilist-name_en": "DON'T TOY WITH ME, MISS NAGATORO",
+    "anilist-name_jp": "Ijiranaide, Nagatoro-san",
+    "afl-name": "Don\u2019t Toy With Me, Miss Nagatoro",
+    "afl-link": "https://www.animefillerlist.com/shows/don%E2%80%99t-toy-me-miss-nagatoro",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Senpai is a bit.../Senpai, don't you ever get angry?",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Got Your Wish, Senpai!!!/Sup, Senpai!",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let's Do It Again Sometime, Senpai/Senpai! Come here~!",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Senpai, You've Gone Beet Red/Senpai needs a little more...\t",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If We Buzz That Fluff, Senpai/Thanks for the Treat, Senpai!!\t",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You're Such a Wimp, Senpai~\u2665/Senpai! Let's Go to the Beach!!",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Senpai, Why Don't We Go to the Festival?/This Is Like a Date, Isn't It, Senpai? \u2665",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It May Be More Fun Than You'd Expect, Ex-Senpai \u2665/Let's Do Rock-Paper-Scissors, Senpai!!",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Senpai's Such a Closet Perv!!/There's No Way Creepy Senpai Could Go on a Proper Date!!",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Seem Pretty Stiff, Senpai/I'll Do It For You, Senpai!",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Whadda You Think of It, Senpai?/Come One! Just Admit You Want It, Senpai!\u2665",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Has Spring Finally Come for Senpai, The Unpopular Lone Louse?!/She Said Something About Love, Didn't She, Senpai?",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

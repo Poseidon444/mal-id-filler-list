@@ -1,0 +1,91 @@
+{
+    "mal-id": 32681,
+    "anilist-id": 21637,
+    "anilist-name_en": "Space Patrol Luluco",
+    "anilist-name_jp": "Uchuu Patrol Luluco",
+    "afl-name": "Space Patrol Luloco",
+    "afl-link": "https://www.animefillerlist.com/shows/space-patrol-luloco",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "I'm a Normal Middle School Student",
+            "number": "1",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A New Transfer Student Arrives!",
+            "number": "2",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battlefield Classroom",
+            "number": "3",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Into the Sky All Alone",
+            "number": "4",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What Should I Do?",
+            "number": "5",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That One Part Awakens",
+            "number": "6",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Thread of Fate's Trap",
+            "number": "7",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mysterious Power's Trap",
+            "number": "8",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The True Trap",
+            "number": "9",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's All Over",
+            "number": "10",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Never Knew",
+            "number": "11",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Confession",
+            "number": "12",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'll Give Chase to the Ends of the Universe",
+            "number": "13",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
+}

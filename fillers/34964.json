@@ -1,0 +1,85 @@
+{
+    "mal-id": 34964,
+    "anilist-id": 98389,
+    "anilist-name_en": "Killing Bites",
+    "anilist-name_jp": "Killing Bites",
+    "afl-name": "Killing Bites",
+    "afl-link": "https://www.animefillerlist.com/shows/killing-bites",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The One With The Sharper Fangs Will Win",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Might Fall For You",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Really Have No Redeeming Quality",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That's Why I Told You To Stop, You Scum!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I'm Free to Do It Any Way I Want",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Who Cares?",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Because... That's What I Feel Like!",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Damn... Damn Damn Damn Damn!!",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Will Never Change My Mind!",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let's Go Together",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Bully Mom",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Thanks for Everything",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

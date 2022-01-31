@@ -3,7 +3,6 @@
     "anilist-id": 400,
     "anilist-name_en": "Outlaw Star",
     "anilist-name_jp": "Seihou Bukyou Outlaw Star",
-    "total-episodes": 24,
     "afl-name": "Outlaw Star",
     "afl-link": "https://www.animefillerlist.com/shows/outlaw-star",
     "fillers_episodes": [
@@ -171,5 +170,7 @@
             "filler": "Mixed Canon/Filler",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

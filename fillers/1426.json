@@ -1,0 +1,34 @@
+{
+    "mal-id": 1426,
+    "anilist-id": 1426,
+    "anilist-name_en": "Lupin the Third Part 3",
+    "anilist-name_jp": "Lupin III: Part III",
+    "afl-name": "Lupin the Third Part I",
+    "afl-link": "https://www.animefillerlist.com/shows/lupin-third-part-i",
+    "fillers_episodes": [
+        "1",
+        "23"
+    ],
+    "episodes": [
+        {
+            "title": "Is Lupin Burnin...?!",
+            "number": "1",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Man They Called a Magician",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Big Golden Showdown!",
+            "number": "23",
+            "filler": "Filler",
+            "filler-bool": true
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 50
+}

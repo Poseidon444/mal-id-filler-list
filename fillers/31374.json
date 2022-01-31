@@ -1,0 +1,85 @@
+{
+    "mal-id": 31374,
+    "anilist-id": 21281,
+    "anilist-name_en": "Attack on Titan: Junior High",
+    "anilist-name_jp": "Shingeki! Kyojin Chuugakkou",
+    "afl-name": "Attack on Titan: Junior High",
+    "afl-link": "https://www.animefillerlist.com/shows/attack-on-titan-junior-high",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Starting School! Titan Junior High School",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Chasing! Titan Junior High School",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dodgeball! Titan Junior High School",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cleanup! Titan Junior High School",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Studying Hard! Titan Junior High School",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love Letter! Titan Junior High School",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showdown! Titan Junior High School",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Spine-chiller! Titan Junior High School",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sweet Summer! Titan Junior High School",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Recommendation! Titan Junior High School",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clear and Sunny! Titan Junior High School",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Attack! Titan Junior High School",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

@@ -3,7 +3,6 @@
     "anilist-id": 86,
     "anilist-name_en": "Mobile Suit Gundam ZZ",
     "anilist-name_jp": "Kidou Senshi Gundam ZZ",
-    "total-episodes": 47,
     "afl-name": "Mobile Suit Gundam ZZ",
     "afl-link": "https://www.animefillerlist.com/shows/mobile-suit-gundam-zz",
     "fillers_episodes": [
@@ -22,5 +21,7 @@
             "filler": "Anime Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 47
 }

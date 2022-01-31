@@ -1,0 +1,6761 @@
+{
+    "mal-id": 527,
+    "anilist-id": 527,
+    "anilist-name_en": "Pok\u00e9mon",
+    "anilist-name_jp": "Pocket Monsters",
+    "afl-name": "Pok\u00e9mon",
+    "afl-link": "https://www.animefillerlist.com/shows/pokemon",
+    "fillers_episodes": [
+        "8",
+        "9",
+        "19",
+        "32",
+        "33",
+        "37",
+        "38",
+        "39",
+        "44",
+        "46",
+        "49",
+        "51",
+        "54",
+        "57",
+        "59",
+        "62",
+        "64",
+        "65",
+        "66",
+        "67",
+        "69",
+        "70",
+        "84",
+        "85",
+        "86",
+        "87",
+        "88",
+        "89",
+        "93",
+        "95",
+        "96",
+        "97",
+        "100",
+        "103",
+        "105",
+        "116",
+        "118",
+        "119",
+        "123",
+        "124",
+        "129",
+        "131",
+        "133",
+        "134",
+        "135",
+        "136",
+        "144",
+        "145",
+        "146",
+        "148",
+        "149",
+        "151",
+        "152",
+        "158",
+        "159",
+        "160",
+        "162",
+        "163",
+        "164",
+        "166",
+        "168",
+        "169",
+        "173",
+        "174",
+        "175",
+        "176",
+        "180",
+        "181",
+        "182",
+        "184",
+        "186",
+        "187",
+        "188",
+        "189",
+        "191",
+        "193",
+        "194",
+        "196",
+        "197",
+        "198",
+        "199",
+        "200",
+        "201",
+        "202",
+        "203",
+        "207",
+        "208",
+        "210",
+        "214",
+        "215",
+        "225",
+        "228",
+        "229",
+        "230",
+        "235",
+        "236",
+        "237",
+        "238",
+        "239",
+        "240",
+        "241",
+        "242",
+        "244",
+        "245",
+        "251",
+        "255",
+        "257",
+        "278",
+        "279",
+        "280",
+        "290",
+        "295",
+        "298",
+        "306",
+        "311",
+        "314",
+        "315",
+        "318",
+        "322",
+        "326",
+        "329",
+        "333",
+        "334",
+        "336",
+        "344",
+        "345",
+        "355",
+        "357",
+        "358",
+        "361",
+        "363",
+        "365",
+        "371",
+        "373",
+        "375",
+        "376",
+        "378",
+        "381",
+        "405",
+        "406",
+        "408",
+        "409",
+        "410",
+        "413",
+        "414",
+        "420",
+        "433",
+        "434",
+        "436",
+        "441",
+        "444",
+        "451",
+        "452",
+        "453",
+        "456",
+        "467",
+        "483",
+        "484",
+        "499",
+        "502",
+        "503",
+        "515",
+        "516",
+        "517",
+        "518",
+        "529",
+        "562",
+        "574",
+        "575",
+        "583",
+        "593",
+        "606",
+        "607",
+        "616",
+        "631",
+        "657",
+        "675",
+        "678",
+        "679",
+        "684",
+        "702",
+        "703",
+        "704",
+        "715",
+        "737",
+        "744",
+        "747",
+        "748",
+        "774",
+        "776",
+        "778",
+        "781",
+        "782",
+        "787",
+        "799",
+        "805",
+        "806",
+        "807",
+        "809",
+        "817",
+        "819",
+        "836",
+        "839",
+        "841",
+        "862",
+        "873",
+        "874",
+        "877",
+        "880",
+        "886",
+        "887",
+        "888",
+        "889",
+        "899",
+        "902",
+        "908",
+        "914",
+        "915",
+        "938",
+        "943",
+        "948",
+        "955",
+        "960",
+        "961",
+        "989",
+        "1002",
+        "1014",
+        "1017",
+        "1024",
+        "1044",
+        "1057"
+    ],
+    "episodes": [
+        {
+            "title": "Pok\u00e9mon - I Choose You!",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9mon Emergency",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ash Catches a Pok\u00e9mon",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Challenge of the Samurai",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showdown in Pewter City",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clefairy and the Moon Stone",
+            "number": "6",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Water Flowers of Cerulean City",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Path to the Pok\u00e9mon League",
+            "number": "8",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The School of Hard Knocks",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bulbasaur and the Hidden Village",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Charmander-The Stray Pok\u00e9mon",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Here Comes the Squirtle Squad",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mystery at the Lighthouse",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Electric Shock Showdown",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle Aboard the St. Anne",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9mon Shipwreck",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Island of the Giant Pok\u00e9mon",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tentacool & Tentacruel",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ghost of Maiden's Peak",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bye Bye Butterfree",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Abra and the Psychic Showdown",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Tower of Terror",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Haunter vs. Kadabra",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Primeape Goes Bananas",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9mon Scent-sation!",
+            "number": "25",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hypno's Naptime",
+            "number": "26",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9mon Fashion Flash",
+            "number": "27",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Punchy Pok\u00e9mon",
+            "number": "28",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sparks Fly for Magnemite",
+            "number": "29",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dig Those Diglett!",
+            "number": "30",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ninja Pok\u00e9-Showdown",
+            "number": "31",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Flame Pok\u00e9mon-athon!",
+            "number": "32",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Kangaskhan Kid",
+            "number": "33",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Bridge Bike Gang",
+            "number": "34",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ditto's Mysterious Mansion",
+            "number": "35",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pikachu's Goodbye",
+            "number": "36",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battling Eevee Brothers",
+            "number": "37",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Wake Up Snorlax!",
+            "number": "38",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Showdown at Dark City",
+            "number": "39",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The March of the Exeggutor Squad",
+            "number": "40",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Problem with Paras",
+            "number": "41",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Song of Jigglypuff",
+            "number": "42",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Attack of the Prehistoric Pok\u00e9mon",
+            "number": "43",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Chansey Operation",
+            "number": "44",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Holy Matrimony!",
+            "number": "45",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "So Near, Yet So Farfetch'd",
+            "number": "46",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Who Gets To Keep Togepi?",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bulbasaur's Mysterious Garden",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Case of the K-9 Caper!",
+            "number": "49",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Pok\u00e9mon Paparazzi",
+            "number": "50",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ultimate Test",
+            "number": "51",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Breeding Center Secret",
+            "number": "52",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Princess vs. Princess",
+            "number": "53",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Purr-fect Hero",
+            "number": "54",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Riddle Me This",
+            "number": "55",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Volcanic Panic",
+            "number": "56",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beach Blank-out Blastoise",
+            "number": "57",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Misty Mermaid",
+            "number": "58",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clefairy Tales",
+            "number": "59",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Battle of the Badge",
+            "number": "60",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's Mr. Mime Time",
+            "number": "61",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Snow Way Out!",
+            "number": "62",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Showdown at the Po-k\u00e9 Corral",
+            "number": "63",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Evolution Solution",
+            "number": "64",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Pi-Kahuna",
+            "number": "65",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Make Room for Gloom!",
+            "number": "66",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Lights, Camera, Quack-tion!",
+            "number": "67",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Go West Young Meowth",
+            "number": "68",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "To Master the Onixpected",
+            "number": "69",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Ancient Puzzle of Pok\u00e9mopolis",
+            "number": "70",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bad to the Bone",
+            "number": "71",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Fired Up!",
+            "number": "72",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Round One - Begin!",
+            "number": "73",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fire and Ice",
+            "number": "74",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fourth Round Rumble",
+            "number": "75",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Friend in Deed",
+            "number": "76",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Friend and Foe Alike",
+            "number": "77",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Friends to the End",
+            "number": "78",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pallet Party Panic",
+            "number": "79",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Scare in the Air",
+            "number": "80",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9ball Peril",
+            "number": "81",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Lost Lapras",
+            "number": "82",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fit to Be Tide!",
+            "number": "83",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pikachu Re-Volts",
+            "number": "84",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Crystal Onix",
+            "number": "85",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "In the Pink",
+            "number": "86",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Shell Shock!",
+            "number": "87",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bye Bye Psyduck",
+            "number": "88",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Joy of Pok\u00e9mon",
+            "number": "89",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Navel Maneuvers",
+            "number": "90",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Snack Attack",
+            "number": "91",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Shipful of Shivers",
+            "number": "92",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Meowth Rules!",
+            "number": "93",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tracey Gets Bugged",
+            "number": "94",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Way Off A Day Off",
+            "number": "95",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Wherefore Art Thou, Pok\u00e9mon?",
+            "number": "96",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Get Along, Little Pok\u00e9mon",
+            "number": "97",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Mystery Menace",
+            "number": "98",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Misty Meets Her Match",
+            "number": "99",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bound for Trouble",
+            "number": "100",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Charizard Chills",
+            "number": "101",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Pok\u00e9mon Water War",
+            "number": "102",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9mon Food Fight",
+            "number": "103",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Pok\u00e9mon Double Trouble",
+            "number": "104",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Wacky Watcher",
+            "number": "105",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Stun Spore Detour",
+            "number": "106",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hello Pummelo",
+            "number": "107",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter the Dragonite",
+            "number": "108",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Viva Las Lapras",
+            "number": "109",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Underground Round Up",
+            "number": "110",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Tent Situation",
+            "number": "111",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Rivalry Revival",
+            "number": "112",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Touch That 'dile",
+            "number": "113",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Double Trouble Header",
+            "number": "114",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Sappy Ending",
+            "number": "115",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Roll On, Pok\u00e9mon!",
+            "number": "116",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Illusion Confusion",
+            "number": "117",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Flower Power",
+            "number": "118",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Spinarak Attack",
+            "number": "119",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Snubbull Snobbery",
+            "number": "120",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Little Big Horn",
+            "number": "121",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Chikorita Rescue",
+            "number": "122",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Once in a Blue Moon",
+            "number": "123",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Whistle Stop",
+            "number": "124",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Ignorance Is Blissey",
+            "number": "125",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Bout With Sprout",
+            "number": "126",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fighting Flyer with Fire",
+            "number": "127",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For Crying Out Loud",
+            "number": "128",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tanks A Lot!",
+            "number": "129",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Charizard's Burning Ambition",
+            "number": "130",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Grin to Win!",
+            "number": "131",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Chikorita's Big Upset",
+            "number": "132",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Foul Weather Friends",
+            "number": "133",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Superhero Secret",
+            "number": "134",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mild 'N Wooly",
+            "number": "135",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Wired For Battle",
+            "number": "136",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Good 'Quil Hunting",
+            "number": "137",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Shadow of a Drought",
+            "number": "138",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Going Apricorn",
+            "number": "139",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gettin' the Bugs Out",
+            "number": "140",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Farfetch'd Tale",
+            "number": "141",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tricks of the Trade",
+            "number": "142",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fire-ing Squad!",
+            "number": "143",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "No Big Woop!",
+            "number": "144",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tunnel Vision",
+            "number": "145",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hour of the Houndour",
+            "number": "146",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Totodile Duel",
+            "number": "147",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hot Matches",
+            "number": "148",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Love, Totodile Style",
+            "number": "149",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fowl Play",
+            "number": "150",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Forest Grumps",
+            "number": "151",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Psychic Sidekicks",
+            "number": "152",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Fortune Hunters",
+            "number": "153",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Goldenrod Opportunity",
+            "number": "154",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Dairy Tale Ending",
+            "number": "155",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Air Time",
+            "number": "156",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Bug Stops Here",
+            "number": "157",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Type Casting!",
+            "number": "158",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fossil Fools",
+            "number": "159",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Carrying On",
+            "number": "160",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hassle in the Castle",
+            "number": "161",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two Hits and a Miss",
+            "number": "162",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Hot Water Battle",
+            "number": "163",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hook, Line and Stinker",
+            "number": "164",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Beauty and the Breeder",
+            "number": "165",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Better Pill to Swallow",
+            "number": "166",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Power Play",
+            "number": "167",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mountain Time",
+            "number": "168",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Wobbu-Palooza",
+            "number": "169",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Immitation Confrontation",
+            "number": "170",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Trouble With Snubbull",
+            "number": "171",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ariados, Amigos",
+            "number": "172",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wings 'n' Things",
+            "number": "173",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Grass Route",
+            "number": "174",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Apple Corp!",
+            "number": "175",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Houndoom's Special Delivery",
+            "number": "176",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Ghost of a Chance",
+            "number": "177",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "From Ghost to Ghost",
+            "number": "178",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Trouble's Brewing",
+            "number": "179",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All That Glitters!",
+            "number": "180",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Light Fantastic",
+            "number": "181",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "UnBEARable",
+            "number": "182",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Moving Pictures",
+            "number": "183",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Spring Fever",
+            "number": "184",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Freeze Frame",
+            "number": "185",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Stolen Stones",
+            "number": "186",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Dunsparce Deception",
+            "number": "187",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Wayward Wobbuffet",
+            "number": "188",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sick Daze",
+            "number": "189",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Ring Masters",
+            "number": "190",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Pok\u00e9 Spokesman",
+            "number": "191",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Control Freak!",
+            "number": "192",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Art of Pok\u00e9mon",
+            "number": "193",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Heartbreak of Brock",
+            "number": "194",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Current Events",
+            "number": "195",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turning Over A New Bayleef",
+            "number": "196",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Doin' What Comes Natu-rally",
+            "number": "197",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Big Balloon Blow-Up",
+            "number": "198",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Screen Actor's Guilt",
+            "number": "199",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Right On, Rhydon",
+            "number": "200",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Kecleon Caper",
+            "number": "201",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Joy of Water Pok\u00e9mon",
+            "number": "202",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Got Milktank?",
+            "number": "203",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fight for the Light",
+            "number": "204",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Machoke, Machoke Man",
+            "number": "205",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Around the Whirlpool",
+            "number": "206",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fly Me to the Moon",
+            "number": "207",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Takin' it on the Chinchou",
+            "number": "208",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Corsola Caper",
+            "number": "209",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mantine Overboard",
+            "number": "210",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Octillery the Outcast",
+            "number": "211",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dueling Heroes",
+            "number": "212",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Perfect Match",
+            "number": "213",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Plant It Now... Diglett Later",
+            "number": "214",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hi Ho Silver... Away",
+            "number": "215",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Mystery is History",
+            "number": "216",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Parent Trapped",
+            "number": "217",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Promise Is a Promise",
+            "number": "218",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Throwing in the Noctowl!",
+            "number": "219",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nerves of Steelix!",
+            "number": "220",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bulbasaur...the Ambassador",
+            "number": "221",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Espeon, Not Included",
+            "number": "222",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For Ho-Oh the Bells Toll",
+            "number": "223",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Extreme Pok\u00e9mon",
+            "number": "224",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Egg-Sighting Adventure",
+            "number": "225",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hatching a Plan",
+            "number": "226",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dues and Don'ts",
+            "number": "227",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Just Waiting on a Friend",
+            "number": "228",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fit to be Tyrogued",
+            "number": "229",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Xatu the Future",
+            "number": "230",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Talkin' 'bout an Evolution",
+            "number": "231",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Rage of Innocence",
+            "number": "232",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "As Cold as Pryce",
+            "number": "233",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nice Pryce, Baby",
+            "number": "234",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Whichever Way the Wind Blows",
+            "number": "235",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Some Like It Hot",
+            "number": "236",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hocus Pok\u00e9mon",
+            "number": "237",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "As Clear as Crystal",
+            "number": "238",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Same Old Song and Dance",
+            "number": "239",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Enlighten Up",
+            "number": "240",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Will the Real Oak Please Stand Up?",
+            "number": "241",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Wish Upon a Star Shape",
+            "number": "242",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Outrageous Fortunes",
+            "number": "243",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "One Trick Phony",
+            "number": "244",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "I Politoed Ya So",
+            "number": "245",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Beauty is Skin Deep",
+            "number": "246",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fangs For Nothing",
+            "number": "247",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Great Bowls of Fire",
+            "number": "248",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Better Eight Than Never",
+            "number": "249",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Why? Wynaut",
+            "number": "250",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Just Add Water",
+            "number": "251",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Lapras of Luxury",
+            "number": "252",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hatch Me If You Can",
+            "number": "253",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Entei at Your Own Risk",
+            "number": "254",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Crowning Achievement",
+            "number": "255",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Here's Lookin' at You, Elekid",
+            "number": "256",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You're a Star, Larvitar",
+            "number": "257",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Address Unown!",
+            "number": "258",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mother of All Battles",
+            "number": "259",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pop Goes the Sneasel",
+            "number": "260",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Claim to Flame!",
+            "number": "261",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love, Pok\u00e9mon Style",
+            "number": "262",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tie One On!",
+            "number": "263",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ties That Bind",
+            "number": "264",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Can't Beat the Heat",
+            "number": "265",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Play with Fire!",
+            "number": "266",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Johto Photo Finish",
+            "number": "267",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gotta Catch Ya Later!",
+            "number": "268",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hoenn Alone!",
+            "number": "269",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Get the Show on the Road",
+            "number": "270",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Ruin with a View",
+            "number": "271",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There's No Place like Hoenn",
+            "number": "272",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Can Never Taillow",
+            "number": "273",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the Knicker of Time",
+            "number": "274",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Poached Ego",
+            "number": "275",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tree's a Crowd",
+            "number": "276",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Tail with a Twist",
+            "number": "277",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Taming of the Shroomish",
+            "number": "278",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "You Said a Mouthful",
+            "number": "279",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Bite to Remember",
+            "number": "280",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Lotad Lowdown",
+            "number": "281",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Things Bright and Beautifly",
+            "number": "282",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All in a Day's Wurmple",
+            "number": "283",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gonna Rule the School",
+            "number": "284",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Winner by a Nosepass",
+            "number": "285",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stairway to Devon",
+            "number": "286",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "On a Wingull and a Prayer",
+            "number": "287",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sharpedo Attack!",
+            "number": "288",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Brave the Wave!",
+            "number": "289",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Which Wurmple's Which?",
+            "number": "290",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Hole Lotta Trouble",
+            "number": "291",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gone Corphishin'",
+            "number": "292",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Corphish Out of Water!",
+            "number": "293",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Mudkip Mission!",
+            "number": "294",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turning Over a New Nuzleaf!",
+            "number": "295",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Three Team Scheme",
+            "number": "296",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Seeing Is Believing",
+            "number": "297",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ready, Willing and Sableye!",
+            "number": "298",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Meditite Fight!",
+            "number": "299",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Just One of the Geysers!",
+            "number": "300",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Abandon Ship!",
+            "number": "301",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Now That's Flower Power!",
+            "number": "302",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Having a Wailord of a Time!",
+            "number": "303",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Win, Lose, or Drew!",
+            "number": "304",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Spheal of Approval!",
+            "number": "305",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jump for Joy!",
+            "number": "306",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Different Kind of Misty!",
+            "number": "307",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Pok\u00e9-BLOCK Party!",
+            "number": "308",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What's With Wattson?",
+            "number": "309",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What You Seed is What You Get",
+            "number": "310",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let Bagons Be Bagons",
+            "number": "311",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Princess and the Togepi",
+            "number": "312",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Togepi Mirage",
+            "number": "313",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Candid Camerupt",
+            "number": "314",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Love at First Flight",
+            "number": "315",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "I Feel Skitty!",
+            "number": "316",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Zig Zag Zangoose",
+            "number": "317",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Maxxed Out!",
+            "number": "318",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Pros and Con Artists",
+            "number": "319",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Come What May!",
+            "number": "320",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cheer Pressure",
+            "number": "321",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Game Winning Assist",
+            "number": "322",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fight for the Meteorite",
+            "number": "323",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Poetry Commotion!",
+            "number": "324",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Going, Going, Yawn",
+            "number": "325",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Going for a Spinda",
+            "number": "326",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "All Torkoal, No Play",
+            "number": "327",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Manectric Charge",
+            "number": "328",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Delcatty Got Your Tongue",
+            "number": "329",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Disaster of Disguise",
+            "number": "330",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Disguise Da Limit",
+            "number": "331",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Take the Lombre Home",
+            "number": "332",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "True Blue Swablu",
+            "number": "333",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Gulpin It Down",
+            "number": "334",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Exploud and Clear",
+            "number": "335",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Go Go Ludicolo",
+            "number": "336",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Double Dilemma",
+            "number": "337",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love, Petalburg Style!",
+            "number": "338",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Balance of Power",
+            "number": "339",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Six Pack Attack",
+            "number": "340",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Bicker the Better",
+            "number": "341",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Grass Hysteria!",
+            "number": "342",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hokey Pok\u00e9 Balls",
+            "number": "343",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wishcash and Ash",
+            "number": "344",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Me, Myself and Time",
+            "number": "345",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Fan with a Plan",
+            "number": "346",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cruisin' For a Losin'",
+            "number": "347",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pearls Are a Spoink's Best Friend",
+            "number": "348",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That's Just Swellow",
+            "number": "349",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Take This House and Shuppet",
+            "number": "350",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Shroomish Skirmish",
+            "number": "351",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unfair Weather Friends",
+            "number": "352",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Who's Flying Now?",
+            "number": "353",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sky High Gym Battle!",
+            "number": "354",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lights, Camerupt, Action!",
+            "number": "355",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Crazy as a Lunatone",
+            "number": "356",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Garden of Eatin'",
+            "number": "357",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Scare to Remember",
+            "number": "358",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Pok\u00e9block, Stock, and Berry",
+            "number": "359",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lessons in Lilycove",
+            "number": "360",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Judgment Day!",
+            "number": "361",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Clamperl of Wisdom",
+            "number": "362",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Relicanth Really Can",
+            "number": "363",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Evolutionary War",
+            "number": "364",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Training Wrecks",
+            "number": "365",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Gaining Groudon",
+            "number": "366",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Scuffle of Legends",
+            "number": "367",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's Still Rocket Roll to Me",
+            "number": "368",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Solid as a Solrock",
+            "number": "369",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Vanity Affair",
+            "number": "370",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Where's Armaldo?",
+            "number": "371",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Cacturne for the Worse",
+            "number": "372",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Claydol Big and Tall",
+            "number": "373",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Once in a Mawlie",
+            "number": "374",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beg, Burrow, and Steal",
+            "number": "375",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Absol-ute Disaster",
+            "number": "376",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Let It Snow, Let It Snow, Let It Snorunt!",
+            "number": "377",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Do I Hear a Ralts?",
+            "number": "378",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Great Eight Fate",
+            "number": "379",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eight Ain't Enough",
+            "number": "380",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showdown at Linoone",
+            "number": "381",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Who, What, Where, When, Wynaut?",
+            "number": "382",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Date Expectations",
+            "number": "383",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mean With Envy",
+            "number": "384",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pacifidlog Jam",
+            "number": "385",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Berry, Berry Interesting",
+            "number": "386",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Less Is Morrison",
+            "number": "387",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ribbon Cup Caper",
+            "number": "388",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hi Ho Silver Wind",
+            "number": "389",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Deceit and Assist",
+            "number": "390",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rhapsody in Drew",
+            "number": "391",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Island Time",
+            "number": "392",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Like a Meowth to Flame",
+            "number": "393",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Saved by the Beldum",
+            "number": "394",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "From Brags to Riches",
+            "number": "395",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shocks and Bonds",
+            "number": "396",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Judgment Brawl",
+            "number": "397",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Choose It or Lose It",
+            "number": "398",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "At the End of the Fray",
+            "number": "399",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Scheme Team",
+            "number": "400",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Right Place and the Right Mime",
+            "number": "401",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Real Cleffa-Hanger",
+            "number": "402",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Numero Uno Articuno",
+            "number": "403",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Symbol Life",
+            "number": "404",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hooked on Onix",
+            "number": "405",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Rough, Tough Jigglypuff",
+            "number": "406",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "On Cloud Arcanine",
+            "number": "407",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sitting Psyduck",
+            "number": "408",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hail to the Chef",
+            "number": "409",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Caterpie's Big Dilemma",
+            "number": "410",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Saffron Con",
+            "number": "411",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Hurdle for Squirtle",
+            "number": "412",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pasta la Vista",
+            "number": "413",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fear Factor Phony!",
+            "number": "414",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sweet Baby James",
+            "number": "415",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Chip Off the Old Brock",
+            "number": "416",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wheel of Frontier",
+            "number": "417",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "May's Egg-cellent Adventure",
+            "number": "418",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Weekend Warrior",
+            "number": "419",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "On Olden Pond",
+            "number": "420",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tactics Theatrics",
+            "number": "421",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reversing the Charges",
+            "number": "422",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Green Guardian",
+            "number": "423",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "From Cradle to Save",
+            "number": "424",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Time-Warp Heals All Wounds",
+            "number": "425",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Queen of the Serpetine",
+            "number": "426",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Off the Unbeaten Path",
+            "number": "427",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Harley Rides Again",
+            "number": "428",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Odd Pok\u00e9mon Out",
+            "number": "429",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Spontaneous Combusken",
+            "number": "430",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cutting the Ties That Bind",
+            "number": "431",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ka Boom With A View",
+            "number": "432",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "King and Queen For a Day",
+            "number": "433",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Curbing the Crimson Tide",
+            "number": "434",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "What I Did For Love",
+            "number": "435",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Three Jynx and a Baby",
+            "number": "436",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Talking a Good Game",
+            "number": "437",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Second Time's the Charm",
+            "number": "438",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9mon Ranger - Deoxys' Crisis (Part 1)",
+            "number": "439",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9mon Ranger - Deoxys' Crisis (Part 2)",
+            "number": "440",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All That Glitters Is Not Golden",
+            "number": "441",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "New Plot, Odd Lot!",
+            "number": "442",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Going for Choke",
+            "number": "443",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ole' Berate and Switch",
+            "number": "444",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Grating Spaces",
+            "number": "445",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling the Enemy Within",
+            "number": "446",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Slaking Kong",
+            "number": "447",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "May, We Harley Drew'd Ya",
+            "number": "448",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Thinning the Hoard",
+            "number": "449",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Channeling the Battle Zone",
+            "number": "450",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Aipom and Circumstance",
+            "number": "451",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Strategy Tomorrow \u2013 Comedy Tonight",
+            "number": "452",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Duels of the Jungle",
+            "number": "453",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Overjoyed",
+            "number": "454",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Unbeatable Lightness of Seeing",
+            "number": "455",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pinch Healing",
+            "number": "456",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Gathering the Gang of Four",
+            "number": "457",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pace - The Final Frontier",
+            "number": "458",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Once More with Reeling",
+            "number": "459",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Home Is Where the Start Is!",
+            "number": "460",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Following a Maiden's Voyage",
+            "number": "461",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two Degrees of Separation",
+            "number": "462",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When Pok\u00e9mon Worlds Collide",
+            "number": "463",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dawn of a New Era",
+            "number": "464",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gettin' Twiggy With It",
+            "number": "465",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Different Strokes for Different Blokes",
+            "number": "466",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Like It or Lup It",
+            "number": "467",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Gymbaliar",
+            "number": "468",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Setting the World on its Buneary",
+            "number": "469",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Not On My Watch Ya Don't",
+            "number": "470",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mounting a Coordinator Assault",
+            "number": "471",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Arrival of a Rival",
+            "number": "472",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Staravia Is Born",
+            "number": "473",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Leave It to Brocko!",
+            "number": "474",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shapes of Things to Come",
+            "number": "475",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Gruff Act to Follow",
+            "number": "476",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wild in the Streets",
+            "number": "477",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "O'er the Rampardos We Watched",
+            "number": "478",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Twice Smitten, Once Shy",
+            "number": "479",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mutiny in the Bounty",
+            "number": "480",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ya See We Want an Evolution",
+            "number": "481",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Borrowing on Bad Faith",
+            "number": "482",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Faced with Steelix Determination",
+            "number": "483",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Cooking Up a Sweet Story",
+            "number": "484",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Oh Do You Know the Poffin Plan",
+            "number": "485",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Getting the Pre-Contest Titters",
+            "number": "486",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Settling a Not-So-Old Score",
+            "number": "487",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Drifloon on the Wind",
+            "number": "488",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Champ Twins",
+            "number": "489",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Some Enchanted Sweetening",
+            "number": "490",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Grass-type Is Always Greener",
+            "number": "491",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Angry Combeenation",
+            "number": "492",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Dressed Up With Somewhere to Go",
+            "number": "493",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Buizel Your Way Out of This",
+            "number": "494",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Elite Meet and Greet",
+            "number": "495",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Secret Sphere of Influence",
+            "number": "496",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Grass Menagerie",
+            "number": "497",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "One Big Happiny Family",
+            "number": "498",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Steamboat Willies",
+            "number": "499",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Top-Down Training",
+            "number": "500",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Stand-Up Sit-Down",
+            "number": "501",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Electrike Company",
+            "number": "502",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Malice in Wonderland",
+            "number": "503",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mass Hip-Po-Sis",
+            "number": "504",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ill-Will Hunting",
+            "number": "505",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Maze-ing Race",
+            "number": "506",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sandshrew's Locker",
+            "number": "507",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dawn's Early Night!",
+            "number": "508",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tag! We're It",
+            "number": "509",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Glory Blaze",
+            "number": "510",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Smells Like Team Spirit",
+            "number": "511",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tears for Fears",
+            "number": "512",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Once There Were Greenfields",
+            "number": "513",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Throwing the Track Switch",
+            "number": "514",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Keystone Pops",
+            "number": "515",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Bibarel Gnaws Best",
+            "number": "516",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Nosing 'Round the Mountain",
+            "number": "517",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Luxray Vision",
+            "number": "518",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Journey to the Unown",
+            "number": "519",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Team Shocker",
+            "number": "520",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tanks for the Memories",
+            "number": "521",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hot Springing a Leak",
+            "number": "522",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Riding the Winds of Change",
+            "number": "523",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sleight of Sand",
+            "number": "524",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lost Leader Strategy",
+            "number": "525",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crossing the Battle Line",
+            "number": "526",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Triple Fighting Chance",
+            "number": "527",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter Galactic",
+            "number": "528",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Bells Are Singing",
+            "number": "529",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Crossing Paths",
+            "number": "530",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pika and Goliath",
+            "number": "531",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Our Cup Runneth Over",
+            "number": "532",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Full Course Tag Battle",
+            "number": "533",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Staging a Heroes' Welcome",
+            "number": "534",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pruning a Passel of Pals",
+            "number": "535",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Strategy With a Smile",
+            "number": "536",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Thief That Keeps On Thieving",
+            "number": "537",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Chim-Charred",
+            "number": "538",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cream of the Croagunk Crop!",
+            "number": "539",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9mon Ranger and the Kidnapped Riolu! Part 1",
+            "number": "540",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9mon Ranger and the Kidnapped Riolu! Part 2",
+            "number": "541",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Crasher Course in Power!",
+            "number": "542",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hungry for the Good Life!",
+            "number": "543",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fighting Fear With Fear",
+            "number": "544",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Arriving in Style",
+            "number": "545",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Psyduck Stops Here!",
+            "number": "546",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Camping It Up!",
+            "number": "547",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Up Close and Personable",
+            "number": "548",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghoul Daze",
+            "number": "549",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "One Team, Two Team, Red Team, Blue Team!",
+            "number": "550",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Lean Mean Team Rocket Machine!",
+            "number": "551",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Playing the Leveling Field",
+            "number": "552",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Doc Brock",
+            "number": "553",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling the Generation Gap",
+            "number": "554",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Losing Its Lustrous!",
+            "number": "555",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Double Team Turnover",
+            "number": "556",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If the Scarf Fits, Wear It",
+            "number": "557",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Trainer and Child Reunion",
+            "number": "558",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Aiding the Enemy",
+            "number": "559",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Barry's Busting Out All Over",
+            "number": "560",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shield With a Twist",
+            "number": "561",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jumping Rocket Ship",
+            "number": "562",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sleepless in Pre-Battle",
+            "number": "563",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Get Your Rotom Running",
+            "number": "564",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Breed Stampede",
+            "number": "565",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ancient Family Matters",
+            "number": "566",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dealing With Defensive Types",
+            "number": "567",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Leading a Stray",
+            "number": "568",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Steeling Peace of Mind",
+            "number": "569",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Saving the World from Ruins!",
+            "number": "570",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cheers on Castaways Isle!",
+            "number": "571",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hold the Phione!",
+            "number": "572",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Another One Gabites the Dust!",
+            "number": "573",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stealing the Conversation!",
+            "number": "574",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Drifting Snorunt!",
+            "number": "575",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Noodles! Roamin' Off!",
+            "number": "576",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pursuing a Lofty Goal!",
+            "number": "577",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Trials and Adulations!",
+            "number": "578",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Lonely Snover!",
+            "number": "579",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stopped in the Name of Love!",
+            "number": "580",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Old Rivals, New Tricks!",
+            "number": "581",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To Thine Own Pok\u00e9mon Be True!",
+            "number": "582",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling a Cute Drama!",
+            "number": "583",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Classroom Training!",
+            "number": "584",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sliding Into Seventh",
+            "number": "585",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Pyramiding Rage!",
+            "number": "586",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pillars of Friendship!",
+            "number": "587",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Frozen on the Tracks!",
+            "number": "588",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pedal to the Mettle!",
+            "number": "589",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Evolving Strategies!",
+            "number": "590",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Uncrushing Defeat!",
+            "number": "591",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Promoting Healthy Tangrowth!",
+            "number": "592",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beating the Bustle and Hustle!",
+            "number": "593",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Gateway to Ruin!",
+            "number": "594",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Three Sides to Every Story!",
+            "number": "595",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Strategy Begins at Home!",
+            "number": "596",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Faux Oak Finish!",
+            "number": "597",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Historical Mystery Tour!",
+            "number": "598",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Challenging a Towering Figure!",
+            "number": "599",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Where No Togepi Has Gone Before!",
+            "number": "600",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Egg Scramble!",
+            "number": "601",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gone with the Windworks!",
+            "number": "602",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Rivalry to Gible On!",
+            "number": "603",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dressed for Jess Success!",
+            "number": "604",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bagged Then Tagged!",
+            "number": "605",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Try For the Family Stone!",
+            "number": "606",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sticking with Who You Know!",
+            "number": "607",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Unlocking the Red Chain of Events!",
+            "number": "608",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Needs of the Three!",
+            "number": "609",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle Finale of Legend!",
+            "number": "610",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Treasure Is All Mine!",
+            "number": "611",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mastering Current Events!",
+            "number": "612",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Double-Time Battle Training!",
+            "number": "613",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Meteoric Rise to Excellence!",
+            "number": "614",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gotta Get a Gible!",
+            "number": "615",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Regaining the Home Advantage!",
+            "number": "616",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Short and to the Punch!",
+            "number": "617",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Marathon Rivalry!",
+            "number": "618",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yes in Dee Dee, It's Dawn!",
+            "number": "619",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Playing the Performance Encore!",
+            "number": "620",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fighting Ire With Fire!",
+            "number": "621",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Piplup, Up and Away!",
+            "number": "622",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Flint Sparks the Fire!",
+            "number": "623",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fleeing Tower of Sunyshore!",
+            "number": "624",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Teaching the Student Teacher!",
+            "number": "625",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9mon Ranger: Heatran Rescue!",
+            "number": "626",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keeping in Top Forme!",
+            "number": "627",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Elite Coverup!",
+            "number": "628",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dawn of a Royal Day!",
+            "number": "629",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "With the Easiest of Grace!",
+            "number": "630",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dealing with a Fierce Double Ditto Drama!",
+            "number": "631",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Last Call\u2014First Round!",
+            "number": "632",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Opposites Interact!",
+            "number": "633",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Coming Full-Festival Circle!",
+            "number": "634",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Grand Fight for Winning!",
+            "number": "635",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "For the Love of Meowth!",
+            "number": "636",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Eighth Wonder of the Sinnoh World!",
+            "number": "637",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Four Roads Diverged in a Pok\u00e9mon Port!",
+            "number": "638",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bucking the Treasure Trend!",
+            "number": "639",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Old Family Blend!",
+            "number": "640",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "League Unleashed!",
+            "number": "641",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Casting a Paul on Barry!",
+            "number": "642",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Working on a Right Move!",
+            "number": "643",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Familiarity Breeds Strategy!",
+            "number": "644",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Real Rival Rouser!",
+            "number": "645",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling a Thaw in Relations!",
+            "number": "646",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Semi-Final Frontier!",
+            "number": "647",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Brockster Is In!",
+            "number": "648",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memories Are Made of Bliss",
+            "number": "649",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the Shadow of Zekrom!",
+            "number": "650",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter Iris and Axew!",
+            "number": "651",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Sandile Gusher of Change!",
+            "number": "652",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle Club and Tepig's Choice!",
+            "number": "653",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Triple Leaders, Team Threats!",
+            "number": "654",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dreams by the Yard Full!",
+            "number": "655",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Snivy Plays Hard to Catch!",
+            "number": "656",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Saving Darmanitan from the Bell!",
+            "number": "657",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Bloom Is On Axew!",
+            "number": "658",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Rival Battle for Club Champ!",
+            "number": "659",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Home for Dwebble!",
+            "number": "660",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Here Comes the Trubbish Squad!",
+            "number": "661",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Minccino\u2014Neat and Tidy!",
+            "number": "662",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Night in the Nacrene City Museum!",
+            "number": "663",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battle According to Lenora!",
+            "number": "664",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rematch at the Nacrene Gym!",
+            "number": "665",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Scraggy\u2014Hatched to Be Wild!",
+            "number": "666",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sewaddle and Burgh in Pinwheel Forest!",
+            "number": "667",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Connoisseur's Revenge!",
+            "number": "668",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dancing With the Ducklett Trio!",
+            "number": "669",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Lost World of Gothitelle!",
+            "number": "670",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Venipede Stampede!",
+            "number": "671",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling for the Love of Bug-Types!",
+            "number": "672",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Emolga the Irresistible!",
+            "number": "673",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Emolga and the New Volt Switch!",
+            "number": "674",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Scare at the Litwick Mansion!",
+            "number": "675",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Dragon Master's Path!",
+            "number": "676",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Oshawott's Lost Scalchop!",
+            "number": "677",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cottonee in Love!",
+            "number": "678",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A UFO for Elgyem!",
+            "number": "679",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Ash and Trip's Third Battle!",
+            "number": "680",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Facing Fear with Eyes Wide Open!",
+            "number": "681",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Iris and Excadrill Against the Dragon Buster!",
+            "number": "682",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gotta Catch a Roggenrola!",
+            "number": "683",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Where Did You Go, Audino?",
+            "number": "684",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Archeops in the Modern World!",
+            "number": "685",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Fishing Connoisseur in a Fishy Competition!",
+            "number": "686",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Movie Time! Zorua in 'The Legend of the Pok\u00e9mon Knight!'",
+            "number": "687",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reunion Battles in Nimbasa!",
+            "number": "688",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cilan Versus Trip, Ash Versus Georgia!",
+            "number": "689",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Club Battle Hearts of Fury: Emolga Versus Sawk!",
+            "number": "690",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Club Battle Finale: A Hero's Outcome!",
+            "number": "691",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Meowth's Scrafty Tactics!",
+            "number": "692",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Purrloin, Sweet or Sneaky?",
+            "number": "693",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beheeyem, Duosion, and the Dream Thief!",
+            "number": "694",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Beartic Mountain Feud!",
+            "number": "695",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crisis From the Underground Up!",
+            "number": "696",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle for the Underground!",
+            "number": "697",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter Elesa, Electrifying Gym Leader!",
+            "number": "698",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dazzling the Nimbasa Gym!",
+            "number": "699",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lost at the Stamp Rally!",
+            "number": "700",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ash Versus the Champion!",
+            "number": "701",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Maractus Musical!",
+            "number": "702",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Four Seasons of Sawsbuck!",
+            "number": "703",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Scraggy and the Demanding Gothita!",
+            "number": "704",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Lonely Deino!",
+            "number": "705",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mighty Accelguard to the Rescue!",
+            "number": "706",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Call for Brotherly Love!",
+            "number": "707",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stopping the Rage of Legends! Part 1",
+            "number": "708",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stopping the Rage of Legends! Part 2",
+            "number": "709",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling the King of the Mines!",
+            "number": "710",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crisis at Chargestone Cave!",
+            "number": "711",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Evolution Exchange Excitement!",
+            "number": "712",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Explorers of the Hero's Ruin!",
+            "number": "713",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling the Bully!",
+            "number": "714",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Baffling the Bouffalant!",
+            "number": "715",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Cilan Takes Flight!",
+            "number": "716",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Amazing Aerial Battle!",
+            "number": "717",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Climbing the Tower of Success!",
+            "number": "718",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Clubsplosion Begins!",
+            "number": "719",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Search for the Clubultimate!",
+            "number": "720",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Clubsplosion of Excitement!",
+            "number": "721",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Commanding the Clubsplosion Crown!",
+            "number": "722",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling the Leaf Thieves!",
+            "number": "723",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Restoration Confrontation! Part 1",
+            "number": "724",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Restoration Confrontation! Part 2",
+            "number": "725",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Evolution by Fire!",
+            "number": "726",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Guarding the Guardian of the Mountain!",
+            "number": "727",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Caution: Icy Battle Conditions!",
+            "number": "728",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Clash of the Connoisseurs!",
+            "number": "729",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Crisis at Ferroseed Research!",
+            "number": "730",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Epic Defense Force!",
+            "number": "731",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rocking the Virbank Gym! Part 1",
+            "number": "732",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rocking the Virbank Gym! Part 2",
+            "number": "733",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All for the Love of Meloetta!",
+            "number": "734",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Piplup, Pansage, and a Meeting of the Times!",
+            "number": "735",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Expedition to Onix Island!",
+            "number": "736",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Mystery of the Missing Cubchoo!",
+            "number": "737",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Iris and the Rogue Dragonite!",
+            "number": "738",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jostling for the Junior Cup!",
+            "number": "739",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling Authority Once Again!",
+            "number": "740",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ash, Iris and Trip: Then There Were Three!",
+            "number": "741",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Goodbye, Juinor Cup\u2014Hello, Adventure!",
+            "number": "742",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Road to Humilau!",
+            "number": "743",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unrest at the Nursery!",
+            "number": "744",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Meloetta and the Undersea Temple!",
+            "number": "745",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unova's Survival Crisis!",
+            "number": "746",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beauties Battling for Pride and Prestige!",
+            "number": "747",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Surface to Air Tag Battle Team!",
+            "number": "748",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Village Homecoming!",
+            "number": "749",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Drayden Versus Iris: Past, Present, and Future!",
+            "number": "750",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Team Eevee and the Rescue Squad!",
+            "number": "751",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Curtain Up, Unova League!",
+            "number": "752",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mission: Defeat Your Rival!",
+            "number": "753",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lost at the League!",
+            "number": "754",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Strong Strategy Steals the Show!",
+            "number": "755",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cameron's Secret Weapon!",
+            "number": "756",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Unova League Evolution!",
+            "number": "757",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "New Places...Familiar Faces!",
+            "number": "758",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Name's N!",
+            "number": "759",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There's a New Gym Leader in Town!",
+            "number": "760",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Team Plasma's Pok\u00e9mon Power Plot!",
+            "number": "761",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Light of Floccesy Ranch!",
+            "number": "762",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Saving Braviary!",
+            "number": "763",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Pok\u00e9mon Harbor Patrol!",
+            "number": "764",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Fires of a Red-Hot Reunion!",
+            "number": "765",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Team Plasma's Pok\u00e9mon Manipulation!",
+            "number": "766",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Secrets From Out of the Fog!",
+            "number": "767",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Meowth, Colress, and Team Rivalry!",
+            "number": "768",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ash and N: A Clash of Ideals!",
+            "number": "769",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Team Plasma and the Awakening Ceremony!",
+            "number": "770",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What Lies Beyond Truth and Ideals!",
+            "number": "771",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Farewell, Unova! Setting Sail for New Adventures!",
+            "number": "772",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Danger, Sweet as Honey!",
+            "number": "773",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cilan and the Case of the Purrloin Witness!",
+            "number": "774",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Crowning the Scalchop King!",
+            "number": "775",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Island of Illusions!",
+            "number": "776",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "To Catch a Rotom!",
+            "number": "777",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Pirates of Decolore!",
+            "number": "778",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Butterfree and Me!",
+            "number": "779",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Path That Lead to Goodbye!",
+            "number": "780",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Searching For a Wish!",
+            "number": "781",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Capacia Island UFO!",
+            "number": "782",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Journalist from Another Region!",
+            "number": "783",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mystery on a Deserted Island!",
+            "number": "784",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Pok\u00e9mon of a Different Color!",
+            "number": "785",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Celebrating the Hero's Comet!",
+            "number": "786",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Go, Go, Gogoat!",
+            "number": "787",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Team Rocket's Shocking Recruit!",
+            "number": "788",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Survival of the Striaton Gym!",
+            "number": "789",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Best Wishes Until We Meet Again!",
+            "number": "790",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dream Continues!",
+            "number": "791",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kalos, Where Dreams and Adventures Begin!",
+            "number": "792",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lumiose City Pursuit!",
+            "number": "793",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Battle of Aerial Mobility!",
+            "number": "794",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Shockingly Cheeky Friendship!",
+            "number": "795",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Blustery Santalune Gym Battle!",
+            "number": "796",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling on Thin Ice!",
+            "number": "797",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Giving Chase at the Rhyhorn Race!",
+            "number": "798",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Grooming Furfrou!",
+            "number": "799",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Clemont's Got a Secret!",
+            "number": "800",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mega-Mega Meowth Madness!",
+            "number": "801",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Bamboozling Forest!",
+            "number": "802",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To Catch a Pok\u00e9mon Smuggler!",
+            "number": "803",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kindergarten Chaos!",
+            "number": "804",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Seeking Shelter from the Storm!",
+            "number": "805",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "An Appetite for Battle!",
+            "number": "806",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Jolting Switcheroo!",
+            "number": "807",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Rush of Ninja Wisdom!",
+            "number": "808",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Awakening the Sleeping Giant!",
+            "number": "809",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Conspiracy to Conquer!",
+            "number": "810",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Breaking Titles at the Chateau!",
+            "number": "811",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Pok\u00e9vision of Things to Come!",
+            "number": "812",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Going for the Gold!",
+            "number": "813",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Coming Back into the Cold!",
+            "number": "814",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Climbing the Walls!",
+            "number": "815",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Battle by Any Other Name!",
+            "number": "816",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To Find a Fairy Flower!",
+            "number": "817",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Bonds of Evolution!",
+            "number": "818",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Heroes\u2013Friends and Faux Alike!",
+            "number": "819",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mega Revelations!",
+            "number": "820",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cave of Trials!",
+            "number": "821",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Aura Storm!",
+            "number": "822",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Calling from Beyond the Aura!",
+            "number": "823",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Bonds of Mega Evolution!",
+            "number": "824",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Forest Champion!",
+            "number": "825",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battles in the Sky!",
+            "number": "826",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cave of Mirrors!",
+            "number": "827",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Forging Forest Friendships!",
+            "number": "828",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Summer of Discovery!",
+            "number": "829",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Day Three Blockbusters!",
+            "number": "830",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Foggy Pok\u00e9mon Orienteering!",
+            "number": "831",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling into the Hall of Fame!",
+            "number": "832",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Origins of Mega Evolution!",
+            "number": "833",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showdown at the Shalour Gym!",
+            "number": "834",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Splitting Heirs!",
+            "number": "835",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Clumsy Crier Quiets the Chaos!",
+            "number": "836",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dreaming a Performer's Dream!",
+            "number": "837",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Campus Reunion!",
+            "number": "838",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bonnie for the Defense!",
+            "number": "839",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Pathways to Performance Partnering!",
+            "number": "840",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When Light and Dark Collide!",
+            "number": "841",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "An Undersea Place to Call Home!",
+            "number": "842",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Stealthy Challenge!",
+            "number": "843",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Race for Home!",
+            "number": "844",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Facing the Grand Design!",
+            "number": "845",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Slippery Encounter!",
+            "number": "846",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "One for the Goomy!",
+            "number": "847",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Thawing an Icy Panic!",
+            "number": "848",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Green, Green Grass-Types of Home!",
+            "number": "849",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Under the Pledging Tree!",
+            "number": "850",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Showcase Debut!",
+            "number": "851",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Oasis of Hope!",
+            "number": "852",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Future Is Now, Thanks to Determination!",
+            "number": "853",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Fork in the Road! A Parting of the Ways!",
+            "number": "854",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling with Elegance and a Big Smile!",
+            "number": "855",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Good Friends, Great Training!",
+            "number": "856",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Confronting the Darkness!",
+            "number": "857",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Moment of Lumiose Truth!",
+            "number": "858",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Garchomp's Mega Bond!",
+            "number": "859",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Defending the Homeland!",
+            "number": "860",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beyond the Rainbow!",
+            "number": "861",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "So You're Having a Bad Day!",
+            "number": "862",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Scary Hospitality!",
+            "number": "863",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Fashionable Battle!",
+            "number": "864",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fairy-Type Trickery!",
+            "number": "865",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rivals: Today and Tomorrow!",
+            "number": "866",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Not-So-Flying Start!",
+            "number": "867",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Relay in the Sky!",
+            "number": "868",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Frenzy Factory Fiasco!",
+            "number": "869",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Performing with Fiery Charm!",
+            "number": "870",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rotom's Wish!",
+            "number": "871",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Festival Trade! A Festival Farewell?",
+            "number": "872",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Over the Mountain of Snow!",
+            "number": "873",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Adventures in Running Errands!",
+            "number": "874",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Mending a Broken Spirit!",
+            "number": "875",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Legendary Photo Op!",
+            "number": "876",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Tiny Caretaker!",
+            "number": "877",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Trip Down Memory Train!",
+            "number": "878",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Frolicking Find in the Flowers!",
+            "number": "879",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lights! Camera! Pika!",
+            "number": "880",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Tag Team Inspiration!",
+            "number": "881",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Performance Pop Quiz!",
+            "number": "882",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cloudy Fate, Bright Future!",
+            "number": "883",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Eyes on the Future!",
+            "number": "884",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "From A to Z!",
+            "number": "885",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love Strikes! Eevee, Yikes!",
+            "number": "886",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Giga Battle with Mega Results!",
+            "number": "887",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Fiery Rite of Passage!",
+            "number": "888",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Dream a Little Dream from Me!",
+            "number": "889",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Legend of the Ninja Hero!",
+            "number": "890",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Festival of Decisions!",
+            "number": "891",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Dancing Debut!",
+            "number": "892",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Meeting at Terminus Cave!",
+            "number": "893",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Cellular Connection!",
+            "number": "894",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Windswept Encounter!",
+            "number": "895",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Party Dancecapades!",
+            "number": "896",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Meeting of Two Journeys!",
+            "number": "897",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Explosive Operation!",
+            "number": "898",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Watershed Moment!",
+            "number": "899",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Master Class Choices!",
+            "number": "900",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Electrifying Rage!",
+            "number": "901",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unlocking Some Respect!",
+            "number": "902",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Master Class Is in Session!",
+            "number": "903",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Performing a Pathway to the Future!",
+            "number": "904",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Keeper for Keeps?",
+            "number": "905",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling at Full Volume!",
+            "number": "906",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Synchronicity Test!",
+            "number": "907",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Making Friends and Influencing Villians!",
+            "number": "908",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Championing a Research Battle!",
+            "number": "909",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Full-Strength Battle Surprise!",
+            "number": "910",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Hail the Ice Battlefield!",
+            "number": "911",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Seeing the Forest for the Trees!",
+            "number": "912",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Real Icebreaker!",
+            "number": "913",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Diamond in the Rough!",
+            "number": "914",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Gaggle of Gadget Greatness!",
+            "number": "915",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A League of His Own!",
+            "number": "916",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Valuable Experience for All!",
+            "number": "917",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Analysis Versus Passion!",
+            "number": "918",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Riveting Rivalry!",
+            "number": "919",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Kalos League Passion with a Certain Flare!",
+            "number": "920",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Finals Not for the Faint-Hearted!",
+            "number": "921",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Down to the Fiery Finish!",
+            "number": "922",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Towering Takeover!",
+            "number": "923",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Coming Apart at the Dreams!",
+            "number": "924",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Right Hero for the Right Job!",
+            "number": "925",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rocking Kalos Defenses!",
+            "number": "926",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Forming a More Perfect Union!",
+            "number": "927",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling with a Clean Slate!",
+            "number": "928",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The First Day of the Rest of Your Life!",
+            "number": "929",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Facing the Needs of the Many!",
+            "number": "930",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Till We Compete Again!",
+            "number": "931",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Legend of X, Y, and Z!",
+            "number": "932",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Alola to New Adventure!",
+            "number": "933",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Guardian's Challenge!",
+            "number": "934",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Loading the Dex!",
+            "number": "935",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "First Catch in Alola, Ketchum-Style!",
+            "number": "936",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Yo, Ho, Ho! Go, Popplio!",
+            "number": "937",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Shocking Grocery Run!",
+            "number": "938",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "That's Why the Litten Is a Scamp!",
+            "number": "939",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lillie's Egg-Xhilarating Challenge!",
+            "number": "940",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "To Top a Totem!",
+            "number": "941",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Trial and Tribulation!",
+            "number": "942",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Young Kiawe Had a Farm!",
+            "number": "943",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Sun, the Scare, the Secret Lair!",
+            "number": "944",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Racing to a Big Event!",
+            "number": "945",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Getting to Know You!",
+            "number": "946",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rocking Clawmark Hill!",
+            "number": "947",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "They Might Not Be Giants!",
+            "number": "948",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Crystal-Clear Sleuthing!",
+            "number": "949",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Seasoned Search!",
+            "number": "950",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Guardian Rematch!",
+            "number": "951",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Partner Promises!",
+            "number": "952",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "One Journey Ends, Another Begins...",
+            "number": "953",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Shivering Shovel Search!",
+            "number": "954",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Getting the Band Back Together!",
+            "number": "955",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Alolan Open House!",
+            "number": "956",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Team-on-Team Tussle!",
+            "number": "957",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "So Long, Sophocles!",
+            "number": "958",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Glaring Rivalry!",
+            "number": "959",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pulling Out the Pok\u00e9mon Base Pepper!",
+            "number": "960",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Lulled to La-La Land!",
+            "number": "961",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Ol' Raise and Switch!",
+            "number": "962",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Island Whisperer!",
+            "number": "963",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Treasure Hunt, Akala Style!",
+            "number": "964",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Big Sky, Small Fry!",
+            "number": "965",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Crowning Moment of Truth!",
+            "number": "966",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Currying Favor and Flavor!",
+            "number": "967",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Trials and Determinations!",
+            "number": "968",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rising from the Ruins!",
+            "number": "969",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mimikyu Unmasked!",
+            "number": "970",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mallow and the Forest Teacher!",
+            "number": "971",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Balloons, Brionne, and Belligerence!",
+            "number": "972",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mounting an Electrifying Charge!",
+            "number": "973",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Alola, Kanto!",
+            "number": "974",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "When Regions Collide!",
+            "number": "975",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Dream Encounter!",
+            "number": "976",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Now You See Them, Now You Don't!",
+            "number": "977",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Deceiving Appearances!",
+            "number": "978",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Masked Warning!",
+            "number": "979",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Night of a Thousand Poses!",
+            "number": "980",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mission: Total Recall!",
+            "number": "981",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Faba's Revenge!",
+            "number": "982",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Family Determination!",
+            "number": "983",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Revealing the Stuff of Legend!",
+            "number": "984",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rescuing the Unwilling!",
+            "number": "985",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "10,000,000 Reasons to Fight!",
+            "number": "986",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Professors' New Adventure!",
+            "number": "987",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Let Sleeping Pok\u00e9mon Lie!",
+            "number": "988",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dex Can't Help It!",
+            "number": "989",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Fighting Back The Tears!",
+            "number": "990",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tasting the Bitter with the Sweet!",
+            "number": "991",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Getting a Jump on the Competition!",
+            "number": "992",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Mission of Ultra Urgency!",
+            "number": "993",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Acting True to Form!",
+            "number": "994",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pushing the Fiery Envelope!",
+            "number": "995",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turning Heads and Training Hard!",
+            "number": "996",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Smashing with Sketch!",
+            "number": "997",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love at First Twirl!",
+            "number": "998",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Real Life...Inquire Within!",
+            "number": "999",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rise and Shine, Starship!",
+            "number": "1000",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Young Flame Strikes Back!",
+            "number": "1001",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dewpider Ascending!",
+            "number": "1002",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sours for the Sweet!",
+            "number": "1003",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Why Not Give Me a Z-Ring Sometime?",
+            "number": "1004",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tough Guy Trials!",
+            "number": "1005",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Some Kind of Laziness!",
+            "number": "1006",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Battle Hand-Off!",
+            "number": "1007",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Guiding an Awakening!",
+            "number": "1008",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Twirling with a Bang!",
+            "number": "1009",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showering the World with Love!",
+            "number": "1010",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Not Caving Under Pressure!",
+            "number": "1011",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Young Royal Flame Ignites!",
+            "number": "1012",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All They Want to Do Is Dance, Dance!",
+            "number": "1013",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dummy, You Shrunk the Kids!",
+            "number": "1014",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Shape of Love to Come!",
+            "number": "1015",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Long Vault Home!",
+            "number": "1016",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Choose Paradise!",
+            "number": "1017",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Filling the Light with Darkness!",
+            "number": "1018",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Full Moon and Many Arms!",
+            "number": "1019",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Prism Between Light and Darkness!",
+            "number": "1020",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Securing the Future!",
+            "number": "1021",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Plethora of Pikachu!",
+            "number": "1022",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turning the Other Mask!",
+            "number": "1023",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lillier and the Staff!",
+            "number": "1024",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Haunted House for Everyone!",
+            "number": "1025",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sparking Confusion!",
+            "number": "1026",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Don't Ignore the Small Stufful!",
+            "number": "1027",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "No Stone Unturned!",
+            "number": "1028",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Bright Lights, Big Changes!",
+            "number": "1029",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We Know Where You're Going, Eevee!",
+            "number": "1030",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling the Beast Within!",
+            "number": "1031",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Parallel Friendships!",
+            "number": "1032",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Alola, Alola!",
+            "number": "1033",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Heart of Fire! Heart of Stone!",
+            "number": "1034",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That's Some Spicy Island Research!",
+            "number": "1035",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showdown on Poni Island!",
+            "number": "1036",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Evolving Research!",
+            "number": "1037",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Run, Heroes, Run!",
+            "number": "1038",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Memories in the Mist!",
+            "number": "1039",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Grand Debut!",
+            "number": "1040",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keeping Your Eyes on the Ball!",
+            "number": "1041",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Show Me the Metal!",
+            "number": "1042",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Got Meltan?",
+            "number": "1043",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "This Magik Moment!",
+            "number": "1044",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Beauty is Only Crystal Deep!",
+            "number": "1045",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dealer of Destruction!",
+            "number": "1046",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Secret Princess!",
+            "number": "1047",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Drawn with the Wind!",
+            "number": "1048",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Aiming for the Top Floor!",
+            "number": "1049",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A High-Speed Awakening!",
+            "number": "1050",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The One That Didn't Get Away!",
+            "number": "1051",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Recipe for Success!",
+            "number": "1052",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Spying for the Big Guy!",
+            "number": "1053",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Fiery Training Camp Trick!",
+            "number": "1054",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Living on the Cutting Edge!",
+            "number": "1055",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Timeless Encounter!",
+            "number": "1056",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pikachu\u2019s Exciting Adventure!",
+            "number": "1057",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Chasing Memories, Creating Dreams!",
+            "number": "1058",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "League Offenders and Defenders!",
+            "number": "1059",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battle Royal 151!",
+            "number": "1060",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling Besties!",
+            "number": "1061",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Battlefield of Truth and Love!",
+            "number": "1062",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Imitation Is the Sincerest Form of Strategy!",
+            "number": "1063",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling on the Wing!",
+            "number": "1064",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Road to the Semifinals!",
+            "number": "1065",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Final Four!",
+            "number": "1066",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Getting Down to the Ire!",
+            "number": "1067",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Wisdom Not to Run!",
+            "number": "1068",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Final Rivals!",
+            "number": "1069",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter the Champion!",
+            "number": "1070",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Z-Move Showdown!",
+            "number": "1071",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Exhibition Unmasked!",
+            "number": "1072",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Full Battle Bounty!",
+            "number": "1073",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": " Fiery Surprises!",
+            "number": "1074",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "From Z to Shining Z!",
+            "number": "1075",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dreaming of the Sun and Moon!",
+            "number": "1076",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Thank You, Alola! The Journey Continues!",
+            "number": "1077",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Enter Pikachu!",
+            "number": "1078",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Legend? Go! Friends? Go!",
+            "number": "1079",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ivysaur\u2019s Mysterious Tower!",
+            "number": "1080",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Settling the Scorbunny!",
+            "number": "1081",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mind-Boggling Dynamax!",
+            "number": "1082",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Working My Way Back to Mew!",
+            "number": "1083",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Serving Up the Flute Cup!",
+            "number": "1084",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sinnoh Iceberg Race!",
+            "number": "1085",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Finding a Legend!",
+            "number": "1086",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 276
+}

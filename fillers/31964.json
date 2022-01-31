@@ -3,7 +3,6 @@
     "anilist-id": 21459,
     "anilist-name_en": "My Hero Academia",
     "anilist-name_jp": "Boku no Hero Academia",
-    "total-episodes": 13,
     "afl-name": "My Hero Academia",
     "afl-link": "https://www.animefillerlist.com/shows/my-hero-academia",
     "fillers_episodes": [
@@ -691,5 +690,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
 }

@@ -3,7 +3,6 @@
     "anilist-id": 20552,
     "anilist-name_en": "Yu-Gi-Oh! ARC-V",
     "anilist-name_jp": "Yu\u2606Gi\u2606Oh! ARC-V",
-    "total-episodes": 148,
     "afl-name": "Yu-Gi-Oh! ARC-V",
     "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh-arc-v",
     "fillers_episodes": [
@@ -131,5 +130,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 148
 }

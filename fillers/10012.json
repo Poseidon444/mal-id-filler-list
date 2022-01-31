@@ -1,0 +1,85 @@
+{
+    "mal-id": 10012,
+    "anilist-id": 10012,
+    "anilist-name_en": null,
+    "anilist-name_jp": "Carnival Phantasm",
+    "afl-name": "Carnival Phantasm",
+    "afl-link": "https://www.animefillerlist.com/shows/carnival-phantasm",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "5th Great Clash of the Magicians",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Badump! Melty Blood!",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's a Daydream Everywhere",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Badump! Date Super Plan!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Berserker's First Errand",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Type-Moon Serial TV Novel Sakura",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "An Expert Gift",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Saber at work",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Holy Grail Grand Prix",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Loli Reversion",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Final Dead Lancer",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Badump! Date Super Plan Answer!",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

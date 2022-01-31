@@ -3,7 +3,6 @@
     "anilist-id": 6213,
     "anilist-name_en": "A Certain Scientific Railgun",
     "anilist-name_jp": "Toaru Kagaku no Railgun",
-    "total-episodes": 24,
     "afl-name": "A Certain Scientific Railgun",
     "afl-link": "https://www.animefillerlist.com/shows/a-certain-scientific-railgun",
     "fillers_episodes": [
@@ -462,5 +461,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

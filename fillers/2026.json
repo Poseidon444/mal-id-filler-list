@@ -3,7 +3,6 @@
     "anilist-id": 2026,
     "anilist-name_en": "Hayate the Combat Butler",
     "anilist-name_jp": "Hayate no Gotoku!",
-    "total-episodes": 52,
     "afl-name": "Hayate the Combat Butler",
     "afl-link": "https://www.animefillerlist.com/shows/hayate-combat-butler",
     "fillers_episodes": [
@@ -240,5 +239,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 52
 }

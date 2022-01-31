@@ -1,0 +1,31 @@
+{
+    "mal-id": 41468,
+    "anilist-id": 116673,
+    "anilist-name_en": "BURN THE WITCH",
+    "anilist-name_jp": "BURN THE WITCH",
+    "afl-name": "BURN THE WITCH",
+    "afl-link": "https://www.animefillerlist.com/shows/burn-witch",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Witches Blow a New Pipe",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghillie Suit / She Makes Me Special",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If a lion could speak, we couldn't understand",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 3
+}

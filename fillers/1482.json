@@ -3,7 +3,6 @@
     "anilist-id": 1482,
     "anilist-name_en": "D.Gray-man",
     "anilist-name_jp": "D.Gray-man",
-    "total-episodes": 103,
     "afl-name": "D.Gray-man",
     "afl-link": "https://www.animefillerlist.com/shows/d-gray-man",
     "fillers_episodes": [
@@ -730,5 +729,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 103
 }

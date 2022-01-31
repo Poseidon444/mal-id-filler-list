@@ -1,0 +1,37 @@
+{
+    "mal-id": 2252,
+    "anilist-id": 2252,
+    "anilist-name_en": "Devilman",
+    "anilist-name_jp": "Devilman",
+    "afl-name": "Devilman",
+    "afl-link": "https://www.animefillerlist.com/shows/devilman-birth",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Resurrection of The Demon Tribe",
+            "number": "1",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Demon Sir\u00e8ne",
+            "number": "2",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Demon Gelge",
+            "number": "3",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Demon General Xannin",
+            "number": "4",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 39
+}

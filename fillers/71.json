@@ -3,7 +3,6 @@
     "anilist-id": 71,
     "anilist-name_en": "Full Metal Panic!",
     "anilist-name_jp": "Full Metal Panic!",
-    "total-episodes": 24,
     "afl-name": "Full Metal Panic!",
     "afl-link": "https://www.animefillerlist.com/shows/full-metal-panic",
     "fillers_episodes": [
@@ -319,5 +318,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

@@ -3,7 +3,6 @@
     "anilist-id": 21626,
     "anilist-name_en": "Handa-kun",
     "anilist-name_jp": "Handa-kun",
-    "total-episodes": 12,
     "afl-name": "Handa-kun",
     "afl-link": "https://www.animefillerlist.com/shows/handa-kun",
     "fillers_episodes": [
@@ -82,5 +81,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
 }

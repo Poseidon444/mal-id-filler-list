@@ -3,7 +3,6 @@
     "anilist-id": 97940,
     "anilist-name_en": "Black Clover",
     "anilist-name_jp": "Black Clover",
-    "total-episodes": 170,
     "afl-name": "Black Clover",
     "afl-link": "https://www.animefillerlist.com/shows/black-clover",
     "fillers_episodes": [
@@ -1046,5 +1045,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 170
 }

@@ -3,7 +3,6 @@
     "anilist-id": 379,
     "anilist-name_en": "Excel Saga",
     "anilist-name_jp": "Heppoko Jikken Animation Excel Saga",
-    "total-episodes": 26,
     "afl-name": "Excel Saga",
     "afl-link": "https://www.animefillerlist.com/shows/excel-saga",
     "fillers_episodes": [
@@ -191,5 +190,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 26
 }

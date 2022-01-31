@@ -1,0 +1,157 @@
+{
+    "mal-id": 8425,
+    "anilist-id": 8425,
+    "anilist-name_en": null,
+    "anilist-name_jp": "GOSICK",
+    "afl-name": "Gosick",
+    "afl-link": "https://www.animefillerlist.com/shows/gosick",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The Black Reaper Finds the Golden Fairy",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Souls of the Dead Raise a Shipwreck",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hares Break a Promise Under the Morning Sun",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Golden Thread Cuts Through a Passing Moment",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There's a Mysterious Ghost in the Abandoned Storehouse",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Gray Wolves Summon Their Brethren",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Divine Revelation is Given at the Summer Solstice Festival",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Howling Echoes from the Kingdom of the Past",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Blue Roses Bloom in the Cannibal Department Store",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Girl with a Cold Dreams of Her Stubborn Friend",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That Drill Eloquently Speaks of Love",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Cicadas are Heard on Summer Afternoons",
+            "number": "12",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Fool Designates His Own Mouthpiece",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Malicious Frill Denounces a Farting Newt",
+            "number": "14",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Two Monsters See Eye to Eye",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Felling Maria has a Fly\u2019s Head",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Box Lies in the Spiral Labyrinth",
+            "number": "17",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Jet-Black Train Carries Several Lies",
+            "number": "18",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Rose Colored Life is Buried Under Fresh Snow",
+            "number": "19",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Guided by the Phantom's Ghost",
+            "number": "20",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Bells of Christmas Eve Toll at the Heels of Time",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Christmas Carol Decorates the Windowsill's Happiness",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Call Checkmate on an Ash-Colored Chessboard",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Looking at Infinity over the Grim Reaper's Shoulder",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
+}

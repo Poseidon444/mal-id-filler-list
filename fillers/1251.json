@@ -3,7 +3,6 @@
     "anilist-id": 1251,
     "anilist-name_en": "Nadia: The Secret of Blue Water",
     "anilist-name_jp": "Fushigi no Umi no Nadia",
-    "total-episodes": 39,
     "afl-name": "Nadia: The Secret of Blue Water",
     "afl-link": "https://www.animefillerlist.com/shows/nadia-secret-blue-water",
     "fillers_episodes": [
@@ -249,5 +248,7 @@
             "filler": "Anime Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 39
 }

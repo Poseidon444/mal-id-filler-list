@@ -1,21 +1,17 @@
 import json
 
-diff = 11
-fileName = "72.json"
+diff,fileName = 11,"72.json"
 
 f = open(fileName)
 data = json.load(f)
 
-a = []
-for i in list(data["fillers_episodes"]):
-    a.append(str(int(i)-diff))
-data["fillers_episodes"] = a
+data["fillers_episodes"] = [str(int(i)-diff) for i in data["fillers_episodes"]]
+
+
 b = []
-for i in list(data["episodes"]):
-    i["number"] = str(int(i["number"])-diff)
-    b.append(i)
+for i in list(data["episodes"]):i["number"] = str(int(i["number"])-diff) and b.append(i)
+
 
 data["episodes"] = b
 
-with open(fileName, "w") as fp:
-    json.dump(data , fp, indent = 4) 
+with open(fileName, "w") as fp:json.dump(data , fp, indent = 4) 

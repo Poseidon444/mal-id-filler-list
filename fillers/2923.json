@@ -3,7 +3,6 @@
     "anilist-id": 2923,
     "anilist-name_en": "Shugo Chara!",
     "anilist-name_jp": "Shugo Chara!",
-    "total-episodes": 51,
     "afl-name": "Shugo Chara!",
     "afl-link": "https://www.animefillerlist.com/shows/shugo-chara",
     "fillers_episodes": [
@@ -619,13 +618,13 @@
             "filler-bool": false
         },
         {
-            "title": "Unheard Pleas, Shattered Feelings.",
+            "title": "Rima, Yaya, and the Pearls that Bind Them!",
             "number": "96",
             "filler": "Manga Canon",
             "filler-bool": false
         },
         {
-            "title": "Rima, Yaya, and the Pearls that Bind Them!",
+            "title": "Unheard Pleas, Shattered Feelings.",
             "number": "96",
             "filler": "Manga Canon",
             "filler-bool": false
@@ -816,5 +815,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 51
 }

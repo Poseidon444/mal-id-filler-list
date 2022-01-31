@@ -3,7 +3,6 @@
     "anilist-id": 270,
     "anilist-name_en": "HELLSING",
     "anilist-name_jp": "HELLSING",
-    "total-episodes": 13,
     "afl-name": "Hellsing",
     "afl-link": "https://www.animefillerlist.com/shows/hellsing",
     "fillers_episodes": [
@@ -93,5 +92,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
 }

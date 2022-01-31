@@ -1,0 +1,19 @@
+{
+    "mal-id": 40456,
+    "anilist-id": 112151,
+    "anilist-name_en": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+    "anilist-name_jp": "Kimetsu no Yaiba: Mugen Ressha-hen",
+    "afl-name": "Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train",
+    "afl-link": "https://www.animefillerlist.com/shows/demon-slayer-kimetsu-no-yaiba-movie-mugen-train",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 1
+}

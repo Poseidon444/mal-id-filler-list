@@ -3,7 +3,6 @@
     "anilist-id": 21311,
     "anilist-name_en": "Bungo Stray Dogs",
     "anilist-name_jp": "Bungou Stray Dogs",
-    "total-episodes": 12,
     "afl-name": "Bungo Stray Dogs",
     "afl-link": "https://www.animefillerlist.com/shows/bungo-stray-dogs",
     "fillers_episodes": [
@@ -233,5 +232,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
 }

@@ -3,7 +3,6 @@
     "anilist-id": 813,
     "anilist-name_en": "Dragon Ball Z",
     "anilist-name_jp": "Dragon Ball Z",
-    "total-episodes": 291,
     "afl-name": "Dragon Ball Z",
     "afl-link": "https://www.animefillerlist.com/shows/dragon-ball-z",
     "fillers_episodes": [
@@ -1794,5 +1793,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 291
 }

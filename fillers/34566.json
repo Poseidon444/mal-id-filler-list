@@ -3,7 +3,6 @@
     "anilist-id": 97938,
     "anilist-name_en": "Boruto: Naruto Next Generations",
     "anilist-name_jp": "BORUTO: NARUTO NEXT GENERATIONS",
-    "total-episodes": null,
     "afl-name": "Boruto: Naruto Next Generations",
     "afl-link": "https://www.animefillerlist.com/shows/boruto-naruto-next-generations-manga-canon",
     "fillers_episodes": [
@@ -1583,5 +1582,9 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "total-episodes": [
+        233
+    ],
+    "nextAiringEpisode": 234
 }

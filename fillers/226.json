@@ -1,0 +1,91 @@
+{
+    "mal-id": 226,
+    "anilist-id": 226,
+    "anilist-name_en": "Elfen Lied",
+    "anilist-name_jp": "Elfen Lied",
+    "afl-name": "Elfen Lied",
+    "afl-link": "https://www.animefillerlist.com/shows/elfen-lied",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "A Chance Encounter: Begegnung",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Annihilation: Vernichtung",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Deep Feelings: Im Innersten",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Attack: Aufeinandertreffen",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Receipt: Empfang",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Innermost Feelings: Herzenswaerme",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Confrontation: Zufaellige Begegnung",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Beginning: Beginn",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reminiscence: Schoene Erinnerung",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Infant: Saeugling",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Complication: Vermischung",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Quagmire: Taumeln",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "No Return: Erleuchtung",
+            "number": "13",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
+}

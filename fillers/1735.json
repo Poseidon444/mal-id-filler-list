@@ -3,7 +3,6 @@
     "anilist-id": 1735,
     "anilist-name_en": "Naruto: Shippuden",
     "anilist-name_jp": "NARUTO: Shippuuden",
-    "total-episodes": 500,
     "afl-name": "Naruto Shippuden",
     "afl-link": "https://www.animefillerlist.com/shows/naruto-shippuden",
     "fillers_episodes": [
@@ -3210,5 +3209,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 500
 }

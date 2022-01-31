@@ -3,7 +3,6 @@
     "anilist-id": 918,
     "anilist-name_en": "Gintama",
     "anilist-name_jp": "Gintama",
-    "total-episodes": 201,
     "afl-name": "Gintama",
     "afl-link": "https://www.animefillerlist.com/shows/gintama",
     "fillers_episodes": [
@@ -2245,5 +2244,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 201
 }

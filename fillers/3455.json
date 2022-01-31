@@ -3,7 +3,6 @@
     "anilist-id": 3455,
     "anilist-name_en": "To Love Ru",
     "anilist-name_jp": "To LOVE-Ru",
-    "total-episodes": 26,
     "afl-name": "To Love Ru",
     "afl-link": "https://www.animefillerlist.com/shows/love-ru",
     "fillers_episodes": [
@@ -258,5 +257,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 26
 }

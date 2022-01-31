@@ -3,11 +3,9 @@
     "anilist-id": 4898,
     "anilist-name_en": "Black Butler",
     "anilist-name_jp": "Kuroshitsuji",
-    "total-episodes": 24,
     "afl-name": "Black Butler",
     "afl-link": "https://www.animefillerlist.com/shows/black-butler",
     "fillers_episodes": [
-        "1",
         "7",
         "8",
         "9",
@@ -34,15 +32,14 @@
         "33",
         "34",
         "35",
-        "36",
-        "37"
+        "36"
     ],
     "episodes": [
         {
             "title": "His Butler, Able",
             "number": "1",
-            "filler": "Filler",
-            "filler-bool": true
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
         },
         {
             "title": "His Butler, Strongest",
@@ -257,8 +254,8 @@
         {
             "title": "Book of Circus: His Butler, Presenting",
             "number": "37",
-            "filler": "Filler",
-            "filler-bool": true
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
         },
         {
             "title": "Book of Circus: His Butler, Taking the Stage",
@@ -313,6 +310,26 @@
             "number": "46",
             "filler": "Manga Canon",
             "filler-bool": false
+        },
+        {
+            "title": "Book of Murder: Part 1 (OVA)",
+            "number": "47",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Book of Murder: Part 2 (OVA)",
+            "number": "48",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Book of the Atlantic (Movie)",
+            "number": "49",
+            "filler": "Manga Canon",
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

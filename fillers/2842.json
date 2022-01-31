@@ -1,0 +1,1195 @@
+{
+    "mal-id": 2842,
+    "anilist-id": 2842,
+    "anilist-name_en": "Pok\u00e9mon Mystery Dungeon: Team Go-Getters Out of the Gate!",
+    "anilist-name_jp": "Pokemon Fushigi no Dungeon: Shutsudou Pokemon Kyuujotai Ganbaruzu!",
+    "afl-name": "Pok\u00e9mon Advanced Generation",
+    "afl-link": "https://www.animefillerlist.com/shows/pok%C3%A9mon-advanced-generation",
+    "fillers_episodes": [
+        "9",
+        "10",
+        "29",
+        "37",
+        "38",
+        "42",
+        "43",
+        "46",
+        "49",
+        "52",
+        "64",
+        "65",
+        "67",
+        "75",
+        "76",
+        "81",
+        "88",
+        "94",
+        "104",
+        "107",
+        "109",
+        "112",
+        "136",
+        "137",
+        "139",
+        "140",
+        "141",
+        "145",
+        "164",
+        "165",
+        "167",
+        "172",
+        "182",
+        "183",
+        "184"
+    ],
+    "episodes": [
+        {
+            "title": "Get the Show on the Road!",
+            "number": "1",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Ruin with a View",
+            "number": "2",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "There's no Place Like Hoenn",
+            "number": "3",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Never Can Taillow",
+            "number": "4",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the Knicker of Time!a",
+            "number": "5",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Poached Ego!",
+            "number": "6",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tree's a Crowd",
+            "number": "7",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Tail with a Twist",
+            "number": "8",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Taming of the Shroomish",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "You Said a Mouthful!",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Bite to Remember",
+            "number": "11",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Lotad Lowdown",
+            "number": "12",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Things Bright and Beautifly",
+            "number": "13",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All in a Day's Wurmple",
+            "number": "14",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gonna Rule The School!",
+            "number": "15",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Winner by a Nosepass",
+            "number": "16",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Stairway to Devon",
+            "number": "17",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "On a Wingull and a Prayer! ",
+            "number": "18",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sharpedo Attack!",
+            "number": "19",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Brave the Wave ",
+            "number": "20",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Which Wurmple's Which? ",
+            "number": "21",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Hole Lotta Trouble",
+            "number": "22",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gone Corphishin'",
+            "number": "23",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Corphish Out of Water",
+            "number": "24",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Mudkip Mission",
+            "number": "25",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Turning Over a Nuzleaf",
+            "number": "26",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Three Team Scheme!",
+            "number": "27",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Seeing is Believing!",
+            "number": "28",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ready, Willing, and Sableye",
+            "number": "29",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Meditite Fight! ",
+            "number": "30",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Just One of the Geysers",
+            "number": "31",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Abandon Ship!",
+            "number": "32",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Now That's Flower Power!",
+            "number": "33",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Having a Wailord of a Time",
+            "number": "34",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Win, Lose or Drew!",
+            "number": "35",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Spheal of Approval",
+            "number": "36",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Jump for Joy! ",
+            "number": "37",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Different Kind of Misty!",
+            "number": "38",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Pok\u00e9-BLOCK Party!",
+            "number": "39",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Watt's with Wattson?",
+            "number": "40",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "What You Seed is What You Get",
+            "number": "41",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love at First Flight",
+            "number": "42",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Let Bagons Be Bagons",
+            "number": "43",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Princess and the Togepi ",
+            "number": "44",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Togepi Mirage!",
+            "number": "45",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Candid Camerupt!",
+            "number": "46",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "I Feel Skitty!",
+            "number": "47",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "ZigZag Zangoose!",
+            "number": "48",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Maxxed Out! ",
+            "number": "49",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Pros and Con Artists",
+            "number": "50",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Come What May!",
+            "number": "51",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cheer Pressure",
+            "number": "52",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Game Winning Assist",
+            "number": "53",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Fight for the Meteorite!",
+            "number": "54",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Poetry Commotion!",
+            "number": "55",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Going, Going, Yawn",
+            "number": "56",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Going for a Spinda",
+            "number": "57",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "All Torkoal, No Play",
+            "number": "58",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Manectric Charge",
+            "number": "59",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Delcatty Got Your Tongue",
+            "number": "60",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Disaster of Disguise",
+            "number": "61",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Disguise Da Limit",
+            "number": "62",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Take the Lombre Home",
+            "number": "63",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "True Blue Swablu",
+            "number": "64",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Gulpin it Down",
+            "number": "65",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Exploud and Clear!",
+            "number": "66",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Go Go Ludicolo!",
+            "number": "67",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Double Dilemma",
+            "number": "68",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Love, Petalburg Style!",
+            "number": "69",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Balance of Power ",
+            "number": "70",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Six Pack Attack!",
+            "number": "71",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Bicker the Better",
+            "number": "72",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Grass Hysteria! ",
+            "number": "73",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hokey Pok\u00e9 Balls!",
+            "number": "74",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Whiscash and Ash",
+            "number": "75",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Me, Myself and Time",
+            "number": "76",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Fan with a Plan",
+            "number": "77",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cruisin' for a Losin'",
+            "number": "78",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pearls are a Spoink's Best Friend",
+            "number": "79",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "That's Just Swellow",
+            "number": "80",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Take This House and Shuppet",
+            "number": "81",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Shroomish Skirmish",
+            "number": "82",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Unfair Weather Friends",
+            "number": "83",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Who's Flying Now?",
+            "number": "84",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sky High Gym Battle!",
+            "number": "85",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lights, Camerupt, Action! ",
+            "number": "86",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Crazy as a Lunatone",
+            "number": "87",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "The Garden of Eatin'",
+            "number": "88",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "A Scare to Remember! ",
+            "number": "89",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9block, Stock, and Berry ",
+            "number": "90",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lessons in Lilycove",
+            "number": "91",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Judgment Day!",
+            "number": "92",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Clamperl of Wisdom",
+            "number": "93",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Relicanth Really Can ",
+            "number": "94",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Evolutionary War",
+            "number": "95",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Training Wrecks",
+            "number": "96",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gaining Groudon",
+            "number": "97",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Scuffle of Legends",
+            "number": "98",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "It's Still Rocket Roll to Me!",
+            "number": "99",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Solid as a Solrock",
+            "number": "100",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Vanity Affair",
+            "number": "101",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Where's Armaldo?",
+            "number": "102",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "A Cacturne for the Worse",
+            "number": "103",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Claydol Big and Tall",
+            "number": "104",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Once in a Mawile",
+            "number": "105",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Absol-ute Disaster",
+            "number": "107",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Let it Snow, Let it Snow, Let it Snorunt!",
+            "number": "108",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Beg, Burrow and Steal",
+            "number": "109",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Do I Hear a Ralts? ",
+            "number": "109",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Great Eight Fate! ",
+            "number": "110",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Eight Ain't Enough",
+            "number": "111",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Showdown At Linoone",
+            "number": "112",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Who, What, When, Where, Wynaut? ",
+            "number": "113",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Date Expectations",
+            "number": "114",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Mean With Envy",
+            "number": "115",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pacifidlog Jam ",
+            "number": "116",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Berry, Berry Interesting",
+            "number": "117",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Less is Morrison",
+            "number": "118",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ribbon Cup Caper ",
+            "number": "119",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hi Ho Silver Wind!",
+            "number": "120",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Deceit and Assist ",
+            "number": "121",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Rhapsody in Drew",
+            "number": "122",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Island Time",
+            "number": "123",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Like a Meowth to a Flame",
+            "number": "124",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Saved by the Beldum",
+            "number": "125",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "From Brags to Riches ",
+            "number": "126",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Shocks and Bonds",
+            "number": "127",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Judgment Brawl",
+            "number": "128",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Choose It or Lose It!",
+            "number": "129",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "At the End of the Fray",
+            "number": "130",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Scheme Team",
+            "number": "131",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Right Place and the Right Mime",
+            "number": "132",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Real Cleffa-Hanger",
+            "number": "133",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Numero Uno Articuno",
+            "number": "134",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Symbol Life",
+            "number": "135",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hooked on Onix",
+            "number": "136",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Rough, Tough Jigglypuff",
+            "number": "137",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "On Cloud Arcanine",
+            "number": "138",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Sitting Psyduck",
+            "number": "139",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Hail to the Chef!",
+            "number": "140",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Caterpie's Big Dilemma",
+            "number": "141",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "The Saffron Con ",
+            "number": "142",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Hurdle for Squirtle",
+            "number": "143",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pasta La Vista! ",
+            "number": "144",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Fear Factor Phony",
+            "number": "145",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Sweet Baby James",
+            "number": "146",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Chip Off the Old Brock",
+            "number": "147",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wheel of Frontier",
+            "number": "148",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "May's Egg-Cellent Adventure",
+            "number": "149",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Weekend Warrior",
+            "number": "150",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "On Olden Pond",
+            "number": "151",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Tactics Theatrics!!",
+            "number": "152",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Reversing the Charges",
+            "number": "153",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Green Guardian",
+            "number": "154",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "From Cradle to Save",
+            "number": "155",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Time Warp Heals All Wounds",
+            "number": "156",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Queen of the Serpentine!",
+            "number": "157",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Off the Unbeaten Path",
+            "number": "158",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Harley Rides Again",
+            "number": "159",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Odd Pok\u00e9mon Out!",
+            "number": "160",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Spontaneous Combusken! ",
+            "number": "161",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Cutting the Ties that Bind! ",
+            "number": "162",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ka Boom with a View!",
+            "number": "163",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "King and Queen for a Day!",
+            "number": "164",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Curbing the Crimson Tide!",
+            "number": "165",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "What I Did for Love!",
+            "number": "166",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Three Jynx and a Baby!",
+            "number": "167",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Talking a Good Game!",
+            "number": "168",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Second Time's the Charm!",
+            "number": "169",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9mon Ranger - Deoxys' Crisis! (Part 1)",
+            "number": "170",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pok\u00e9mon Ranger - Deoxys' Crisis! (Part 2)",
+            "number": "171",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All That Glitters is Not Golden!",
+            "number": "172",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "New Plot, Odd Lot!",
+            "number": "173",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Going for Choke!",
+            "number": "174",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Ole' Berate and Switch!",
+            "number": "175",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Grating Spaces!",
+            "number": "176",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Battling the Enemy Within!",
+            "number": "177",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Slaking Kong!",
+            "number": "178",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "May, We Harley Drew'd Ya!",
+            "number": "179",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Thinning the Hoard!",
+            "number": "180",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Channeling the Battle Zone! ",
+            "number": "181",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Aipom and Circumstance! ",
+            "number": "182",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Strategy Tomorrow - Comedy Tonight!",
+            "number": "183",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Duels of the Jungle!",
+            "number": "184",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Overjoyed!",
+            "number": "185",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Unbeatable Lightness of Seeing! ",
+            "number": "186",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pinch Healing! ",
+            "number": "187",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Gathering the Gang of Four!",
+            "number": "188",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Pace - The Final Frontier!",
+            "number": "189",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Once More With Reeling!",
+            "number": "190",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Home is Where the Start Is!",
+            "number": "191",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 1
+}

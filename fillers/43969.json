@@ -1,0 +1,85 @@
+{
+    "mal-id": 43969,
+    "anilist-id": 126192,
+    "anilist-name_en": "Girlfriend, Girlfriend",
+    "anilist-name_jp": "Kanojo mo Kanojo",
+    "afl-name": "Girlfriend, Girlfriend",
+    "afl-link": "https://www.animefillerlist.com/shows/girlfriend-girlfriend",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Even If That Isn't the Right Way",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "How Nagisa Feels",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Place for Three",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Girlfriend and Girlfriend",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Third One!?",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Tsun Is Dere",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Girlfriends' Challenge",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Obviously in Love",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Tsun's Dere Gets Outed",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Can't Wait for the Hot Springs",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Hot Spring Tropes",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Girlfriend, Girlfriend ",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

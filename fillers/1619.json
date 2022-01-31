@@ -1,0 +1,67 @@
+{
+    "mal-id": 1619,
+    "anilist-id": 1619,
+    "anilist-name_en": "Magic Teacher Negima! Spring OVA",
+    "anilist-name_jp": "Mahou Sensei Negima! OVA Haru",
+    "afl-name": "Negima OVA",
+    "afl-link": "https://www.animefillerlist.com/shows/negima-ovaoad",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Ala Alba (Shiroki Tsubasa) Episode 1",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ala Alba (Shiroki Tsubasa) Episode 2",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ala Alba (Shiroki Tsubasa) Episode 3",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mou Hitotsu no Sekai Episode 1 Destroyed? Negi Party!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mou Hitotsu no Sekai Episode 2 We'll look for my friends!",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mou Hitotsu no Sekai Episode 3 The birth of a new teacher and student duo",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mou Hitotsu no Sekai Episode 4 Road of the father, or the way of the teacher?",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Mou Hitotsu no Sekai Episode 5 (extra) Magical Girl Yue",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Negima Anime FINAL",
+            "number": "9",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 1
+}

@@ -3,7 +3,6 @@
     "anilist-id": 356,
     "anilist-name_en": "Fate/stay night",
     "anilist-name_jp": "Fate/stay night",
-    "total-episodes": 24,
     "afl-name": "Fate/stay night",
     "afl-link": "https://www.animefillerlist.com/shows/fatestay-night",
     "fillers_episodes": [
@@ -156,5 +155,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 24
 }

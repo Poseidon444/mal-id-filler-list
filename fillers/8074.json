@@ -1,0 +1,91 @@
+{
+    "mal-id": 8074,
+    "anilist-id": 8074,
+    "anilist-name_en": "High School of the Dead",
+    "anilist-name_jp": "Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD",
+    "afl-name": "Highschool of the Dead",
+    "afl-link": "https://www.animefillerlist.com/shows/highschoool-dead",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Spring of the Dead",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Escape from the Dead",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Democracy under the Dead",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Running in the Dead",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Streets of the Dead",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "In the Dead of the Night",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dead Night and the Dead Ruck",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dead Way Home",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sword and Dead",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Dead's House Rules",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Dead Storm Rising",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "All Dead's Attack",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Drifters of the Dead",
+            "number": "13",
+            "filler": "Anime Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

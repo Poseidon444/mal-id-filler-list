@@ -1,0 +1,82 @@
+{
+    "mal-id": 21575,
+    "anilist-id": 20776,
+    "anilist-name_en": "Ghost in the Shell: Arise Specials",
+    "anilist-name_jp": "Koukaku Kidoutai Arise: Ghost In The Shell Specials",
+    "afl-name": "Ghost in the Shell: Arise",
+    "afl-link": "https://www.animefillerlist.com/shows/ghost-shell-arise",
+    "fillers_episodes": [
+        "9",
+        "10"
+    ],
+    "episodes": [
+        {
+            "title": "Ghost Stands Alone, Part 1",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghost Stands Alone, Part 2",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghost Pain, Part 1",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghost Pain, Part 2",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghost Whispers, Part 1",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghost Whispers, Part 2",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghost Tears, Part 1",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Ghost Tears, Part 2",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "PYROPHORIC CULT, Part 1",
+            "number": "9",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "PYROPHORIC CULT, Part 2",
+            "number": "10",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Arise - The New Movie",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 4
+}

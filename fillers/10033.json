@@ -3,7 +3,6 @@
     "anilist-id": 10033,
     "anilist-name_en": null,
     "anilist-name_jp": "Toriko",
-    "total-episodes": 147,
     "afl-name": "Toriko",
     "afl-link": "https://www.animefillerlist.com/shows/toriko",
     "fillers_episodes": [
@@ -911,5 +910,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 147
 }

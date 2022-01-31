@@ -3,7 +3,6 @@
     "anilist-id": 250,
     "anilist-name_en": "Zatch Bell!",
     "anilist-name_jp": "Konjiki no Gash Bell!!",
-    "total-episodes": 150,
     "afl-name": "Zatch Bell!",
     "afl-link": "https://www.animefillerlist.com/shows/zatch-bell",
     "fillers_episodes": [
@@ -938,5 +937,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 150
 }

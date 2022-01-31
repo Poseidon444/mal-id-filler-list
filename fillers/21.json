@@ -3,7 +3,6 @@
     "anilist-id": 21,
     "anilist-name_en": "ONE PIECE",
     "anilist-name_jp": "ONE PIECE",
-    "total-episodes": null,
     "afl-name": "One Piece",
     "afl-link": "https://www.animefillerlist.com/shows/one-piece",
     "fillers_episodes": [
@@ -6157,5 +6156,9 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "total-episodes": [
+        1007
+    ],
+    "nextAiringEpisode": 1008
 }

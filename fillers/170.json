@@ -3,7 +3,6 @@
     "anilist-id": 170,
     "anilist-name_en": "Slam Dunk",
     "anilist-name_jp": "Slam Dunk",
-    "total-episodes": 101,
     "afl-name": "Slam Dunk",
     "afl-link": "https://www.animefillerlist.com/shows/slam-dunk-0",
     "fillers_episodes": [
@@ -625,5 +624,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 101
 }

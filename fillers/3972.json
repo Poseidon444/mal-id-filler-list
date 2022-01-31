@@ -3,7 +3,6 @@
     "anilist-id": 3972,
     "anilist-name_en": "Yu-Gi-Oh! 5D's",
     "anilist-name_jp": "Yu\u2606Gi\u2606Oh! 5D's",
-    "total-episodes": 154,
     "afl-name": "Yu-Gi-Oh! 5D's",
     "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh-5ds",
     "fillers_episodes": [
@@ -967,5 +966,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 154
 }

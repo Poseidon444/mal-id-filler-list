@@ -3,7 +3,6 @@
     "anilist-id": 121,
     "anilist-name_en": "Fullmetal Alchemist",
     "anilist-name_jp": "Hagane no Renkinjutsushi",
-    "total-episodes": 51,
     "afl-name": "Fullmetal Alchemist",
     "afl-link": "https://www.animefillerlist.com/shows/fullmetal-alchemist",
     "fillers_episodes": [
@@ -318,5 +317,7 @@
             "filler": "Anime Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 51
 }

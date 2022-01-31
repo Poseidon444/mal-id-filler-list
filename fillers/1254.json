@@ -3,7 +3,6 @@
     "anilist-id": 1254,
     "anilist-name_en": "Saint Seiya: Knights of the Zodiac",
     "anilist-name_jp": "Saint Seiya",
-    "total-episodes": 114,
     "afl-name": "Saint Seiya",
     "afl-link": "https://www.animefillerlist.com/shows/saint-seiya",
     "fillers_episodes": [
@@ -733,5 +732,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 114
 }

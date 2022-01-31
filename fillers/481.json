@@ -3,7 +3,6 @@
     "anilist-id": 481,
     "anilist-name_en": "Yu-Gi-Oh!",
     "anilist-name_jp": "Yu\u2606Gi\u2606Oh! Duel Monsters",
-    "total-episodes": 224,
     "afl-name": "Yu-Gi-Oh! Duel Monsters",
     "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh-duel-monsters",
     "fillers_episodes": [
@@ -1450,5 +1449,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 224
 }

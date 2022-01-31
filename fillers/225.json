@@ -3,7 +3,6 @@
     "anilist-id": 225,
     "anilist-name_en": "Dragon Ball GT",
     "anilist-name_jp": "Dragon Ball GT",
-    "total-episodes": 64,
     "afl-name": "Dragon Ball GT",
     "afl-link": "https://www.animefillerlist.com/shows/dragon-ball-gt",
     "fillers_episodes": [
@@ -464,5 +463,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 64
 }

@@ -3,7 +3,6 @@
     "anilist-id": 245,
     "anilist-name_en": "GTO: Great Teacher Onizuka",
     "anilist-name_jp": "Great Teacher Onizuka",
-    "total-episodes": 43,
     "afl-name": "Great Teacher Onizuka",
     "afl-link": "https://www.animefillerlist.com/shows/great-teacher-onizuka",
     "fillers_episodes": [
@@ -275,5 +274,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 43
 }

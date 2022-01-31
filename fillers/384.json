@@ -3,7 +3,6 @@
     "anilist-id": 384,
     "anilist-name_en": "Gantz",
     "anilist-name_jp": "Gantz",
-    "total-episodes": 13,
     "afl-name": "GANTZ",
     "afl-link": "https://www.animefillerlist.com/shows/gantz",
     "fillers_episodes": [
@@ -170,5 +169,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
 }

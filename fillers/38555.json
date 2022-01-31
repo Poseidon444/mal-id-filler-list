@@ -3,7 +3,6 @@
     "anilist-id": 104647,
     "anilist-name_en": "My Next Life as a Villainess: All Routes Lead to Doom!",
     "anilist-name_jp": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta\u2026",
-    "total-episodes": 12,
     "afl-name": "My Next Life as a Villainess: All Routes Lead to Doom!",
     "afl-link": "https://www.animefillerlist.com/shows/my-next-life-villainess-all-routes-lead-doom",
     "fillers_episodes": [
@@ -86,6 +85,80 @@
             "number": "12",
             "filler": "Manga Canon",
             "filler-bool": false
+        },
+        {
+            "title": "I Avoided My Doom Flags, so I Got Carried Away at the Cultural Festival...",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Turned Into a Villain...",
+            "number": "14",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "I Was Captured...",
+            "number": "15",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "I Had a Friendly Tea Time With an Attractive Butler...",
+            "number": "16",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Love for the Younger Brothers Poured Forth...",
+            "number": "17",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "I Had a Summer Adventure...",
+            "number": "18",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "My Wish Was Granted...",
+            "number": "19",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "I Had an Arranged Marriage Meeting...",
+            "number": "20",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Keith Disappeared... Part 1",
+            "number": "21",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keith Disappeared... Part 2",
+            "number": "22",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Keith Disappeared... Part 3",
+            "number": "23",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "My Graduation Ceremony Happened...",
+            "number": "24",
+            "filler": "Manga Canon",
+            "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
 }

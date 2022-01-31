@@ -3,7 +3,6 @@
     "anilist-id": 435,
     "anilist-name_en": "Magic Knight Rayearth",
     "anilist-name_jp": "Magic Knight Rayearth",
-    "total-episodes": 20,
     "afl-name": "Magic Knight Rayearth",
     "afl-link": "https://www.animefillerlist.com/shows/magic-knight-rayearth",
     "fillers_episodes": [
@@ -323,5 +322,7 @@
             "filler": "Mixed Canon/Filler",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 20
 }

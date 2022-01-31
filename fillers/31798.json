@@ -1,0 +1,85 @@
+{
+    "mal-id": 31798,
+    "anilist-id": 21421,
+    "anilist-name_en": "Kiznaiver",
+    "anilist-name_jp": "Kiznaiver",
+    "afl-name": "Kiznaiver",
+    "afl-link": "https://www.animefillerlist.com/shows/kiznaiver",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "Sometimes, a Bond Can Bloom from the First Day Eye Contact Is Made",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If You Can Swallow a Bizarre Situation Like This So Easily, Two Buckets of Barium Shouldn't Be a Problem",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Depending on How You Look At It, I Think We Could Get Through Anything... Right?",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Now That We're All Connected, Let's All Get to Know Each Other Better, 'Kay?",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Wahoo, It's a Training Camp! Let's Step in Deer Poop and Have Pillow Fights! Go, Go!",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Nothing Good Comes From Being Around All Of You",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "A Battle Touching Upon the Identity of the Pain that's Seven Times the Pain of One-Seventh of a Pain",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Happy Times Don't Tend to Last Very Long",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Everything's All Over......I Think",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "You Knew Very Well That Your Romantic Feelings Might Be Unrequited, Right?",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "We Have To Contact Each Other And Confirm Our Feelings. Because We're Friends!",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "If The Kizna System Spread Throughout The World",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

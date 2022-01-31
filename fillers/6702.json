@@ -3,7 +3,6 @@
     "anilist-id": 6702,
     "anilist-name_en": "Fairy Tail",
     "anilist-name_jp": "FAIRY TAIL",
-    "total-episodes": 175,
     "afl-name": "Fairy Tail",
     "afl-link": "https://www.animefillerlist.com/shows/fairy-tail",
     "fillers_episodes": [
@@ -2038,5 +2037,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 175
 }

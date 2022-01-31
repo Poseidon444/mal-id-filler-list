@@ -1,0 +1,91 @@
+{
+    "mal-id": 15809,
+    "anilist-id": 15809,
+    "anilist-name_en": "The Devil is a Part-Timer!",
+    "anilist-name_jp": "Hataraku Maou-sama!",
+    "afl-name": "The Devil Is a Part-Timer!",
+    "afl-link": "https://www.animefillerlist.com/shows/devil-part-timer",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The Devil Arrives in Sasazuka",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hero Stays at the Devil's Castle for Work Reasons",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Devil Goes on a Date with His Junior in Shinjuku",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hero Experiences Human Warmth",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Devil and the Hero Save Sasazuka",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Devil Climbs the Stairway to School",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Devil's Budget Is Saved by Neighborliness",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hero Enters the Fray",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hero Experiences a Fray",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Devil and the Hero Take a Break from the Daily Routine",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Hero Stays True to Her Convictions",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Devil Carries Out His Duties",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Devil and the Hero Do Some Honest Hard Work",
+            "number": "13",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 13
+}

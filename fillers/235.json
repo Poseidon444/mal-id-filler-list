@@ -3,7 +3,6 @@
     "anilist-id": 235,
     "anilist-name_en": "Case Closed",
     "anilist-name_jp": "Meitantei Conan",
-    "total-episodes": null,
     "afl-name": "Case Closed",
     "afl-link": "https://www.animefillerlist.com/shows/detective-conan",
     "fillers_episodes": [
@@ -1562,7 +1561,7 @@
             "filler-bool": true
         },
         {
-            "title": "A Cursed Mask Coldly Laughssup class=",
+            "title": "A Cursed Mask Coldly Laughs (1 Hour Special)",
             "number": "184",
             "filler": "Filler",
             "filler-bool": true
@@ -6685,5 +6684,9 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "total-episodes": [
+        1035
+    ],
+    "nextAiringEpisode": 1036
 }

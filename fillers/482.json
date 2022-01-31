@@ -3,7 +3,6 @@
     "anilist-id": 482,
     "anilist-name_en": "Yu-Gi-Oh! GX",
     "anilist-name_jp": "Yu\u2606Gi\u2606Oh! Duel Monsters GX",
-    "total-episodes": 180,
     "afl-name": "Yu-Gi-Oh! GX",
     "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh-gx",
     "fillers_episodes": [
@@ -1128,5 +1127,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 180
 }

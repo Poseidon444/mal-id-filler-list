@@ -3,7 +3,6 @@
     "anilist-id": 101165,
     "anilist-name_en": "GOBLIN SLAYER",
     "anilist-name_jp": "Goblin Slayer",
-    "total-episodes": 12,
     "afl-name": "Goblin Slayer",
     "afl-link": "https://www.animefillerlist.com/shows/goblin-slayer",
     "fillers_episodes": [
@@ -83,5 +82,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
 }

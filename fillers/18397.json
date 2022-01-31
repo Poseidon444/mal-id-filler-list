@@ -1,0 +1,64 @@
+{
+    "mal-id": 18397,
+    "anilist-id": 18397,
+    "anilist-name_en": "Attack on Titan OVA",
+    "anilist-name_jp": "Shingeki no Kyojin OVA",
+    "afl-name": "Attack on Titan Ova",
+    "afl-link": "https://www.animefillerlist.com/shows/attack-titan-ova-0",
+    "fillers_episodes": [
+        "2",
+        "3"
+    ],
+    "episodes": [
+        {
+            "title": "Ilse's Notebook: Memoirs of a Scout Regiment Member",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Sudden Visitor: The Torturous Curse of Youth",
+            "number": "2",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "Distress",
+            "number": "3",
+            "filler": "Filler",
+            "filler-bool": true
+        },
+        {
+            "title": "No Regrets: Part 1",
+            "number": "4",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "No Regrets: Part 2",
+            "number": "5",
+            "filler": "Mixed Canon/Filler",
+            "filler-bool": false
+        },
+        {
+            "title": "Lost Girls: Wall Sina, Goodbye: Part 1",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lost Girls: Wall Sina, Goodbye: Part 2",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "Lost Girls: Lost in the Cruel World",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 3
+}

@@ -3,7 +3,6 @@
     "anilist-id": 550,
     "anilist-name_en": null,
     "anilist-name_jp": "Yu\u2606Gi\u2606Oh!",
-    "total-episodes": 27,
     "afl-name": "Yu-Gi-Oh!",
     "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh",
     "fillers_episodes": [
@@ -179,5 +178,7 @@
             "filler": "Mixed Canon/Filler",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 27
 }

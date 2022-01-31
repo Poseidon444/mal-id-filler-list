@@ -3,7 +3,6 @@
     "anilist-id": 1250,
     "anilist-name_en": "Elemental Gelade",
     "anilist-name_jp": "Erementar Gerad",
-    "total-episodes": 26,
     "afl-name": "Elemental Gelade",
     "afl-link": "https://www.animefillerlist.com/shows/elemental-gelade",
     "fillers_episodes": [
@@ -40,5 +39,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 26
 }

@@ -3,7 +3,6 @@
     "anilist-id": 10015,
     "anilist-name_en": "Yu-Gi-Oh! Zexal",
     "anilist-name_jp": "Yu\u2606Gi\u2606Oh! ZEXAL",
-    "total-episodes": 73,
     "afl-name": "Yu-Gi-Oh! Zexal",
     "afl-link": "https://www.animefillerlist.com/shows/yu-gi-oh-zexal",
     "fillers_episodes": [
@@ -758,5 +757,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 73
 }

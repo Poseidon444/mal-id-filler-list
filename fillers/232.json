@@ -3,7 +3,6 @@
     "anilist-id": 232,
     "anilist-name_en": "Cardcaptor Sakura",
     "anilist-name_jp": "Cardcaptor Sakura",
-    "total-episodes": 70,
     "afl-name": "Cardcaptor Sakura",
     "afl-link": "https://www.animefillerlist.com/shows/cardcaptor-sakura",
     "fillers_episodes": [
@@ -600,5 +599,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 70
 }

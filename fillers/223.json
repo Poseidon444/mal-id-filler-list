@@ -3,7 +3,6 @@
     "anilist-id": 223,
     "anilist-name_en": "Dragon Ball",
     "anilist-name_jp": "Dragon Ball",
-    "total-episodes": 153,
     "afl-name": "Dragon Ball",
     "afl-link": "https://www.animefillerlist.com/shows/dragon-ball",
     "fillers_episodes": [
@@ -948,5 +947,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 153
 }

@@ -1,0 +1,85 @@
+{
+    "mal-id": 40750,
+    "anilist-id": 113425,
+    "anilist-name_en": "Redo of Healer",
+    "anilist-name_jp": "Kaifuku Jutsushi no Yarinaoshi",
+    "afl-name": "Redo of Healer",
+    "afl-link": "https://www.animefillerlist.com/shows/redo-healer",
+    "fillers_episodes": [],
+    "episodes": [
+        {
+            "title": "The Healer Starts Over!",
+            "number": "1",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Healer Ruins Princess Flare!",
+            "number": "2",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Healer Buys a Slave!",
+            "number": "3",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Healer Acquires Setsuna!",
+            "number": "4",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Healer Finds a New Toy!",
+            "number": "5",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Healer Sheds Blood and Tears!",
+            "number": "6",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Healer Enforces Justice!",
+            "number": "7",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Healer Meets the Demon Lord!",
+            "number": "8",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Healer Takes Revenge for a Meal!",
+            "number": "9",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Healer Becomes a Single, Lovely Flower!",
+            "number": "10",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Healer is Troubled by Norn's Brutality!",
+            "number": "11",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        },
+        {
+            "title": "The Healer Embarks on a New Journey!",
+            "number": "12",
+            "filler": "Manga Canon",
+            "filler-bool": false
+        }
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 12
+}

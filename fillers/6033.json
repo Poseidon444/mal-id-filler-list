@@ -3,7 +3,6 @@
     "anilist-id": 6033,
     "anilist-name_en": "Dragon Ball Z Kai",
     "anilist-name_jp": "Dragon Ball Kai",
-    "total-episodes": 97,
     "afl-name": "Dragon Ball Z Kai",
     "afl-link": "https://www.animefillerlist.com/shows/dragon-ball-z-kai",
     "fillers_episodes": [
@@ -1013,5 +1012,7 @@
             "filler": "Mixed Canon/Filler",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 97
 }

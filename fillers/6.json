@@ -3,7 +3,6 @@
     "anilist-id": 6,
     "anilist-name_en": "Trigun",
     "anilist-name_jp": "Trigun",
-    "total-episodes": 26,
     "afl-name": "Trigun",
     "afl-link": "https://www.animefillerlist.com/shows/trigun",
     "fillers_episodes": [
@@ -182,5 +181,7 @@
             "filler": "Filler",
             "filler-bool": true
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 26
 }

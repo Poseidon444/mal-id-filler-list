@@ -3,7 +3,6 @@
     "anilist-id": 1604,
     "anilist-name_en": "REBORN!",
     "anilist-name_jp": "Katekyou Hitman REBORN!",
-    "total-episodes": 203,
     "afl-name": "Reborn!",
     "afl-link": "https://www.animefillerlist.com/shows/katekyo-hitman-reborn",
     "fillers_episodes": [
@@ -1250,5 +1249,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 203
 }

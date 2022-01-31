@@ -3,7 +3,6 @@
     "anilist-id": 3588,
     "anilist-name_en": "Soul Eater",
     "anilist-name_jp": "Soul Eater",
-    "total-episodes": 51,
     "afl-name": "Soul Eater",
     "afl-link": "https://www.animefillerlist.com/shows/soul-eater",
     "fillers_episodes": [
@@ -316,5 +315,7 @@
             "filler": "Anime Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 51
 }

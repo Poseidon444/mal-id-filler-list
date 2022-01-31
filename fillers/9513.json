@@ -3,7 +3,6 @@
     "anilist-id": 9513,
     "anilist-name_en": "Beelzebub",
     "anilist-name_jp": "Beelzebub",
-    "total-episodes": 60,
     "afl-name": "Beelzebub",
     "afl-link": "https://www.animefillerlist.com/shows/beelzebub",
     "fillers_episodes": [
@@ -386,5 +385,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 60
 }

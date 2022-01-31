@@ -3,7 +3,6 @@
     "anilist-id": 80,
     "anilist-name_en": "Mobile Suit Gundam",
     "anilist-name_jp": "Kidou Senshi Gundam",
-    "total-episodes": 43,
     "afl-name": "Mobile Suit Gundam",
     "afl-link": "https://www.animefillerlist.com/shows/mobile-suit-gundam",
     "fillers_episodes": [
@@ -268,5 +267,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 43
 }

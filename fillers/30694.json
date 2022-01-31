@@ -3,7 +3,6 @@
     "anilist-id": 21175,
     "anilist-name_en": "Dragon Ball Super",
     "anilist-name_jp": "Dragon Ball Super",
-    "total-episodes": 131,
     "afl-name": "Dragon Ball Super",
     "afl-link": "https://www.animefillerlist.com/shows/dragon-ball-super",
     "fillers_episodes": [
@@ -809,5 +808,7 @@
             "filler": "Manga Canon",
             "filler-bool": false
         }
-    ]
+    ],
+    "nextAiringEpisode": "Unknown",
+    "total-episodes": 131
 }
